@@ -1,0 +1,1064 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0227118",
+      "descModelo": "7000",
+      "descModeloStd": "7000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003720"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221934",
+      "descModelo": "WHITE",
+      "descModeloStd": "WHITE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0074257",
+      "descModelo": "BRIGADIER",
+      "descModeloStd": "BRIGADIER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005818"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0258078",
+      "descModelo": "YKON XL",
+      "descModeloStd": "YKON XL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330543",
+      "descModelo": "D9L064",
+      "descModeloStd": "D9L064",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006759"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320232",
+      "descModelo": "GENERAL",
+      "descModeloStd": "GENERAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0067117",
+      "descModelo": "SIERRA",
+      "descModeloStd": "SIERRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002684"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0299076",
+      "descModelo": "P31442",
+      "descModeloStd": "P31442",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325326",
+      "descModelo": "W-4",
+      "descModeloStd": "W-4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0224825",
+      "descModelo": "GMC SIN MODELO VOLQUETE",
+      "descModeloStd": "6000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327241",
+      "descModelo": "M-462",
+      "descModeloStd": "M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0203342",
+      "descModelo": "ACADIA",
+      "descModeloStd": "ACADIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001042"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234318",
+      "descModelo": "C6H042",
+      "descModeloStd": "C6H042",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010867"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328902",
+      "descModelo": "C-100 CAMION",
+      "descModeloStd": "C-100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265275",
+      "descModelo": "N900 CARGO 11 TDI CHASIS CABINA",
+      "descModeloStd": "N900",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0058636",
+      "descModelo": "JIMMY",
+      "descModeloStd": "JIMMY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009333"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320877",
+      "descModelo": "TT3351",
+      "descModeloStd": "TT3351",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0058637",
+      "descModelo": "SCHOOL BUS",
+      "descModeloStd": "SCHOOL BUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002081"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0318074",
+      "descModelo": "H80-03",
+      "descModeloStd": "H80-03",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004881"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269975",
+      "descModelo": "G3500 VANS SAVANA",
+      "descModeloStd": "G3500 VANS SAVANA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271132",
+      "descModelo": "DYX5250",
+      "descModeloStd": "DYX5250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003450"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324920",
+      "descModelo": "V-8",
+      "descModeloStd": "V-8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328202",
+      "descModelo": "SAFARI PASSENGER RURAL",
+      "descModeloStd": "SAFARI PASSENGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273471",
+      "descModelo": "850/350",
+      "descModeloStd": "850/350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264128",
+      "descModelo": "SAVANA 350",
+      "descModeloStd": "SAVANA 350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001014"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219901",
+      "descModelo": "TOP KICK",
+      "descModeloStd": "TOP KICK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002407"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321168",
+      "descModelo": "BRIGADIER",
+      "descModeloStd": "BRIGADIER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324613",
+      "descModelo": "SONOMA",
+      "descModeloStd": "SONOMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273387",
+      "descModelo": "SIERRA 1.2",
+      "descModeloStd": "SIERRA 1.2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0203380",
+      "descModelo": "S/MODELO",
+      "descModeloStd": "S/MODELO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330827",
+      "descModelo": "WHITE",
+      "descModeloStd": "WHITE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006897"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "15",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320942",
+      "descModelo": "G3500 VANS SAVANA M",
+      "descModeloStd": "G3500 VANS SAVANA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330371",
+      "descModelo": "L10-300",
+      "descModeloStd": "L10-300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006729"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327978",
+      "descModelo": "SONOMA PICK",
+      "descModeloStd": "SONOMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333894",
+      "descModelo": "M95",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008592"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231565",
+      "descModelo": "TERRAIN",
+      "descModeloStd": "TERRAIN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "15",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330582",
+      "descModelo": "SAVANA MICROBUS",
+      "descModeloStd": "SAVANA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0203357",
+      "descModelo": "ENVOY",
+      "descModeloStd": "ENVOY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0203385",
+      "descModelo": "SAVANA",
+      "descModeloStd": "SAVANA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0094927",
+      "descModelo": "ASTRO",
+      "descModeloStd": "ASTRO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265203",
+      "descModelo": "W350",
+      "descModeloStd": "W350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010397"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327222",
+      "descModelo": "SIERRA 7000 CC",
+      "descModeloStd": "SIERRA 7000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0315584",
+      "descModelo": "C7D SIERRA",
+      "descModeloStd": "C7D SIERRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323671",
+      "descModelo": "W-4 CB",
+      "descModeloStd": "W-4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320826",
+      "descModelo": "1GD",
+      "descModeloStd": "1G",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325516",
+      "descModelo": "TK RC",
+      "descModeloStd": "TK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273971",
+      "descModelo": "W7R042",
+      "descModeloStd": "W7R042",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331951",
+      "descModelo": "MTK0906/2WO S1500",
+      "descModeloStd": "MTK0906/2WO S1500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0249176",
+      "descModelo": "VAN DURA",
+      "descModeloStd": "VAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329215",
+      "descModelo": "SAFARI RURAL",
+      "descModeloStd": "SAFARI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273386",
+      "descModelo": "GMC 1.2",
+      "descModeloStd": "SIERRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265347",
+      "descModelo": "W-5",
+      "descModeloStd": "W-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004115"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323104",
+      "descModelo": "VH-4005",
+      "descModeloStd": "VH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191754",
+      "descModelo": "JIMMY 4X2",
+      "descModeloStd": "JIMMY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003371"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0028731",
+      "descModelo": "C7H042",
+      "descModeloStd": "C7H042",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320114",
+      "descModelo": "1001",
+      "descModeloStd": "1001",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0244663",
+      "descModelo": "6.2L",
+      "descModeloStd": "6.2L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009677"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0230162",
+      "descModelo": "GENERAL",
+      "descModeloStd": "GENERAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004597"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0174928",
+      "descModelo": "6000",
+      "descModeloStd": "6000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10866"
+    }
+  }
+]

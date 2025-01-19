@@ -1,0 +1,956 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326687",
+      "descModelo": "PEJUBA 250 M",
+      "descModeloStd": "PEJUBA 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235503",
+      "descModelo": "X-TORQUE 250",
+      "descModeloStd": "X-TORQUE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0283495",
+      "descModelo": "TTX 200",
+      "descModeloStd": "TTX 200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273648",
+      "descModelo": "WAVE 125 1.2",
+      "descModeloStd": "WAVE 125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0230133",
+      "descModelo": "SL125S",
+      "descModeloStd": "SL125S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326889",
+      "descModelo": "STUD 150-2 MOTO",
+      "descModeloStd": "STUD 150-2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263181",
+      "descModelo": "REAL",
+      "descModeloStd": "REAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328298",
+      "descModelo": "KROS 200B",
+      "descModeloStd": "BRAHO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330527",
+      "descModelo": "DAX110 MOTO",
+      "descModeloStd": "DAX110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221426",
+      "descModelo": "ADVENTURE (TRI)",
+      "descModeloStd": "BRAHO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271308",
+      "descModelo": "TORQUE250",
+      "descModeloStd": "TORQUE 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0230136",
+      "descModelo": "ROSS 125",
+      "descModeloStd": "ROSS 125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327947",
+      "descModelo": "CHASKI 200",
+      "descModeloStd": "CHASKI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330523",
+      "descModelo": "ROCK 70 MOTO",
+      "descModeloStd": "ROCK 70",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324033",
+      "descModelo": "CGL-150",
+      "descModeloStd": "CGL-150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0319961",
+      "descModelo": "MAXO 250",
+      "descModeloStd": "MAXO 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329461",
+      "descModelo": "PELICAN 125",
+      "descModeloStd": "PELICAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323310",
+      "descModelo": "CG125 TAXI",
+      "descModeloStd": "CG125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273470",
+      "descModelo": "BRAHO 200 1.2",
+      "descModeloStd": "BRAHO 200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328900",
+      "descModelo": "MAXO 200",
+      "descModeloStd": "MAXO200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0282892",
+      "descModelo": "SF",
+      "descModeloStd": "SF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267870",
+      "descModelo": "TEKKEN 250",
+      "descModeloStd": "TEKKEN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262063",
+      "descModelo": "REAL 200",
+      "descModeloStd": "REAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004232"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328245",
+      "descModelo": "VAYU200 MOTO",
+      "descModeloStd": "VAYU200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324183",
+      "descModelo": "SL-200 MOTO",
+      "descModeloStd": "SL-200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324609",
+      "descModelo": "TANGO250",
+      "descModeloStd": "TANGO250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0319974",
+      "descModelo": "TORQUEZ",
+      "descModeloStd": "TORQUEZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331898",
+      "descModelo": "SGL150",
+      "descModeloStd": "SGL150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0288974",
+      "descModelo": "BOZZ",
+      "descModeloStd": "BRAHO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0026007",
+      "descModelo": "GL",
+      "descModeloStd": "GL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0319980",
+      "descModelo": "BRAHA 250",
+      "descModeloStd": "BRAHA 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325312",
+      "descModelo": "ZIXER 250 C",
+      "descModeloStd": "ZIXER 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0170466",
+      "descModelo": "NU125",
+      "descModeloStd": "NU",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220768",
+      "descModelo": "TORQUE",
+      "descModeloStd": "TORQUE 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193387",
+      "descModelo": "ATC 185",
+      "descModeloStd": "BRAHA 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325806",
+      "descModelo": "SGL 150",
+      "descModeloStd": "SGL 150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328252",
+      "descModelo": "DAYTONA TRI CARGA",
+      "descModeloStd": "DAYTONA TRI CARGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272594",
+      "descModelo": "CEZAR 150",
+      "descModeloStd": "CEZAR 150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330190",
+      "descModelo": "MITTAL",
+      "descModeloStd": "MITTAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323261",
+      "descModelo": "X-TRAIL-250",
+      "descModeloStd": "X-TRAIL-250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189844",
+      "descModelo": "BRAHO",
+      "descModeloStd": "BRAHO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222340",
+      "descModelo": "RANGER 250",
+      "descModeloStd": "RANGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321033",
+      "descModelo": "HOBIZ110",
+      "descModeloStd": "HO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330406",
+      "descModelo": "GW150-5",
+      "descModeloStd": "GW150-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327499",
+      "descModelo": "HX",
+      "descModeloStd": "HO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178973",
+      "descModelo": "GOL",
+      "descModeloStd": "BRAHO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327480",
+      "descModelo": "SRF",
+      "descModeloStd": "SG",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327129",
+      "descModelo": "TORQUE 250 M",
+      "descModeloStd": "TORQUE 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222118",
+      "descModelo": "BRAHO 150",
+      "descModeloStd": "BRAHO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0289453",
+      "descModelo": "LAZER 200",
+      "descModeloStd": "HO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321034",
+      "descModelo": "SG110-2",
+      "descModeloStd": "SB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325200",
+      "descModelo": "BROS 125",
+      "descModeloStd": "BROS 125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329157",
+      "descModelo": "KROZ 200",
+      "descModeloStd": "KROZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009985"
+    }
+  }
+]

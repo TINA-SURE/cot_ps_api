@@ -1,0 +1,560 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "28",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320723",
+      "descModelo": "XML6791A O",
+      "descModeloStd": "XML6791A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009791"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "55",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333003",
+      "descModelo": "XML6122J14",
+      "descModeloStd": "XML",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008062"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "37",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334705",
+      "descModelo": "XML6907CNG",
+      "descModeloStd": "XML",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009130"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "46",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219913",
+      "descModelo": "XML6125J13CN",
+      "descModeloStd": "XML6125J13CN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001291"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "0",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271217",
+      "descModelo": "LATINA",
+      "descModeloStd": "LATINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003489"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "55",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329045",
+      "descModelo": "XML6122J13Y",
+      "descModeloStd": "XML",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006485"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262120",
+      "descModelo": "XML6137J13",
+      "descModeloStd": "XML6137J13",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002399"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "46",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334015",
+      "descModelo": "XML6105J13CN",
+      "descModeloStd": "XML6105J13CN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008675"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "40",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0276468",
+      "descModelo": "XML6125J13CNQ",
+      "descModeloStd": "XML6125J13CNQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004528"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "47",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328821",
+      "descModelo": "XML6103J13 MINI",
+      "descModeloStd": "XML6103J13",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009791"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0278961",
+      "descModelo": "XML6105J13CN",
+      "descModeloStd": "XML6105J13CN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009791"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "33",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323035",
+      "descModelo": "XML6925J13CN",
+      "descModeloStd": "XML",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009791"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "30",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195606",
+      "descModelo": "XML6897J13",
+      "descModeloStd": "XML6897J13",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010787"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "55",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329562",
+      "descModelo": "XML6122J23",
+      "descModeloStd": "XML",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009791"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "37",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334703",
+      "descModelo": "XML6807J14",
+      "descModeloStd": "XML",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009128"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "47",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328595",
+      "descModelo": "XML6112J63 O",
+      "descModeloStd": "XML6112J63",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009791"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "52",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323476",
+      "descModelo": "XML6115J15CN",
+      "descModeloStd": "XML",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009791"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268646",
+      "descModelo": "XML6807J23",
+      "descModeloStd": "XML6807J23",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "100001992"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195839",
+      "descModelo": "XML6103J13",
+      "descModeloStd": "XML6103J13",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000100001992"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "55",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333004",
+      "descModelo": "XML6907J13",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008063"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228825",
+      "descModelo": "XML6127J12CN",
+      "descModeloStd": "XML6127J12CN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004811"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324921",
+      "descModelo": "XML6115J15CN\t\t\t\t\t BUS",
+      "descModeloStd": "XML",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005193"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "37",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335012",
+      "descModelo": "XML6907J14",
+      "descModeloStd": "XML",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009267"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "37",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334704",
+      "descModelo": "XML6122CNG",
+      "descModeloStd": "XML",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009129"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "30",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330858",
+      "descModelo": "XML6897J13 MINI",
+      "descModeloStd": "XML6897J13",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009791"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "36",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262118",
+      "descModelo": "XML6127J13",
+      "descModeloStd": "XML6127J13",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003627"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "33",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331085",
+      "descModelo": "XML6807J13",
+      "descModeloStd": "XML6807J13",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000100001992"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271120",
+      "descModelo": "XML6112J63",
+      "descModeloStd": "XML6112J63",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003442"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "16",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328351",
+      "descModelo": "XML6807J13",
+      "descModeloStd": "XML",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "000010006271.6"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "55",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334598",
+      "descModelo": "XML6122J13",
+      "descModeloStd": "XML",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "000010006271.6"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270660",
+      "descModelo": "XML6723J23N",
+      "descModeloStd": "XML6723J23N",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004578"
+    }
+  }
+]

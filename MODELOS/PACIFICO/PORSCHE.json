@@ -1,0 +1,1766 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095080",
+      "descModelo": "CAYMAN",
+      "descModeloStd": "CAYMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009623"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335040",
+      "descModelo": "911 CARRERA GTS",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009290"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231924",
+      "descModelo": "BOXSTER S 3.4",
+      "descModeloStd": "BOXSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001995"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193719",
+      "descModelo": "BOXSTER 3.2 S",
+      "descModeloStd": "BOXSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001260"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332814",
+      "descModelo": "CAYENNE S",
+      "descModeloStd": "CAYENNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007966"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CONVERTIBLE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 129,
+    "keyTipoVeh": "convertible",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271274",
+      "descModelo": "718 BOXSTER S",
+      "descModeloStd": "718",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003527"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188166",
+      "descModelo": "PANAMERA S",
+      "descModeloStd": "PANAMERA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002126"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234081",
+      "descModelo": "911 CARRERA 4 (350 HP)",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002271"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0172355",
+      "descModelo": "911 CARRERA",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010077"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188591",
+      "descModelo": "CAYENNE 3.6",
+      "descModeloStd": "CAYENNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001953"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190460",
+      "descModelo": "CAYENNE S TIPTRONIC",
+      "descModeloStd": "CAYENNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001139"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324935",
+      "descModelo": "911 4 S  CABRIOLET\t\t\t\t\t SEDAN",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005199"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AO",
+      "descModelo": "911 TURBO 408",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001254"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191262",
+      "descModelo": "CAYENNE S 4.8",
+      "descModeloStd": "CAYENNE ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001288"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AP",
+      "descModelo": "911 TURBO 420",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001255"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328477",
+      "descModelo": "CAYENNE 3.6 PLATINUM EDITION",
+      "descModeloStd": "CAYENNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006315"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266574",
+      "descModelo": "CAYENNE S MY15",
+      "descModeloStd": "CAYENNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000874"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234080",
+      "descModelo": "911 CARRERA  (350 HP)",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002270"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193711",
+      "descModelo": "911 CARRERA 4 (997)",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001275"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327559",
+      "descModelo": "718 CAYMAN SMY18\t\t\t\t\t",
+      "descModeloStd": "CAYMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006011"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210159",
+      "descModelo": "CAYENNE S TRANSSYBERIA",
+      "descModeloStd": "CAYENNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003061"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014948",
+      "descModelo": "CAYENNE 4.5 S",
+      "descModeloStd": "CAYENNE ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001266"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "0",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0251046",
+      "descModelo": "BOXSTER S/2013",
+      "descModeloStd": "BOXSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003551"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AU",
+      "descModelo": "BOXSTER 2.5",
+      "descModeloStd": "BOXSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001259"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A2",
+      "descModelo": "180",
+      "descModeloStd": "180",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009623"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324922",
+      "descModelo": "CAYENNE MY18\t\t\t\t\t",
+      "descModeloStd": "CAYENNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005194"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0025652",
+      "descModelo": "CAYENNE S TRIPTONIC",
+      "descModeloStd": "CAYENNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009623"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210149",
+      "descModelo": "BOXSTER 987",
+      "descModeloStd": "BOXSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006191"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233492",
+      "descModelo": "911 CARRERA (997)",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001271"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0184410",
+      "descModelo": "CAYENNE TURBO",
+      "descModeloStd": "CAYENNE TURBO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001995"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320174",
+      "descModelo": "CAYENNE V6 TIPTRONIC2011",
+      "descModeloStd": "CAYENNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009623"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "1",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0169490",
+      "descModelo": "911 GT3",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004256"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263519",
+      "descModelo": "MACAN",
+      "descModeloStd": "MACAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003941"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262905",
+      "descModelo": "911 TURBO S",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004296"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AT",
+      "descModelo": "BOXSTER 2.7",
+      "descModeloStd": "BOXSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002434"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193718",
+      "descModelo": "BOXSTER 2.9",
+      "descModeloStd": "BOXSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001291"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095140",
+      "descModelo": "CAYMAN 2.7",
+      "descModeloStd": "CAYMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001279"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193717",
+      "descModelo": "BOXSTER 2.7 TIPTRONIC",
+      "descModeloStd": "BOXSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001262"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188588",
+      "descModelo": "BOXSTER S 3.2",
+      "descModeloStd": "BOXSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001269"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263738",
+      "descModelo": "MARCAN TURBO",
+      "descModeloStd": "MARCAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001253"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333182",
+      "descModelo": "PANAMERA",
+      "descModeloStd": "PANAMERA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008176"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014949",
+      "descModelo": "CAYENNE 4.5 TURBO",
+      "descModeloStd": "CAYENNE TURBO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001267"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233493",
+      "descModelo": "911 CARRERA 4 S (997)",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001277"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0083816",
+      "descModelo": "CAYENNE V6 TIPTRONIC",
+      "descModeloStd": "CAYENNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002442"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233499",
+      "descModelo": "CAYMAN S 3.4 (320 HP)",
+      "descModeloStd": "CAYMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001951"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267440",
+      "descModelo": "912",
+      "descModeloStd": "912",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009623"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193714",
+      "descModelo": "911 CARRERA S (997)",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001272"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234083",
+      "descModelo": "911 CARRERA S (400 HP)",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002273"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AS",
+      "descModelo": "911 COUPE TIPTRONIC",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001257"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AE",
+      "descModelo": "944 TURBO",
+      "descModeloStd": "944",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003360"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193710",
+      "descModelo": "911 CARRERA 4 (345 HP)",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001294"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333806",
+      "descModelo": "CAYENNE E-HYBRID",
+      "descModeloStd": "CAYENNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008536"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327983",
+      "descModelo": "X5 3.0I",
+      "descModeloStd": "X5 3.0I",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006168"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0172897",
+      "descModelo": "CARRERA S 3.8",
+      "descModeloStd": "CARRERA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009623"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269370",
+      "descModelo": "MACAN SUV",
+      "descModeloStd": "MACAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009623"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233495",
+      "descModelo": "911 TURBO 3.6 (2006)",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001283"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320956",
+      "descModelo": "911 CARRERA 4",
+      "descModeloStd": "911 CARRERA 4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009623"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333172",
+      "descModelo": "TAYCAN",
+      "descModeloStd": "Taycan",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008164"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233494",
+      "descModelo": "911 GT3 3.6",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001282"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233497",
+      "descModelo": "CAYENNE GTS 4.8",
+      "descModeloStd": "CAYENNE TURBO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001289"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331948",
+      "descModelo": "CAYENNE S TIPTRONIC",
+      "descModeloStd": "CAYENNE S TIPTRONIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009623"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AL",
+      "descModelo": "911 CARRERA 4",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001253"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193720",
+      "descModelo": "BOXSTER 3.2 S TIPTRONIC",
+      "descModeloStd": "BOXSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001261"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328753",
+      "descModelo": "MACAN GTS",
+      "descModeloStd": "MACAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006398"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193709",
+      "descModelo": "911 4 S  CABRIOLET",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001278"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273010",
+      "descModelo": "996 CARRERA",
+      "descModeloStd": "996",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004203"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0224731",
+      "descModelo": "BOXSTER SPYDER",
+      "descModeloStd": "BOXSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003425"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233498",
+      "descModelo": "911 CARRERA (345 HP)",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001293"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325081",
+      "descModelo": "911 4S  CABRIOLET",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003360"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327873",
+      "descModelo": "MACAN R",
+      "descModeloStd": "MACAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009623"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263980",
+      "descModelo": "MACAN S",
+      "descModeloStd": "MACAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005825"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AR",
+      "descModelo": "911 COUPE",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001256"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0255392",
+      "descModelo": "PANAMERA TURBO",
+      "descModeloStd": "PANAMERA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001837"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014946",
+      "descModelo": "CAYENNE 3.2 V6",
+      "descModeloStd": "CAYENNE ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001265"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193713",
+      "descModelo": "911 CARRERA S (385 HP)",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001295"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193715",
+      "descModelo": "911 TARGA 4",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001280"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177185",
+      "descModelo": "CAYENNE GTS",
+      "descModeloStd": "CAYENNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273106",
+      "descModelo": "718 BOXSTER",
+      "descModeloStd": "718 BOXSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009623"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210185",
+      "descModelo": "986 BOXSTER/97",
+      "descModeloStd": "BOXSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10001257"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329242",
+      "descModelo": "CAYMAN GTS",
+      "descModeloStd": "CAYMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006495"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269959",
+      "descModelo": "+",
+      "descModeloStd": "PANAMERA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002898"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0276419",
+      "descModelo": "MACAN TURBO",
+      "descModeloStd": "MACAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005368"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188590",
+      "descModelo": "911 GT2",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001286"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193712",
+      "descModelo": "911 CARRERA CABRIOLET (997)",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001273"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193724",
+      "descModelo": "CAYMAN S",
+      "descModeloStd": "CAYMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001270"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268498",
+      "descModelo": "S",
+      "descModeloStd": "S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001925"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187629",
+      "descModelo": "CAYENNE",
+      "descModeloStd": "CAYENNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002853"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234082",
+      "descModelo": "911 CARRERA 4 S (400 HP)",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002272"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320583",
+      "descModelo": "911 COUPE",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009623"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AD",
+      "descModelo": "928",
+      "descModeloStd": "928",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009623"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273783",
+      "descModelo": "911 SEDAN",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009623"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231923",
+      "descModelo": "911 TURBO 3.8",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002158"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233500",
+      "descModelo": "PANAMERA 3.6",
+      "descModeloStd": "PANAMERA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001952"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327730",
+      "descModelo": "CAYENNE GTS / 20 10",
+      "descModeloStd": "CAYENNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006096"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331992",
+      "descModelo": "CAYENNE GTS COUPE",
+      "descModeloStd": "CAYENNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007504"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269134",
+      "descModelo": "CAYENNE S HYBRID/2012",
+      "descModeloStd": "CAYENNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002359"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193722",
+      "descModelo": "CAYMAN 2.9",
+      "descModeloStd": "CAYMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001292"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233496",
+      "descModelo": "911 TURBO CABRIO",
+      "descModeloStd": "911",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001285"
+    }
+  }
+]

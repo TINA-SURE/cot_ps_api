@@ -1,0 +1,452 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323015",
+      "descModelo": "VX200ZH-4 TRIMOTO",
+      "descModeloStd": "VX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333726",
+      "descModelo": "VX250ZH-4",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008493"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0094967",
+      "descModelo": "VX (TRI)",
+      "descModeloStd": "VX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333727",
+      "descModelo": "MX150ZH-4",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008494"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320298",
+      "descModelo": "VX 200GY-V2",
+      "descModeloStd": "VX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223346",
+      "descModelo": "VX150",
+      "descModeloStd": "VX150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273931",
+      "descModelo": "XV-150ZH",
+      "descModeloStd": "XV-150ZH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331360",
+      "descModelo": "VX-150ZH-4",
+      "descModeloStd": "VX-150ZH-4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324341",
+      "descModelo": "MX150ZH-4 MT",
+      "descModeloStd": "MX150ZH-4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272235",
+      "descModelo": "VELOREX V2",
+      "descModeloStd": "VELOREX V2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266303",
+      "descModelo": "VX110-7",
+      "descModeloStd": "VX110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223317",
+      "descModelo": "VX110-5",
+      "descModeloStd": "VX110-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271520",
+      "descModelo": "VX100-7",
+      "descModeloStd": "VX150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273516",
+      "descModelo": "VX200GY-V2 1.2",
+      "descModeloStd": "VX200GY-V2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0180902",
+      "descModelo": "VX150ZH-4",
+      "descModeloStd": "VX150ZH-4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000052"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272226",
+      "descModelo": "VX200GY5",
+      "descModeloStd": "VX200GY5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0170946",
+      "descModelo": "VX 110",
+      "descModeloStd": "VX 110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0069696",
+      "descModelo": "VX",
+      "descModeloStd": "VX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320321",
+      "descModelo": "VX 100-9",
+      "descModeloStd": "VX 100-9",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196609",
+      "descModelo": "VX200ZH-4",
+      "descModeloStd": "VX200ZH-4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000052"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264130",
+      "descModelo": "VX110-9",
+      "descModeloStd": "VX110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269174",
+      "descModelo": "VX-150ZH",
+      "descModeloStd": "VX-150ZH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002381"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223129",
+      "descModelo": "VX110",
+      "descModeloStd": "VX110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0027864",
+      "descModelo": "VX-125",
+      "descModeloStd": "VX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000051"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323303",
+      "descModelo": "VX150 TAXI",
+      "descModeloStd": "VX150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009915"
+    }
+  }
+]

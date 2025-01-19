@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328346",
+      "descModelo": "GS (TRI)",
+      "descModeloStd": "GS (TRI)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000020648"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272861",
+      "descModelo": "GV250N",
+      "descModeloStd": "GV250N",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003565"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271390",
+      "descModelo": "GT650P",
+      "descModeloStd": "GT650P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003565"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168237",
+      "descModelo": "CRUISE",
+      "descModeloStd": "CRUISE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000020648"
+    }
+  }
+]

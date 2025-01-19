@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333582",
+      "descModelo": "MZM TC",
+      "descModeloStd": "MZM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006823"
+    }
+  }
+]

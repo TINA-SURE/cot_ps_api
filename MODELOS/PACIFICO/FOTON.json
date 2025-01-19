@@ -1,0 +1,3800 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263432",
+      "descModelo": "AUMARK BJ 1129 CH",
+      "descModeloStd": "AUMARK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334827",
+      "descModelo": "BJ3319DNPKC-6F",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009201"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332762",
+      "descModelo": "DAM15R",
+      "descModeloStd": "DAM 15 R",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007939"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333862",
+      "descModelo": "BJ4189SLFKA-A4",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008579"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326341",
+      "descModelo": "BJ1049V9JDA-1",
+      "descModeloStd": "BJ1049V9JDA-1\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005600"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323748",
+      "descModelo": "GRATOUR",
+      "descModeloStd": "GRATOUR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004915"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325374",
+      "descModelo": "BJ1039V3JD3-01 UP",
+      "descModeloStd": "BJ1039V3JD3-01",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325365",
+      "descModelo": "BJ1065VDJD6F1",
+      "descModeloStd": "BJ1065VDJD6F1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "18",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332724",
+      "descModelo": "TOANO 18",
+      "descModeloStd": "TOANO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007920"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323565",
+      "descModelo": "BJ1049V9JD6-C",
+      "descModeloStd": "BJ1049V9JD6-C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331248",
+      "descModelo": "BJ1129VHPEG-F1 C",
+      "descModeloStd": "BJ1129VHPEG-F1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007106"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324557",
+      "descModelo": "BJ493ZLQV1HU24661",
+      "descModeloStd": "BJ493ZLQV1HU24661",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329593",
+      "descModelo": "GRATOUR PX 11",
+      "descModeloStd": "GRATOUR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006674"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323609",
+      "descModelo": "PM LIMITED 1.5",
+      "descModeloStd": "PM LIMITED 1.5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004879"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334717",
+      "descModelo": "BJ1030V4AV5-AT",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009140"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334855",
+      "descModelo": "76255512",
+      "descModeloStd": "76",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "28",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331129",
+      "descModelo": "BJ6901C6MHB OMNIBUS",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "17",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332955",
+      "descModelo": "BJ6608B1DDAAB",
+      "descModeloStd": "BJ6608B1DDAAB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008032"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "MICROBUS",
+    "claseVeh": "MICROBUS",
+    "numPue": "17",
+    "idTipoVeh": 101,
+    "keyTipoVeh": "microbus",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326257",
+      "descModelo": "VIEW DSL BJ653681DDA-S2",
+      "descModeloStd": "VIEW DSL BJ653681DDA-S2\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005581"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0203294",
+      "descModelo": "YULING",
+      "descModeloStd": "YULING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002524"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320468",
+      "descModelo": "BJ3259DLPKB-AA",
+      "descModeloStd": "BJ3259DLPKB-AA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004592"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270661",
+      "descModelo": "BJ4259SMFKB-AX",
+      "descModeloStd": "BJ4259SMFKB-AX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003193"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323202",
+      "descModelo": "BJ3259DLPKB",
+      "descModeloStd": "BJ3259DLPKB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331416",
+      "descModelo": "TM1 DC",
+      "descModeloStd": "TM1 DC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007197"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "18",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330603",
+      "descModelo": "TONO",
+      "descModeloStd": "TONO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "14",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332304",
+      "descModelo": "BJ6539B1PVA -AC",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007698"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323403",
+      "descModelo": "BJ493ZQ905503",
+      "descModeloStd": "BJ493ZQ905503",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325668",
+      "descModelo": "BJ52596JB00.AA",
+      "descModeloStd": "BJ52596JB00.AA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "10",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327136",
+      "descModelo": "PX11",
+      "descModeloStd": "PX11",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005817"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329275",
+      "descModelo": "BJ 3259 DLPKE-A1",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006570"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192271",
+      "descModelo": "OLLIN",
+      "descModeloStd": "OLLIN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002200"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323943",
+      "descModelo": "MINI TRUCK",
+      "descModeloStd": "MINI TRUCK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004927"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "16",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333073",
+      "descModelo": "K1 ISUZU",
+      "descModeloStd": "K1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008089"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0186872",
+      "descModelo": "BJ1063VCJEA-1",
+      "descModeloStd": "BJ1063VCJEA-1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "11",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264804",
+      "descModelo": "VIEW TDSL",
+      "descModeloStd": "VIEW TDSL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010115"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331827",
+      "descModelo": "TM2 BAR",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007418"
+    }
+  },
+  {
+    "tipoRie": "L12",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "12",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332500",
+      "descModelo": "K3 AMBULANCIA",
+      "descModeloStd": "K3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007804"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330914",
+      "descModelo": "BJ3259DLPKB-A1",
+      "descModeloStd": "BJ3259DLPKB-A1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006940"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325515",
+      "descModelo": "PM LIMITED SW",
+      "descModeloStd": "PM LIMITED",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324403",
+      "descModelo": "BJ1027V2MD5 PICK",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "FURGON ISOTERMICO",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 33,
+    "keyTipoVeh": "isothermalVan",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324670",
+      "descModelo": "BJ1049V9JEA-FB\t\t\t\t\t FURGON",
+      "descModeloStd": "BJ1049V9JEA-FB\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334574",
+      "descModelo": "BJ1035VDJD4-F1",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009044"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330881",
+      "descModelo": "BJ4259SMFKB-AB",
+      "descModeloStd": "BJ4259SMFKB-AB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006922"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271462",
+      "descModelo": "SAUVANA",
+      "descModeloStd": "SAUVANA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003606"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334019",
+      "descModelo": "BJ5319GJB-AF",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008678"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323660",
+      "descModelo": "PM SPORT",
+      "descModeloStd": "PM SPORT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004892"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "15",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321226",
+      "descModelo": "VIEW M",
+      "descModeloStd": "VIEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269091",
+      "descModelo": "PX BASIC 1.3",
+      "descModeloStd": "PX BASIC 1.3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002321"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333597",
+      "descModelo": "BH4269SNFKBA4",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008410"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272085",
+      "descModelo": "AUMPER",
+      "descModeloStd": "AUMPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326003",
+      "descModelo": "BJ1041V9JBAS",
+      "descModeloStd": "BJ1041V9JBAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334461",
+      "descModelo": "BJ5339THB-AA",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008979"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "18",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328253",
+      "descModelo": "TOANO",
+      "descModeloStd": "T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330364",
+      "descModelo": "AUMAN VOLQUETE",
+      "descModeloStd": "AUMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334016",
+      "descModelo": "BJ1065VDJD6-F1 CS",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325486",
+      "descModelo": "BJ1049V4JDA-1",
+      "descModeloStd": "BJ1049V4JDA-1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187068",
+      "descModelo": "BJ1043V8JE6-D",
+      "descModeloStd": "BJ1043V8JE6-D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010233"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "16",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331605",
+      "descModelo": "CUMMINS AC",
+      "descModeloStd": "CUMMINS AC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328230",
+      "descModelo": "BJ1041V9JBA-A",
+      "descModeloStd": "BJ1041V9JBAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006243"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232299",
+      "descModelo": "BJ4257",
+      "descModeloStd": "BJ4257",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001740"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264543",
+      "descModelo": "SUP 2.8 4X2",
+      "descModeloStd": "SUP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010011"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269382",
+      "descModelo": "AUMARK BJ5049 4.2TN CHC E3",
+      "descModeloStd": "AUMARK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002550"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326608",
+      "descModelo": "MPX RU",
+      "descModeloStd": "MPX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332015",
+      "descModelo": "BJ3319DMPKC-AB",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007516"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325666",
+      "descModelo": "BJ5259GJB00.AA",
+      "descModeloStd": "BJ5259GJB00.AA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273925",
+      "descModelo": "MIDI",
+      "descModeloStd": "MIDI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "14",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326855",
+      "descModelo": "PX CR",
+      "descModeloStd": "PX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334651",
+      "descModelo": "BJ1035V5JV5-05",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009096"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333292",
+      "descModelo": "BJ4259SMFKB-E5",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008242"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273343",
+      "descModelo": "AUMARK BJ1041 2.0TN BAR DT",
+      "descModeloStd": "AUMARK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004326"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "MICROBUS",
+    "claseVeh": "MICROBUS",
+    "numPue": "15",
+    "idTipoVeh": 101,
+    "keyTipoVeh": "microbus",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191171",
+      "descModelo": "VIEW",
+      "descModeloStd": "VIEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004222"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269141",
+      "descModelo": "PX",
+      "descModeloStd": "PX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002696"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "15",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270330",
+      "descModelo": "K2 DIESEL SIN AC",
+      "descModeloStd": "K2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003073"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "15",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331950",
+      "descModelo": "TOANO 15 MC",
+      "descModeloStd": "TOANO 15",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328495",
+      "descModelo": "BJ5129XXY-F B",
+      "descModeloStd": "BJ5129XXY-F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324348",
+      "descModelo": "BJ1163VLFHN2",
+      "descModeloStd": "BJ1163VLFHN2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332467",
+      "descModelo": "BJ1226VMPHN-AA",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007786"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234790",
+      "descModelo": "AUMARK",
+      "descModeloStd": "AUMARK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009583"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329285",
+      "descModelo": "BJ4257SMFCBAC",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006575"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327628",
+      "descModelo": "BJ1356VRPHP-AA     \t\t\t\t\t",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006050"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324148",
+      "descModelo": "PM LIMITED RURAL",
+      "descModeloStd": "PM LIMITED",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323377",
+      "descModelo": "GRATOUR PM LIMITED - 7AS",
+      "descModeloStd": "GRATOUR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004828"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326565",
+      "descModelo": "GRATOUR PX 8AS",
+      "descModeloStd": "GRATOUR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005661"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334601",
+      "descModelo": "BJ1065VDJDA-F1",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009062"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "FURGON FRIGORIFICO",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 176,
+    "keyTipoVeh": "refrigeratorVan",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330363",
+      "descModelo": "BJ1030V5JV5-AR",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006728"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330336",
+      "descModelo": "BJ6425MD32AAA",
+      "descModeloStd": "BJ6425MD32AAA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326497",
+      "descModelo": "BJ5259 GJB00-AA",
+      "descModeloStd": "BJ5259 gjb00-aa",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005659"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321196",
+      "descModelo": "S/MODELO",
+      "descModeloStd": "S/MODELO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323699",
+      "descModelo": "BJ 1253",
+      "descModeloStd": "BJ 1253",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004895"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "MICROBUS",
+    "claseVeh": "MICROBUS",
+    "numPue": "15",
+    "idTipoVeh": 101,
+    "keyTipoVeh": "microbus",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0289732",
+      "descModelo": "K2",
+      "descModeloStd": "k2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006134"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333745",
+      "descModelo": "BJ2037Y3MDV",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008506"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264063",
+      "descModelo": "K1",
+      "descModeloStd": "K 1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011010"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "16",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329382",
+      "descModelo": "K1 M",
+      "descModeloStd": "K1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335136",
+      "descModelo": "MILER",
+      "descModeloStd": "MILER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009335"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325002",
+      "descModelo": "BJ1049V9JD6-B\t\t\t\t\t",
+      "descModeloStd": "BJ 1049",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005221"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329071",
+      "descModelo": "BJ 1133VJPGG-1\t\t\t\t\t",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006498"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329177",
+      "descModelo": "F300S",
+      "descModeloStd": "F300S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006536"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323404",
+      "descModelo": "BJ493ZQ905501 RURAL",
+      "descModeloStd": "BJ493ZQ905501",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "15",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328977",
+      "descModelo": "V1",
+      "descModeloStd": "V",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327438",
+      "descModelo": "BJ5129XXX-F",
+      "descModeloStd": "BJ5129XXX-F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328716",
+      "descModelo": "BJ1108VEJED-F2\t\t\t\t\t",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006387"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326098",
+      "descModelo": "K2 RURAL",
+      "descModeloStd": "k2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327925",
+      "descModelo": "BJ3319DNPKJ-A3",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006147"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0173428",
+      "descModelo": "FORLAND",
+      "descModeloStd": "FORLAND",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331295",
+      "descModelo": "ISG",
+      "descModeloStd": "ISG",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270253",
+      "descModelo": "AUMARK 1.2",
+      "descModeloStd": "AUMARK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330820",
+      "descModelo": "BJ2037Y3MDV-1",
+      "descModeloStd": "BJ2037Y3MDV-1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006891"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0203290",
+      "descModelo": "FORLAND 1020",
+      "descModeloStd": "FORLAND",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263005",
+      "descModelo": "TOYOACE",
+      "descModeloStd": "TOYOACE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010740"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264542",
+      "descModelo": "CONQUEROR  4X4",
+      "descModeloStd": "CONQUEROR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010010"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334770",
+      "descModelo": "TOANO",
+      "descModeloStd": "TOANO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009165"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "MICROBUS",
+    "claseVeh": "MICROBUS",
+    "numPue": "17",
+    "idTipoVeh": 101,
+    "keyTipoVeh": "microbus",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326248",
+      "descModelo": "VIEW DSL",
+      "descModeloStd": "VIEW DSL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005573"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324607",
+      "descModelo": "AUMAN BJ 4257 GNV",
+      "descModeloStd": "AUMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005091"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323564",
+      "descModelo": "BJ5129XXXYF",
+      "descModeloStd": "BJ5129XXXYF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "17",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330863",
+      "descModelo": "VIEW DSL MINI",
+      "descModeloStd": "VIEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "19",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327566",
+      "descModelo": "K0",
+      "descModeloStd": "K0",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006021"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324784",
+      "descModelo": "AUMAN TRACTO GTL 6X4 -ZF\t\t\t\t\t",
+      "descModeloStd": "AUMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005158"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328609",
+      "descModelo": "F300S",
+      "descModeloStd": "F300S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273197",
+      "descModelo": "K1 1.2",
+      "descModeloStd": "K1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262150",
+      "descModelo": "TUNLAND",
+      "descModeloStd": "TUNLAND",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009938"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "29",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333596",
+      "descModelo": "BJ6730U6MEBA1",
+      "descModeloStd": "BJ6730U6MEBA1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008409"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190271",
+      "descModelo": "BJ5121VHCFG-A",
+      "descModeloStd": "BJ5121VHCFG-A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271902",
+      "descModelo": "OLLIN 1.6",
+      "descModeloStd": "OLLIN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "15",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329389",
+      "descModelo": "TOANO 15",
+      "descModeloStd": "TOANO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "16",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333209",
+      "descModelo": "BJ6608B1DDA-AB",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267998",
+      "descModelo": "BJ 1049",
+      "descModeloStd": "BJ 1049",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001687"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323400",
+      "descModelo": "MIDI SW",
+      "descModeloStd": "MIDI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331712",
+      "descModelo": "BJ4269SNFKB-A3",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007354"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269686",
+      "descModelo": "AUMAN 6X4\t\t\t\t\t",
+      "descModeloStd": "AUMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002772"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324785",
+      "descModelo": "AUMARK BJ1041V9JBA-S\t\t\t\t\t",
+      "descModeloStd": "AUMARK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005158"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324532",
+      "descModelo": "BJ1049V9JEA-FB\t\t\t\t\t",
+      "descModeloStd": "BJ1049V9JEA-FB\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005070"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "16",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330906",
+      "descModelo": "K1 CUMMINS SUPPORTER",
+      "descModeloStd": "K1 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006936"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331772",
+      "descModelo": "BJ1186VLPHK-AA",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007379"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "15",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334879",
+      "descModelo": "K2 MC",
+      "descModeloStd": "K2 MC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334952",
+      "descModelo": "TOANO PN",
+      "descModeloStd": "TOANO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "15",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332696",
+      "descModelo": "TONO 15",
+      "descModeloStd": "TONO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189015",
+      "descModelo": "OLLIN",
+      "descModeloStd": "OLLIN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009940"
+    }
+  },
+  {
+    "tipoRie": "L12",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "12",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271544",
+      "descModelo": "K3",
+      "descModeloStd": "K3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003645"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229337",
+      "descModelo": "OLLIN BJ 1069",
+      "descModeloStd": "OLLIN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323405",
+      "descModelo": "BJ6536BIDDA-3 RURAL",
+      "descModeloStd": "BJ6536BIDDA-3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324783",
+      "descModelo": "AUMAN TRACTO 6X4 GNV",
+      "descModeloStd": "AUMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005158"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270463",
+      "descModelo": "AUMAN 1.2",
+      "descModeloStd": "AUMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "45",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323371",
+      "descModelo": "OLLIN BUS",
+      "descModeloStd": "OLLIN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264588",
+      "descModelo": "LIGEROS",
+      "descModeloStd": "LIGEROS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010022"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234151",
+      "descModelo": "OLUN BJ 1039",
+      "descModeloStd": "OLUN BJ 1039",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334880",
+      "descModelo": "PX11 PANEL",
+      "descModeloStd": "PX11 PANEL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334878",
+      "descModelo": "PX11 CMNTA",
+      "descModeloStd": "PX11 CMNTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330978",
+      "descModelo": "BJ1035VDJD4",
+      "descModeloStd": "BJ1035VDJD4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006975"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334316",
+      "descModelo": "PM DUAL",
+      "descModeloStd": "PM DUAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008858"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332186",
+      "descModelo": "BJ4257SMFCB-AC",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007620"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221256",
+      "descModelo": "BJ1069OLLIN",
+      "descModeloStd": "OLLIN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327589",
+      "descModelo": "K0 E4",
+      "descModeloStd": "K0",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006033"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334877",
+      "descModelo": "PX11",
+      "descModeloStd": "Px11",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334575",
+      "descModelo": "BJ4259SMFKB-AQ",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009048"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "FURGON FRIGORIFICO",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 176,
+    "keyTipoVeh": "refrigeratorVan",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334492",
+      "descModelo": "BJ1129VHPEG-F1",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009003"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196536",
+      "descModelo": "MIDI",
+      "descModeloStd": "MIDI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002086"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333568",
+      "descModelo": "504",
+      "descModeloStd": "504",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328427",
+      "descModelo": "AUMAN CISTERNA",
+      "descModeloStd": "AUMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326752",
+      "descModelo": "BJ1078VEJEA-F",
+      "descModeloStd": "BJ1078VEJEA-F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005706"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327581",
+      "descModelo": "BJ1041V8ADA-F1\t\t\t\t\t",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006026"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334849",
+      "descModelo": "TOANO PANEL",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009210"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329013",
+      "descModelo": "BJ1078VEJEA-F CAMION",
+      "descModeloStd": "BJ1078VEJEA-F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "28",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329535",
+      "descModelo": "BJ6901C6MHB O",
+      "descModeloStd": "BJ6901C6MHB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "19",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330746",
+      "descModelo": "K EURO 4",
+      "descModeloStd": "K EURO 4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326002",
+      "descModelo": "BJ1079VEJELF1",
+      "descModeloStd": "BJ1079VEJELF1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329323",
+      "descModelo": "BJ1065VDJD6-F1",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006590"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BOMBA HORMIGONERA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 197,
+    "keyTipoVeh": "concreteMixerBomb",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330999",
+      "descModelo": "BJ5319GJBAF",
+      "descModeloStd": "BJ5319GJBAF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006986"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331008",
+      "descModelo": "BJ1069VDJDA-F1",
+      "descModeloStd": "BJ1069VDJDA-F1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006993"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271524",
+      "descModelo": "AUMAN BJ4259 (TRACTO 6X4)",
+      "descModeloStd": "AUMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323096",
+      "descModelo": "BJ1039V3JD3-01",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330810",
+      "descModelo": "BJ5049V8BEA-FD",
+      "descModeloStd": "BJ5049V8BEA-FD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328310",
+      "descModelo": "PM DUAL RURAL",
+      "descModeloStd": "PM DUAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220196",
+      "descModelo": "AUMAN",
+      "descModeloStd": "AUMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010232"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "18",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333472",
+      "descModelo": "TOANO",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008360"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328054",
+      "descModelo": "BJ1163VLFHG-1\t\t\t\t\t",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006194"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178320",
+      "descModelo": "BJ1020V3JA3",
+      "descModeloStd": "BJ1020V3JA3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004888"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328295",
+      "descModelo": "FORLAND BARANDA",
+      "descModeloStd": "FORLAND",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325262",
+      "descModelo": "BJ1078VEJEA-F1 CM",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324511",
+      "descModelo": "MINI SUV",
+      "descModeloStd": "MINI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333702",
+      "descModelo": "BJ1128VEJED-FA",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008480"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323900",
+      "descModelo": "BJ4269SNFKB-A4",
+      "descModeloStd": "BJ4269SNFKB-A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004938"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325614",
+      "descModelo": "BJ4259SMFKB-50\t\t\t\t\t",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005973"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332931",
+      "descModelo": "TUNLAND CC",
+      "descModeloStd": "TUNLAND",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328600",
+      "descModelo": "BJ3319DPPKC-A7\t\t\t\t\t",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006343"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272628",
+      "descModelo": "MIDI P",
+      "descModeloStd": "MIDI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325948",
+      "descModelo": "BJ1049V9JD6-B",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327357",
+      "descModelo": "PX 33",
+      "descModeloStd": "PX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005900"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333932",
+      "descModelo": "G9",
+      "descModeloStd": "G9",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008620"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331927",
+      "descModelo": "NEW P33",
+      "descModeloStd": "NEW P33",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "19",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331013",
+      "descModelo": "K0 E4 MINI",
+      "descModeloStd": "K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270258",
+      "descModelo": "OLLIN 1.2",
+      "descModeloStd": "OLLIN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "1",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264631",
+      "descModelo": "K 1",
+      "descModeloStd": "K 1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010043"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269743",
+      "descModelo": "PX (PANEL)",
+      "descModeloStd": "PX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002803"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334886",
+      "descModelo": "BJ1088VFJEA-F1 CAMION",
+      "descModeloStd": "BJ1088VFJEA-F1 CAMION",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0203289",
+      "descModelo": "CONQUEROR",
+      "descModeloStd": "CONQUEROR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003356"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "FURGON ISOTERMICO",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 33,
+    "keyTipoVeh": "isothermalVan",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267809",
+      "descModelo": "AUMARK",
+      "descModeloStd": "AUMARK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323884",
+      "descModelo": "HLQ1062BJ",
+      "descModeloStd": "HLQ1062BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325478",
+      "descModelo": "K2 DIESEL",
+      "descModeloStd": "K2 DIESEL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "35",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0225252",
+      "descModelo": "AUV",
+      "descModeloStd": "AUV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010651"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189838",
+      "descModelo": "BJ1069VCJFA-A",
+      "descModeloStd": "BJ1069VCJFA-A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010359"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267822",
+      "descModelo": "CHASIS CABINA 10",
+      "descModeloStd": "CHASIS CABINA 10",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001598"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331301",
+      "descModelo": "ISG",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007128"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324032",
+      "descModelo": "BJ1049V9JD6-C\t\t\t\t\t",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004956"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COMPACTADOR",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 154,
+    "keyTipoVeh": "compact",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335068",
+      "descModelo": "BJ2037Y3MDV C",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330706",
+      "descModelo": "BJ6425MD32AAA M",
+      "descModeloStd": "BJ6425MD32AAA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325563",
+      "descModelo": "BJ5129XXY-F\t\t\t\t\t",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005375"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333867",
+      "descModelo": "BJ BARANDA",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "8",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193570",
+      "descModelo": "MPX",
+      "descModeloStd": "MPX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010015"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269844",
+      "descModelo": "VIEW 1.1",
+      "descModeloStd": "VIEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "14",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326854",
+      "descModelo": "TERRACOTA D CAB 4X4",
+      "descModeloStd": "TERRACOTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324046",
+      "descModelo": "MPX RURAL",
+      "descModeloStd": "MPX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009654"
+    }
+  }
+]

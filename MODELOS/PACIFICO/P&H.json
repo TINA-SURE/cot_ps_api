@@ -1,0 +1,110 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334403",
+      "descModelo": "R 200",
+      "descModeloStd": "R",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008918"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231447",
+      "descModelo": "650 A TC",
+      "descModeloStd": "650 A TC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000163"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AA",
+      "descModelo": "9125TC",
+      "descModeloStd": "9125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009867"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334401",
+      "descModelo": "790 BTC",
+      "descModeloStd": "790",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008916"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334402",
+      "descModelo": "9150",
+      "descModeloStd": "9150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008917"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191561",
+      "descModelo": "T-450",
+      "descModeloStd": "T-450",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000164"
+    }
+  }
+]

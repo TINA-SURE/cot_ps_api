@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326740",
+      "descModelo": "RT200Y-3A",
+      "descModeloStd": "RT200Y",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004806"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323268",
+      "descModelo": "RT110-7 MOTO",
+      "descModeloStd": "RT110-7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004806"
+    }
+  }
+]

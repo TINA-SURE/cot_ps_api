@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327615",
+      "descModelo": "TRUCK 250-B",
+      "descModeloStd": "TRUCK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006044"
+    }
+  }
+]

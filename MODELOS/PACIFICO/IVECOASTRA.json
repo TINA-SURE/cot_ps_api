@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269346",
+      "descModelo": "HD9 44.38",
+      "descModeloStd": "HD9 44.38",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002526"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272739",
+      "descModelo": "DAILY V 42.13",
+      "descModeloStd": "DAILY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002526"
+    }
+  }
+]

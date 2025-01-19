@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270633",
+      "descModelo": "DISCOVERY SDV6 ADVENTURE MY16",
+      "descModeloStd": "DISCOVERY SDV6 ADVENTURE MY16",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003175"
+    }
+  }
+]

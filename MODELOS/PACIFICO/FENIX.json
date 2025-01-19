@@ -1,0 +1,218 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330857",
+      "descModelo": "FXT 200",
+      "descModeloStd": "FXT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001458"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331082",
+      "descModelo": "DLX110",
+      "descModeloStd": "DLX110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001458"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334424",
+      "descModelo": "TEKKEN 250",
+      "descModeloStd": "TEKKEN 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001458"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326623",
+      "descModelo": "LIMITEX ULTRA TSD",
+      "descModeloStd": "LIMITEX ULTRA TSD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001458"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTO-FURGONETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 4003,
+    "keyClaseVeh": "motorVan",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333036",
+      "descModelo": "RACING PRO 200",
+      "descModeloStd": "RACING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001458"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327718",
+      "descModelo": "MINITRUCK 125",
+      "descModeloStd": "MINITRUCK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001458"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328777",
+      "descModelo": "FX TRI CARGA",
+      "descModeloStd": "FX TRI CARGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001458"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334805",
+      "descModelo": "RACING PRO-200",
+      "descModeloStd": "RACING PRO-200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001458"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325688",
+      "descModelo": "LIMITEX ULTRA 200",
+      "descModeloStd": "LIMITEX ULTRA 200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001458"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327845",
+      "descModelo": "AVATAR 125",
+      "descModeloStd": "AVATAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001458"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323952",
+      "descModelo": "FENIX 125M TRIMOTO",
+      "descModeloStd": "FENIX 125M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001458"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223517",
+      "descModelo": "FENIX 125M",
+      "descModeloStd": "FENIX 125M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001458"
+    }
+  }
+]

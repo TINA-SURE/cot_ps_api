@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331307",
+      "descModelo": "50026P PT",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007134"
+    }
+  }
+]

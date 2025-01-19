@@ -1,0 +1,1640 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0284558",
+      "descModelo": "FT150S",
+      "descModeloStd": "FT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330998",
+      "descModelo": "FT150 CHAK N/R EURO III",
+      "descModeloStd": "FT150 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324998",
+      "descModelo": "DT200 EUROIII",
+      "descModeloStd": "DT200 EUROIII",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264201",
+      "descModelo": "250Z",
+      "descModeloStd": "250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265763",
+      "descModelo": "RC150 GT",
+      "descModeloStd": "RC150 GT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264334",
+      "descModelo": "GS150 LED",
+      "descModeloStd": "GS150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000021"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222046",
+      "descModelo": "GS 150",
+      "descModeloStd": "GS 150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0285986",
+      "descModelo": "NEWAT",
+      "descModeloStd": "NEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273515",
+      "descModelo": "TRON150",
+      "descModeloStd": "TRON150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326552",
+      "descModelo": "TRN 150 EURO III",
+      "descModeloStd": "TRN150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223773",
+      "descModelo": "DM150",
+      "descModeloStd": "DM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272992",
+      "descModelo": "VIGO",
+      "descModeloStd": "VGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324236",
+      "descModelo": "K T-180",
+      "descModeloStd": "K T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223891",
+      "descModelo": "EX150T-C",
+      "descModeloStd": "EX150T-C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0283471",
+      "descModelo": "RT200 SPITZER",
+      "descModeloStd": "RT200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332080",
+      "descModelo": "150SZ EURO III",
+      "descModeloStd": "150SZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007556"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323929",
+      "descModelo": "125Z EURO III",
+      "descModeloStd": "125Z",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325404",
+      "descModelo": "DM150 EURO III",
+      "descModeloStd": "DM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271414",
+      "descModelo": "150SZ",
+      "descModeloStd": "150SZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326553",
+      "descModelo": "XS125 EURO III",
+      "descModeloStd": "XS125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221731",
+      "descModelo": "FT 125",
+      "descModeloStd": "FT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0252441",
+      "descModelo": "RT180",
+      "descModeloStd": "RT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270889",
+      "descModelo": "RT",
+      "descModeloStd": "RT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323191",
+      "descModelo": "150SZ EURO III",
+      "descModeloStd": "150SZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221494",
+      "descModelo": "RT200",
+      "descModeloStd": "RT200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005060"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0225266",
+      "descModelo": "DS 150 DIABOLO",
+      "descModeloStd": "DS150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334852",
+      "descModelo": "DM200 EURO III",
+      "descModeloStd": "DM200 Euro III",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267562",
+      "descModelo": "XFT",
+      "descModeloStd": "XFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325934",
+      "descModelo": "FT150 CHAKARERA EUROIII",
+      "descModeloStd": "FT150 CHAKARERA EUROIII",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324426",
+      "descModelo": "VGO125 EURO III",
+      "descModeloStd": "VGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271035",
+      "descModelo": "XS125 1.2",
+      "descModeloStd": "XS125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268508",
+      "descModelo": "CS125 LED",
+      "descModeloStd": "CS125 LED",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325932",
+      "descModelo": "RT250 EURO III",
+      "descModeloStd": "RT250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221831",
+      "descModelo": "AT",
+      "descModeloStd": "AT/110 RT LED",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272108",
+      "descModelo": "CS125 LED 1.1",
+      "descModeloStd": "CS125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273551",
+      "descModelo": "GSC 175",
+      "descModeloStd": "GSC175",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004391"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222590",
+      "descModelo": "AT110",
+      "descModeloStd": "AT110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0175695",
+      "descModelo": "FT",
+      "descModeloStd": "FT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273532",
+      "descModelo": "WS 175",
+      "descModeloStd": "WS 175",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323464",
+      "descModelo": "DM150 EURO III",
+      "descModeloStd": "DM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325759",
+      "descModelo": "FIERA 200 EUROIII",
+      "descModeloStd": "FIERA 200 EUROIII",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272922",
+      "descModelo": "EX70Q",
+      "descModeloStd": "EX70Q",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222196",
+      "descModelo": "NEW AT110",
+      "descModeloStd": "NEW AT110 SPORT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273804",
+      "descModelo": "NEW AT110 SPORT 1.2",
+      "descModeloStd": "NEW AT110 SPORT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270967",
+      "descModelo": "FT150 1.2",
+      "descModeloStd": "FT150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274845",
+      "descModelo": "GTS 175 LED",
+      "descModeloStd": "GTS 175",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221789",
+      "descModelo": "XS125",
+      "descModeloStd": "125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270745",
+      "descModelo": "AT110 2.1",
+      "descModeloStd": "AT110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271840",
+      "descModelo": "DM150",
+      "descModeloStd": "DM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004664"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326551",
+      "descModelo": "TR200 EURO III",
+      "descModeloStd": "RT200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268446",
+      "descModelo": "AT110 RT LED",
+      "descModeloStd": "AT110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328321",
+      "descModelo": "150 MTC",
+      "descModeloStd": "1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331278",
+      "descModelo": "125Z EURO III",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007119"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328556",
+      "descModelo": "FT125 TRIMOTO",
+      "descModeloStd": "FT125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178631",
+      "descModelo": "CS125",
+      "descModeloStd": "CS125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324325",
+      "descModelo": "125-Z\t\t\t\t\t",
+      "descModeloStd": "125Z",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005033"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265645",
+      "descModelo": "150Z",
+      "descModeloStd": "150Z",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331007",
+      "descModelo": "DM 150",
+      "descModeloStd": "DM ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006992"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269578",
+      "descModelo": "TRN150",
+      "descModeloStd": "TRN150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320145",
+      "descModelo": "NEW DC150",
+      "descModeloStd": "NEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325162",
+      "descModelo": "12 Z",
+      "descModeloStd": "1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221771",
+      "descModelo": "GS",
+      "descModeloStd": "GS 150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271188",
+      "descModelo": "NEW FT150GT",
+      "descModeloStd": "NEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271325",
+      "descModelo": "VGO",
+      "descModeloStd": "VGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262930",
+      "descModelo": "GTS 175",
+      "descModeloStd": "GTS 175",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326144",
+      "descModelo": "MODENA 150 EURO III",
+      "descModeloStd": "MODENA 150 EURO III",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CUATRIMOTO",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 32,
+    "keyClaseVeh": "quad",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332486",
+      "descModelo": "ATV",
+      "descModeloStd": "ATV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007793"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326157",
+      "descModelo": " FIERA150 EUROIII",
+      "descModeloStd": " FIERA150 EUROIII",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272198",
+      "descModelo": "SM",
+      "descModeloStd": "SM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272518",
+      "descModelo": "125 Z",
+      "descModeloStd": "125Z",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323235",
+      "descModelo": "FT 200",
+      "descModeloStd": "FT 200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323262",
+      "descModelo": "DM200 MOTO",
+      "descModeloStd": "DM200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0179858",
+      "descModelo": "DS150",
+      "descModeloStd": "DS150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002402"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263583",
+      "descModelo": " FT 180",
+      "descModeloStd": "FT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324333",
+      "descModelo": "125Z M",
+      "descModeloStd": "125Z",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273486",
+      "descModelo": "GSC175",
+      "descModeloStd": "GSC175",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176340",
+      "descModelo": "FT150",
+      "descModeloStd": "FT150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219629",
+      "descModelo": "NEW CS125",
+      "descModeloStd": "CS125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264212",
+      "descModelo": "RC 150 GT",
+      "descModeloStd": "RC 150 GT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003276"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270946",
+      "descModelo": "NEW CS125 1.2",
+      "descModeloStd": "CS125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271022",
+      "descModelo": "VGO125",
+      "descModeloStd": "VGO125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003394"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272927",
+      "descModelo": "AX110",
+      "descModeloStd": "AX110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326550",
+      "descModelo": "RT200 EURO III",
+      "descModeloStd": "RT200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327923",
+      "descModelo": "15",
+      "descModeloStd": "1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323559",
+      "descModelo": "AT/110 RT LED",
+      "descModeloStd": "AT/110 RT LED",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004869"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271792",
+      "descModelo": "ATV150",
+      "descModeloStd": "ATV150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269782",
+      "descModelo": "125Z 1.2",
+      "descModeloStd": "125Z",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190998",
+      "descModelo": "FT125",
+      "descModeloStd": "FT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222250",
+      "descModelo": "DM",
+      "descModeloStd": "DM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331929",
+      "descModelo": "125 Z EURO III",
+      "descModeloStd": "125 Z EURO III",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327086",
+      "descModelo": "DT200 EURO III",
+      "descModeloStd": "DT200 EURO III",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009823"
+    }
+  }
+]

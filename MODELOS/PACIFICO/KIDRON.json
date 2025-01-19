@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331438",
+      "descModelo": "04S00034",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007212"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329467",
+      "descModelo": "02K00128",
+      "descModeloStd": "02K00128",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006634"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229810",
+      "descModelo": "KR3830",
+      "descModeloStd": "KR3830",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010166"
+    }
+  }
+]

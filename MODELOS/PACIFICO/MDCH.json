@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331435",
+      "descModelo": "MDCH",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007211"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334447",
+      "descModelo": "SRPC-30",
+      "descModeloStd": "SRP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008966"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334307",
+      "descModelo": "SRP-01",
+      "descModeloStd": "SRP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008854"
+    }
+  }
+]

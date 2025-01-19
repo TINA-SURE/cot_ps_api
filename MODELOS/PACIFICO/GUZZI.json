@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267643",
+      "descModelo": "NORGE",
+      "descModeloStd": "NORGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001491"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267644",
+      "descModelo": "CAPONORD",
+      "descModeloStd": "CAPONORD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001493"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328662",
+      "descModelo": "CALIFORNIA MOTO",
+      "descModeloStd": "CALIFORNIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001489"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267642",
+      "descModelo": "STELVIO",
+      "descModeloStd": "STELVIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001489"
+    }
+  }
+]

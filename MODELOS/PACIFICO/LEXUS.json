@@ -1,0 +1,1568 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "1",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271177",
+      "descModelo": "RX 450H",
+      "descModeloStd": "RX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003467"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266864",
+      "descModelo": "NX200T",
+      "descModeloStd": "NX200T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0251432",
+      "descModelo": "RX",
+      "descModeloStd": "RX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002265"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331383",
+      "descModelo": "UX 250H",
+      "descModeloStd": "UX 250H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007178"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266009",
+      "descModelo": "GS",
+      "descModeloStd": "GS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004245"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205253",
+      "descModelo": "GS430",
+      "descModeloStd": "GS430",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321822",
+      "descModelo": "IS 200T",
+      "descModeloStd": "IS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005697"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320761",
+      "descModelo": "IS 200 TF SPORT",
+      "descModeloStd": "IS 200T\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004649"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231600",
+      "descModelo": "CT 200H",
+      "descModeloStd": "CT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009226"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187220",
+      "descModelo": "IS 300",
+      "descModeloStd": "IS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010770"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266061",
+      "descModelo": "LS600HL",
+      "descModeloStd": "LS600HL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011011"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0184726",
+      "descModelo": "LX570",
+      "descModeloStd": "LX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003783"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205258",
+      "descModelo": "LS 460",
+      "descModeloStd": "LS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "L1",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324367",
+      "descModelo": "RX",
+      "descModeloStd": "RX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003467"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234093",
+      "descModelo": "RX 450H",
+      "descModeloStd": "RX 350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002265"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328301",
+      "descModelo": "UX250H LUXURY\t\t\t\t\t",
+      "descModeloStd": "UX250H LUXURY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006300"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332919",
+      "descModelo": "UX SUV",
+      "descModeloStd": "LX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005768"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271811",
+      "descModelo": "IS250 F SPORT",
+      "descModeloStd": "IS 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003789"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320886",
+      "descModelo": "LS460 I",
+      "descModeloStd": "LS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004660"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269982",
+      "descModelo": "IS",
+      "descModeloStd": "IS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004020"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271812",
+      "descModelo": "IS350 F SPORT",
+      "descModeloStd": "IS 350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003788"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266966",
+      "descModelo": "NX200T PLUS",
+      "descModeloStd": "NX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003785"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331715",
+      "descModelo": "LS",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007356"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271813",
+      "descModelo": "IS250",
+      "descModeloStd": "IS 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003790"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264157",
+      "descModelo": "ES300H",
+      "descModeloStd": "ES300H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331661",
+      "descModelo": "ES",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007323"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334791",
+      "descModelo": "LBX LUXURI",
+      "descModeloStd": "LS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009173"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265285",
+      "descModelo": "LS460",
+      "descModeloStd": "LS460",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324741",
+      "descModelo": "IS300\t\t\t\t\t",
+      "descModeloStd": "IS300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005137"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325480",
+      "descModelo": "CT208H",
+      "descModeloStd": "CT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005353"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321412",
+      "descModelo": "NFT",
+      "descModeloStd": "NFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004733"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327565",
+      "descModelo": "RX 450 HL",
+      "descModeloStd": "RX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006020"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265465",
+      "descModelo": "GX",
+      "descModeloStd": "GX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010649"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266784",
+      "descModelo": "CT",
+      "descModeloStd": "CT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001028"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331181",
+      "descModelo": "330",
+      "descModeloStd": "330",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266520",
+      "descModelo": "GS350 F SPORT",
+      "descModeloStd": "GS350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000783"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265842",
+      "descModelo": "NX200T SPORT",
+      "descModeloStd": "NX200T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003784"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205256",
+      "descModelo": "IS300",
+      "descModeloStd": "IS300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326047",
+      "descModelo": "RX AUTOMOVIL SEDAN",
+      "descModeloStd": "RX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266062",
+      "descModelo": "GX460",
+      "descModeloStd": "GX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003786"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330354",
+      "descModelo": "UX250",
+      "descModeloStd": "UX250H LUXURY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006724"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269148",
+      "descModelo": "IS200T F SPORT",
+      "descModeloStd": "IS200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002364"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327280",
+      "descModelo": "RX HVF SPORT",
+      "descModeloStd": "RX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005860"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334074",
+      "descModelo": "RX 500H",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008705"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328853",
+      "descModelo": "NX 300H",
+      "descModeloStd": "NX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006431"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334697",
+      "descModelo": "LBX LUXURY",
+      "descModeloStd": "LS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009123"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234094",
+      "descModelo": "RX 350 F SPORT 3.5",
+      "descModeloStd": "RX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002266"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270717",
+      "descModelo": "NX",
+      "descModeloStd": "NX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010988"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266028",
+      "descModelo": "RC",
+      "descModeloStd": "RC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000866"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0255227",
+      "descModelo": "CT200H",
+      "descModeloStd": "CT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003787"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325087",
+      "descModelo": "LC500H SPORT",
+      "descModeloStd": "LC500H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005240"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328365",
+      "descModelo": "RX 450H F SPORT",
+      "descModeloStd": "RX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006285"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332956",
+      "descModelo": "NX 350H LUXURY",
+      "descModeloStd": "NX 350H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008033"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332920",
+      "descModelo": "LEXUS UX",
+      "descModeloStd": "LEXUS UX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004245"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327910",
+      "descModelo": "IS RURAL",
+      "descModeloStd": "IS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178463",
+      "descModelo": "GS-400 V. AMERICANA",
+      "descModeloStd": "GS400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002587"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332961",
+      "descModelo": "UX SD",
+      "descModeloStd": "UX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324342",
+      "descModelo": "LS CR",
+      "descModeloStd": "LS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333010",
+      "descModelo": "UX",
+      "descModeloStd": "UX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006724"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327648",
+      "descModelo": "RX SD",
+      "descModeloStd": "RX SD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011011"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234090",
+      "descModelo": "GS 350 3.5",
+      "descModeloStd": "GS350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002262"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325520",
+      "descModelo": "CT 200H HATCHBACK",
+      "descModeloStd": "CT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009226"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321379",
+      "descModelo": "NX C",
+      "descModeloStd": "NX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269685",
+      "descModelo": "RC F SPORT",
+      "descModeloStd": "RC F SPORT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002771"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324857",
+      "descModelo": "RX 350 PLUS\t\t\t\t\t",
+      "descModeloStd": "RX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005172"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234092",
+      "descModelo": "LX 570 5.7",
+      "descModeloStd": "LX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002264"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265554",
+      "descModelo": "RX300",
+      "descModeloStd": "RX300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010665"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325296",
+      "descModelo": "LX SUV",
+      "descModeloStd": "LX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325881",
+      "descModelo": "LS500H",
+      "descModeloStd": "LS500H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005474"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333217",
+      "descModelo": "ES 300H",
+      "descModeloStd": "ES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265829",
+      "descModelo": "NX200T",
+      "descModeloStd": "NX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010988"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221301",
+      "descModelo": "GS350",
+      "descModeloStd": "GS350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010067"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273896",
+      "descModelo": "ES 250",
+      "descModeloStd": "ES 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004472"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333978",
+      "descModelo": "UX SD PICK",
+      "descModeloStd": "UX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234091",
+      "descModelo": "GS 350 F SPORT 3.5",
+      "descModeloStd": "GS350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002263"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272926",
+      "descModelo": "ES 1.2",
+      "descModeloStd": "ES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234089",
+      "descModelo": "ES 350 3.5",
+      "descModeloStd": "ES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002261"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333725",
+      "descModelo": "RX350H",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008492"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325357",
+      "descModelo": "RX C",
+      "descModeloStd": "RX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009657"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271662",
+      "descModelo": "S200T",
+      "descModeloStd": "S200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003719"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205255",
+      "descModelo": "IS 250",
+      "descModeloStd": "IS 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009285"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270002",
+      "descModelo": "NX300H F SPORT",
+      "descModeloStd": "NX300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002914"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235235",
+      "descModelo": "LX",
+      "descModeloStd": "LX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005768"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335022",
+      "descModelo": "LBX",
+      "descModeloStd": "LBX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009278"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205252",
+      "descModelo": "ES 350",
+      "descModeloStd": "ES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003433"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267879",
+      "descModelo": "200T\t\t\t\t\t",
+      "descModeloStd": "IS 200T\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001628"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323833",
+      "descModelo": "NX300",
+      "descModeloStd": "NX300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004926"
+    }
+  }
+]

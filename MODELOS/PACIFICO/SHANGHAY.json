@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0259416",
+      "descModelo": "EQ140",
+      "descModeloStd": "EQ140",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004839"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330765",
+      "descModelo": "S-504",
+      "descModeloStd": "S-504",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004839"
+    }
+  }
+]

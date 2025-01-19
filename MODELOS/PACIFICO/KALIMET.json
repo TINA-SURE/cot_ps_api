@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324398",
+      "descModelo": "PT3MID\t\t\t\t\t",
+      "descModeloStd": "PT3MID\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005043"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268477",
+      "descModelo": "4RD DCBA",
+      "descModeloStd": "4RD DCBA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001921"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321223",
+      "descModelo": "3RD BBAR",
+      "descModeloStd": "3RD BBAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004702"
+    }
+  }
+]

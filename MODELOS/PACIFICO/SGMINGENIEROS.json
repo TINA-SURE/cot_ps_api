@@ -1,0 +1,236 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333956",
+      "descModelo": "3-S 2013",
+      "descModeloStd": "3-S 2013",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009890"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0181503",
+      "descModelo": "3-S",
+      "descModeloStd": "3-S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000597"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267131",
+      "descModelo": "3-L",
+      "descModeloStd": "3-L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001223"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191265",
+      "descModelo": "2F",
+      "descModeloStd": "2F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001834"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268219",
+      "descModelo": "3.5",
+      "descModeloStd": "3.5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001786"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267722",
+      "descModelo": "3-V",
+      "descModeloStd": "3-V",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001540"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328105",
+      "descModelo": "2-R",
+      "descModeloStd": "2-R",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009890"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331110",
+      "descModelo": "S-2",
+      "descModeloStd": "S-2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007046"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263796",
+      "descModelo": "3-B",
+      "descModeloStd": "3-B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011042"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263887",
+      "descModelo": "3-F",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011042"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266999",
+      "descModelo": "3-C",
+      "descModeloStd": "3-C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001143"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332102",
+      "descModelo": "4-B",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007568"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266909",
+      "descModelo": "3S",
+      "descModeloStd": "3S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001094"
+    }
+  }
+]

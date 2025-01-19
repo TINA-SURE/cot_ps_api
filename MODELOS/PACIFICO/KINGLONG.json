@@ -1,0 +1,740 @@
+[
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "20",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330439",
+      "descModelo": "KINGO 20 AS DK5",
+      "descModeloStd": "KINGO 20",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006749"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "43",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266123",
+      "descModelo": "XMQ6117Y3",
+      "descModeloStd": "XMQ6117Y3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "31",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228357",
+      "descModelo": "XMQ6120C2",
+      "descModeloStd": "XMQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003716"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271284",
+      "descModelo": "XMQ6858 1.2",
+      "descModeloStd": "XMQ6858",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195013",
+      "descModelo": "XMQ6520E",
+      "descModeloStd": "XMQ6520E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010881"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328393",
+      "descModelo": "XMQ6128Y OMNI",
+      "descModeloStd": "XMQ6128Y",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "16",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333448",
+      "descModelo": "NEW KINGWIN DIESEL MC",
+      "descModeloStd": "NEW KINGWIN DIESEL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "MICROBUS",
+    "claseVeh": "MICROBUS",
+    "numPue": "16",
+    "idTipoVeh": 101,
+    "keyTipoVeh": "microbus",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334811",
+      "descModelo": "CLASSIC KINGWIN GASOLINA",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009189"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "25",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188780",
+      "descModelo": "XMQ6892G",
+      "descModeloStd": "XMQ6892G",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000155"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "15",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323419",
+      "descModelo": "\t\tINCAPOWER KING COMM ISAC M",
+      "descModeloStd": "\t\tINCAPOWER KING COMM ISAC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "16",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333418",
+      "descModelo": "NEW KINGWIN GASOLINA",
+      "descModeloStd": "NEW KINGWIN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008327"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "HOSPITAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 210,
+    "keyTipoVeh": "hospital",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265294",
+      "descModelo": "XMQ 6858",
+      "descModeloStd": "XMQ 6858",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000154"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS INTERURBANO",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 73,
+    "keyClaseVeh": "omniBusInterurbano",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328554",
+      "descModelo": "XMQ",
+      "descModeloStd": "XMQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "20",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271659",
+      "descModelo": "XMQ6120C",
+      "descModeloStd": "XMQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003715"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334691",
+      "descModelo": "CLASSIC KINGWINGG GASOLINA",
+      "descModeloStd": "KING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009119"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324619",
+      "descModelo": "XMQ6128Y\t\t\t\t\t",
+      "descModeloStd": "XMQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005094"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232754",
+      "descModelo": "XMQ6759",
+      "descModeloStd": "XMQ6759",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010960"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "17",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331163",
+      "descModelo": "KINGWIN DIESEL",
+      "descModeloStd": "KINGWIN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "17",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330666",
+      "descModelo": "KINGWIN GASOLINA",
+      "descModeloStd": "KINGWIN GASOLINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "17",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330953",
+      "descModelo": "NEW KINGWIN GASOLINA",
+      "descModeloStd": "NEW KINGWIN GASOLINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0183597",
+      "descModelo": "XMQ6126Y",
+      "descModeloStd": "XMQ6126Y",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000153"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "16",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332795",
+      "descModelo": "NEW KINGWIN GASOLINA MC",
+      "descModeloStd": "NEW KINGWIN GASOLINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328394",
+      "descModelo": "XMQ6128Y BUS",
+      "descModeloStd": "XMQ6128Y",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003715"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327290",
+      "descModelo": "INCAPOWER KIN COMM YCR",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005869"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270148",
+      "descModelo": "KING COMM YCR",
+      "descModeloStd": "KING COMM YCR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002992"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "15",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334102",
+      "descModelo": "KING COMM",
+      "descModeloStd": "KING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "16",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333837",
+      "descModelo": "KINGO 20 MC",
+      "descModeloStd": "KINGO 20",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326021",
+      "descModelo": "KINGO 20",
+      "descModeloStd": "KINGO 20",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "MICROBUS",
+    "claseVeh": "MICROBUS",
+    "numPue": "16",
+    "idTipoVeh": 101,
+    "keyTipoVeh": "microbus",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328207",
+      "descModelo": "CLASSIC KINGWIN ISUZU",
+      "descModeloStd": "KINGO 20",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006229"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "17",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330694",
+      "descModelo": "KINGO D17",
+      "descModeloStd": "KINGO ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006817"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "47",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332712",
+      "descModelo": "LA6R1FSEXHB300425",
+      "descModeloStd": "LA6R",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007912"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "16",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333455",
+      "descModelo": "KING COMM YC MICROBUS",
+      "descModeloStd": "KING COMM YC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "29",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330518",
+      "descModelo": "XMQ6858 MINI",
+      "descModeloStd": "XMQ6858",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "17",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332976",
+      "descModelo": "NEW KINGWIN DIESEL",
+      "descModeloStd": "NEW KINGWIN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008044"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "16",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331822",
+      "descModelo": "XMQ6552HED4 MICRO",
+      "descModeloStd": "XMQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "16",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333954",
+      "descModelo": "CLASSIC KINGWIN ISUZU MC",
+      "descModeloStd": "CLASSIC KINGWIN ISUZU",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "33",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263895",
+      "descModelo": "XMQ6902Y",
+      "descModeloStd": "XMQ6902Y",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "33",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331121",
+      "descModelo": "XMQ6759Y MINI",
+      "descModeloStd": "XMQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271393",
+      "descModelo": "INCAPOWER KING COMM ISAC",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009840"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "MICROBUS",
+    "claseVeh": "MICROBUS",
+    "numPue": "16",
+    "idTipoVeh": 101,
+    "keyTipoVeh": "microbus",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335045",
+      "descModelo": "XMQ6520E4",
+      "descModeloStd": "XMQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009294"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "35",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331766",
+      "descModelo": "XMQ6120BCW4",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007376"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334410",
+      "descModelo": "HC110",
+      "descModeloStd": "HC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008932"
+    }
+  }
+]

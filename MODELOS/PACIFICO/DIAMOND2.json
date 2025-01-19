@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0174321",
+      "descModelo": "SEGUN TARJETA DE PROPIEDAD",
+      "descModeloStd": "SS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000108"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271458",
+      "descModelo": "C-11664DB-MM 1.2",
+      "descModeloStd": "C-11664DB-MM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000108"
+    }
+  }
+]

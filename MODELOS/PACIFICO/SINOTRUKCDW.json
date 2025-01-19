@@ -1,0 +1,110 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327704",
+      "descModelo": "CDW1040HA4Q4",
+      "descModeloStd": "CDW1040HA4Q4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004275"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273167",
+      "descModelo": "CDW757P3B 1.2",
+      "descModeloStd": "CDW757P3B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004275"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324006",
+      "descModelo": "CDE737P1A",
+      "descModeloStd": "CDE737P1A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004275"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328769",
+      "descModelo": "CDW 3160A1C4",
+      "descModeloStd": "CDW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006401"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0285917",
+      "descModelo": "CDW737B5E",
+      "descModeloStd": "CDW737B5E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004275"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273165",
+      "descModelo": "CDW757P3B",
+      "descModeloStd": "CDW757P3B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004275"
+    }
+  }
+]

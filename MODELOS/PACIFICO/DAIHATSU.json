@@ -1,0 +1,1820 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PLATAFORMA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 27,
+    "keyTipoVeh": "platform",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324819",
+      "descModelo": "DELTA 400/2008 V116L HU3\t\t\t\t\t CAMION",
+      "descModeloStd": "DELTA 400/2008 V116L HU3\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AT",
+      "descModelo": "DELTA WIDE DX",
+      "descModeloStd": "DELTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0201324",
+      "descModelo": "BERLINA",
+      "descModeloStd": "BERLINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229218",
+      "descModelo": "V116L-HU2(V5K67)",
+      "descModeloStd": "V116L-HU2(V5K67)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0201399",
+      "descModelo": "G102LS-EMRS(SG)",
+      "descModeloStd": "G102LS-EMRS(SG)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0242261",
+      "descModelo": "F95LV-BD",
+      "descModeloStd": "F95LV-BD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326939",
+      "descModelo": "G102LS EHRS SG CHARADE //SD",
+      "descModeloStd": "G102LS EHRS SG CHARADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0019020",
+      "descModelo": "FEROZA SX",
+      "descModeloStd": "FEROZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265442",
+      "descModelo": "TERIOS ALLOY",
+      "descModeloStd": "TERIOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010642"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0237056",
+      "descModelo": "G102LSEHRS",
+      "descModeloStd": "G102LSEHRS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324135",
+      "descModelo": "F20LV RURAL",
+      "descModeloStd": "F20LV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327450",
+      "descModelo": "TERIOS BASIC",
+      "descModeloStd": "TERIOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005944"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0173478",
+      "descModelo": "TERIOS 1.3",
+      "descModeloStd": "TERIOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000469"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321133",
+      "descModelo": "YRV",
+      "descModeloStd": "YRV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189876",
+      "descModelo": "MAX",
+      "descModeloStd": "MAX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0181264",
+      "descModelo": "DELTA 300",
+      "descModeloStd": "DELTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010461"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234014",
+      "descModelo": "TERIOS",
+      "descModeloStd": "TERIOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000474"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234272",
+      "descModelo": "TERIOS 4X2",
+      "descModeloStd": "TERIOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000473"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0238163",
+      "descModelo": "G100LS-GMDS(CSL)",
+      "descModeloStd": "G100LS-GMDS(CSL)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270450",
+      "descModelo": "TERIOS LONG LUXURY",
+      "descModeloStd": "TERIOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003141"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0200492",
+      "descModelo": "V107LBS",
+      "descModeloStd": "V107LBS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326422",
+      "descModelo": "TERIOS/2004  J102LG-GMDF",
+      "descModeloStd": "TERIOS/2004  J102LG-GMDF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264718",
+      "descModelo": "CHARADE 1.3",
+      "descModeloStd": "CHARADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010056"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320642",
+      "descModelo": "GRAND NOMADE",
+      "descModeloStd": "GRAND",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0200495",
+      "descModelo": "V109L-HY",
+      "descModeloStd": "V109L-HY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "1",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272082",
+      "descModelo": "ALLOY M/T",
+      "descModeloStd": "ALLOY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003894"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0094826",
+      "descModelo": "CHARADE POSE",
+      "descModeloStd": "CHARADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0246673",
+      "descModelo": "3D",
+      "descModeloStd": "3D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267442",
+      "descModelo": "TERIOS SAFETY 4X4",
+      "descModeloStd": "TERIOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001382"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0174506",
+      "descModelo": "250/2008 V57L - HS3",
+      "descModeloStd": "250/2008 V57L - HS3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326983",
+      "descModelo": "CHARADE GS200LS",
+      "descModeloStd": "CHARADE GS200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0200373",
+      "descModelo": "DELTA WIDE",
+      "descModeloStd": "DELTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003233"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0200377",
+      "descModelo": "ESSE",
+      "descModeloStd": "ESSE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329287",
+      "descModelo": "GRAN MOVE SEDAN",
+      "descModeloStd": "GRAN MOVE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234012",
+      "descModelo": "GRAN MOVE 1.6",
+      "descModeloStd": "GRAN MOVE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000465"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178298",
+      "descModelo": "A101LS-GMMS(X)",
+      "descModeloStd": "A101LS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0248091",
+      "descModelo": "GRAN MOVE G301LG GPNE",
+      "descModeloStd": "GRAN MOVE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268989",
+      "descModelo": "TERIOS LONG LUXURY A/T",
+      "descModeloStd": "TERIOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002224"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "6",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320366",
+      "descModelo": "F20LV SEDAN",
+      "descModeloStd": "F20LV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325685",
+      "descModelo": "J100LG-GMXE CMTA",
+      "descModeloStd": "J100LG-GMXE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234731",
+      "descModelo": "ROCKY WAGON",
+      "descModeloStd": "ROCKY WAGON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CA",
+      "descModelo": "SLK 280",
+      "descModeloStd": "SLK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003635"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325949",
+      "descModelo": "2007 RURAL",
+      "descModeloStd": "2007",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323363",
+      "descModelo": "CHARADE G100LS-GMDS(CS)",
+      "descModeloStd": "CHARADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271931",
+      "descModelo": "L501 LS GMDS",
+      "descModeloStd": "L501 LS GMDS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234013",
+      "descModelo": "TERIOS LONG 4X2",
+      "descModeloStd": "TERIOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000472"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0238551",
+      "descModelo": "F300LGBMDS",
+      "descModeloStd": "F300LGBMDS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334504",
+      "descModelo": "DELTA 400",
+      "descModeloStd": "DELTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009008"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273877",
+      "descModelo": "DELTA 250 1.3",
+      "descModeloStd": "DELTA 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330594",
+      "descModelo": "MIRA SEDAN",
+      "descModeloStd": "MIRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195819",
+      "descModelo": "SIRION 1.3",
+      "descModeloStd": "SIRION",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000471"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A2",
+      "descModelo": "TERIOS",
+      "descModeloStd": "TERIOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325309",
+      "descModelo": "V107LB-S2 RURAL",
+      "descModeloStd": "V107LB-S2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193698",
+      "descModelo": "SIRION 1.0",
+      "descModeloStd": "SIRION",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000468"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BA",
+      "descModelo": "GRAN MOVE",
+      "descModeloStd": "GRAN MOVE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0112819",
+      "descModelo": "DELTA 400/2007 VI16L HU3",
+      "descModeloStd": "DELTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": null,
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0201499",
+      "descModelo": "YRV S PACKAGE",
+      "descModeloStd": "YRV S PACKAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095167",
+      "descModelo": "TERIOS 1.5",
+      "descModeloStd": "TERIOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000470"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325686",
+      "descModelo": "S85LV-ZMDK SUV",
+      "descModeloStd": "S85LV-ZMDK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0236971",
+      "descModelo": "2005 J102LG GPXF T1AR2",
+      "descModeloStd": "2005",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267473",
+      "descModelo": "DFSK V21",
+      "descModeloStd": "DFSK V21",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001399"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323394",
+      "descModelo": "G202LS-GMDS(CS) RURAL",
+      "descModeloStd": "G202LS-GMDS(CS)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0200381",
+      "descModelo": "F85LV-BD",
+      "descModeloStd": "F85LV-BD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193730",
+      "descModelo": "STORIA",
+      "descModeloStd": "STORIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001059"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AO",
+      "descModelo": "A101LSGMMS",
+      "descModeloStd": "A101LSGMMS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327238",
+      "descModelo": "CHARADE G102LS-EMRS",
+      "descModeloStd": "CHARADE G102LS-EMRS /",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0174829",
+      "descModelo": "TERIOS LONG",
+      "descModeloStd": "TERIOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003349"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189289",
+      "descModelo": "MOVE",
+      "descModeloStd": "MOVE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326064",
+      "descModelo": "DELTA V107LB-S",
+      "descModeloStd": "DELTA V107LB-S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264720",
+      "descModelo": "CHARADE 1.0",
+      "descModeloStd": "CHARADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010057"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267877",
+      "descModelo": "DELTA 300/2008",
+      "descModeloStd": "DELTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10001627"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0174647",
+      "descModelo": "BOON 1.0 (CETICO)",
+      "descModeloStd": "BOON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190413",
+      "descModelo": "DELTA 300/2007 V58L-HY3",
+      "descModeloStd": "DELTA 300/2007 V58L-HY3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "1",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330568",
+      "descModelo": "HIJET PICK",
+      "descModeloStd": "HIJET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AF",
+      "descModelo": "F20LV",
+      "descModeloStd": "F20LV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323549",
+      "descModelo": "HI-JET PANEL",
+      "descModeloStd": "HI-JET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0021633",
+      "descModelo": "F80LVD",
+      "descModeloStd": "F80LVD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331215",
+      "descModelo": "V116L-HU",
+      "descModeloStd": "V116L-HU",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007089"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192176",
+      "descModelo": "ATRAI 7",
+      "descModeloStd": "ATRAI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AW",
+      "descModelo": "DELTA",
+      "descModeloStd": "DELTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004043"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0200316",
+      "descModelo": "APPLAUSE A101LS GMDS",
+      "descModeloStd": "APPLAUSE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194690",
+      "descModelo": "DELTA 250 SIS",
+      "descModeloStd": "DELTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BF",
+      "descModelo": "CHARADE 1.5I",
+      "descModeloStd": "CHARADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000462"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326093",
+      "descModelo": "TERIUS KID",
+      "descModeloStd": "TERIUS KID",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0200529",
+      "descModelo": "G200LS-EMDS",
+      "descModeloStd": "G200LS-EMDS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0170632",
+      "descModelo": "CUORE/99",
+      "descModeloStd": "CUORE/99",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AI",
+      "descModelo": "HIJET",
+      "descModeloStd": "HIJET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324517",
+      "descModelo": "TERIOS 4X2 AT GSL",
+      "descModeloStd": "TERIOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273071",
+      "descModelo": "CHARMANT 1.2",
+      "descModeloStd": "CHARMANT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321424",
+      "descModelo": "G102LS EMERS//SD",
+      "descModeloStd": "G102LS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266839",
+      "descModelo": "TERIOS BASIC 10",
+      "descModeloStd": "TERIOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005944"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0249794",
+      "descModelo": "G.K.G.",
+      "descModeloStd": "G.K.G.",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BG",
+      "descModelo": "MIRA 1.0",
+      "descModeloStd": "MIRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000466"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0241050",
+      "descModelo": "PIZAR CX",
+      "descModeloStd": "PIZAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326288",
+      "descModelo": "HIJET GRAN CARGO PANEL",
+      "descModeloStd": "HIJET GRAN CARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234011",
+      "descModelo": "CUORE 850",
+      "descModeloStd": "CUORE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000463"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AQ",
+      "descModelo": "CHARADE 1.3",
+      "descModeloStd": "CHARADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000461"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168379",
+      "descModelo": "DELTA 250",
+      "descModeloStd": "DELTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010034"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326633",
+      "descModelo": "190//SD",
+      "descModeloStd": "190",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334176",
+      "descModelo": "BE GO",
+      "descModeloStd": "BE GO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009609"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000B0",
+      "descModelo": "CLA 45 AMG",
+      "descModeloStd": "CLA 45 AMG",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001063"
+    }
+  }
+]

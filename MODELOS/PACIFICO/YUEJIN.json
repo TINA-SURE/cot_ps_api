@@ -1,0 +1,812 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331304",
+      "descModelo": "INCAPOWER X100.3",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007131"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273720",
+      "descModelo": "NJ1020DF 1.3",
+      "descModeloStd": "NJ1020DF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326911",
+      "descModelo": "C300",
+      "descModeloStd": "C300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CAMION",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 163,
+    "keyTipoVeh": "truck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222554",
+      "descModelo": "NJ1120DYW",
+      "descModeloStd": "NJ1120DYW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000303"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325712",
+      "descModelo": "INCAPOWER X300.4\t\t\t\t\t",
+      "descModeloStd": "X300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005434"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324360",
+      "descModelo": "NJ020DF CP",
+      "descModeloStd": "NJ020DF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0290759",
+      "descModelo": "NJ6750D2",
+      "descModeloStd": "NJ6750D2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328375",
+      "descModelo": "S500 CS\t\t\t\t\t",
+      "descModeloStd": "S500 CS\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330685",
+      "descModelo": "NJ 1028 DB BARANDA",
+      "descModeloStd": "NJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320603",
+      "descModelo": "INCAPOWER X500.5",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270459",
+      "descModelo": "NJ 1120 DYW 1.2",
+      "descModeloStd": "NJ 1120 DYW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "51",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328560",
+      "descModelo": "NJ67811NUFG",
+      "descModeloStd": "NJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329410",
+      "descModelo": "NJ1120DYN",
+      "descModeloStd": "NJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265779",
+      "descModelo": "NJ 3250 DBWI",
+      "descModeloStd": "NJ 3250 DBWI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010833"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177182",
+      "descModelo": "NJ1028DB",
+      "descModeloStd": "NJ1028DB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000299"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323999",
+      "descModelo": "NJ1062DA CAMION",
+      "descModeloStd": "NJ1062DA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320636",
+      "descModelo": "INCAPOWER Y 25",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325092",
+      "descModelo": "INCAPOWER Y25",
+      "descModeloStd": "INCAPOWER Y25",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190047",
+      "descModelo": "NJ1020DF",
+      "descModeloStd": "NJ1020DF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327934",
+      "descModelo": "INCAPOWER X100.3",
+      "descModeloStd": "INCAPOWER BARANDA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190917",
+      "descModelo": "NJ1020DF",
+      "descModeloStd": "NJ1020DF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274035",
+      "descModelo": "NJ",
+      "descModeloStd": "NJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 59,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265452",
+      "descModelo": "NJ1120DYW3",
+      "descModeloStd": "NJ1120DYW3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193964",
+      "descModelo": "NJ1050 HDF",
+      "descModeloStd": "NJ1050 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010577"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273120",
+      "descModelo": "NJ020DF",
+      "descModeloStd": "NJ020DF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328287",
+      "descModelo": "NJ 4180 DAW1/2008\t\t\t\t\t",
+      "descModeloStd": "NJ 4180 DAW1/2008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006252"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232013",
+      "descModelo": "NJ1063DAW",
+      "descModeloStd": "NJ1063DAW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000301"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325679",
+      "descModelo": "INCAPOWER X500",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005417"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325534",
+      "descModelo": " INCAPOWER Y 26 PANEL",
+      "descModeloStd": "INCAPOWER Y 26",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190071",
+      "descModelo": "NJ 1063 DAW",
+      "descModeloStd": "NJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0180105",
+      "descModelo": "NJ1063DAW/2008",
+      "descModeloStd": "NJ 1063DAW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002741"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273935",
+      "descModelo": "INCAPAWERX3004",
+      "descModeloStd": "INCAPAWERX3004",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223367",
+      "descModelo": "NJ 1062 DA",
+      "descModeloStd": "NJ 1062 DA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192403",
+      "descModelo": "NJ1020DFC",
+      "descModeloStd": "NJ1020DFC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0180859",
+      "descModelo": "NJ 1053 DA",
+      "descModeloStd": "NJ 1053 DA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000295"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0175755",
+      "descModelo": "NJ 1120DYW",
+      "descModeloStd": "NJ 1120DYW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002839"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325658",
+      "descModelo": "CAPOWER X100.3",
+      "descModeloStd": "CAPOWER X100.3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0028864",
+      "descModelo": "COMPACT",
+      "descModeloStd": "COMPACT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003263"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194219",
+      "descModelo": "NJ 1050HDFL",
+      "descModeloStd": "NJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328421",
+      "descModelo": "NJ 1028DB SEDAN",
+      "descModeloStd": "NJ 1028DB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265528",
+      "descModelo": "NJ1020DF",
+      "descModeloStd": "NJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000298"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193174",
+      "descModelo": "NJ1042DA",
+      "descModeloStd": "NJ1042DA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001295"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0277445",
+      "descModelo": "NJ 4180 DAW1/2008",
+      "descModeloStd": "NJ 4180 DAW1/2008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0175754",
+      "descModelo": "NJ 1063DAW",
+      "descModeloStd": "NJ 1063DAW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000296"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325533",
+      "descModelo": "INCAPOWER Y 26",
+      "descModeloStd": "INCAPOWER Y 26",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009926"
+    }
+  }
+]

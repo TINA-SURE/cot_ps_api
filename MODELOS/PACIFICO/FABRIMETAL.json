@@ -1,0 +1,218 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328715",
+      "descModelo": "SEMI OLIMPICO",
+      "descModeloStd": "SEMI OLIMPICO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006386"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231292",
+      "descModelo": "SRFU42T",
+      "descModeloStd": "SRFU42T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000443"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191580",
+      "descModelo": "SRHC39",
+      "descModeloStd": "SRHC39",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002469"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "PLATAFORMA",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 27,
+    "keyTipoVeh": "platform",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177892",
+      "descModelo": "T-30",
+      "descModeloStd": "T-30",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005468"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332199",
+      "descModelo": "SRPBAM",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007629"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264123",
+      "descModelo": "NACIONAL",
+      "descModeloStd": "NACIONAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003743"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328208",
+      "descModelo": "ZPL-41",
+      "descModeloStd": "ZPL-41\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006227"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231962",
+      "descModelo": "SRGR42",
+      "descModeloStd": "SRGR42",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000444"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326812",
+      "descModelo": "SRFU427",
+      "descModeloStd": "SRFU427",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005726"
+    }
+  },
+  {
+    "tipoRie": "L4",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232358",
+      "descModelo": "BAMAFFB 135W02",
+      "descModeloStd": "BAMAFFB ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010734"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194238",
+      "descModelo": "SRV C15",
+      "descModeloStd": "SRV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000445"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193280",
+      "descModelo": "SRP 42P",
+      "descModeloStd": "SRP 42P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000714"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272864",
+      "descModelo": "CLG922E",
+      "descModeloStd": "CLG922E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010611"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320019",
+      "descModelo": "CLG418II",
+      "descModeloStd": "CLG418II",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010611"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272941",
+      "descModelo": "CLG922LC",
+      "descModeloStd": "CLG922LC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010611"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272683",
+      "descModelo": "CLG85611",
+      "descModeloStd": "CLG85611",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010611"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BOMBA HORMIGONERA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 197,
+    "keyTipoVeh": "concreteMixerBomb",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265356",
+      "descModelo": "HDL5270THB",
+      "descModeloStd": "HDL5270THB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010611"
+    }
+  }
+]

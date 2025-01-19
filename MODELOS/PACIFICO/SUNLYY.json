@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0182322",
+      "descModelo": "MD1044",
+      "descModeloStd": "MD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006265"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333274",
+      "descModelo": "S200-1A",
+      "descModeloStd": "S200-1A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006265"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329142",
+      "descModelo": "AT TRI CARGA",
+      "descModeloStd": "AT TRI CARGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006265"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329268",
+      "descModelo": "SUN CAR",
+      "descModeloStd": "SUN ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006265"
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321293",
+      "descModelo": "QY55V532",
+      "descModeloStd": "QY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003849"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325799",
+      "descModelo": "WTD-00350",
+      "descModeloStd": "WTD-00350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003849"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325834",
+      "descModelo": "QY25V531",
+      "descModeloStd": "QY25V531",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003849"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272376",
+      "descModelo": "QY30V",
+      "descModeloStd": "QY30V",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003849"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271979",
+      "descModelo": "FD 100",
+      "descModeloStd": "FD 100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003849"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334783",
+      "descModelo": "36X-5RZ",
+      "descModeloStd": "QY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009171"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273547",
+      "descModelo": "570S",
+      "descModeloStd": "570S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004390"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324712",
+      "descModelo": "720S A",
+      "descModeloStd": "720S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004390"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325824",
+      "descModelo": "650S",
+      "descModeloStd": "650",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004390"
+    }
+  }
+]

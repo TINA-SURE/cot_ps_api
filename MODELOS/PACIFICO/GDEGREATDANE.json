@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "FURGON ISOTERMICO",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 33,
+    "keyTipoVeh": "isothermalVan",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0182838",
+      "descModelo": "15T SUPER REAL",
+      "descModeloStd": "15T SUPER REAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000484"
+    }
+  }
+]

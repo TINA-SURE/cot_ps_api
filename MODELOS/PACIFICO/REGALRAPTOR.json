@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0226448",
+      "descModelo": "DD350E-6C",
+      "descModeloStd": "DD350E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326599",
+      "descModelo": "DD350E6C\t\t\t\t\t",
+      "descModeloStd": "DD350E6C\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004608"
+    }
+  }
+]

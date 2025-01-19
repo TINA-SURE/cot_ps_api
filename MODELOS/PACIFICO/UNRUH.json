@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 6,
+    "keyClaseVeh": "trailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264848",
+      "descModelo": "20 G00 SENECK TRL",
+      "descModeloStd": "G00 SENECK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010143"
+    }
+  }
+]

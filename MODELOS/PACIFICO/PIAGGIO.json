@@ -1,0 +1,236 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324539",
+      "descModelo": "BEVERLY 300 E.3 SPORT\t\t\t\t\t",
+      "descModeloStd": "BEVERLY 300 E.3 SPORT\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010645"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AB",
+      "descModelo": "TYPHOON",
+      "descModeloStd": "TYPHOON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001487"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332466",
+      "descModelo": "APE",
+      "descModeloStd": "APE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007785"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265449",
+      "descModelo": "MP3 300 ERL YOURBAN SPORT",
+      "descModeloStd": "MP3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010645"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267640",
+      "descModelo": "FLY",
+      "descModeloStd": "FLY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001488"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0283864",
+      "descModelo": "APE CITY LPG HS",
+      "descModeloStd": "APE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010645"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320812",
+      "descModelo": "BA-2000H",
+      "descModeloStd": "BA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010645"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323335",
+      "descModelo": "APE CHASSIS DIESEL TRIMOTO",
+      "descModeloStd": "APE CHASSIS DIESEL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010645"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325913",
+      "descModelo": "TPHOON 125 4T",
+      "descModeloStd": "TPHOON 125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010645"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234547",
+      "descModelo": "BEVERLY SPORT TOURING",
+      "descModeloStd": "BEVERLY 300 E.3 SPORT\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010645"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327353",
+      "descModelo": "MP3 300 ERL YOURBAN SPORT\t\t\t\t\t",
+      "descModeloStd": "MP3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005897"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329192",
+      "descModelo": "LIBERTY IGET 125 ABS",
+      "descModeloStd": "LIBERTY IGET 125 ABS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010645"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270247",
+      "descModelo": "TYPHOON 125 4T",
+      "descModeloStd": "TYPHOON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003042"
+    }
+  }
+]

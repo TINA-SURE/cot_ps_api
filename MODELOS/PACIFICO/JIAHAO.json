@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320003",
+      "descModelo": "JH200GY",
+      "descModeloStd": "JH200GY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004540"
+    }
+  }
+]

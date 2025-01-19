@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331176",
+      "descModelo": "T1 ROAD",
+      "descModeloStd": "T1 ROAD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005315"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325350",
+      "descModelo": "K1- L",
+      "descModeloStd": "K1- L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005315"
+    }
+  }
+]

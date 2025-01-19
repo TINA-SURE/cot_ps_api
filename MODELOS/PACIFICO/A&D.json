@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329174",
+      "descModelo": "SP36",
+      "descModeloStd": "SP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004853"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323494",
+      "descModelo": "PLATAFORMA",
+      "descModeloStd": "PLATAFORMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004853"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "FURGON FRIGORIFICO",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 176,
+    "keyTipoVeh": "refrigeratorVan",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334936",
+      "descModelo": "3 CARNIER / TRANSICOLD",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009221"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AA",
+      "descModelo": "METRO",
+      "descModeloStd": "METRO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009328"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325429",
+      "descModelo": "PRIZM",
+      "descModeloStd": "PRIZM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009672"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AB",
+      "descModelo": "STORM",
+      "descModeloStd": "STORM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009672"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AC",
+      "descModelo": "TRACKER",
+      "descModeloStd": "TRACKER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009376"
+    }
+  }
+]

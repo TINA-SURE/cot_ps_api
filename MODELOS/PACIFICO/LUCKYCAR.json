@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326761",
+      "descModelo": "LCI 125GY-1",
+      "descModeloStd": "LCI 125GY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005711"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330487",
+      "descModelo": "LCI200-4 CARGO",
+      "descModeloStd": "LC TRIMOTO CARGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005711"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221852",
+      "descModelo": "LCI (TRI)",
+      "descModeloStd": "LCI 125GY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005711"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221509",
+      "descModelo": "LCI",
+      "descModeloStd": "LCI 125GY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005711"
+    }
+  }
+]

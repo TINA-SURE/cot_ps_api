@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321203",
+      "descModelo": "ZC201",
+      "descModeloStd": "ZC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004697"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321205",
+      "descModelo": "NZ2275",
+      "descModeloStd": "N",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004697"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321204",
+      "descModelo": "NZ229SA",
+      "descModeloStd": "NZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004697"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0250733",
+      "descModelo": "969-M",
+      "descModeloStd": "969-M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003775"
+    }
+  }
+]

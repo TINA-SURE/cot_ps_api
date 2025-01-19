@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332595",
+      "descModelo": "PANTHER-KS 125",
+      "descModeloStd": "PANTHER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007849"
+    }
+  }
+]

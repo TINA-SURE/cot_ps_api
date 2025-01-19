@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219841",
+      "descModelo": "TDM639Z",
+      "descModeloStd": "TDM639Z",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010999"
+    }
+  }
+]

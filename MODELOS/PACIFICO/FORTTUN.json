@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331391",
+      "descModelo": "FORTTUN 250B-1 TRIMOTO",
+      "descModeloStd": "FORTTUN 250B-1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007184"
+    }
+  }
+]

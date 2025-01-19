@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266757",
+      "descModelo": "206",
+      "descModeloStd": "206",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001016"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273587",
+      "descModelo": "206C",
+      "descModeloStd": "206",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004405"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270087",
+      "descModelo": "H3",
+      "descModeloStd": "H3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002961"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269475",
+      "descModelo": "KENBO S3",
+      "descModeloStd": "KENBO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002631"
+    }
+  }
+]

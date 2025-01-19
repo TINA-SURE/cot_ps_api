@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270237",
+      "descModelo": "FSJ EIRL",
+      "descModeloStd": "FSJ EIRL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003038"
+    }
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AG",
+      "descModelo": "FURY",
+      "descModeloStd": "FURY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0209941",
+      "descModelo": "COLT-VISTA",
+      "descModeloStd": "COLT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329449",
+      "descModelo": "SIX DE LUXE",
+      "descModeloStd": "SIX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326590",
+      "descModelo": "800 X 350 SD",
+      "descModeloStd": "800 X 350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AO",
+      "descModelo": "VALIANT",
+      "descModeloStd": "VALIANT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0209975",
+      "descModelo": "S/M",
+      "descModeloStd": "S/M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AJ",
+      "descModelo": "LASER",
+      "descModeloStd": "LASER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0260367",
+      "descModelo": "COLT SEDAN",
+      "descModeloStd": "COLT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327156",
+      "descModelo": "RELAINT-K",
+      "descModeloStd": "RELAINT-K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325120",
+      "descModelo": "BARRACUDA\t\t\t\t\t",
+      "descModeloStd": "BARRACUDA\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AU",
+      "descModelo": "GRAND VOYAGER",
+      "descModeloStd": "GRAND VOYAGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333023",
+      "descModelo": "BELVEDERE II",
+      "descModeloStd": "BELVEDERE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008077"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000XX",
+      "descModelo": "SATELITE",
+      "descModeloStd": "SATELITE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0007629",
+      "descModelo": "TURISMO",
+      "descModeloStd": "TURISMO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320107",
+      "descModelo": "SPECIAL DELUXE",
+      "descModeloStd": "SPECIAL DE LUXE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004548"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323396",
+      "descModelo": "SUNDANCE SEDAN",
+      "descModeloStd": "SUNDANCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AK",
+      "descModelo": "RELIANT",
+      "descModeloStd": "RELIANT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AP",
+      "descModelo": "VOYAGER",
+      "descModeloStd": "VOYAGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0184563",
+      "descModelo": "VOYAGER SW",
+      "descModeloStd": "VOYAGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AR",
+      "descModelo": "CARAVELLE",
+      "descModeloStd": "BELVEDERE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "6",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0049296",
+      "descModelo": "BELVEDERE",
+      "descModeloStd": "BELVEDERE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0209950",
+      "descModelo": "DE LUXE SIX",
+      "descModeloStd": "DE LUXE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0209993",
+      "descModelo": "SPECIAL DE LUXE",
+      "descModeloStd": "SPECIAL DE LUXE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0008429",
+      "descModelo": "CHAMP",
+      "descModeloStd": "CHAMP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321174",
+      "descModelo": "SUNDANCE",
+      "descModeloStd": "SUNDANCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AW",
+      "descModelo": "VOYAGER SE",
+      "descModeloStd": "VOYAGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AM",
+      "descModelo": "ACCLAIM",
+      "descModeloStd": "ACCLAIM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AC",
+      "descModelo": "VALIANT",
+      "descModeloStd": "SEMIROQUERA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010784"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325593",
+      "descModelo": "HORIZON\t\t\t\t\t",
+      "descModeloStd": "HORIZON\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273594",
+      "descModelo": "P-4",
+      "descModeloStd": "P-4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009662"
+    }
+  }
+]

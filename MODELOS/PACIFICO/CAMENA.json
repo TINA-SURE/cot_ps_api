@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AD",
+      "descModelo": "FLATBED",
+      "descModeloStd": "FLAT BED",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000758"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0279660",
+      "descModelo": "ESPECIAL",
+      "descModeloStd": "S/M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007278"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266905",
+      "descModelo": "FLAT",
+      "descModeloStd": "FLAT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001084"
+    }
+  }
+]

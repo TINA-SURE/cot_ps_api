@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0004362",
+      "descModelo": "TOURER CONVERTIBLE",
+      "descModeloStd": "TOURER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001124"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AA",
+      "descModelo": "SPORT",
+      "descModeloStd": "SPORT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001124"
+    }
+  }
+]

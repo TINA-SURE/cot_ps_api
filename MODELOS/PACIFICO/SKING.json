@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334664",
+      "descModelo": "SK150-D7",
+      "descModeloStd": "SK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0284126",
+      "descModelo": "SK300 ENDUREX",
+      "descModeloStd": "SK300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326628",
+      "descModelo": "SK150-POWER",
+      "descModeloStd": "SK150-POWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005677"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326744",
+      "descModelo": "SK200GY-A M",
+      "descModeloStd": "SK200GY-A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005677"
+    }
+  }
+]

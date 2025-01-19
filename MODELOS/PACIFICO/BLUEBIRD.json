@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "30",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334484",
+      "descModelo": "D3FE3909",
+      "descModeloStd": "D3FE3909",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008997"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "54",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333824",
+      "descModelo": "D3FE3909",
+      "descModeloStd": "D3FE3909",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008555"
+    }
+  }
+]

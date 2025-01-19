@@ -1,0 +1,344 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333769",
+      "descModelo": "SRP FMD R",
+      "descModeloStd": "SRP FMD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009773"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331788",
+      "descModelo": "SRBB-FMD",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007391"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271082",
+      "descModelo": "SRCB – FMD",
+      "descModeloStd": "SRCB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003429"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0276748",
+      "descModelo": "SRB FMD",
+      "descModeloStd": "SRB FMD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004909"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0173937",
+      "descModelo": "SRF-FMD",
+      "descModeloStd": "SRF-FMD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000464"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333414",
+      "descModelo": "SRPTC - FMD",
+      "descModeloStd": "SRPTC - FMD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000465"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332187",
+      "descModelo": "SRV-FMD",
+      "descModeloStd": "SRV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007621"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324960",
+      "descModelo": "¿SRB-FMD",
+      "descModeloStd": "SRB FMD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005209"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334831",
+      "descModelo": "SRC-FMD/ SEMI ELIPTICO",
+      "descModeloStd": "SRC-FMD/ SEMI ELIPTICO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009773"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328519",
+      "descModelo": "SRV",
+      "descModeloStd": "SRV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000465"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189480",
+      "descModelo": "PLATAFORMA DE 03 EJES",
+      "descModeloStd": "PLATAFORMA DE 03 EJES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000462"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327824",
+      "descModelo": "FMD-SR-081\t\t\t\t\t",
+      "descModeloStd": "SRC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006123"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333412",
+      "descModelo": "SRPTC-FMD",
+      "descModeloStd": "SRPTC - FMD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008323"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324757",
+      "descModelo": "SRC-FMD ELIPTICO\t\t\t\t\t",
+      "descModeloStd": "SRC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005144"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325568",
+      "descModelo": "SRC-FMD ELIPTICO",
+      "descModeloStd": "SRC-FMD ELIPTICO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009773"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219893",
+      "descModelo": "FURGON",
+      "descModeloStd": "FURGON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000461"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0170859",
+      "descModelo": "SRP FMD",
+      "descModeloStd": "SRP FMD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000465"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325569",
+      "descModelo": "SRC-FMD ELIPTICO REM",
+      "descModeloStd": "SRC-FMD ELIPTICO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009773"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0174239",
+      "descModelo": "S/M",
+      "descModeloStd": "S/M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000463"
+    }
+  }
+]

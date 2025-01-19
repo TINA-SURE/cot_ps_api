@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0186251",
+      "descModelo": "AGRALE",
+      "descModeloStd": "AGRALE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001866"
+    }
+  }
+]

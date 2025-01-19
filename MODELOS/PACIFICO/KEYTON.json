@@ -1,0 +1,200 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "8",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333843",
+      "descModelo": "FJ6440CGK",
+      "descModeloStd": "FJ6440CGK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001821"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MICROBUS",
+    "claseVeh": "MICROBUS",
+    "numPue": "8",
+    "idTipoVeh": 101,
+    "keyTipoVeh": "microbus",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333258",
+      "descModelo": "VAN K30",
+      "descModeloStd": "K30",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008217"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333861",
+      "descModelo": "FJ5020XXYA5",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008578"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268286",
+      "descModelo": "FJ6410S",
+      "descModeloStd": "FJ6410S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329418",
+      "descModelo": "FJ6410S CMT",
+      "descModeloStd": "FJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001821"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331990",
+      "descModelo": "FJ6450CGKX",
+      "descModeloStd": "FJ6450CGKX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007502"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329425",
+      "descModelo": "FJ6450CGKX",
+      "descModeloStd": "FJ6450CGKX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001821"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334830",
+      "descModelo": "FJ6440CGK",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009204"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330852",
+      "descModelo": "V60FJ6450CGKX",
+      "descModeloStd": "V60FJ6450CGKX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001821"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332231",
+      "descModelo": "MPVFJ6440AGK",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007655"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334874",
+      "descModelo": "FJ5020",
+      "descModeloStd": "fj",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009223"
+    }
+  }
+]

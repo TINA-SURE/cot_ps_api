@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "REMOLCADOR",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "5",
+    "idTipoVeh": 22,
+    "keyTipoVeh": "tug",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0180674",
+      "descModelo": "TRK",
+      "descModeloStd": "TRK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000115"
+    }
+  }
+]

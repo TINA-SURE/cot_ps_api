@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272520",
+      "descModelo": "S/MODELO",
+      "descModeloStd": "S/MODELO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004018"
+    }
+  }
+]

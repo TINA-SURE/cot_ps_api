@@ -1,0 +1,1712 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329167",
+      "descModelo": "FD800",
+      "descModeloStd": "FD800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006535"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192186",
+      "descModelo": "INCAPOWER F130",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000200"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326117",
+      "descModelo": "FD26",
+      "descModeloStd": "FD26",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266455",
+      "descModelo": "INCAPOWER F30",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001163"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232710",
+      "descModelo": "TITAN 20",
+      "descModeloStd": "TITAN ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010887"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219111",
+      "descModelo": "INCAPOWER FD60",
+      "descModeloStd": "INCAPOWER ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010886"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329636",
+      "descModelo": "BJ1039V4JD3-A BARANDA",
+      "descModeloStd": "BJ1039V4JD3-A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325096",
+      "descModelo": "F49 BARANDA",
+      "descModeloStd": "F49",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189684",
+      "descModelo": "BJ1046VJE62",
+      "descModeloStd": "BJ1046VJE62",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000196"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273243",
+      "descModelo": "INCAPOWER FD80",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004298"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270667",
+      "descModelo": "F130",
+      "descModeloStd": "F130",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003196"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329422",
+      "descModelo": "F38 BARANDA",
+      "descModeloStd": "F38",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269491",
+      "descModelo": " BJ1049V8JD6-B",
+      "descModeloStd": "BJ1049V8JD6-B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002648"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323617",
+      "descModelo": "BJ1041V8JD6 CAMION",
+      "descModeloStd": "BJ1041V8JD6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221430",
+      "descModelo": "BJ1043V8JD3-S",
+      "descModeloStd": "BJ1043V8JD3-S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333489",
+      "descModelo": "F190CB",
+      "descModeloStd": "F190",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008367"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326408",
+      "descModelo": "BJ1069VCJEA-A\t\t\t\t\t",
+      "descModeloStd": "BJ1069VCJEA-A\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005629"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331828",
+      "descModelo": "F300N CB",
+      "descModeloStd": "F300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007419"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320732",
+      "descModelo": "INCAPOWER F 25",
+      "descModeloStd": "INCAPOWER F 25",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332677",
+      "descModelo": "F190",
+      "descModeloStd": "F190",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007889"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333426",
+      "descModelo": "F190 CS",
+      "descModeloStd": "F190",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008334"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270032",
+      "descModelo": "BJ5082V4PDB-A1",
+      "descModeloStd": "BJ5082V4PDB-A1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192536",
+      "descModelo": "INCAPOWER F25",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002874"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334332",
+      "descModelo": "F160",
+      "descModeloStd": "F160",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008868"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0282091",
+      "descModelo": "INCAPOWER FD20",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005704"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329423",
+      "descModelo": "F39",
+      "descModeloStd": "F39",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007256"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228828",
+      "descModelo": "INCAPOWER FD 130",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326731",
+      "descModelo": "BJ1036Y3JB3-5\t CP",
+      "descModeloStd": "BJ1036Y3JB3-5\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0295534",
+      "descModelo": "BJ1053VCJFA",
+      "descModeloStd": "BJ1053VCJFA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321282",
+      "descModelo": "F48",
+      "descModeloStd": "F48",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326820",
+      "descModelo": "INCAPOWER F35 PICK",
+      "descModeloStd": "INCAPOWER F35",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264505",
+      "descModelo": "INCAPOWER F40",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "PLATAFORMA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 27,
+    "keyTipoVeh": "platform",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327723",
+      "descModelo": "F71",
+      "descModeloStd": "FJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006084"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270850",
+      "descModelo": "INCAPOWER F47",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003307"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221887",
+      "descModelo": "BJ1020V3JV2-S1",
+      "descModeloStd": "BJ1020V3JV2-S1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0226009",
+      "descModelo": "BJ3043D8PDAS",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270186",
+      "descModelo": "INCAPOWER F35 1.2",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330965",
+      "descModelo": "F300",
+      "descModeloStd": "F300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006967"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326616",
+      "descModelo": "F25 UP",
+      "descModeloStd": "F25",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234549",
+      "descModelo": "BJ1043V8AEA-S",
+      "descModeloStd": "BJ1043V8AEA-S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000762"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328058",
+      "descModelo": "BJ1036V3JB3-5\t\t\t\t\t",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006197"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234443",
+      "descModelo": "BJ1020V3JA3",
+      "descModeloStd": "BJ1020V3JA3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189330",
+      "descModelo": "INCAPOWER F65",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001741"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331588",
+      "descModelo": "F400N",
+      "descModeloStd": "F400N",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007286"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335076",
+      "descModelo": "FD250",
+      "descModeloStd": "FD250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331854",
+      "descModelo": "F300N DC",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007435"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330498",
+      "descModelo": "BARANDA 4X2",
+      "descModeloStd": "BARANDA 4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271496",
+      "descModelo": "INCAPOWER",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003623"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331457",
+      "descModelo": "FD250 BJ3043D8JB5-1",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007223"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323289",
+      "descModelo": "F38",
+      "descModeloStd": "F38",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331868",
+      "descModelo": "F400N CH",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007443"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329083",
+      "descModelo": "INCA POWER PICKUP",
+      "descModeloStd": "INCA POWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232088",
+      "descModelo": "BJ1036Y3JB3-5",
+      "descModeloStd": "BJ1036Y3JB3-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000195"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325447",
+      "descModelo": "INCAPOWER F123\t\t\t\t\t",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005344"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324912",
+      "descModelo": "F49",
+      "descModeloStd": "F49",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006403"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273663",
+      "descModelo": "DJ1168VJPHK1",
+      "descModeloStd": "DJ1168VJPHK1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219110",
+      "descModelo": "INCA POWER B50-CB",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010885"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327830",
+      "descModelo": "F38 PICKUP",
+      "descModeloStd": "F38",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332300",
+      "descModelo": "FD600",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007697"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325481",
+      "descModelo": "F48\t\t\t\t\t",
+      "descModeloStd": "F48",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005354"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324658",
+      "descModelo": "BJ3053DBJE5-1",
+      "descModeloStd": "BJ3053DBJE5-1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333611",
+      "descModelo": "FD86",
+      "descModeloStd": "FD86",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008424"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332908",
+      "descModelo": "INCAPOWER F 130",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321397",
+      "descModelo": "FD85",
+      "descModeloStd": "FD85",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004727"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331376",
+      "descModelo": "FD400",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007175"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333092",
+      "descModelo": "F160DC",
+      "descModeloStd": "F160",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008101"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329424",
+      "descModelo": "F48 BARANDA",
+      "descModeloStd": "F48",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268317",
+      "descModelo": "INCAPOWER FD80 VOLQUETE",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001835"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271452",
+      "descModelo": "BJ1049V8JD6-8",
+      "descModeloStd": "BJ1049V8JD6-8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003605"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320312",
+      "descModelo": "INCAPOWER F20",
+      "descModeloStd": "INCAPOWER F20",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CAMION",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 163,
+    "keyTipoVeh": "truck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231675",
+      "descModelo": "BJ5122V5PDC-1",
+      "descModeloStd": "BJ5122V5PDC-1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000197"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333235",
+      "descModelo": "F160 DC",
+      "descModeloStd": "F160 DC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267492",
+      "descModelo": "S/M",
+      "descModeloStd": "S/M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 59,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219249",
+      "descModelo": "INCAPOWER FD150",
+      "descModeloStd": "INCAPOWER ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000202"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228572",
+      "descModelo": "BJ3063DCPEA-S7",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330369",
+      "descModelo": "F200",
+      "descModeloStd": "F200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007554"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330770",
+      "descModelo": "F400DC",
+      "descModeloStd": "F400DC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006852"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271254",
+      "descModelo": "FJ",
+      "descModeloStd": "FJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003520"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274051",
+      "descModelo": "INCAPOWER-FD65",
+      "descModeloStd": "INCAPOWER-FD65",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004498"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272142",
+      "descModelo": "BJ1158VKPFK2",
+      "descModeloStd": "BJ1158VKPFK2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331047",
+      "descModelo": " BJ1043V9JBA-BG",
+      "descModeloStd": " ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007015"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256387",
+      "descModelo": "INCAPOWER F45",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010959"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267835",
+      "descModelo": "F110",
+      "descModeloStd": "F110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001602"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323696",
+      "descModelo": "INCAPOWER F37",
+      "descModeloStd": "INCAPOWER F37",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333947",
+      "descModelo": "F190PRO DC",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008628"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263762",
+      "descModelo": "INCAPOWER F35",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000306"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0316712",
+      "descModelo": "3P78AP490L(A)",
+      "descModeloStd": "3P78AP490L(A)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329455",
+      "descModelo": "BJ1043V95EAH",
+      "descModeloStd": "BJ1043V95EAH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331328",
+      "descModelo": "F300L",
+      "descModeloStd": "F300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007145"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328300",
+      "descModelo": "FD600",
+      "descModeloStd": "FD26",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320953",
+      "descModelo": "BJ1059VCJD6-3",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004668"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267621",
+      "descModelo": "INCAPOWER B50-CB",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001474"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270079",
+      "descModelo": "INCAPOWER F25 2.3",
+      "descModeloStd": "INCAPOWER F25",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189399",
+      "descModelo": "INCAPOWER F120",
+      "descModeloStd": "INCAPOWER ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000199"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221910",
+      "descModelo": "BJ1153VLPFG-B",
+      "descModeloStd": "BJ1153VLPFG",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009782"
+    }
+  }
+]

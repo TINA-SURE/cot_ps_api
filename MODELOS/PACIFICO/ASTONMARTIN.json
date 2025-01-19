@@ -1,0 +1,128 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329277",
+      "descModelo": "DB11 - V12",
+      "descModeloStd": "DB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006571"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334615",
+      "descModelo": "DBX707",
+      "descModeloStd": "DBX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009070"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0230287",
+      "descModelo": "VANTAGE",
+      "descModeloStd": "VANTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001927"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235258",
+      "descModelo": "VANQUISH COUPE",
+      "descModeloStd": "VANQUISH COUPE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001494"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235431",
+      "descModelo": "VANQUISH",
+      "descModeloStd": "VANQUISH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001494"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328933",
+      "descModelo": "DB11",
+      "descModeloStd": "DB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001494"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333644",
+      "descModelo": "DBX",
+      "descModeloStd": "DBX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008448"
+    }
+  }
+]

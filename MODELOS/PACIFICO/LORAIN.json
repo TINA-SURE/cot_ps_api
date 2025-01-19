@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334412",
+      "descModelo": "LRT 350",
+      "descModeloStd": "LRT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008940"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0174312",
+      "descModelo": "MC550",
+      "descModeloStd": "MC550",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000157"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219837",
+      "descModelo": "MC 330 CT",
+      "descModeloStd": "MC 330 CT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009848"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION GRUA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 20,
+    "keyClaseVeh": "towTruck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333645",
+      "descModelo": "7.5 TON",
+      "descModeloStd": "7.5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008449"
+    }
+  }
+]

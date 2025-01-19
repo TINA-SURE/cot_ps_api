@@ -1,0 +1,2990 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268679",
+      "descModelo": "DURANGO CITDADEL",
+      "descModeloStd": "DURANGO CITDADEL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002015"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330619",
+      "descModelo": "CHALLENGER 5.7 MED",
+      "descModeloStd": "CHALLENGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007272"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232524",
+      "descModelo": "DURANGO V8  5.7 4X4",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002032"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "6",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0173695",
+      "descModelo": "CORONET",
+      "descModeloStd": "CORONET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233547",
+      "descModelo": "DURANGO 4.7 SLT (2004)",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001731"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AX",
+      "descModelo": "DN-800",
+      "descModeloStd": "DN-800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271739",
+      "descModelo": "JOURNEY 1.2",
+      "descModeloStd": "JOURNEY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271290",
+      "descModelo": "VOLQUETE",
+      "descModeloStd": "VOLQUETE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0055500",
+      "descModelo": "RAM 1500",
+      "descModeloStd": "RAM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010638"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231857",
+      "descModelo": "JOURNEY 3.6",
+      "descModeloStd": "JOURNEY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002085"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AV",
+      "descModelo": "DINASTY",
+      "descModeloStd": "DINASTY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233549",
+      "descModelo": "DURANGO V6  3.6 4X2",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002030"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0016521",
+      "descModelo": "D500",
+      "descModeloStd": "D500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0202154",
+      "descModelo": "VISTA",
+      "descModeloStd": "VISTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002030"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324889",
+      "descModelo": "DN-800\t\t\t\t\t",
+      "descModeloStd": "DN-800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005183"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AZ",
+      "descModelo": "DP-500",
+      "descModeloStd": "DP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010465"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272209",
+      "descModelo": "DP 300",
+      "descModeloStd": "DP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003920"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328913",
+      "descModelo": "GRAND CARAVAN RURAL",
+      "descModeloStd": "GRAND CARAVAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195568",
+      "descModelo": "JOURNEY SE",
+      "descModeloStd": "JOURNEY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005425"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188617",
+      "descModelo": "NITRO 3.7",
+      "descModeloStd": "NITRO ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001732"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272020",
+      "descModelo": "LANCERES",
+      "descModeloStd": "LANCERES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326632",
+      "descModelo": "RAM ROYAL 150  CR",
+      "descModeloStd": "RAM ROYAL 150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0059598",
+      "descModelo": "DN800",
+      "descModeloStd": "DN800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323326",
+      "descModelo": "COLT SEDAN",
+      "descModeloStd": "COLT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334033",
+      "descModelo": "D-300, 2-1D",
+      "descModeloStd": "D-300, 2-1D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233548",
+      "descModelo": "JOURNEY 2.4",
+      "descModeloStd": "JOURNEY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001735"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231346",
+      "descModelo": "RAM 2500 6.7",
+      "descModeloStd": "RAM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001870"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BE",
+      "descModelo": "MAGNUM",
+      "descModeloStd": "MAGNUM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271565",
+      "descModelo": "DURANGO CREW 3.7",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320582",
+      "descModelo": "K100E",
+      "descModeloStd": "K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PLATAFORMA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 27,
+    "keyTipoVeh": "platform",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327877",
+      "descModelo": "DN-800 CPL",
+      "descModeloStd": "DN-800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193700",
+      "descModelo": "CHALLENGER SRT8",
+      "descModeloStd": "CHALLENGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001869"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BU",
+      "descModelo": "S/M",
+      "descModeloStd": "S/M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0201943",
+      "descModelo": "CARAVAN LE",
+      "descModeloStd": "CARAVAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189560",
+      "descModelo": "JOURNEY SXT",
+      "descModeloStd": "JOURNEY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000989"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327582",
+      "descModelo": "DURANGO EXPRESS 4X2 3.6",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006027"
+    }
+  },
+  {
+    "tipoRie": null,
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0319970",
+      "descModelo": "P-1986",
+      "descModeloStd": "P-1986",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BV",
+      "descModelo": "DURANGO 4.7 SL",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001730"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268748",
+      "descModelo": "W-100-115P",
+      "descModeloStd": "W-100-115P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CB",
+      "descModelo": "W-100",
+      "descModeloStd": "W-100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000804"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CD",
+      "descModelo": "SHADOW ES",
+      "descModeloStd": "SHADOW ES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003225"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265188",
+      "descModelo": "100",
+      "descModeloStd": "100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330859",
+      "descModelo": "DURANGO EXPRESS RWD SUV",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BB",
+      "descModelo": "GRAND CARAVAN",
+      "descModeloStd": "GRAND CARAVAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AC",
+      "descModelo": "ARIES",
+      "descModeloStd": "ARIES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265800",
+      "descModelo": "DURANGO CITADEL",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010839"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0016439",
+      "descModelo": "DURANGO",
+      "descModeloStd": "D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0170544",
+      "descModelo": "DURANGO SLT",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004016"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0094961",
+      "descModelo": "D-500",
+      "descModeloStd": "D-500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000802"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233550",
+      "descModelo": "DURANGO V6  3.6 4X4",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002031"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320660",
+      "descModelo": "CALIBER HB",
+      "descModeloStd": "CALIBER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004630"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264353",
+      "descModelo": "DURANGO",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001015"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323714",
+      "descModelo": "NITRO SEDAN",
+      "descModeloStd": "NITRO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188475",
+      "descModelo": "NEON",
+      "descModeloStd": "NEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "0",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A2",
+      "descModelo": "D-500 C",
+      "descModeloStd": "D500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0202171",
+      "descModelo": "COLT PREMIER",
+      "descModeloStd": "COLT PREMIE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095916",
+      "descModelo": "RAM 2500",
+      "descModeloStd": "RAM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001734"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328627",
+      "descModelo": "CHARGER COUPE",
+      "descModeloStd": "CHARGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0202118",
+      "descModelo": "SPORTSMAN",
+      "descModeloStd": "SPORTSMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0017180",
+      "descModelo": "COLT",
+      "descModeloStd": "COLT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193699",
+      "descModelo": "CHALLENGER 5.7",
+      "descModeloStd": "CHALLENGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001868"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326701",
+      "descModelo": "D-300 PI",
+      "descModeloStd": "D-300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0009469",
+      "descModelo": "D-100",
+      "descModeloStd": "D-100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325691",
+      "descModelo": "DART",
+      "descModeloStd": "DART",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005424"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BD",
+      "descModelo": "LE BARON",
+      "descModeloStd": "LE BARON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0018308",
+      "descModelo": "CARAVAN",
+      "descModeloStd": "CARAVAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321059",
+      "descModelo": "VIPER GTS",
+      "descModeloStd": "VIPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004683"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0247296",
+      "descModelo": "MONACO LE",
+      "descModeloStd": "MONACO LE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321284",
+      "descModelo": "S/MODELO C",
+      "descModeloStd": "S/M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CONVERTIBLE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "6",
+    "idTipoVeh": 129,
+    "keyTipoVeh": "convertible",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329450",
+      "descModelo": "POLARA C",
+      "descModeloStd": "POLARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "6",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A8",
+      "descModelo": "330",
+      "descModeloStd": "330",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320867",
+      "descModelo": "DP500 V",
+      "descModeloStd": "DP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0201977",
+      "descModelo": "CUSTOM ROYAL",
+      "descModeloStd": "CUSTOM ROYAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327515",
+      "descModelo": "COLT RURAL",
+      "descModeloStd": "COLT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323657",
+      "descModelo": "PP-500 CAMION",
+      "descModeloStd": "PP-500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "9",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320262",
+      "descModelo": "CORONET SW",
+      "descModeloStd": "CORONET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324669",
+      "descModelo": "DURANGO GT 4X4 3.6L AT\t\t\t\t\t",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005107"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188635",
+      "descModelo": "CARAVAN",
+      "descModeloStd": "CARAVAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010107"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AD",
+      "descModelo": "ASPEN",
+      "descModeloStd": "ASPEN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188618",
+      "descModelo": "NITRO 2.8 CRD",
+      "descModeloStd": "NITRO ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001733"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326949",
+      "descModelo": "D-100 SUV",
+      "descModeloStd": "D-100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267858",
+      "descModelo": "RAM 2500 SLT CREW CAB T 4X4 6X7L A/T",
+      "descModeloStd": "RAM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273894",
+      "descModelo": "CALIBER",
+      "descModeloStd": "CALIBER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223994",
+      "descModelo": "DURANGO CREW RWD",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004084"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333057",
+      "descModelo": "D-100 PN",
+      "descModeloStd": "D-100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0171889",
+      "descModelo": "NITRO",
+      "descModeloStd": "NITRO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004327"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0244139",
+      "descModelo": "RAM 250 CUSTOM",
+      "descModeloStd": "RAM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0170552",
+      "descModelo": "DART",
+      "descModeloStd": "DART",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326588",
+      "descModelo": "D300 CAMION",
+      "descModeloStd": "D300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271958",
+      "descModelo": "DP300",
+      "descModeloStd": "DP300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320679",
+      "descModelo": "OMNI",
+      "descModeloStd": "OMNI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325532",
+      "descModelo": "440 SD",
+      "descModeloStd": "440",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PLATAFORMA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 27,
+    "keyTipoVeh": "platform",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327879",
+      "descModelo": "DN-800 PLATAFORMA",
+      "descModeloStd": "DN-800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221019",
+      "descModelo": "DURANGO CREW AWD",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001177"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326887",
+      "descModelo": "S/M SD",
+      "descModeloStd": "S/M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324896",
+      "descModelo": "306 XR",
+      "descModeloStd": "306 XR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325194",
+      "descModelo": "W RURAL",
+      "descModeloStd": "W RURAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0010052",
+      "descModelo": "CHALLENGER",
+      "descModeloStd": "CHALLENGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007272"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A3",
+      "descModelo": "RAM 350",
+      "descModeloStd": "RAM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "1",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266997",
+      "descModelo": "DURANGO LIMITED AWD",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001142"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321189",
+      "descModelo": "D-600",
+      "descModeloStd": "D-",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327895",
+      "descModelo": "CHALLENGER CMTR",
+      "descModeloStd": "CHALLENGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0236037",
+      "descModelo": "LASER",
+      "descModeloStd": "LASER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332188",
+      "descModelo": "JOURNEY SE 4X2",
+      "descModeloStd": "JOURNEY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "6",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0201998",
+      "descModelo": "DART CUSTOM",
+      "descModeloStd": "DART CUSTOM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327752",
+      "descModelo": "INTREPID",
+      "descModeloStd": "INTREPID",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269061",
+      "descModelo": "RAM CARGO VAN",
+      "descModeloStd": "RAM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002285"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A4",
+      "descModelo": "D-200",
+      "descModeloStd": "D-200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0201973",
+      "descModelo": "CUSTOM 200",
+      "descModeloStd": "CUSTOM ROYAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333756",
+      "descModelo": "RAM 700",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008516"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0011595",
+      "descModelo": "DP500",
+      "descModeloStd": "DP500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AT",
+      "descModelo": "DAYTONA",
+      "descModeloStd": "DAYTONA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AW",
+      "descModelo": "DIPLOMAT",
+      "descModeloStd": "DIPLOMAT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0202012",
+      "descModelo": "DURANGO LIMITED",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000972"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266750",
+      "descModelo": "DIPLOMAT SALOM",
+      "descModeloStd": "DIPLOMAT SALOM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001008"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0009470",
+      "descModelo": "100",
+      "descModeloStd": "100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0201992",
+      "descModelo": "D-400",
+      "descModeloStd": "D-400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0237349",
+      "descModelo": "COLT-E",
+      "descModeloStd": "COLT-E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324165",
+      "descModelo": "RAIDER 4WD UTIL TRUCK SD",
+      "descModeloStd": "RAIDER 4WD UTIL TRUCK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268753",
+      "descModelo": "HELLCAT6",
+      "descModeloStd": "HELLCAT6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002053"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CI",
+      "descModelo": "VIPER GTS",
+      "descModeloStd": "VIPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264108",
+      "descModelo": "JOURNEY 2.4 VERSION AMERICANA",
+      "descModeloStd": "JOURNEY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000020005"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326969",
+      "descModelo": "RAM 350 SUV",
+      "descModeloStd": "RAM 350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327293",
+      "descModelo": "TRADESMAN SUV",
+      "descModeloStd": "TRADESMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0283862",
+      "descModelo": "MD 300",
+      "descModeloStd": "MD 300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323578",
+      "descModelo": "D-100 CAMION",
+      "descModeloStd": "D-100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168351",
+      "descModelo": "GRAND CARAVAN",
+      "descModeloStd": "GRAND CARAVAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001574"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0247081",
+      "descModelo": "HORIZONT",
+      "descModeloStd": "HORIZONT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327345",
+      "descModelo": "DURANGO 3.7",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005893"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323095",
+      "descModelo": "DP 500 VOL",
+      "descModeloStd": "DP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AN",
+      "descModelo": "D-800",
+      "descModeloStd": "D-800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324066",
+      "descModelo": "HARTOP CP",
+      "descModeloStd": "HARTOP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273333",
+      "descModelo": "DURANGO SXT",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001015"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AQ",
+      "descModelo": "D-800 1.2",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327038",
+      "descModelo": "DURANGO SXT CP",
+      "descModeloStd": "DURANGO SXT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0279445",
+      "descModelo": "KEW 800",
+      "descModeloStd": "KEW 800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095806",
+      "descModelo": "D300",
+      "descModeloStd": "D300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000801"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329584",
+      "descModelo": "D-800 CC",
+      "descModeloStd": "D-800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272626",
+      "descModelo": "M-4381",
+      "descModeloStd": "M-4381",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CM",
+      "descModelo": "SHADOW",
+      "descModeloStd": "SHADOW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BM",
+      "descModelo": "POLARA",
+      "descModeloStd": "POLARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000B3",
+      "descModelo": "DAKOTA",
+      "descModeloStd": "DAKOTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002286"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0018139",
+      "descModelo": "D-300",
+      "descModeloStd": "D-300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327229",
+      "descModelo": "WEAPON",
+      "descModeloStd": "W",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194336",
+      "descModelo": "DURANGO EXPRESS RWD",
+      "descModeloStd": "DURANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001142"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176463",
+      "descModelo": "D-100-114",
+      "descModeloStd": "D-100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0180026",
+      "descModelo": "DN 800",
+      "descModeloStd": "DN 800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329286",
+      "descModelo": "POLARA CAMION",
+      "descModeloStd": "POLARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0202125",
+      "descModelo": "STRATUS",
+      "descModeloStd": "STRATUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327221",
+      "descModelo": "M-D500 CC",
+      "descModeloStd": "M-D500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BY",
+      "descModelo": "SPIRIT",
+      "descModeloStd": "SPIRIT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000803"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323552",
+      "descModelo": "W-200 C",
+      "descModeloStd": "W-200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0030876",
+      "descModelo": "RAM 100",
+      "descModeloStd": "RAM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007742"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0316925",
+      "descModelo": "P300",
+      "descModeloStd": "P300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BR",
+      "descModelo": "RAM",
+      "descModeloStd": "RAM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0011593",
+      "descModelo": "C250",
+      "descModeloStd": "C250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004263"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0244607",
+      "descModelo": "CARAVAN LE T/I",
+      "descModeloStd": "CARAVAN LE T/I",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0243278",
+      "descModelo": "CHRYSLER",
+      "descModeloStd": "CHRYSLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328816",
+      "descModelo": "R/CHARGER RURAL",
+      "descModeloStd": "R/CHARGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233551",
+      "descModelo": "JOURNEY 3.6 AWD",
+      "descModeloStd": "JOURNEY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002208"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095555",
+      "descModelo": "D-300",
+      "descModeloStd": "D-300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321153",
+      "descModelo": "B1-PW-162",
+      "descModeloStd": "B1-PW-162",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321179",
+      "descModelo": "S/MODELO",
+      "descModeloStd": "S/M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "250",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334467",
+      "descModelo": "RAM 250",
+      "descModeloStd": "RAM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AY",
+      "descModelo": "DP-300",
+      "descModeloStd": "DP-300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271554",
+      "descModelo": "\tDART GT",
+      "descModeloStd": "\tDART GT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009632"
+    }
+  }
+]

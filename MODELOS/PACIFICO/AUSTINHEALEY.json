@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AA",
+      "descModelo": "MK II",
+      "descModeloStd": "MK II",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001125"
+    }
+  }
+]

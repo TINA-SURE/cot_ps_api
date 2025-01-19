@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332953",
+      "descModelo": "SUCCE MLTP",
+      "descModeloStd": "SUCCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001739"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220152",
+      "descModelo": "LC32",
+      "descModeloStd": "LC32",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001104"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220150",
+      "descModelo": "LX38",
+      "descModeloStd": "LX38",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001105"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220151",
+      "descModelo": "LC31",
+      "descModeloStd": "LC31",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001103"
+    }
+  }
+]

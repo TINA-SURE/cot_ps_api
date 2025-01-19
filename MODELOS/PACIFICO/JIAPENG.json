@@ -1,0 +1,92 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323324",
+      "descModelo": "JP150-B TAXI",
+      "descModeloStd": "JP150-B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004819"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328071",
+      "descModelo": "DEMOLEDOR (TRI CARGA)",
+      "descModeloStd": "DEMOLEDOR (TRI CARGA)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004819"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0171216",
+      "descModelo": "JP",
+      "descModeloStd": "JP150-B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004819"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330676",
+      "descModelo": "RAYO TRI PASAJEROS",
+      "descModeloStd": "RAYO TRI PASAJEROS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004819"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334261",
+      "descModelo": "DEMOLEDOR 300",
+      "descModeloStd": "DEMOLEDOR 300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004819"
+    }
+  }
+]

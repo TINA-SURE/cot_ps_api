@@ -1,0 +1,200 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335026",
+      "descModelo": "SRTC-0330",
+      "descModeloStd": "SRP-V",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009281"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330869",
+      "descModelo": "SRTG-0330",
+      "descModeloStd": "SRTG-0330",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006910"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329188",
+      "descModelo": "RTG-0320 REM",
+      "descModeloStd": "RTG-0320",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009919"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326834",
+      "descModelo": "SRGT-0330 CV",
+      "descModeloStd": "SRGT-0330",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009919"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329189",
+      "descModelo": "RTG-0320 RE",
+      "descModeloStd": "RTG-0320",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009919"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189283",
+      "descModelo": "SRC-01-24",
+      "descModeloStd": "SRC-01-24",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009919"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0179437",
+      "descModelo": "SRGT-0330",
+      "descModeloStd": "SRGT-0330",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000612"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232894",
+      "descModelo": "SRC-02-32",
+      "descModeloStd": "SRC-02-32",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002600"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326833",
+      "descModelo": "SRGT-0330",
+      "descModeloStd": "SRGT-0330",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009919"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329190",
+      "descModelo": "RTG-0320",
+      "descModeloStd": "RTG-0320",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006541"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220126",
+      "descModelo": "SRP-V",
+      "descModeloStd": "SRP-V",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000854"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "39",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333920",
+      "descModelo": "YBL6905H",
+      "descModeloStd": "YBL6905H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003443"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271121",
+      "descModelo": "YBL6761",
+      "descModeloStd": "YBL6761",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003443"
+    }
+  }
+]

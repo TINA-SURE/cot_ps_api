@@ -1,0 +1,884 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AC",
+      "descModelo": "LE BARON",
+      "descModeloStd": "LE BARON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233538",
+      "descModelo": "TOWN & COUNTRY 3.3 LXI",
+      "descModeloStd": "TOWN & COUNTRY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001719"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323424",
+      "descModelo": "TOWN",
+      "descModeloStd": "TOWN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0236258",
+      "descModelo": "NEON",
+      "descModeloStd": "NEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "0",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AV",
+      "descModelo": "CONQUEST",
+      "descModeloStd": "CONQUEST",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AF",
+      "descModelo": "SPIRIT AMG",
+      "descModeloStd": "SPIRIT AMG",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233539",
+      "descModelo": "CARAVAN",
+      "descModeloStd": "CARAVAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001720"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322920",
+      "descModelo": "PACIFICA TOURING FWD",
+      "descModeloStd": "PACIFICA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176825",
+      "descModelo": "PACIFICA",
+      "descModeloStd": "PACIFICA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233543",
+      "descModelo": "PACIFICA TOURING 3.5 V6 AWD",
+      "descModeloStd": "PACIFICA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001727"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0250248",
+      "descModelo": "N Y 5THA",
+      "descModeloStd": "N Y 5THA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0023142",
+      "descModelo": "PACIFICA TOURING AWD",
+      "descModeloStd": "PACIFICA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001823"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233540",
+      "descModelo": "PT CRUISER 2.0",
+      "descModeloStd": "PT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001721"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233545",
+      "descModelo": "300 3.6",
+      "descModeloStd": "300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002029"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333537",
+      "descModelo": "WRANGLER",
+      "descModeloStd": "WRANGLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014950",
+      "descModelo": "TOWN & COUNTRY 3.3 (2004)",
+      "descModeloStd": "TOWN & COUNTRY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001722"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324384",
+      "descModelo": "PT CRUISER\t\t\t\t\t",
+      "descModeloStd": "PT CRUISER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010459"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AZ",
+      "descModelo": "66",
+      "descModeloStd": "66",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269064",
+      "descModelo": "TOWN & COUNTRY",
+      "descModeloStd": "TOWN & COUNTRY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002296"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233541",
+      "descModelo": "CARAVAN 3.3 V6",
+      "descModeloStd": "CARAVAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001725"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233536",
+      "descModelo": "SEBRING 2.0 LE",
+      "descModeloStd": "SEBRING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001717"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AU",
+      "descModelo": "TOWN & COUNTRY 3.8",
+      "descModeloStd": "TOWN & COUNTRY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001729"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0180540",
+      "descModelo": "X-100 TRUCK",
+      "descModeloStd": "X-100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004287"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326076",
+      "descModelo": "CARAVAN LX CMTA",
+      "descModeloStd": "CARAVAN LX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0180252",
+      "descModelo": "LEBARON",
+      "descModeloStd": "LEBARON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0054596",
+      "descModelo": "VOYAGER",
+      "descModeloStd": "VOYAGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010205"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329567",
+      "descModelo": "LASER COUPE",
+      "descModeloStd": "LASER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233546",
+      "descModelo": "TOWN & COUNTRY 3.6",
+      "descModeloStd": "TOWN & COUNTRY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002083"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324486",
+      "descModelo": "PT CRUISER HB",
+      "descModeloStd": "PT CRUISER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328417",
+      "descModelo": "HEMI 300",
+      "descModeloStd": "HEMI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233544",
+      "descModelo": "300C 3.5",
+      "descModeloStd": "300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001728"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233542",
+      "descModelo": "PACIFICA TOURING 3.5 V6",
+      "descModeloStd": "PACIFICA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001726"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264105",
+      "descModelo": "TOWN & COUNTRY 3.6 VERSION AMERICANA",
+      "descModeloStd": "TOWN & COUNTRY ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000020002"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187467",
+      "descModelo": "TOWN COUNTRY",
+      "descModeloStd": "TOWN COUNTRY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A0",
+      "descModelo": "NEW YORKER",
+      "descModeloStd": "NEW YORKER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191933",
+      "descModelo": "PT CRUISER",
+      "descModeloStd": "PT CRUISER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330485",
+      "descModelo": "TOWN & COUNTRY CM",
+      "descModeloStd": "TOWN & COUNTRY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AN",
+      "descModelo": "K3600S",
+      "descModeloStd": "K3600S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010720"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0051796",
+      "descModelo": "VOYAGER 3.3 VERSION AMERICANA",
+      "descModeloStd": "VOYAGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001827"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191934",
+      "descModelo": "PT CRUISER",
+      "descModeloStd": "PT CRUISER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269434",
+      "descModelo": "PACIFICA TOURING 3.5",
+      "descModeloStd": "PACIFICA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002596"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188616",
+      "descModelo": "PT CRUISER CLASSIC 2.4",
+      "descModeloStd": "PT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001724"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0039296",
+      "descModelo": "NEW PORT",
+      "descModeloStd": "NEW PORT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268296",
+      "descModelo": "VOYAGER V.AMERICANA",
+      "descModeloStd": "VOYAGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001827"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233537",
+      "descModelo": "SEBRING 2.7 LX",
+      "descModeloStd": "SEBRING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001718"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334342",
+      "descModelo": "300S",
+      "descModeloStd": "300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008869"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CONVERTIBLE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 129,
+    "keyTipoVeh": "convertible",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229176",
+      "descModelo": "TOWN&COUNTRY",
+      "descModeloStd": "TOWN&COUNTRY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AP",
+      "descModelo": "LASER",
+      "descModeloStd": "LASER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333361",
+      "descModelo": "SEBRING LX",
+      "descModeloStd": "SEBRING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009631"
+    }
+  }
+]

@@ -1,0 +1,3962 @@
+[
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095680",
+      "descModelo": "307",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002077"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328134",
+      "descModelo": "9011 S",
+      "descModeloStd": "9011",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233775",
+      "descModelo": "307 T6 SW PACK 2.0",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001239"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233766",
+      "descModelo": "307 2.0 XT BREAK",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001219"
+    }
+  },
+  {
+    "tipoRie": "L1",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328466",
+      "descModelo": "405 AUTO",
+      "descModeloStd": "405 1.6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233758",
+      "descModelo": "605 2.0 SRI",
+      "descModeloStd": "605",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001207"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192723",
+      "descModelo": "207 COMPACT",
+      "descModeloStd": "207",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001811"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233781",
+      "descModelo": "308 2.0 TIPTRONIC",
+      "descModeloStd": "308",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001245"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326153",
+      "descModelo": "BERLINA 307 XR 1.6E\t",
+      "descModeloStd": "BERLINA 307 XR 1.6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CE",
+      "descModelo": "505",
+      "descModeloStd": "505",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0209859",
+      "descModelo": "BERLINE 406 ST",
+      "descModeloStd": "BERLINE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269295",
+      "descModelo": "306 XN",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332977",
+      "descModelo": "406 SR",
+      "descModeloStd": "406",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189954",
+      "descModelo": "CA5023XXY 1.0",
+      "descModeloStd": "CA5023XXY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001678"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233757",
+      "descModelo": "406 3.0 SV",
+      "descModeloStd": "406",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001206"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324465",
+      "descModelo": "BOXER RURAL",
+      "descModeloStd": "BOXER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233790",
+      "descModelo": "3008 1.6",
+      "descModeloStd": "3008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "9622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327153",
+      "descModelo": "6621 BREAK",
+      "descModeloStd": " 6621 BREAK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CJ",
+      "descModelo": "604",
+      "descModeloStd": "604",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000EN",
+      "descModelo": "306 1.8 CABRIOLET",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233778",
+      "descModelo": "807 2.0",
+      "descModeloStd": "807",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001242"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AL",
+      "descModelo": "205 GR",
+      "descModeloStd": "205",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233744",
+      "descModelo": "306 1.4 XN 5P.",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001186"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233753",
+      "descModelo": "406 2.0 COUPE",
+      "descModeloStd": "406",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001202"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263701",
+      "descModelo": "306 XR",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003032"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232761",
+      "descModelo": "301",
+      "descModeloStd": "301",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001850"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0209837",
+      "descModelo": "PARTNER MEC DIES",
+      "descModeloStd": "PARTNER MEC DIES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333522",
+      "descModelo": "5008 5008 ALLURE",
+      "descModeloStd": "5008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008379"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233737",
+      "descModelo": "206 1.6 XS",
+      "descModeloStd": "206",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001176"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A?",
+      "descModelo": "405 GR BREAK",
+      "descModeloStd": "205",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001173"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233756",
+      "descModelo": "406 2.0 ST",
+      "descModeloStd": "406",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001205"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014957",
+      "descModelo": "407 SR 2.0 SW",
+      "descModeloStd": "407",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001231"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327352",
+      "descModelo": "2008 ALLURE",
+      "descModeloStd": "2008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005901"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191245",
+      "descModelo": "3008 1.6",
+      "descModeloStd": "3008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009011"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233738",
+      "descModelo": "306 1.4 BREAK XN",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001179"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233742",
+      "descModelo": "306 1.8 ST",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001184"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196422",
+      "descModelo": "2006",
+      "descModeloStd": "2006",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002910"
+    }
+  },
+  {
+    "tipoRie": "L12",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321782",
+      "descModelo": "BOXER AMB",
+      "descModeloStd": "BOXER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009600"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270944",
+      "descModelo": "206 HATCHBACK",
+      "descModeloStd": "206",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234472",
+      "descModelo": "301 1.6",
+      "descModeloStd": "301",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009267"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233750",
+      "descModelo": "306 1.8 XT 3P.",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001193"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233779",
+      "descModelo": "207 1.6",
+      "descModeloStd": "207",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001243"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014962",
+      "descModelo": "206 1.4 XT",
+      "descModeloStd": "206",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001224"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000B4",
+      "descModelo": "106",
+      "descModeloStd": "106",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233009",
+      "descModelo": "208 ALLURE",
+      "descModeloStd": "208",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002362"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233776",
+      "descModelo": "307 SEDAN 1.6",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001240"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233783",
+      "descModelo": "207 1.6 SEDAN",
+      "descModeloStd": "207",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001248"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325058",
+      "descModelo": "505 SX RURAL",
+      "descModeloStd": "505 SX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BZ",
+      "descModelo": "405 SRI",
+      "descModeloStd": "405",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233747",
+      "descModelo": "306 1.8 XR 5P",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001189"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264823",
+      "descModelo": "PARNER ORIGIN",
+      "descModeloStd": "PARNER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231349",
+      "descModelo": "3008 1.6 (156 HP)",
+      "descModeloStd": "3008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002117"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234079",
+      "descModelo": "508 1.6 TURBO TIP",
+      "descModeloStd": "508",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002269"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233752",
+      "descModelo": "406 ST 2.0 BREAK",
+      "descModeloStd": "406",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001201"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233765",
+      "descModelo": "307 1.6 XR BREAK",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001218"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231620",
+      "descModelo": "508 1.6 TURBO",
+      "descModeloStd": "508",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002067"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0209556",
+      "descModelo": "203",
+      "descModeloStd": "205",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330352",
+      "descModelo": "3008 ALLURE 1.6",
+      "descModeloStd": "3008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006722"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233762",
+      "descModelo": "307 1.6 XR",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001215"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0001981",
+      "descModelo": "307",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188140",
+      "descModelo": "308 CC",
+      "descModeloStd": "308",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0171460",
+      "descModelo": "206",
+      "descModeloStd": "206",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268757",
+      "descModelo": "FARNERT TEPEE VTC",
+      "descModeloStd": "FARNERT TEPEE VTC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002055"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000GG",
+      "descModelo": "306 SR",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005730"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320871",
+      "descModelo": "305",
+      "descModeloStd": "305",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320030",
+      "descModelo": "6511 SW",
+      "descModeloStd": "6511",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178228",
+      "descModelo": "308",
+      "descModeloStd": "308",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001178"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BV",
+      "descModelo": "306 XN/98",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001463"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233774",
+      "descModelo": "307 T6 X-LINE 1.6 BREAK",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001238"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000EK",
+      "descModelo": "205 1.4",
+      "descModeloStd": "205",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001172"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269439",
+      "descModelo": "PARTNER VU",
+      "descModeloStd": "PARTNER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002604"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321041",
+      "descModelo": "405 GR/95",
+      "descModeloStd": "405 GR/95",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235415",
+      "descModelo": "207",
+      "descModeloStd": "207",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002860"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330327",
+      "descModelo": "306 XN197",
+      "descModeloStd": "306 XN197",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190950",
+      "descModelo": "3008",
+      "descModeloStd": "3008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233759",
+      "descModelo": "605 3.0 SV",
+      "descModeloStd": "605",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001208"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267139",
+      "descModelo": "306",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0072077",
+      "descModelo": "307",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014961",
+      "descModelo": "406 2.2 COUPE",
+      "descModeloStd": "406",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001225"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233748",
+      "descModelo": "306 1.8 XR SEDAN",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001190"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0012096",
+      "descModelo": "404 BREAK",
+      "descModeloStd": "404",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000834"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178507",
+      "descModelo": "207 1.4 HB",
+      "descModeloStd": "207",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001246"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233208",
+      "descModelo": "206 2.0 S16",
+      "descModeloStd": "206",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001174"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0185793",
+      "descModelo": "PEUGEOT",
+      "descModeloStd": "PEUGEOT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002153"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233741",
+      "descModelo": "306 2.0 S16",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001183"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233755",
+      "descModelo": "406 1.8 SR",
+      "descModeloStd": "406",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001204"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233209",
+      "descModelo": "206 1.4 XR",
+      "descModeloStd": "206",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001175"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332293",
+      "descModelo": "405",
+      "descModeloStd": "405",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007693"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233767",
+      "descModelo": "206 1.6 CC",
+      "descModeloStd": "206",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001220"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194983",
+      "descModelo": "TEPEE 1.6",
+      "descModeloStd": "TEPEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001950"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233772",
+      "descModelo": "307 T6 X-LINE 1.6 5P",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001236"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233789",
+      "descModelo": "308 1.6 TIP (120 HP)",
+      "descModeloStd": "308",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001947"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328012",
+      "descModelo": "5008 GT LINE",
+      "descModeloStd": "5008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006183"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330180",
+      "descModelo": "BOXER MICROBUS",
+      "descModeloStd": "Boxer",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272636",
+      "descModelo": "GU813E",
+      "descModeloStd": "GU813E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326677",
+      "descModelo": "605 SR//SD",
+      "descModeloStd": "605 SR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233746",
+      "descModelo": "306 1.4 XR 5P.",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001188"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328467",
+      "descModelo": "405 1.6 AT SD",
+      "descModeloStd": "405",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001247"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324039",
+      "descModelo": "504 SEDAN",
+      "descModeloStd": "504",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014956",
+      "descModelo": "407 SPORT 2.0 SW",
+      "descModeloStd": "407",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001230"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233206",
+      "descModelo": "106 2.0 RALLY",
+      "descModeloStd": "106",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001170"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233760",
+      "descModelo": "806 1.9 SR TD",
+      "descModeloStd": "806",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001209"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233207",
+      "descModelo": "106 1.1 XN",
+      "descModeloStd": "106",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001171"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329300",
+      "descModelo": "405 GR SW",
+      "descModeloStd": "405 GR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328461",
+      "descModelo": "405 1.6 SEDAN",
+      "descModeloStd": "405 1.6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004641"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332540",
+      "descModelo": "306 S16",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007824"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233785",
+      "descModelo": "PARTNER 1.6 GASOLINA.",
+      "descModeloStd": "PARTNER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001250"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267812",
+      "descModelo": "208 ALLURE XY",
+      "descModeloStd": "208",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001588"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326998",
+      "descModelo": "3008 GT-LINE1.6 AT 165HP\t\t\t\t\t",
+      "descModeloStd": "3008 GT-LINE1.6 AT 165HP\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005777"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331650",
+      "descModelo": "NEW 2008",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007315"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324794",
+      "descModelo": "306 XN/98\t\t\t\t\t SW",
+      "descModeloStd": "306 XN/98\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233773",
+      "descModelo": "307 T6 XT 2.0 5P",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001237"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000EO",
+      "descModelo": "306 2.0 CABRIOLET",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001178"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193216",
+      "descModelo": "BOXER",
+      "descModeloStd": "BOXER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009600"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193708",
+      "descModelo": "207 CC 1.6",
+      "descModeloStd": "207",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001945"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190955",
+      "descModelo": "TEPEE",
+      "descModeloStd": "TEPEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267787",
+      "descModelo": "BERLINGO",
+      "descModeloStd": "BERLINGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001570"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233787",
+      "descModelo": "407 2.0  ",
+      "descModeloStd": "407",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001839"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321165",
+      "descModelo": "306 SR/96 SD",
+      "descModeloStd": "306 SR/96",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328612",
+      "descModelo": "306 XR/98 SEDAN",
+      "descModeloStd": "306 XR/98",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320082",
+      "descModelo": "BOXER",
+      "descModeloStd": "BOXER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233780",
+      "descModelo": "308 1.6",
+      "descModeloStd": "308",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001244"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0185607",
+      "descModelo": "207 COMPACT",
+      "descModeloStd": "207",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002926"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233754",
+      "descModelo": "406 3.0 COUPE",
+      "descModeloStd": "406",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001203"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0248671",
+      "descModelo": "BERLINA 406-SR 1.7C",
+      "descModeloStd": "BERLINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194027",
+      "descModelo": "106 XN/98",
+      "descModeloStd": "106",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003902"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BK",
+      "descModelo": "404",
+      "descModeloStd": "404",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335000",
+      "descModelo": "BIPPER CMTA",
+      "descModeloStd": "BIPPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219710",
+      "descModelo": "3008",
+      "descModeloStd": "3008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001608"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334528",
+      "descModelo": "NEW 2088",
+      "descModeloStd": "PEUGEOT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009016"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DJ",
+      "descModelo": "PARTNER",
+      "descModeloStd": "PARTNER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010583"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328725",
+      "descModelo": "306 XR HATCHBACK",
+      "descModeloStd": "306 XR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331197",
+      "descModelo": "PICKUP KP1",
+      "descModeloStd": "PICKUP ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007084"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332674",
+      "descModelo": "LANDTRECK",
+      "descModeloStd": "LANDTRECK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007084"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328649",
+      "descModelo": "PARTNER RURAL",
+      "descModeloStd": "PARTNER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BH",
+      "descModelo": "309-GL",
+      "descModeloStd": "309",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332184",
+      "descModelo": "KP1",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A8",
+      "descModelo": "206 XR",
+      "descModeloStd": "206",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273586",
+      "descModelo": "206 1.4",
+      "descModeloStd": "206",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014959",
+      "descModelo": "407 SPORT 3.0",
+      "descModeloStd": "407",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001233"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178416",
+      "descModelo": " 308 SEDAN",
+      "descModeloStd": "308",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004641"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0019040",
+      "descModelo": "406 ST 2001",
+      "descModeloStd": "406",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001390"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0244406",
+      "descModelo": "BERLINE 206 XR PRESENCE 1.4E 2000",
+      "descModeloStd": "BERLINE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333819",
+      "descModelo": "BOXER PICK UP",
+      "descModeloStd": "BOXER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191246",
+      "descModelo": "RCZ",
+      "descModeloStd": "RCZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009012"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "9",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329235",
+      "descModelo": "TRAVELLER NAVETTE L3 2.0",
+      "descModeloStd": "TRAVELLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006549"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233740",
+      "descModelo": "306 2.0 BREAK XT",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001182"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273039",
+      "descModelo": "206 1.6 RC (180 HP)",
+      "descModeloStd": "206 1.6 RC (180 HP)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233745",
+      "descModelo": "306 1.4 XN SEDAN",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001187"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334950",
+      "descModelo": "PARTNER 1.6 DIESEL LARGA",
+      "descModeloStd": "PARTNER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009246"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014954",
+      "descModelo": "407 SR 2.0",
+      "descModeloStd": "407",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001228"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321257",
+      "descModelo": "360 XN/95",
+      "descModeloStd": "360",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327731",
+      "descModelo": "2008 ALLURE 1.2",
+      "descModeloStd": "2008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006097"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0181730",
+      "descModelo": "306 SR",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001183"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269036",
+      "descModelo": "208 ALLURE 1.2",
+      "descModeloStd": "208",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002252"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233784",
+      "descModelo": "308 2.0 SW",
+      "descModeloStd": "308",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001249"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234078",
+      "descModelo": "5008 1.6 (156 HP)",
+      "descModeloStd": "5008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002268"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320219",
+      "descModelo": "403 SEDAN",
+      "descModeloStd": "403",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233771",
+      "descModelo": "307 2.0 FELINE",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001235"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095049",
+      "descModelo": "607 3.0",
+      "descModeloStd": "607",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001223"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000FJ",
+      "descModelo": "405 2.0",
+      "descModeloStd": "405",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001199"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265152",
+      "descModelo": "RCZ 1.6 TURBO",
+      "descModeloStd": "RCZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001949"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233769",
+      "descModelo": "206 2.0 RC (180 HP)",
+      "descModeloStd": "206",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001226"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0226519",
+      "descModelo": "5008",
+      "descModeloStd": "5008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009521"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AE",
+      "descModelo": "607 2.2",
+      "descModeloStd": "607",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001222"
+    }
+  },
+  {
+    "tipoRie": "L12",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "AMBULANCIA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 10,
+    "keyClaseVeh": "ambulance",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267212",
+      "descModelo": "BOXER AMBULANCIA",
+      "descModeloStd": "BOXER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009600"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274147",
+      "descModelo": "2008 RURAL",
+      "descModeloStd": "2008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234435",
+      "descModelo": "306 XR",
+      "descModeloStd": "306 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0053016",
+      "descModelo": "PARTNER 1.7",
+      "descModeloStd": "PARTNER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003820"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232415",
+      "descModelo": "208",
+      "descModeloStd": "208",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009586"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0017409",
+      "descModelo": "307 SW 2.0",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001227"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0209880",
+      "descModelo": "BERLINA 206 XR 1.4 AT",
+      "descModeloStd": "BERLINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219999",
+      "descModelo": "508",
+      "descModeloStd": "508",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004305"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332248",
+      "descModelo": "KP1 A1",
+      "descModeloStd": "K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329297",
+      "descModelo": "405 RURAL",
+      "descModeloStd": "405",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232734",
+      "descModelo": "208 1.6 HB",
+      "descModeloStd": "208",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009258"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014955",
+      "descModelo": "407 SPORT 2.2",
+      "descModeloStd": "407",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001229"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BL",
+      "descModelo": "405",
+      "descModeloStd": "405",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324910",
+      "descModelo": "306 XND CMTA",
+      "descModeloStd": "306 XND",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000FK",
+      "descModelo": "405 2.0 BREAK",
+      "descModeloStd": "405",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001200"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0052178",
+      "descModelo": "407",
+      "descModeloStd": "407",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004418"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231350",
+      "descModelo": "3008 1.6  (120 HP)",
+      "descModeloStd": "3008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002116"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270939",
+      "descModelo": "207 COMPACT 1.4",
+      "descModeloStd": "207",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003338"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233743",
+      "descModelo": "306 1.4 XN 3P.",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001185"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0026810",
+      "descModelo": "307 1.6 SW",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233782",
+      "descModelo": "207 1.4 SEDAN",
+      "descModeloStd": "207",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001247"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188302",
+      "descModelo": "2008",
+      "descModeloStd": "2008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002030"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233777",
+      "descModelo": "307 XT 2.0",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001241"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AM",
+      "descModelo": "205 1.9 GTI",
+      "descModeloStd": "205",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001173"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233751",
+      "descModelo": "306 2.0 XT",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001194"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0239782",
+      "descModelo": "306 XRDT/98",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001332"
+    }
+  },
+  {
+    "tipoRie": "L1",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328463",
+      "descModelo": "405 1.6 SD",
+      "descModeloStd": "405 1.6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001247"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233764",
+      "descModelo": "307 2.0 XR HDI",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001217"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233788",
+      "descModelo": "308 1.6 (156 HP)",
+      "descModeloStd": "308",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001946"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233763",
+      "descModelo": "307 2.0 XSI",
+      "descModeloStd": "307",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001216"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233768",
+      "descModelo": "206 2.0 CC",
+      "descModeloStd": "206",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001221"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267614",
+      "descModelo": "208 ACTIVE 1.2",
+      "descModeloStd": "208",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001470"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270255",
+      "descModelo": "505-SR 1.0",
+      "descModeloStd": "505-SR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325524",
+      "descModelo": "TRAVELLER",
+      "descModeloStd": "TRAVELLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324549",
+      "descModelo": "ADVANCE BOXER",
+      "descModeloStd": "ADVANCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324775",
+      "descModelo": "BERLINE GRAND",
+      "descModeloStd": "BERLINE GRAND",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266117",
+      "descModelo": "EXPERT",
+      "descModeloStd": "EXPERT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010510"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333957",
+      "descModelo": "NEW 2008 SUV",
+      "descModeloStd": "NEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "1",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191503",
+      "descModelo": "PARTNER ORIGIN",
+      "descModeloStd": "PARTNER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001678"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328949",
+      "descModelo": "BOXER M",
+      "descModeloStd": "BOXER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000GF",
+      "descModelo": "BERLINA 505 SR",
+      "descModeloStd": "BERLINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009539"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233749",
+      "descModelo": "306 1.9 XR TD 5P.",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001191"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320290",
+      "descModelo": "206 CUPE CABRIO MEC 1.6",
+      "descModeloStd": "206",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321339",
+      "descModelo": "3008 CR",
+      "descModeloStd": "3008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325592",
+      "descModelo": "403 SW",
+      "descModeloStd": "403",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0209609",
+      "descModelo": "306 XR AUTOMATIQUE",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233739",
+      "descModelo": "306 1.8 BREAK XT",
+      "descModeloStd": "306",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001181"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233761",
+      "descModelo": "806 2.0 SR",
+      "descModeloStd": "806",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001210"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328462",
+      "descModelo": "405 1.6 AUTO",
+      "descModeloStd": "405 1.6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324087",
+      "descModelo": "907",
+      "descModeloStd": "907",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009622"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0174047",
+      "descModelo": "206",
+      "descModeloStd": "206",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001987"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265997",
+      "descModelo": "207 COMPACT 1.3",
+      "descModeloStd": "207",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010994"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000FD",
+      "descModelo": "405 1.8",
+      "descModeloStd": "405",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001197"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334127",
+      "descModelo": "2008 GT LINE 1.2 PURETECH 130 AT6",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008737"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000FB",
+      "descModelo": "405 1.6",
+      "descModeloStd": "405",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001195"
+    }
+  }
+]

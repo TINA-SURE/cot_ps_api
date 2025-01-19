@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210028",
+      "descModelo": "SZS5023XXY-D",
+      "descModeloStd": "SZS5023XXY-D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210030",
+      "descModelo": "SZS6503D1G",
+      "descModeloStd": "SZS6503D1G",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "4",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333260",
+      "descModelo": "SZS5023XXY-D CC",
+      "descModeloStd": "SZS5023XXY-D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001655"
+    }
+  }
+]

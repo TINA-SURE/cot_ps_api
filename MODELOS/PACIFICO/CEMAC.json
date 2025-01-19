@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AB",
+      "descModelo": "NACIONAL STANDARD",
+      "descModeloStd": "NACIONAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001546"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271644",
+      "descModelo": "NACIONAL",
+      "descModeloStd": "NACIONAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003699"
+    }
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AC",
+      "descModelo": "KADETT",
+      "descModeloStd": "KADETT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009670"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0209449",
+      "descModelo": "COMMODORE",
+      "descModeloStd": "COMMODORE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009670"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0209453",
+      "descModelo": "CORSA",
+      "descModeloStd": "CORSA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009670"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AH",
+      "descModelo": "RECORD",
+      "descModeloStd": "K113",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009670"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325840",
+      "descModelo": "CARAVAN REMO",
+      "descModeloStd": "CARAVAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009670"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328255",
+      "descModelo": "FRONTERA RURAL",
+      "descModeloStd": "FRONTERA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009670"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323673",
+      "descModelo": "KADETT C",
+      "descModeloStd": "KADETT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009670"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323963",
+      "descModelo": "CARAVAN",
+      "descModeloStd": "CARAVAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009670"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327115",
+      "descModelo": "REKORD CARAVAN SW",
+      "descModeloStd": "REKORD CARAVAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009670"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328342",
+      "descModelo": "ASTRA S",
+      "descModeloStd": "ASTRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009670"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AB",
+      "descModelo": "ASCONA",
+      "descModeloStd": "ASCONA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009670"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0209481",
+      "descModelo": "MERIVA",
+      "descModeloStd": "MERIVA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001414"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0209499",
+      "descModelo": "OMEGA",
+      "descModeloStd": "OMEGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009670"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AP",
+      "descModelo": "KADETT CARAVAN",
+      "descModeloStd": "KADETT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009670"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321143",
+      "descModelo": "REKORD SEDAN",
+      "descModeloStd": "REKORD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009670"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "6",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327396",
+      "descModelo": "L-510",
+      "descModeloStd": "L-",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009670"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "6",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0209525",
+      "descModelo": "REKORD-OLIMPIA",
+      "descModeloStd": "REKORD-OLIMPIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009670"
+    }
+  }
+]

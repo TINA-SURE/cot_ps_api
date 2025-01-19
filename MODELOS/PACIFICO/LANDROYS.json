@@ -1,0 +1,128 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329180",
+      "descModelo": "MAX TRI PASAJEROS",
+      "descModeloStd": "MAX TRI PASAJEROS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005980"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328628",
+      "descModelo": "SUPER LUJO 250",
+      "descModeloStd": "SUPER LUJO 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005980"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332501",
+      "descModelo": "LR7 300",
+      "descModeloStd": "LR7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005980"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327748",
+      "descModelo": "JOU ESPARTANO",
+      "descModeloStd": "250 (TRI CARGA)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005980"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327918",
+      "descModelo": "250 CC",
+      "descModeloStd": "250 TRI CARGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005980"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327919",
+      "descModelo": "250CC",
+      "descModeloStd": "250 TRI CARGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005980"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329181",
+      "descModelo": "MAX 5-200",
+      "descModeloStd": "MAX TRI PASAJEROS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005980"
+    }
+  }
+]

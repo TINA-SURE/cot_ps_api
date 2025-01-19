@@ -1,0 +1,506 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332383",
+      "descModelo": "SPEED K2",
+      "descModeloStd": "SPEED",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222667",
+      "descModelo": "COSMOS PRIVATE",
+      "descModeloStd": "COSMOS AM818",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168431",
+      "descModelo": "AM 808",
+      "descModeloStd": "AM 808",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000072"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS URBANO",
+    "numPue": "34",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 75,
+    "keyClaseVeh": "omniBusUrbano",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264630",
+      "descModelo": "COSMOS AM818",
+      "descModeloStd": "COSMOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321020",
+      "descModelo": "TOPIC PICK",
+      "descModeloStd": "TOPIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095477",
+      "descModelo": "SEGÚN TARJ PROP",
+      "descModeloStd": "SEGÚN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000078"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AN",
+      "descModelo": "TOWNER",
+      "descModeloStd": "TOWNER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0225657",
+      "descModelo": "LIGHT BUS AM808",
+      "descModeloStd": "LIGHT BUS AM808",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273807",
+      "descModelo": "AM518CL",
+      "descModeloStd": "AM518CL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AP",
+      "descModelo": "COMBI",
+      "descModeloStd": "COMBI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AH",
+      "descModelo": "TOPIC",
+      "descModeloStd": "TOPIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0277228",
+      "descModelo": "CARGO",
+      "descModeloStd": "CARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AL",
+      "descModelo": "TOWNER VAN",
+      "descModeloStd": "TOWNER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002578"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095805",
+      "descModelo": "COMBI AM815",
+      "descModeloStd": "COMBI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000076"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271536",
+      "descModelo": "ZTP1042W",
+      "descModeloStd": "ZTP1042W",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325472",
+      "descModelo": "FZ200 HUNTER",
+      "descModeloStd": "FZ200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0029035",
+      "descModelo": "AM825 COMBI",
+      "descModeloStd": "AM825 COMBI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000073"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330648",
+      "descModelo": "TOPIC AUTO",
+      "descModeloStd": "TOPIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "32",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330960",
+      "descModelo": "COSMOS AM818 MINIBUS",
+      "descModeloStd": "COSMOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320995",
+      "descModelo": "ALTANERO 200",
+      "descModeloStd": "ALTANERO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "25",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331297",
+      "descModelo": "COMBI MINIBUS",
+      "descModeloStd": "COMBI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "9",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327706",
+      "descModelo": "TOPIC RURAL",
+      "descModeloStd": "TOPIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272103",
+      "descModelo": "P113H",
+      "descModeloStd": "P113H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331940",
+      "descModelo": "NBF2",
+      "descModeloStd": "NBF2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "34",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095302",
+      "descModelo": "COSMOS AM818",
+      "descModeloStd": "COSMOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000077"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168575",
+      "descModelo": "COMBI AH-815",
+      "descModeloStd": "COMBI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000075"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325550",
+      "descModelo": "COMBI RURAL",
+      "descModeloStd": "COMBI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322905",
+      "descModelo": "AM102 ROCSTA JEEP RURAL",
+      "descModeloStd": "AM102 ROCSTA JEEP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  }
+]

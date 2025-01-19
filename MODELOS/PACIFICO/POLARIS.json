@@ -1,0 +1,146 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329191",
+      "descModelo": "RZR9004X4VM1",
+      "descModeloStd": "RZR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003864"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323956",
+      "descModelo": "RANGER MOTO",
+      "descModeloStd": "RANGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011058"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333859",
+      "descModelo": "SLINGSHOT T17AARFARE",
+      "descModeloStd": "SLINGSHOT T17AARFARE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007073"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CUATRIMOTO",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 32,
+    "keyClaseVeh": "quad",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331170",
+      "descModelo": "SPORTSMAN",
+      "descModeloStd": "SPORTSMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007073"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328344",
+      "descModelo": "RANGER CREW",
+      "descModeloStd": "RANGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003864"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CUATRIMOTO",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 32,
+    "keyClaseVeh": "quad",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266184",
+      "descModelo": "RZR XP4 1000",
+      "descModeloStd": "RZR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011058"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193354",
+      "descModelo": "SPORTSMAN 550EPS",
+      "descModeloStd": "SPORTSMAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003864"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CUATRIMOTO",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 32,
+    "keyClaseVeh": "quad",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271998",
+      "descModelo": "RANGER",
+      "descModeloStd": "RANGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003864"
+    }
+  }
+]

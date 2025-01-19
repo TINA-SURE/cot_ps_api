@@ -1,0 +1,92 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221677",
+      "descModelo": "W10",
+      "descModeloStd": "W10",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004199"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328700",
+      "descModelo": "CBR",
+      "descModeloStd": "CBR MOTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004199"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0251057",
+      "descModelo": "CUSTOM-VAN 1.1",
+      "descModeloStd": "CUSTOM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004199"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232832",
+      "descModelo": "CUSTOM VAN",
+      "descModeloStd": "CUSTOM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004199"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "28",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222454",
+      "descModelo": "CITY BUS 008",
+      "descModeloStd": "CITY BUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004689"
+    }
+  }
+]

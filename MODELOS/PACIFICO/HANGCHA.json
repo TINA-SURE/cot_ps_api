@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330563",
+      "descModelo": "CPCD100-RW28 CAMION",
+      "descModeloStd": "CPCD100-RW28",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005617"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328392",
+      "descModelo": "CPQD30N-RW22",
+      "descModeloStd": "CPQD30N-RW22",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005617"
+    }
+  }
+]

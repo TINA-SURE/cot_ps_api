@@ -1,0 +1,4142 @@
+[
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331832",
+      "descModelo": "9800 60E405",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007423"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333247",
+      "descModelo": "TITAN 60 BLENDER C",
+      "descModeloStd": "TITAN 60 BLENDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "23",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332885",
+      "descModelo": "3100 4X2 BUS CHASSIS",
+      "descModeloStd": "3100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168189",
+      "descModelo": "7400 SBA 6X4",
+      "descModeloStd": "7400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000328"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0025966",
+      "descModelo": "7400 6X2",
+      "descModeloStd": "7400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000249"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0017268",
+      "descModelo": "PAYSTAR 5000",
+      "descModeloStd": "PAYSTAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269740",
+      "descModelo": "7300",
+      "descModeloStd": "7300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267171",
+      "descModelo": "9800I 6X4 405HP",
+      "descModeloStd": "9800I 6X4 405HP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178890",
+      "descModelo": "7400SBA 4X2",
+      "descModeloStd": "7400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000329"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330181",
+      "descModelo": "MV607 SBA",
+      "descModeloStd": "MV607",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323105",
+      "descModelo": "1723",
+      "descModeloStd": "17",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228229",
+      "descModelo": "97006X4",
+      "descModeloStd": "9700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267065",
+      "descModelo": "P310",
+      "descModeloStd": "P310",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267740",
+      "descModelo": "5600",
+      "descModeloStd": "5600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266928",
+      "descModelo": "PAYSTAR  6X6",
+      "descModeloStd": "PAYSTAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001100"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223264",
+      "descModelo": "5600I 6X4",
+      "descModeloStd": "5600I",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004322"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190668",
+      "descModelo": "S1954",
+      "descModeloStd": "S1954",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000820"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193625",
+      "descModelo": "8600 SBA 6X4",
+      "descModeloStd": "8600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001996"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332259",
+      "descModelo": "CE09700",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007671"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272384",
+      "descModelo": "4300 SBA 4X2 2012",
+      "descModeloStd": "4300 SBA 4X2 2012",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003971"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0008475",
+      "descModelo": "9670 6X4",
+      "descModeloStd": "9670",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002919"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176494",
+      "descModelo": "9600",
+      "descModeloStd": "9600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328882",
+      "descModelo": "LOADSTAR 1600 CAMION",
+      "descModeloStd": "LOADSTAR 1600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333753",
+      "descModelo": "COF 7370",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008512"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327817",
+      "descModelo": "2574(6X4)",
+      "descModeloStd": "2574(6x4)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COMPACTADOR",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 154,
+    "keyTipoVeh": "compact",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324222",
+      "descModelo": "4400 SBA 4X2 COM",
+      "descModeloStd": "4400 SBA 4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273518",
+      "descModelo": "LAND CRUISER PRADO",
+      "descModeloStd": "LAND CRUISER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265910",
+      "descModelo": "7600 SBA 6X4 C",
+      "descModeloStd": "7600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272088",
+      "descModelo": "DIESEL 284",
+      "descModeloStd": "DIESEL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268556",
+      "descModelo": "NON SLEEPER IHC F2275",
+      "descModeloStd": "NON SLEEPER IHC F2275",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320653",
+      "descModelo": "S1954 C",
+      "descModeloStd": "S1954",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "REMOLCADOR",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 22,
+    "keyTipoVeh": "tug",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0179063",
+      "descModelo": "7600SBO6X4",
+      "descModeloStd": "76600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000333"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0179399",
+      "descModelo": "4400 6X4",
+      "descModeloStd": "4400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002567"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "REMOLCADOR",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 22,
+    "keyTipoVeh": "tug",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0181451",
+      "descModelo": "9670",
+      "descModeloStd": "9670",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000341"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265688",
+      "descModelo": "4300 SBA 6X2",
+      "descModeloStd": "4300 SBA 6X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001795"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AB",
+      "descModelo": " 9670",
+      "descModeloStd": "STAKE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000324"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321309",
+      "descModelo": "F-2675",
+      "descModeloStd": "F-2675",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323171",
+      "descModelo": "S2275",
+      "descModeloStd": "S2275",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0184299",
+      "descModelo": "1600",
+      "descModeloStd": "1600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329572",
+      "descModelo": "INTERNATIONAL CC",
+      "descModeloStd": "INTERNATIONAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334527",
+      "descModelo": "NAVISTAR 9700",
+      "descModeloStd": "NAVISTAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009015"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333910",
+      "descModelo": "LTLS 9000",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008604"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194116",
+      "descModelo": "IHC-9700",
+      "descModeloStd": "IHC 9700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004583"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0066296",
+      "descModelo": "9200I",
+      "descModeloStd": "9200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000336"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "QUILLA",
+    "claseVeh": "CAMION",
+    "numPue": "6",
+    "idTipoVeh": 29,
+    "keyTipoVeh": "keel",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332459",
+      "descModelo": "4300 SBA 4X2 Q",
+      "descModeloStd": "4300 SBA 4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331833",
+      "descModelo": "9400",
+      "descModeloStd": "9400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007424"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270222",
+      "descModelo": "S0F7670",
+      "descModeloStd": "S0F7670",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003026"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0000081",
+      "descModelo": "S/M",
+      "descModeloStd": "S/M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003390"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220282",
+      "descModelo": "7300SFA 4X4",
+      "descModeloStd": "7300SFA 4X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001149"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333216",
+      "descModelo": "9700 BARANDA",
+      "descModeloStd": "9700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332355",
+      "descModelo": "LT625 6X4 RM",
+      "descModeloStd": "LT625 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269707",
+      "descModelo": "LONESTAR SFA",
+      "descModeloStd": "LONESTAR SFA 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002776"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330950",
+      "descModelo": "TRANSTAN II",
+      "descModeloStd": "TRANSTAN ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006957"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "43",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332003",
+      "descModelo": "M-S1800",
+      "descModeloStd": "M-S1800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322951",
+      "descModelo": "C96CFO",
+      "descModeloStd": "C96CFO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266929",
+      "descModelo": "PAYSTAR 6X4",
+      "descModeloStd": "PAYSTAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001101"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266514",
+      "descModelo": "F2275 6X4",
+      "descModeloStd": "F2275",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263288",
+      "descModelo": "4300 4X2 2004",
+      "descModeloStd": "4300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178246",
+      "descModelo": "9200ISBA6X4",
+      "descModeloStd": "9200ISBA6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000337"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0010149",
+      "descModelo": "4300 4X2 SBA",
+      "descModeloStd": "4300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000245"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321094",
+      "descModelo": "4900 CAMION",
+      "descModeloStd": "4900",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267463",
+      "descModelo": "2110-JD",
+      "descModeloStd": "2110-JD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271138",
+      "descModelo": "PROSTAR+ 122 6X4",
+      "descModeloStd": "PROSTA + 122 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003455"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0024584",
+      "descModelo": "5600I",
+      "descModeloStd": "5600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000248"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188011",
+      "descModelo": "WORKSTAR",
+      "descModeloStd": "WORKSTAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000350"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0183976",
+      "descModelo": "7600 SBA 8X4",
+      "descModeloStd": "7600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000332"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267407",
+      "descModelo": "D0976006X4",
+      "descModeloStd": "D0976006X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001371"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271310",
+      "descModelo": "COS 9670",
+      "descModeloStd": "COS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0010671",
+      "descModelo": "SUNRAY 2.8",
+      "descModeloStd": "SUNRAY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333887",
+      "descModelo": "WORKSTAR CC",
+      "descModeloStd": "WORKSTAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BA",
+      "descModelo": "9200",
+      "descModeloStd": "9200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000323"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BQ",
+      "descModelo": "F2275",
+      "descModeloStd": "F2275",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330872",
+      "descModelo": "COF9-9670",
+      "descModeloStd": "COF9-9670",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006912"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325714",
+      "descModelo": "7400 CV",
+      "descModeloStd": "7400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264298",
+      "descModelo": "9200I SBA 8X4",
+      "descModeloStd": "9200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000132"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324659",
+      "descModelo": "7600SBA 4X2",
+      "descModeloStd": "7600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005102"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273836",
+      "descModelo": "1654",
+      "descModeloStd": "1654",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326116",
+      "descModelo": "9900I SFA 6X4",
+      "descModeloStd": "9900I SFA 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005532"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268452",
+      "descModelo": "K1OOE",
+      "descModeloStd": "K1OOE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001908"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228697",
+      "descModelo": "440 SBA 6X4",
+      "descModeloStd": "440",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004026"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330372",
+      "descModelo": "C0F 4070B",
+      "descModeloStd": "C0F ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006730"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264696",
+      "descModelo": "4300 SBA 4X2",
+      "descModeloStd": "4300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0010958",
+      "descModelo": "7600 6X4",
+      "descModeloStd": "7600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002985"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A2",
+      "descModelo": "TRUCK",
+      "descModeloStd": "TRUCK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264569",
+      "descModelo": "7400",
+      "descModeloStd": "7400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193868",
+      "descModelo": "4400 SBA 6X4",
+      "descModeloStd": "4400 SBA 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000247"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AT",
+      "descModelo": "S-1800",
+      "descModeloStd": "S-1800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271222",
+      "descModelo": "F-9670",
+      "descModeloStd": "F-9670",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AS",
+      "descModelo": "S-1700",
+      "descModeloStd": "S-1700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335081",
+      "descModelo": "RH613 6X4",
+      "descModeloStd": "RH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009311"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS INTERURBANO",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 73,
+    "keyClaseVeh": "omniBusInterurbano",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228862",
+      "descModelo": "IC BUS FE C CHASSIS",
+      "descModeloStd": "IC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010259"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0295157",
+      "descModelo": "7300 SBA 4X2",
+      "descModeloStd": "7300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006353"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0184100",
+      "descModelo": "7600",
+      "descModeloStd": "7600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000322"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "PLATAFORMA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 27,
+    "keyTipoVeh": "platform",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327806",
+      "descModelo": "S2001 SBA 6X4",
+      "descModeloStd": "S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006118"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334039",
+      "descModelo": "HV607 SBA 6X4 C",
+      "descModeloStd": "HV607",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265481",
+      "descModelo": "7600 SBA 6X4 M",
+      "descModeloStd": "7600 SBA 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0026246",
+      "descModelo": "7400 4X2",
+      "descModeloStd": "7400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000327"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AV",
+      "descModelo": "S-1954",
+      "descModeloStd": "S-1954",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000693"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CAMION",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 163,
+    "keyTipoVeh": "truck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232076",
+      "descModelo": "COF-9600",
+      "descModeloStd": "COF-9600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000254"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "COMPACTADOR",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 154,
+    "keyTipoVeh": "compact",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330794",
+      "descModelo": "4400 SBA 4X2",
+      "descModeloStd": "4400 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006874"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267623",
+      "descModelo": "F7325",
+      "descModeloStd": "F7325",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327168",
+      "descModelo": "F40 9800I 6X4 405 HP\t\t\t\t\t",
+      "descModeloStd": "F40 9800I 6X4 405 HP\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005824"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0094864",
+      "descModelo": "7600 SBA 6X4 (REMOLCADOR)",
+      "descModeloStd": "7600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010360"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328705",
+      "descModelo": "NON SLEEPER IHC F2275\t\t\t\t\t",
+      "descModeloStd": "NON SLEEPER IHC F2275",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006380"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326032",
+      "descModelo": "7600 SFA 6X4",
+      "descModeloStd": "7600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005511"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0204368",
+      "descModelo": "L-110",
+      "descModeloStd": "L-110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265239",
+      "descModelo": "CASE 585 S",
+      "descModeloStd": "CASE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332925",
+      "descModelo": "MV607 SBA 6X4",
+      "descModeloStd": "MV607",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219788",
+      "descModelo": "3100 4X2 BUS2",
+      "descModeloStd": "3100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000129"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324891",
+      "descModelo": "CARGO START 1850",
+      "descModeloStd": "CARGO START 1850",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0054117",
+      "descModelo": "DT530",
+      "descModeloStd": "DT530",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10001639"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327954",
+      "descModelo": "5600I 6X4 VOLQUETE",
+      "descModeloStd": "5600I 6x4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334435",
+      "descModelo": "HV607 SBA HD 6X4 CP",
+      "descModeloStd": "HV607",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327593",
+      "descModelo": "4400 SBA 6X4 GRUA",
+      "descModeloStd": "4400 SBA 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264624",
+      "descModelo": "PROSTAR 122 6X6",
+      "descModeloStd": "PROSTAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010039"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324113",
+      "descModelo": "COF 9670 CAMION",
+      "descModeloStd": "COF 9670",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BV",
+      "descModelo": "COF 9700",
+      "descModeloStd": "COF ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000345"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263374",
+      "descModelo": "7400 SBA 4X2",
+      "descModeloStd": "7400 SBA 4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002909"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191762",
+      "descModelo": "PROSTAR",
+      "descModeloStd": "PROSTAR 122 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000347"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0052537",
+      "descModelo": "7400 6X4",
+      "descModeloStd": "7400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000250"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330639",
+      "descModelo": "4300 SBA 4X2 BARANDA",
+      "descModeloStd": "4300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273571",
+      "descModelo": "S-1900 1.2",
+      "descModeloStd": "S-1900",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323746",
+      "descModelo": "9200 I SBA 6X4 CAMION",
+      "descModeloStd": "9200 I SBA 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COMPACTADOR",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 154,
+    "keyTipoVeh": "compact",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324220",
+      "descModelo": "7400 SBA 6X4 COM",
+      "descModeloStd": "7400 SBA 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0102828",
+      "descModelo": "1853",
+      "descModeloStd": "1853",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000128"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329026",
+      "descModelo": "NAVISTAR CC",
+      "descModeloStd": "NAVISTAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334190",
+      "descModelo": "CDF9670",
+      "descModeloStd": "CDF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008779"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0186117",
+      "descModelo": "BLUEBIRD",
+      "descModeloStd": "BLUEBIRD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000130"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265713",
+      "descModelo": "4300 SBA 6X4",
+      "descModeloStd": "4300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333758",
+      "descModelo": "COF 4070",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008518"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AO",
+      "descModelo": "F-2574",
+      "descModeloStd": "F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272763",
+      "descModelo": "1890DI",
+      "descModeloStd": "1890DI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328379",
+      "descModelo": "7600 SBA 6X4 BARANDA",
+      "descModeloStd": "7600 SBA 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194713",
+      "descModelo": "IHC 9670",
+      "descModeloStd": "IHC 9670",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "43",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0058663",
+      "descModelo": "BLUE BIRD",
+      "descModeloStd": "BLUE BIRD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228802",
+      "descModelo": "7400 SFA 6X6",
+      "descModeloStd": "7400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011023"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333421",
+      "descModelo": "7400",
+      "descModeloStd": "7400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008330"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "50",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331751",
+      "descModelo": "330572",
+      "descModeloStd": "330572",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329374",
+      "descModelo": "HV507 SFA",
+      "descModeloStd": "HV507 SFA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "51",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0031696",
+      "descModelo": "SCHOOL BUS",
+      "descModeloStd": "SCHOOL BUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BN",
+      "descModelo": "4700 4X2",
+      "descModeloStd": "4700 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000326"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323144",
+      "descModelo": "PETROLEO",
+      "descModeloStd": "PETROLEO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324182",
+      "descModelo": "8100 REMOL",
+      "descModeloStd": "8100 REMOL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333312",
+      "descModelo": "HV607 SBA HD 6X4",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269313",
+      "descModelo": "4400 SBA 4X2",
+      "descModeloStd": "4400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327828",
+      "descModelo": "L110",
+      "descModeloStd": "L110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CF",
+      "descModelo": "CO-9670",
+      "descModeloStd": "CO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004581"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268671",
+      "descModelo": "5780",
+      "descModeloStd": "5780",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002011"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BU",
+      "descModelo": "COF 9678",
+      "descModeloStd": "COF ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000344"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267624",
+      "descModelo": "S2500",
+      "descModeloStd": "S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220281",
+      "descModelo": "PAYSTAR",
+      "descModeloStd": "PAYSTAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325458",
+      "descModelo": "9700 REM",
+      "descModeloStd": "9700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "41",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266635",
+      "descModelo": "1652 SC NOVEL",
+      "descModeloStd": "1652",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "QUILLA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 29,
+    "keyTipoVeh": "keel",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332587",
+      "descModelo": "4400 SBA 4X2 Q",
+      "descModeloStd": "4400 SBA 4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267429",
+      "descModelo": "LONESTAR SFA 6X4",
+      "descModeloStd": "LONESTAR SFA 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0041097",
+      "descModelo": "TRAVELALL 1100",
+      "descModeloStd": "TRAVELALL 1100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327603",
+      "descModelo": "COF9676 6X4\t\t\t\t\t",
+      "descModeloStd": "COF9676 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006036"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333313",
+      "descModelo": "HV607 SBA HD",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273936",
+      "descModelo": "BUS",
+      "descModeloStd": "BUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267428",
+      "descModelo": "PROSTAR + 1226X4",
+      "descModeloStd": "PROSTAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0170794",
+      "descModelo": "9400 I SBA 6X4",
+      "descModeloStd": "9400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000338"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325399",
+      "descModelo": "7660 SBA 6X4     \t\t\t\t\t",
+      "descModeloStd": "7660",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005328"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332979",
+      "descModelo": "7600 SBA 6X4 CISTERNA",
+      "descModeloStd": "7600 SBA 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0017060",
+      "descModelo": "9800I 6X4 380 HP",
+      "descModeloStd": "9800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000342"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334742",
+      "descModelo": "670",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009153"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187420",
+      "descModelo": "CDF-9670-CUMMINS 300",
+      "descModeloStd": "CDF-9670-CUMMINS 300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000343"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267070",
+      "descModelo": "60F",
+      "descModeloStd": "60F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272707",
+      "descModelo": "1200",
+      "descModeloStd": "1200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329565",
+      "descModelo": "HV607 SB 6X4",
+      "descModeloStd": "HV607 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006656"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273926",
+      "descModelo": "1954",
+      "descModeloStd": "1954",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0060438",
+      "descModelo": "4300 SBA 4X2",
+      "descModeloStd": "4300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000246"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229827",
+      "descModelo": "7500",
+      "descModeloStd": "7500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000243"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271394",
+      "descModelo": "IC BUS FE C CHASSIS 1.2",
+      "descModeloStd": "IC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION GRUA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 20,
+    "keyClaseVeh": "towTruck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325062",
+      "descModelo": "7600 SBA 6X4 (GRUA)",
+      "descModeloStd": "7600 SBA 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005228"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323882",
+      "descModelo": "COF9670",
+      "descModeloStd": "COF9670",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000ZN",
+      "descModelo": "N12",
+      "descModeloStd": "N12",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "43",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A8",
+      "descModelo": "NOVEL 1652SC",
+      "descModeloStd": "NOVEL 1652SC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331179",
+      "descModelo": "S/MODELO.",
+      "descModeloStd": "S/MODELO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0184956",
+      "descModelo": "CF600 4X2",
+      "descModeloStd": "CF600 4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000253"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273041",
+      "descModelo": "F 5070",
+      "descModeloStd": "F 5070",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004216"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CE",
+      "descModelo": "2554 4X2",
+      "descModeloStd": "2554",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232904",
+      "descModelo": "FECONM BUS",
+      "descModeloStd": "FECONM BUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000132"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270397",
+      "descModelo": "PROSTAR +122 6X4",
+      "descModeloStd": "PROSTAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "MEZCLADOR",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 248,
+    "keyTipoVeh": "mixer",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0175881",
+      "descModelo": "7600 SBA 6X4 (CAMION)",
+      "descModeloStd": "7600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000330"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270193",
+      "descModelo": "CFO9670",
+      "descModeloStd": "CFO9670",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003008"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328232",
+      "descModelo": "7400 SBA 4X2 CC",
+      "descModeloStd": "7400 SBA 4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274008",
+      "descModelo": "8300",
+      "descModeloStd": "8300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004491"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324876",
+      "descModelo": "4400 SBA 4X2  CISTERNA",
+      "descModeloStd": "4400 SBA 4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168711",
+      "descModelo": "9400I",
+      "descModeloStd": "9400I SBA 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000339"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268271",
+      "descModelo": "SRP-30",
+      "descModeloStd": "SRP-30",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001817"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "81",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228826",
+      "descModelo": "3000 RE 4X2",
+      "descModeloStd": "3000 RE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0034636",
+      "descModelo": "9200I SBA 6X4",
+      "descModeloStd": "9200I SBA 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000720"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267394",
+      "descModelo": "TRACTO",
+      "descModeloStd": "TRACTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004748"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000ZZ",
+      "descModelo": "SCOUT 80",
+      "descModeloStd": "SCOUT 80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AG",
+      "descModelo": "COF9670",
+      "descModeloStd": "COF9670",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000346"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0030716",
+      "descModelo": "DT466",
+      "descModeloStd": "DT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320230",
+      "descModelo": "7400 SBA 6X4 (CAMION)",
+      "descModeloStd": "7400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004559"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331694",
+      "descModelo": "LT625 6X4",
+      "descModeloStd": "LT625 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007343"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334440",
+      "descModelo": "HV607 SBA HD 6X4",
+      "descModeloStd": "TRUCK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008959"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "33",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274032",
+      "descModelo": "VOLARE W9\t\t\t\t\t",
+      "descModeloStd": "VOLARE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323835",
+      "descModelo": "PAYSTAR CAM",
+      "descModeloStd": "PAYSTAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331059",
+      "descModelo": "F9370",
+      "descModeloStd": "F9370",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007021"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329105",
+      "descModelo": "9400 I SBA 6X4",
+      "descModeloStd": "9400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270659",
+      "descModelo": "7600 1.8",
+      "descModeloStd": "7600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324556",
+      "descModelo": "BLUE BIRD S1700",
+      "descModeloStd": "BLUE BIRD S1700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274133",
+      "descModelo": "IHC 9700",
+      "descModeloStd": "IHC 9700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268531",
+      "descModelo": "PROSTAR 122 6X4",
+      "descModeloStd": "PROSTAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001942"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331831",
+      "descModelo": "2050-A",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007422"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193786",
+      "descModelo": "HARVERSTER",
+      "descModeloStd": "HARVERSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325531",
+      "descModelo": "500 C",
+      "descModeloStd": "500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0181462",
+      "descModelo": "B5900A",
+      "descModeloStd": "B5900A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000020"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CC",
+      "descModelo": "9700 6X4",
+      "descModeloStd": "9700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002903"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327165",
+      "descModelo": "110 SD",
+      "descModeloStd": "110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0318191",
+      "descModelo": "M1890D",
+      "descModeloStd": "M1890D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274033",
+      "descModelo": "IHC 9670",
+      "descModeloStd": "IHC 9670",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004493"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332349",
+      "descModelo": "LT625 6X4",
+      "descModeloStd": "LT625 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007731"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332586",
+      "descModelo": "CL 120",
+      "descModeloStd": "CL 120",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190698",
+      "descModelo": "PROSTAR LIMITED 6X4",
+      "descModeloStd": "PROSTAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000348"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "REMOLCADOR",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 22,
+    "keyTipoVeh": "tug",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176644",
+      "descModelo": "9800I",
+      "descModeloStd": "9800I",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000100034356"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095449",
+      "descModelo": "9400I SBA 6X4",
+      "descModeloStd": "9400I SBA 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002902"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334045",
+      "descModelo": "LT625 6X4 R",
+      "descModeloStd": "LT625 6X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333585",
+      "descModelo": "3000 SE",
+      "descModeloStd": "3000 SE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008401"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326981",
+      "descModelo": "7600 SBA",
+      "descModeloStd": "7600 SBA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005778"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BL",
+      "descModelo": "9700",
+      "descModeloStd": "9700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334541",
+      "descModelo": "MV607 SBA 6X4",
+      "descModeloStd": "MV607",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009025"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330671",
+      "descModelo": "9600",
+      "descModeloStd": "9600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006806"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331724",
+      "descModelo": "SCOUT RURAL",
+      "descModeloStd": "SCOUT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0292236",
+      "descModelo": "F2574",
+      "descModeloStd": "F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006153"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0183951",
+      "descModelo": "MTC 250",
+      "descModeloStd": "MTC 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009822"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "MEZCLADOR",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 248,
+    "keyTipoVeh": "mixer",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0175888",
+      "descModelo": "7600 SBA 6X4",
+      "descModeloStd": "7600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003410"
+    }
+  }
+]

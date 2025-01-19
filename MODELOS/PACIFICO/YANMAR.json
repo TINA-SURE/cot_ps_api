@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328584",
+      "descModelo": "4TNV98T-ZXCRL T",
+      "descModeloStd": "4TNV98T-ZXCRL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005416"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325780",
+      "descModelo": "4TNV98T-ZXCRL",
+      "descModeloStd": "4TNV98T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005416"
+    }
+  }
+]

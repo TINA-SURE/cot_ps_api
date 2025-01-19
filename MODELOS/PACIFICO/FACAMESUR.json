@@ -1,0 +1,92 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0283040",
+      "descModelo": "F-3",
+      "descModeloStd": "2W",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006451"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 6,
+    "keyClaseVeh": "trailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190875",
+      "descModelo": "2W",
+      "descModeloStd": "2W",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003585"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0013757",
+      "descModelo": "F3",
+      "descModeloStd": "F3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006451"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190406",
+      "descModelo": "M",
+      "descModeloStd": "M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001248"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331107",
+      "descModelo": "1-M",
+      "descModeloStd": "1-M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007044"
+    }
+  }
+]

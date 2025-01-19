@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228580",
+      "descModelo": "INCAPOWER 2538K",
+      "descModeloStd": "INCAPOWER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008165"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333298",
+      "descModelo": "XJ250",
+      "descModeloStd": "XJ250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008165"
+    }
+  }
+]

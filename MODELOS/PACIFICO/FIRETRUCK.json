@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331358",
+      "descModelo": "TRUCK OSHKOSH",
+      "descModeloStd": "TRUCK OSHKOSH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007797"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332531",
+      "descModelo": "TRUCK",
+      "descModeloStd": "TRUCK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007797"
+    }
+  }
+]

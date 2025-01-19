@@ -1,0 +1,2576 @@
+[
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327526",
+      "descModelo": "DYNAMIQUE 4X2 2.0",
+      "descModeloStd": "DYNAMIQUE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005994"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "16",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188999",
+      "descModelo": "MASTER L2H2",
+      "descModeloStd": "MASTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233533",
+      "descModelo": "SYMBOL 1.6",
+      "descModeloStd": "SYMBOL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001714"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193898",
+      "descModelo": "LOGAN 1.4",
+      "descModeloStd": "LOGAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002241"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194986",
+      "descModelo": "STEPWAY 1.6",
+      "descModeloStd": "STEPWAY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001954"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "16",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325476",
+      "descModelo": "MASTER MICRO",
+      "descModeloStd": "MASTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003504"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272834",
+      "descModelo": "R310",
+      "descModeloStd": "R310",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272710",
+      "descModelo": "NUEVO CLIO 4P EXPRESSSION",
+      "descModeloStd": "NUEVO CLIO 4P EXPRESSSION",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000WY",
+      "descModelo": "CLIO II 4P RN",
+      "descModeloStd": "CLIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327249",
+      "descModelo": "DUSTER ZEN 4X2 1.6 MT\t\t\t\t\t",
+      "descModeloStd": "DUSTER ZEN 4X2 1.6 MT\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005845"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327162",
+      "descModelo": "LOGAN HB",
+      "descModeloStd": "LOGAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328439",
+      "descModelo": "KWIND",
+      "descModeloStd": "KWIND",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188609",
+      "descModelo": "MEGANE II 1.6 5P",
+      "descModeloStd": "MEGANE II",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001705"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188614",
+      "descModelo": "GRAND SCENIC 2.0",
+      "descModeloStd": "GRAND SCENIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001712"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233529",
+      "descModelo": "CLIO 1.6 5P (2004)",
+      "descModeloStd": "CLIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001703"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221151",
+      "descModelo": "FLUENCE",
+      "descModeloStd": "FLUENCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009044"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233532",
+      "descModelo": "SANDERO 1.6",
+      "descModeloStd": "SANDERO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001713"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189725",
+      "descModelo": "STEPWAY",
+      "descModeloStd": "STEPWAY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002991"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233525",
+      "descModelo": "SCENIC 1.6",
+      "descModeloStd": "SCENIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001696"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233531",
+      "descModelo": "LAGUNA BERLINA 2.0",
+      "descModeloStd": "LAGUNA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001710"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168412",
+      "descModelo": "MASTER",
+      "descModeloStd": "MASTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003477"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195338",
+      "descModelo": "FLUENCE 2.0",
+      "descModeloStd": "FLUENCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002000"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232838",
+      "descModelo": "LOGAN ZEN 1.6",
+      "descModeloStd": "LOGAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001711"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320453",
+      "descModelo": "CAPTUR",
+      "descModeloStd": "CAPTUR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004589"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333490",
+      "descModelo": "NEW DUSTER",
+      "descModeloStd": "DUSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008368"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268884",
+      "descModelo": "LOGAN",
+      "descModeloStd": "LOGAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002960"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210329",
+      "descModelo": "KANGOO EXPRESS RL / 2001",
+      "descModeloStd": "KANGOO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223175",
+      "descModelo": "NUEVO CLIO 5P SD",
+      "descModeloStd": "NUEVO CLIO 5P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0183827",
+      "descModelo": "SANDERO",
+      "descModeloStd": "SANDERO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002497"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271237",
+      "descModelo": "DUSTER EXPRESSION 4X2 1.6 M/T",
+      "descModeloStd": "DUSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003503"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325190",
+      "descModelo": "290 G",
+      "descModeloStd": "290 G",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263830",
+      "descModelo": "KERAX 410.32",
+      "descModeloStd": "KERAX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "9630"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268222",
+      "descModelo": "DUSTER DYNAMIQUE",
+      "descModeloStd": "DUSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001793"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325376",
+      "descModelo": "KOLEOS PRIVILEGES 4X2 2.5",
+      "descModeloStd": "KOLEOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005317"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233520",
+      "descModelo": "CLIO 2 1.6 RN HATCHBACK",
+      "descModeloStd": "CLIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001691"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221265",
+      "descModelo": "STEPWAY VE DINAMIQUE 1.6",
+      "descModeloStd": "STEPWAY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264541",
+      "descModelo": "19T RT 1.3",
+      "descModeloStd": "19T RT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010009"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332036",
+      "descModelo": "DUSTER INTENS 4X2 2.0 AT",
+      "descModeloStd": "DUSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007531"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330692",
+      "descModelo": "AUTI16K-4C2 LOGAN",
+      "descModeloStd": "AUTI16K-4C2 LOGAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188014",
+      "descModelo": "KOLEOS",
+      "descModeloStd": "KOLEOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003154"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330189",
+      "descModelo": "CAPTUR R",
+      "descModeloStd": "CAPTUR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269483",
+      "descModelo": "OROCH",
+      "descModeloStd": "OROCH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002636"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0294203",
+      "descModelo": "PREMIUM LANDER",
+      "descModeloStd": "PREMIUM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004814"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274119",
+      "descModelo": "EQ3252GT7",
+      "descModeloStd": "EQ3252GT7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BT",
+      "descModelo": "SCENIC RX4 1.9 DCI",
+      "descModeloStd": "SCENIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001701"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334733",
+      "descModelo": "KOLEOS CP",
+      "descModeloStd": "KOLEOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325436",
+      "descModelo": "LOGAN 1.6\t\t\t\t\t",
+      "descModeloStd": "LOGAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005333"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333293",
+      "descModelo": "KOLEOS PRIVILEGE 4X2 2.5 CVT",
+      "descModeloStd": "KOLEOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "16",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334594",
+      "descModelo": "MASTER MINIBUS 2.3 MT 4X2 PH2",
+      "descModeloStd": "MASTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009055"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333357",
+      "descModelo": "CLIO",
+      "descModeloStd": "CLIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008286"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332667",
+      "descModelo": "KWID INTENS",
+      "descModeloStd": "KWID",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326962",
+      "descModelo": "KANGOO SUV",
+      "descModeloStd": "KANGOO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233518",
+      "descModelo": "R 19 1.7 SED",
+      "descModeloStd": "R 19",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001689"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233526",
+      "descModelo": "SCENIC 1.9 RT DTI",
+      "descModeloStd": "SCENIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001697"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "16",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220098",
+      "descModelo": "MASTER RURAL",
+      "descModeloStd": "MASTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327059",
+      "descModelo": "ALASKAN",
+      "descModeloStd": "ALASKAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005789"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326138",
+      "descModelo": "DUSTER INTENS 1.6 MT",
+      "descModeloStd": "DUSTER INTENS 1.6 MT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005541"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324299",
+      "descModelo": "SANDERO 1.6 (103 HP)",
+      "descModeloStd": "SANDERO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005013"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328356",
+      "descModelo": "KWID",
+      "descModeloStd": "KWID",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006276"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334451",
+      "descModelo": "KERAX 460 6X4",
+      "descModeloStd": "KERAX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008970"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233519",
+      "descModelo": "R 19 1.7 HATCHBACK",
+      "descModeloStd": "R 19",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001690"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321191",
+      "descModelo": "FLUENCE",
+      "descModeloStd": "FLUENCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267604",
+      "descModelo": "DUSTER EXPRESSION",
+      "descModeloStd": "DUSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001460"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322971",
+      "descModelo": "STEPWAY SED",
+      "descModeloStd": "STEPWAY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233521",
+      "descModelo": "CLIO 2 1.6 RT HATCHBACK",
+      "descModeloStd": "CLIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001692"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330182",
+      "descModelo": "ALASKAN CAMION",
+      "descModeloStd": "ALASKAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327140",
+      "descModelo": "BUT MASTER",
+      "descModeloStd": "But Master",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005815"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326276",
+      "descModelo": "MASTER P",
+      "descModeloStd": "MASTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210280",
+      "descModelo": "19B RL",
+      "descModeloStd": "19B RL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264926",
+      "descModelo": "MIDLUM 280.18",
+      "descModeloStd": "MIDLUM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233530",
+      "descModelo": "MEGANE 2.0",
+      "descModeloStd": "MEGANE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001706"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188610",
+      "descModelo": "MEGANE II 1.6 4P",
+      "descModeloStd": "MEGANE II",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001707"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333075",
+      "descModelo": "NEW CAPTUR ZEN 1.6 MT 4X2",
+      "descModeloStd": "CAPTUR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008092"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BR",
+      "descModelo": "MEGANE 1.6 SEDAN",
+      "descModeloStd": "MEGANE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001702"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233534",
+      "descModelo": "KOLEOS 2.5 4X2",
+      "descModeloStd": "KOLEOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001715"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266957",
+      "descModelo": "4CV",
+      "descModeloStd": "4CV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219810",
+      "descModelo": "DUSTER",
+      "descModeloStd": "DUSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002436"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268114",
+      "descModelo": "KERAX 440",
+      "descModeloStd": "KERAX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001750"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326745",
+      "descModelo": "MEGANE COUPE RT",
+      "descModeloStd": "MEGANE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328435",
+      "descModelo": "LOGAN LIFE 1.6 MT AC\t\t\t\t\t",
+      "descModeloStd": "LOGAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006305"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231414",
+      "descModelo": "DUSTER 2.0 4X4",
+      "descModeloStd": "DUSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002145"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273136",
+      "descModelo": "MASTER FGIL 2M2 P3T3",
+      "descModeloStd": "MASTER FGIL 2M2 P3T3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0053736",
+      "descModelo": "KANGOO",
+      "descModeloStd": "KANGOO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010381"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324104",
+      "descModelo": "HZG KOLEOS\t\t\t\t\t",
+      "descModeloStd": "HZG",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005325"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335015",
+      "descModelo": "MASTER FURGON",
+      "descModeloStd": "MASTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009270"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328238",
+      "descModelo": "CLM-340 V",
+      "descModeloStd": "CLM-340",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231678",
+      "descModelo": "FLUENCE EXPRESSION 2.0",
+      "descModeloStd": "FLUENCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005658"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210399",
+      "descModelo": "R5GTL",
+      "descModeloStd": "R5GTL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210347",
+      "descModelo": "MEDALLON",
+      "descModeloStd": "MEDALLON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329288",
+      "descModelo": "STEPWAY HAT",
+      "descModeloStd": "STEPWAY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014978",
+      "descModelo": "CLIO 1.6 4P",
+      "descModeloStd": "CLIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001704"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233523",
+      "descModelo": "CLIO 2 1.6 RT SED",
+      "descModeloStd": "CLIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001694"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332632",
+      "descModelo": "NEW KOLEOS INTENS 2.5 CVT 4X2",
+      "descModeloStd": "NEW KOLEOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007867"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332204",
+      "descModelo": "NEWKOLEOS",
+      "descModeloStd": "KOLEOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007634"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264625",
+      "descModelo": "KERAX 460.35 6X4 XTREM",
+      "descModeloStd": "KERAX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010041"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273881",
+      "descModelo": "CLM340",
+      "descModeloStd": "CLM340",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AS",
+      "descModelo": "LAGUNA",
+      "descModeloStd": "LAGUNA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001699"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A2",
+      "descModelo": "MASTER FG1L/2H2",
+      "descModeloStd": "MASTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268862",
+      "descModelo": "DUSTER 1.6 4X2",
+      "descModeloStd": "DUSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002114"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188611",
+      "descModelo": "MEGANE II 2.0 5P",
+      "descModeloStd": "MEGANE II",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001708"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269601",
+      "descModelo": "LOGAN SEDAN",
+      "descModeloStd": "LOGAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002733"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267302",
+      "descModelo": "MASTER AMBULANCIA",
+      "descModeloStd": "MASTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329544",
+      "descModelo": " KWID",
+      "descModeloStd": "KWID HATCHBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AE",
+      "descModelo": "MASTER FURGON 2.8D",
+      "descModeloStd": "MASTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BM",
+      "descModelo": "FUEGO GTX",
+      "descModeloStd": "FUEGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0316546",
+      "descModelo": "JE 13-A",
+      "descModeloStd": "JE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188612",
+      "descModelo": "MEGANE II 2.0 4P",
+      "descModeloStd": "MEGANE II",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001709"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "16",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325648",
+      "descModelo": "MASTER BUS",
+      "descModeloStd": "MASTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003573"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273168",
+      "descModelo": "MASTER FGIL 2H2 P3T3",
+      "descModeloStd": "MASTER FGIL 2H2 P3T3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326228",
+      "descModelo": "MEGANE RS",
+      "descModeloStd": "MEGANE RS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005568"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270339",
+      "descModelo": "DUSTER DYNAMIQUE 4X2 2.0 MTI",
+      "descModeloStd": "DUSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003078"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323165",
+      "descModelo": "MEGANE1.6  H",
+      "descModeloStd": "MEGANE1.6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A6",
+      "descModelo": "V-6",
+      "descModeloStd": "V-6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010718"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0249134",
+      "descModelo": "RENAULT 5",
+      "descModeloStd": "RENAULT 5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326945",
+      "descModelo": "OROCH SUV",
+      "descModeloStd": "OROCH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268453",
+      "descModelo": "KOLEOS DYNAMIQUE 4X2 CVT",
+      "descModeloStd": "KOLEOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001909"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324300",
+      "descModelo": "SANDERO 1.6 (83 HP)",
+      "descModeloStd": "SANDERO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005014"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328552",
+      "descModelo": "KWID HATCHBACK",
+      "descModeloStd": "KWID",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273074",
+      "descModelo": "KOLEOS PRIVILEGE 4X4",
+      "descModeloStd": "KOLEOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004249"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210307",
+      "descModelo": "DUAPHINE R-1090",
+      "descModeloStd": "DUAPHINE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005420"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0237852",
+      "descModelo": "PR RX4 20BD",
+      "descModeloStd": "PR RX4 20BD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272766",
+      "descModelo": "GB280",
+      "descModeloStd": "GB280",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328567",
+      "descModelo": "KOLEOS SEDAN",
+      "descModeloStd": "KOLEOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325459",
+      "descModelo": "KERAX 460 45 8X4",
+      "descModeloStd": "KERAX 460 45 8X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "17",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325608",
+      "descModelo": "MASTER MN",
+      "descModeloStd": "MASTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233522",
+      "descModelo": "CLIO 2 1.6 RN SED",
+      "descModeloStd": "CLIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001693"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320005",
+      "descModelo": "SCENIC RXT 2.0",
+      "descModeloStd": "SCENIC RXT 2.0",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270474",
+      "descModelo": "SANDERO 1.2",
+      "descModeloStd": "SANDERO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328323",
+      "descModelo": "DUSTER SEDAN",
+      "descModeloStd": "DUSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232004",
+      "descModelo": "FLUENCE DYNAMIQUE 2.0",
+      "descModeloStd": "FLUENCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009242"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270715",
+      "descModelo": "SANDERO 1.5",
+      "descModeloStd": "SANDERO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328504",
+      "descModelo": "KWID HB",
+      "descModeloStd": "KWID HB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "16",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271396",
+      "descModelo": "MASTER L3H2 2.3",
+      "descModeloStd": "MASTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003573"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273528",
+      "descModelo": "PREMIUM 1.2",
+      "descModeloStd": "PREMIUM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220118",
+      "descModelo": "DUSTER DYNAMIQUE 4X4 2.0 MT",
+      "descModeloStd": "DUSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009065"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233527",
+      "descModelo": "SCENIC 2.0 RXT",
+      "descModeloStd": "SCENIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001698"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270632",
+      "descModelo": "STEPWAY 1.6",
+      "descModeloStd": "STEPWAY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003174"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267080",
+      "descModelo": "STEPWAY",
+      "descModeloStd": "STEPWAY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002991"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210325",
+      "descModelo": "JEEP",
+      "descModeloStd": "JEEP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009630"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231416",
+      "descModelo": "DUSTER 2.0 4X2",
+      "descModeloStd": "DUSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002144"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233524",
+      "descModelo": "MEGANE 1.6 COUPE",
+      "descModeloStd": "MAGANE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001695"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233535",
+      "descModelo": "KOLEOS 2.5 4X4",
+      "descModeloStd": "KOLEOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001716"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332179",
+      "descModelo": "NEW DUSTER INTENS 1.6 MT 4X2",
+      "descModeloStd": "DUSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007617"
+    }
+  }
+]

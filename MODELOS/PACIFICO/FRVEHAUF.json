@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333813",
+      "descModelo": "BCSF2-20-40",
+      "descModeloStd": "BCSF2-20-40",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008543"
+    }
+  }
+]

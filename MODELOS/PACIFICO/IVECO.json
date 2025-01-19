@@ -1,0 +1,2450 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "0",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188668",
+      "descModelo": "TRAKKER 380 T 38",
+      "descModeloStd": "TRAKKER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003525"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191494",
+      "descModelo": "TRAKKER 380T42 H",
+      "descModeloStd": "TRAKKER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004241"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328750",
+      "descModelo": "410",
+      "descModeloStd": "4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326273",
+      "descModelo": "330 M",
+      "descModeloStd": "330",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325144",
+      "descModelo": "TRAKKER 380 T 38 VOL",
+      "descModeloStd": "TRAKKER 380 T 38",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326713",
+      "descModelo": " DAILY A 50.13 CMTA",
+      "descModeloStd": " DAILY A 50.13",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326705",
+      "descModelo": " DAILY A 50.13",
+      "descModeloStd": " DAILY A 50.13",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "6",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331975",
+      "descModelo": "CC170E22 MC",
+      "descModeloStd": "CC170E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231170",
+      "descModelo": "DAILY",
+      "descModeloStd": "DAILY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION GRUA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 20,
+    "keyClaseVeh": "towTruck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264337",
+      "descModelo": "MLC 170 E22",
+      "descModeloStd": "MLC 170 E22",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009591"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228765",
+      "descModelo": "50C15H",
+      "descModeloStd": "50C15H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004930"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178695",
+      "descModelo": "ML 150E18H",
+      "descModeloStd": "ML 150E18H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264561",
+      "descModelo": "EUROCARGO",
+      "descModeloStd": "EUROCARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "12",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0180311",
+      "descModelo": "380T42H",
+      "descModeloStd": "380T42H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002981"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325151",
+      "descModelo": "STRALIS NR 740 S41TZ REM",
+      "descModeloStd": "STRALIS NR 740 S41TZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333864",
+      "descModelo": "XWAY",
+      "descModeloStd": "XWAY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AS",
+      "descModelo": "MP190E37W",
+      "descModeloStd": "MP190E37W",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "10",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328077",
+      "descModelo": "IM-7729",
+      "descModeloStd": "IM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191394",
+      "descModelo": "TRAKKER 380T42 ADN",
+      "descModeloStd": "TRAKKER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000259"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324859",
+      "descModelo": "STRALIS AS440S48T Z/P",
+      "descModeloStd": "STRALIS AS440S48T Z/P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271759",
+      "descModelo": "380T-42H",
+      "descModeloStd": "380T42H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003760"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "21",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332624",
+      "descModelo": "IVECO DAILY MINIBUS 50-170",
+      "descModeloStd": "IVECO DAILY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271938",
+      "descModelo": "STRALIS AS440S48TZ/P",
+      "descModeloStd": "STRALIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003837"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325237",
+      "descModelo": "TRAKKER 380 T 38",
+      "descModeloStd": "TRAKKER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329204",
+      "descModelo": "AD380T41H\t\t\t\t\t",
+      "descModeloStd": "AD380T42H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006543"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264552",
+      "descModelo": "EUROCARGO 180E28",
+      "descModeloStd": "EUROCARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000928"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326099",
+      "descModelo": "110 C",
+      "descModeloStd": "110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330479",
+      "descModelo": "CJH0002 PANEL",
+      "descModeloStd": "CJH0002",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AC",
+      "descModelo": "330.30N",
+      "descModeloStd": "330.30N",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0061596",
+      "descModelo": "TRAKKER 380T38",
+      "descModeloStd": "TRAKKER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000356"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265208",
+      "descModelo": "DAILY 35C13",
+      "descModeloStd": "DAILY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "20",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0029425",
+      "descModelo": "DAILY 35 C13",
+      "descModeloStd": "DAILY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325278",
+      "descModelo": "ML 85G15H",
+      "descModeloStd": "ML 85G15H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334844",
+      "descModelo": "TECTOR 17 280",
+      "descModeloStd": "13",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009206"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332697",
+      "descModelo": "SJH5042XSC",
+      "descModeloStd": "SJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332928",
+      "descModelo": "NJ5036XJH2",
+      "descModeloStd": "NJ5036XJH2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0276190",
+      "descModelo": "AD380T42H",
+      "descModeloStd": "AD380T42H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005665"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229126",
+      "descModelo": "AD410T42",
+      "descModeloStd": "AD410T42",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001619"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192940",
+      "descModelo": "STRALIS NR 740 S41TZ",
+      "descModeloStd": "STRALIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000355"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267823",
+      "descModelo": "190",
+      "descModeloStd": "190",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334779",
+      "descModelo": "380T42H BARANDA",
+      "descModeloStd": "380T42H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190078",
+      "descModelo": "380T42 ADN",
+      "descModeloStd": "380T42 ADN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000941"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272701",
+      "descModelo": "MLC 170 E22 1.2",
+      "descModeloStd": "MLC 170 E22",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0035276",
+      "descModelo": "380E37H",
+      "descModeloStd": "380E37H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330393",
+      "descModelo": "CC170E22 CAMIONETA",
+      "descModeloStd": "CC170E22",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324624",
+      "descModelo": "DAILY 70C 14G PANEL",
+      "descModeloStd": "DAILY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001714"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327228",
+      "descModelo": "NJ2045SAAG",
+      "descModeloStd": "NJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273052",
+      "descModelo": "TRAKKER 380 T 38 1.3",
+      "descModeloStd": "TRAKKER 380 T 38",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0029154",
+      "descModelo": "CC170E22",
+      "descModeloStd": "CC170E22",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000257"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320777",
+      "descModelo": "120E18H4X2",
+      "descModeloStd": "120E18H4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328829",
+      "descModelo": "109-14T3 CAMION",
+      "descModeloStd": "109-14T3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333464",
+      "descModelo": "AD380T42H C",
+      "descModeloStd": "AD380T42H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324646",
+      "descModelo": "DAILY 70C 14G CAMION",
+      "descModeloStd": "DAILY 70C 14G",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330830",
+      "descModelo": "AD380T50",
+      "descModeloStd": "AD380T50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006900"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "20",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229762",
+      "descModelo": "DAILY A 50.13",
+      "descModeloStd": "DAILY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332787",
+      "descModelo": "SJH5040XJHTA",
+      "descModeloStd": "SJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325150",
+      "descModelo": "STRALIS NR 740 S41TZ",
+      "descModeloStd": "STRALIS NR 740 S41TZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325298",
+      "descModelo": "380T42H CC",
+      "descModeloStd": "380T42H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267549",
+      "descModelo": "300 PC",
+      "descModeloStd": "300 PC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329628",
+      "descModelo": "TRAKKER AD380T50",
+      "descModeloStd": "TRAKKER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006685"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "10",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330414",
+      "descModelo": "40E15WM 4X4 CAMIONETA",
+      "descModeloStd": "40E15WM 4X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0169670",
+      "descModelo": "ML150E21H",
+      "descModeloStd": "ML150E21H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333442",
+      "descModelo": "IVECO DAILY MINIBUS 50-170 PANEL",
+      "descModeloStd": "IVECO DAILY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0065556",
+      "descModelo": "STRALIS",
+      "descModeloStd": "STRALIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002157"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AN",
+      "descModelo": "330.30H",
+      "descModeloStd": "330.30H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330156",
+      "descModelo": "CJH0002 CR",
+      "descModeloStd": "CJH0002",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270706",
+      "descModelo": "260E25",
+      "descModeloStd": "260E25",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003216"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328951",
+      "descModelo": "M40E15 WM PERSONNEL",
+      "descModeloStd": "M40E15",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AO",
+      "descModelo": "EUROTRAKKER 380E37H",
+      "descModeloStd": "EUROTRAKKER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000351"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324799",
+      "descModelo": "STRALIS HD 740S42TZ R",
+      "descModeloStd": "STRALIS HD 740S42TZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326712",
+      "descModelo": "DAILY A 50.13 RURAL",
+      "descModeloStd": "DAILY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332930",
+      "descModelo": "NJ5036XJH2 CR",
+      "descModeloStd": "NJ5036XJH2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0204427",
+      "descModelo": "DAILY V 50 12",
+      "descModeloStd": "DAILY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004671"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0029155",
+      "descModelo": "STRALIS HD740 S42 6X4",
+      "descModeloStd": "STRALIS ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000354"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325010",
+      "descModelo": "EUROCARGO OC",
+      "descModeloStd": "EUROCARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327732",
+      "descModelo": "CJH0002 P",
+      "descModeloStd": "C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232724",
+      "descModelo": "AD260T35",
+      "descModeloStd": "AD260T35",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "53",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331260",
+      "descModelo": "170S29",
+      "descModeloStd": "170S29",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324605",
+      "descModelo": "DAILY 70C 14G",
+      "descModeloStd": "DAILY 70C 14G",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323070",
+      "descModelo": "ML120E 18H",
+      "descModeloStd": "ML",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325024",
+      "descModelo": "EUROCARGO OMNIBUS CAMION",
+      "descModeloStd": "EUROCARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327797",
+      "descModelo": "EUROCARGO MINI",
+      "descModeloStd": "EUROCARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262964",
+      "descModelo": "EUROCARGO 180 E28",
+      "descModeloStd": "EUROCARGO ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002367"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0319967",
+      "descModelo": "380T42H CISTERNA",
+      "descModeloStd": "380T42H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168191",
+      "descModelo": "EUROCARGO 170E22",
+      "descModeloStd": "EUROCARGO ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000258"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268437",
+      "descModelo": "CAVALLINO",
+      "descModeloStd": "CAVALLINO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001898"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328775",
+      "descModelo": "EURO TRAKKER",
+      "descModeloStd": "EURO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324555",
+      "descModelo": "MAGIRUS\t\t\t\t\t",
+      "descModeloStd": "MAGIRUS\t\t\t\t\t\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332442",
+      "descModelo": "N3/260E30",
+      "descModeloStd": "N3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327426",
+      "descModelo": "13514",
+      "descModeloStd": "13",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0182146",
+      "descModelo": "STRALIS HD 740S42TZ",
+      "descModeloStd": "STRALIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000353"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330458",
+      "descModelo": "SJH5040XJHTA CMTA",
+      "descModeloStd": "SJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273413",
+      "descModelo": "EURO CARGO",
+      "descModeloStd": "EUROCARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004345"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334137",
+      "descModelo": "TRAKKER AD410T50H",
+      "descModeloStd": "TRAKKER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008743"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327458",
+      "descModelo": "120E18H4X2 CP",
+      "descModeloStd": "120E18H4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273301",
+      "descModelo": "VG5796",
+      "descModeloStd": "VG5796",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BOMBA HORMIGONERA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 197,
+    "keyTipoVeh": "concreteMixerBomb",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332860",
+      "descModelo": "ML 180E23",
+      "descModeloStd": "ML",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007988"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0277347",
+      "descModelo": "EROTRAKKER/98",
+      "descModeloStd": "EROTRAKKER/98",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "19",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326187",
+      "descModelo": "DAILY VETRATO 50C17\t\t\t\t\t",
+      "descModeloStd": "Daily Vetrato 50C17\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005558"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "6",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332494",
+      "descModelo": "ML150E21H MC",
+      "descModeloStd": "ML150E21H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009591"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332738",
+      "descModelo": "260E30",
+      "descModeloStd": "260E30",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "3",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328793",
+      "descModelo": "M40E15 WM PERSONNEL CARRIER",
+      "descModeloStd": "M40E15",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0225878",
+      "descModelo": "EUROCARGO170E22",
+      "descModeloStd": "EUROCARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003802"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331687",
+      "descModelo": "MP190E27H",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007337"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332105",
+      "descModelo": "AD260T35 VOL",
+      "descModeloStd": "AD260T35",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0296984",
+      "descModelo": "DAILY 65C14GNC",
+      "descModeloStd": "DAILY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267321",
+      "descModelo": "DAYLI A 50 1.3",
+      "descModeloStd": "DAYLI A42.13",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001327"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334556",
+      "descModelo": "TWAY 6X4 AD380T48 H",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009033"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331665",
+      "descModelo": "AD410T50H",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007324"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "10",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330423",
+      "descModelo": "40E15WM 4X4 CMT",
+      "descModeloStd": "40E15WM 4X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265774",
+      "descModelo": "DAILY 65C14 GNC",
+      "descModeloStd": "DAILY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001297"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333113",
+      "descModelo": "STRALIS NP",
+      "descModeloStd": "STRALIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008124"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332773",
+      "descModelo": "STRALIS AS440S48TZ/P HM",
+      "descModeloStd": "STRALIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007946"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325163",
+      "descModelo": "AD260T35 CM",
+      "descModeloStd": "AD260T35",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334276",
+      "descModelo": "TRAKKER 380T41H",
+      "descModeloStd": "TRAKKER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008834"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334542",
+      "descModelo": "TWAY",
+      "descModeloStd": "TWAY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327464",
+      "descModelo": "NJ5036XJH PN",
+      "descModeloStd": "NJ5036XJH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0175172",
+      "descModelo": "TRAKKER 380T42H",
+      "descModeloStd": "TRAKKER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003470"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268044",
+      "descModelo": "DAILY 70C14G 4X2",
+      "descModeloStd": "DAILY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001714"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266073",
+      "descModelo": "MP260E35H",
+      "descModeloStd": "MP260E35H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331775",
+      "descModelo": "TECTOR 170E28",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007384"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271128",
+      "descModelo": "170-E-22",
+      "descModeloStd": "170-E-22",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003446"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331814",
+      "descModelo": "M40E15",
+      "descModeloStd": "M40E15",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330544",
+      "descModelo": "N35030XJH2",
+      "descModeloStd": "N35030XJH2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330392",
+      "descModelo": "ML150E21H CAMIONETA",
+      "descModeloStd": "ML150E21H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "20",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334237",
+      "descModelo": "DAILY MINIBUS 50-170",
+      "descModeloStd": "DAILY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008808"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "26",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273695",
+      "descModelo": "170S28",
+      "descModeloStd": "170S28",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004431"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0319872",
+      "descModelo": "EUROCARGO OMNIBUS",
+      "descModeloStd": "EUROCARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0275824",
+      "descModelo": "59.12",
+      "descModeloStd": "59.12",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333191",
+      "descModelo": "STRALIS AT440S43 TZ/P HM",
+      "descModeloStd": "STRALIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008179"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270270",
+      "descModelo": "AD410T42 1.2",
+      "descModeloStd": "AD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266515",
+      "descModelo": "RIV 1000/2000 FALCON",
+      "descModeloStd": "RIV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0094901",
+      "descModelo": "170E22",
+      "descModeloStd": "170E22",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270926",
+      "descModelo": "ML 150E21H",
+      "descModeloStd": "ML 150E21H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324606",
+      "descModelo": "DAILY 70C 14G PANEL",
+      "descModeloStd": "DAILY 70C 14G",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009824"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191946",
+      "descModelo": "EUROCARGO 260E25",
+      "descModeloStd": "EUROCARGO ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001347"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "39",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229030",
+      "descModelo": "WG6940CQ",
+      "descModeloStd": "WG6940CQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010097"
+    }
+  }
+]

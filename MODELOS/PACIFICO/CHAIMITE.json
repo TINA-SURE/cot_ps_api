@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "11",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325843",
+      "descModelo": "HT-361",
+      "descModeloStd": "HT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005458"
+    }
+  }
+]

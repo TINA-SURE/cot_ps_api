@@ -1,0 +1,92 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264759",
+      "descModelo": "RICH",
+      "descModeloStd": "RICH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004518"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329295",
+      "descModelo": "DONGFENG",
+      "descModeloStd": "DONGFENG",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003966"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334228",
+      "descModelo": "SUCCE CARGO",
+      "descModeloStd": "SUCCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008803"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269702",
+      "descModelo": "SUCCE",
+      "descModeloStd": "SUCCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003966"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0290676",
+      "descModelo": "SUCCE CARGO",
+      "descModeloStd": "SUCCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003966"
+    }
+  }
+]

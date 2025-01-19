@@ -1,0 +1,380 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267891",
+      "descModelo": "SY1033DFH4",
+      "descModeloStd": "SY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009826"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219522",
+      "descModelo": "SY1040DY3S",
+      "descModeloStd": "SY1040DY3S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000137"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324507",
+      "descModelo": "SY1044DZ2L BA",
+      "descModeloStd": "SY1044DZ2L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009826"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272963",
+      "descModelo": "SY3030DL4H 1.2",
+      "descModeloStd": "SY3030DL4H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009826"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329629",
+      "descModelo": "SY1045DHS",
+      "descModeloStd": "SY1045DHS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009826"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272676",
+      "descModelo": "HAISE\t\t\t\t\t 1.2",
+      "descModeloStd": "HAISE\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009826"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "VOLQUETE",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 53,
+    "keyClaseVeh": "dump",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195986",
+      "descModelo": "SY3030DL4H",
+      "descModeloStd": "SY3030DL4H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000138"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329652",
+      "descModelo": "SY1090DR1C CAMION",
+      "descModeloStd": "SY1090DR1C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009826"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333433",
+      "descModelo": "HAISE R",
+      "descModeloStd": "HAISE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009826"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267599",
+      "descModelo": "SY1044DVS4",
+      "descModeloStd": "SY1044DVS4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001457"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0182240",
+      "descModelo": "HAISE",
+      "descModeloStd": "HAISE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000134"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187973",
+      "descModelo": "SY3090BR1T",
+      "descModeloStd": "SY1033DFH4SE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000139"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266412",
+      "descModelo": "SY1033DFH4SE",
+      "descModeloStd": "SY1033DFH4SE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000726"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "13",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0230283",
+      "descModelo": "H2L E3 16S  DSL  DELUXE",
+      "descModeloStd": "H2L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000133"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "16",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265931",
+      "descModelo": "H2L",
+      "descModeloStd": "H2L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009826"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187074",
+      "descModelo": "SY1090DRIC",
+      "descModeloStd": "SY1090DRIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000942"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269543",
+      "descModelo": "BARANDA",
+      "descModeloStd": "BARANDA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002680"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273890",
+      "descModelo": "SY1030DFH4",
+      "descModeloStd": "SY1030DFH4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009826"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177788",
+      "descModelo": "SEGUN TARJETA DE PROPIEDAD",
+      "descModeloStd": "SEGUN TARJETA DE PROPIEDAD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000135"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0301562",
+      "descModelo": "SY1120BRJ",
+      "descModeloStd": "SY1120BRJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009826"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220344",
+      "descModelo": "SY3040BY3Q",
+      "descModeloStd": "SY3040BY3Q",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009826"
+    }
+  }
+]

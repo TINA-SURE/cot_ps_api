@@ -1,0 +1,254 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271932",
+      "descModelo": "LAND ROVER",
+      "descModeloStd": "LAND ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009624"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AB",
+      "descModelo": "200 VI",
+      "descModeloStd": "200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001296"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AI",
+      "descModelo": "214 SI 3P",
+      "descModeloStd": "214",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001297"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210432",
+      "descModelo": "ROVER 400",
+      "descModeloStd": "ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009624"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AA",
+      "descModelo": "600",
+      "descModeloStd": "600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004231"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AD",
+      "descModelo": "216 SI 5P",
+      "descModeloStd": "216",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001299"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AM",
+      "descModelo": "623 SI",
+      "descModeloStd": "623",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001303"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AE",
+      "descModelo": "416 SI",
+      "descModeloStd": "416",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001300"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AL",
+      "descModelo": "620 SI",
+      "descModeloStd": "620",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001302"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AK",
+      "descModelo": "420 SI",
+      "descModeloStd": "420",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001301"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0169727",
+      "descModelo": "ROVER 400/98",
+      "descModeloStd": "ROVER 400/98",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010149"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AJ",
+      "descModelo": "214 SI 5P",
+      "descModeloStd": "214",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001298"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190075",
+      "descModelo": "ROVER 600/98",
+      "descModeloStd": "ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010149"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AN",
+      "descModelo": "ROVER 75",
+      "descModeloStd": "ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001304"
+    }
+  }
+]

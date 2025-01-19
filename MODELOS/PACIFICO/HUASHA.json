@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330482",
+      "descModelo": "HS250-4 TRIMOTO",
+      "descModeloStd": "HS250-4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004957"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328111",
+      "descModelo": "HS250-4 MT",
+      "descModeloStd": "HS250-4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004957"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223979",
+      "descModelo": "HS125",
+      "descModeloStd": "hs125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004957"
+    }
+  }
+]

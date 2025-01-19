@@ -1,0 +1,218 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324416",
+      "descModelo": "DX3 C",
+      "descModeloStd": "DX3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011008"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332734",
+      "descModelo": "DX7",
+      "descModeloStd": "DX7\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007924"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0240694",
+      "descModelo": "DN7150(V383)",
+      "descModeloStd": "DN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011008"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273133",
+      "descModelo": "V3",
+      "descModeloStd": "V3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011008"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324797",
+      "descModelo": "DX3",
+      "descModeloStd": "DX3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011008"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "1",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268476",
+      "descModelo": "C1",
+      "descModeloStd": "C1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001919"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330436",
+      "descModelo": "A5",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011008"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321378",
+      "descModelo": "DX3",
+      "descModeloStd": "DX3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005746"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323771",
+      "descModelo": "DX3 SUV",
+      "descModeloStd": "DX3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011008"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332265",
+      "descModelo": "A5",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007672"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "9",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325943",
+      "descModelo": "DX3 1.5T CVT FULL",
+      "descModeloStd": "DX3 1.5T CVT FULL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005490"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325622",
+      "descModelo": "DX7\t\t\t\t\t",
+      "descModeloStd": "DX7\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011008"
+    }
+  }
+]

@@ -1,0 +1,1244 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0066596",
+      "descModelo": "SAFE SUV",
+      "descModeloStd": "SAFE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009637"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194955",
+      "descModelo": "HAVAL H5 4X2 2.4",
+      "descModeloStd": "HAVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269877",
+      "descModelo": "GREAT WALL H5 1.1",
+      "descModeloStd": "GREAT WALL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009637"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325645",
+      "descModelo": "CMT-1113-32053",
+      "descModeloStd": "CMT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005397"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270074",
+      "descModelo": "FLORID 2.0",
+      "descModeloStd": "FLORID",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009637"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231891",
+      "descModelo": "VOLEEX C10 1.5",
+      "descModeloStd": "VOLEEX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002230"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273863",
+      "descModelo": "C-30 4X2",
+      "descModeloStd": "C-30",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004466"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220840",
+      "descModelo": "VOLEEX V80",
+      "descModeloStd": "VOLEEX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004104"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270072",
+      "descModelo": "FLORID 1.2",
+      "descModeloStd": "FLORID",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009637"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268903",
+      "descModelo": "HAVAL H2",
+      "descModeloStd": "HAVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002152"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331579",
+      "descModelo": "NEW M4 4X2 LUXURY 1.5 GLPT",
+      "descModeloStd": "M4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005078"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273440",
+      "descModelo": "M4 1.8",
+      "descModeloStd": "M4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009637"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192688",
+      "descModelo": "HOVER 2.4 4X4",
+      "descModeloStd": "HOVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001787"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194952",
+      "descModelo": "HAVAL H5 4X4 2.4",
+      "descModeloStd": "HAVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001986"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232377",
+      "descModelo": "WINGLE TDI 4X4 2.5",
+      "descModeloStd": "WINGLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002088"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263500",
+      "descModelo": "M4",
+      "descModeloStd": "M4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010673"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264978",
+      "descModelo": "H6 1.5 4X2",
+      "descModeloStd": "H6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010178"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191488",
+      "descModelo": "VOLEEX",
+      "descModeloStd": "VOLEEX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002564"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0230252",
+      "descModelo": "WINGLE 5 4X2 STD",
+      "descModeloStd": "WINGLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009272"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191527",
+      "descModelo": "HAVAL H5",
+      "descModeloStd": "HAVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009039"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0057956",
+      "descModelo": "DEER",
+      "descModeloStd": "DEER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004081"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191277",
+      "descModelo": "HOVER 2.4 4X2",
+      "descModeloStd": "HOVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001786"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190447",
+      "descModelo": "FLORID",
+      "descModeloStd": "FLORID",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001339"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194694",
+      "descModelo": "VOLEEX C30",
+      "descModeloStd": "VOLEEX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001893"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233114",
+      "descModelo": "SAFE 2.3 4X4",
+      "descModeloStd": "SAFE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001785"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267747",
+      "descModelo": "WINGLE 5 2.0 TDI 4X4",
+      "descModeloStd": "WINGLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001551"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232367",
+      "descModelo": "VOLEEX C20R",
+      "descModeloStd": "VOLEEX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002254"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233113",
+      "descModelo": "SAFE 2.3 4X2",
+      "descModeloStd": "SAFE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001784"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233120",
+      "descModelo": "WINGLE 2.8 TD 4X4",
+      "descModeloStd": "WINGLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001794"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232435",
+      "descModelo": "VOLEEX C50",
+      "descModeloStd": "VOLEEX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002255"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192588",
+      "descModelo": "HAVAL H3",
+      "descModeloStd": "HAVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009038"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265242",
+      "descModelo": "GREAT WALL H5",
+      "descModeloStd": "H3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001705"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233117",
+      "descModelo": "HOVER 2.8 TD 4X2",
+      "descModeloStd": "HOVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001791"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332628",
+      "descModelo": "GREAT WALL CP",
+      "descModeloStd": "GREAT WALL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009637"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326438",
+      "descModelo": "HAVAL H5 SUV",
+      "descModeloStd": "HAVAL H5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009637"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233116",
+      "descModelo": "DEER 2.7 4X4",
+      "descModeloStd": "DEER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001789"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194951",
+      "descModelo": "FLORID ELITE 1.5",
+      "descModeloStd": "FLORID",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001880"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331580",
+      "descModelo": "NEW M4 4X2 LUXURY 1.5 GLPT",
+      "descModeloStd": "M4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007277"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235701",
+      "descModelo": "HAVAL H6",
+      "descModeloStd": "HAVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009637"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267464",
+      "descModelo": "H3 5MT 2.0 4X2 PLT",
+      "descModeloStd": "H3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001396"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324262",
+      "descModelo": "GREAT WALL H3 4X2 PILOT 2.0 5MT V2\t\t\t\t\t",
+      "descModeloStd": "GREAT WALL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005021"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321138",
+      "descModelo": "GREAT WALL H3",
+      "descModeloStd": "GREAT WALL H3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009637"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194954",
+      "descModelo": "VOLEEX C30 1.5",
+      "descModeloStd": "VOLEEX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001881"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265961",
+      "descModelo": "H3",
+      "descModeloStd": "H3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003194"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269204",
+      "descModelo": "H5",
+      "descModeloStd": "H5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002409"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265267",
+      "descModelo": "M45 1.5 4X2",
+      "descModeloStd": "M4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010425"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176072",
+      "descModelo": "WINGLE",
+      "descModeloStd": "WINGLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004080"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329549",
+      "descModelo": "WINGLE 7",
+      "descModeloStd": "WINGLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006659"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233118",
+      "descModelo": "HOVER 2.8 TD 4X4",
+      "descModeloStd": "HOVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001792"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233119",
+      "descModelo": "SO COOL 2.8 TD 4X4",
+      "descModeloStd": "SO COOL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001793"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233121",
+      "descModelo": "COWRY 2.0",
+      "descModeloStd": "COWRY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001795"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323249",
+      "descModelo": "WINGLE 5 R",
+      "descModeloStd": "WINGLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009637"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0261949",
+      "descModelo": "HAVAL H6 1.5 4X2",
+      "descModeloStd": "HAVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009480"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265136",
+      "descModelo": "GREAT WALL H6",
+      "descModeloStd": "H6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001623"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269579",
+      "descModelo": "H5 VERSION PILOT 4X4 V2",
+      "descModeloStd": "H5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002720"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328128",
+      "descModelo": "H3 SUV",
+      "descModeloStd": "H3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001985"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266684",
+      "descModelo": "GREAT WALL H3 5MT 2.0 4X2 CTY",
+      "descModeloStd": "H3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000974"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264088",
+      "descModelo": "GREAT WALL M4",
+      "descModeloStd": "M4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009510"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333963",
+      "descModelo": "POER 4X4",
+      "descModeloStd": "POER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008633"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194953",
+      "descModelo": "HAVAL H3 4X2 2.0",
+      "descModeloStd": "HAVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001882"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332691",
+      "descModelo": "POER 2.0",
+      "descModeloStd": "POER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007899"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233115",
+      "descModelo": "DEER  2.7 4X2",
+      "descModeloStd": "DEER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001788"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327683",
+      "descModelo": "WINGLE 6",
+      "descModeloStd": "WINGLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006078"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320678",
+      "descModelo": "EQ3252GT7",
+      "descModeloStd": "EQ3252GT7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009637"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330955",
+      "descModelo": "POER",
+      "descModeloStd": "POER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006960"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193684",
+      "descModelo": "GWPERI 1.3",
+      "descModeloStd": "GWPERI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001790"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267867",
+      "descModelo": "GREAT WALL H6 6MT 1.5T 4X2 ELT",
+      "descModeloStd": "H6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001620"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231597",
+      "descModelo": "HAVAL H3 4X4 2.0",
+      "descModeloStd": "HAVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002087"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262932",
+      "descModelo": "WINGLE 5",
+      "descModeloStd": "WINGLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002645"
+    }
+  }
+]

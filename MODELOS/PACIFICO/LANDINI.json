@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324761",
+      "descModelo": "TRACTOR SUPER DT110B\t\t\t\t\t",
+      "descModeloStd": "DT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005145"
+    }
+  }
+]

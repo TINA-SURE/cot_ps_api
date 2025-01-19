@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273454",
+      "descModelo": "SR.TO-2",
+      "descModeloStd": "SR.TO-2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004359"
+    }
+  }
+]

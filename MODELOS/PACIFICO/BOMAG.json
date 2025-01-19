@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331039",
+      "descModelo": "BW211D-40",
+      "descModeloStd": "BW211D-40",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007009"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334339",
+      "descModelo": "BC-462-RB",
+      "descModeloStd": "BC-462-RB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007009"
+    }
+  }
+]

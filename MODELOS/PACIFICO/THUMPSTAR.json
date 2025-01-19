@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327189",
+      "descModelo": "TDR CRF 19",
+      "descModeloStd": "TDR ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005828"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327190",
+      "descModelo": "TDR CRF 19 MOTO",
+      "descModeloStd": "TDR CRF 19",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005828"
+    }
+  }
+]

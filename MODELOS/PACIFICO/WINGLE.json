@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273329",
+      "descModelo": "GREAT WALL",
+      "descModeloStd": "GREAT WALL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004321"
+    }
+  }
+]

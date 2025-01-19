@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271973",
+      "descModelo": "STJ5020XXY",
+      "descModeloStd": "STJ5020XXY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003804"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271856",
+      "descModelo": "STJ 6400A",
+      "descModeloStd": "STJ 6400A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003804"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0278464",
+      "descModelo": "STJ6400A",
+      "descModeloStd": "STJ6400A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003804"
+    }
+  }
+]

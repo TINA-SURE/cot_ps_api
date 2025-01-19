@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0180767",
+      "descModelo": "PATHFINDER FL 4X",
+      "descModeloStd": "ROSEMBAUER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001256"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326072",
+      "descModelo": "BUFFALO C",
+      "descModeloStd": "BUFFALO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001256"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332792",
+      "descModelo": "RAMBLER",
+      "descModeloStd": "RAMBLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005786"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327051",
+      "descModelo": "AZ150T",
+      "descModeloStd": "AZ150T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005786"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CUATRIMOTO",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 32,
+    "keyClaseVeh": "quad",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332400",
+      "descModelo": "200",
+      "descModeloStd": "200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007753"
+    }
+  }
+]

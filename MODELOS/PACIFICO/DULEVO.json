@@ -1,0 +1,110 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271126",
+      "descModelo": "850 MINI",
+      "descModeloStd": "850",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003448"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273367",
+      "descModelo": "5000 EVOLUTION EU4",
+      "descModeloStd": "5000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004335"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330557",
+      "descModelo": "6000 REVOLUTION PICK",
+      "descModeloStd": "6000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003448"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328747",
+      "descModelo": "6000 REVOLUTION",
+      "descModeloStd": "6000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003448"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271802",
+      "descModelo": "850 DK",
+      "descModeloStd": "850 DK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003448"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0319882",
+      "descModelo": "EVOLUTION PLUS",
+      "descModeloStd": "EVOLUTION",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004335"
+    }
+  }
+]

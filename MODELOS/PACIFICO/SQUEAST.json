@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329582",
+      "descModelo": "DX 3",
+      "descModeloStd": "DX 3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006668"
+    }
+  }
+]

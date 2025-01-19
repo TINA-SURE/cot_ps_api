@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270248",
+      "descModelo": "PRODECO TECH V5 PHANTOM XR BLACK 36V600W",
+      "descModeloStd": "PRODECO TECH V5 PHANTOM XR BLACK 36V600W",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003043"
+    }
+  }
+]

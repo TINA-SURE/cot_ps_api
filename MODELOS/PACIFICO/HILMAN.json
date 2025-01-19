@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322932",
+      "descModelo": "MINX ESTATE",
+      "descModeloStd": "MINX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004743"
+    }
+  }
+]

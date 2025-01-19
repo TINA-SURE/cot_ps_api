@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328908",
+      "descModelo": "CSC5160GSSD",
+      "descModeloStd": "CS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006447"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328907",
+      "descModelo": "CSC325S",
+      "descModeloStd": "CS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006447"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331760",
+      "descModelo": "CSC5160GSSD CAMION",
+      "descModeloStd": "CSC5160GSSD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006447"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331761",
+      "descModelo": "CSC325S CAMION",
+      "descModeloStd": "CSC325S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006447"
+    }
+  }
+]

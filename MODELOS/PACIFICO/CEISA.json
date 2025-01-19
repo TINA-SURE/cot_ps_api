@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195340",
+      "descModelo": "S/M",
+      "descModeloStd": "S/M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10804"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 6,
+    "keyClaseVeh": "trailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265705",
+      "descModelo": "SRP-03",
+      "descModeloStd": "SRP-03",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010804"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324319",
+      "descModelo": "RF-01\t\t\t\t\t",
+      "descModeloStd": "RF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005029"
+    }
+  }
+]

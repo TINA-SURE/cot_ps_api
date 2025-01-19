@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333208",
+      "descModelo": "ZTP1043W",
+      "descModeloStd": "ZTP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008188"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0186813",
+      "descModelo": "ZTP1053W",
+      "descModeloStd": "ZTP1053W",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010145"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330776",
+      "descModelo": "ZTP1083",
+      "descModeloStd": "ZTP1083",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006858"
+    }
+  }
+]

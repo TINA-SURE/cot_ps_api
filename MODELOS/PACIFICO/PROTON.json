@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0028385",
+      "descModelo": "PERSONA XLI",
+      "descModeloStd": "PERSONA XLI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004665"
+    }
+  }
+]

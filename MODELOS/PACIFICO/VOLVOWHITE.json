@@ -1,0 +1,110 @@
+[
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271081",
+      "descModelo": "WIM64T",
+      "descModeloStd": "WIM64T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003426"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326797",
+      "descModelo": "C-350 C",
+      "descModeloStd": "C-350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003571"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326802",
+      "descModelo": "C-350 CP",
+      "descModeloStd": "C-350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003571"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271395",
+      "descModelo": "C-350",
+      "descModeloStd": "C-350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003571"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0294101",
+      "descModelo": "WIA64TES",
+      "descModeloStd": "WIA64TES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003426"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326794",
+      "descModelo": "WIA64TES R",
+      "descModeloStd": "WIA64TES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003426"
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333868",
+      "descModelo": "CARGUERO C&C 150 TC",
+      "descModeloStd": "CARGUERO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010856"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271108",
+      "descModelo": "THUNDER150",
+      "descModeloStd": "THUNDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010856"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334335",
+      "descModelo": "CARGUERO C&C 250",
+      "descModeloStd": "CARGUERO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010856"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328606",
+      "descModelo": "CARGUERO TRI PASAJEROS",
+      "descModeloStd": "CARGUERO TRI PASAJEROS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010856"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272227",
+      "descModelo": "C&C 200 GY",
+      "descModeloStd": "C&C 200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010856"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190912",
+      "descModelo": "CARGUERO",
+      "descModeloStd": "CARGUERO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010856"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193035",
+      "descModelo": "C&C (TRI)",
+      "descModeloStd": "C&C 200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010856"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222135",
+      "descModelo": "MOTOTAXI 125C&C",
+      "descModeloStd": "C&C 200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010856"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234346",
+      "descModelo": "ET 150 - 13",
+      "descModeloStd": "ET 150 - 13",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010856"
+    }
+  }
+]

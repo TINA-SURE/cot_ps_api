@@ -1,0 +1,146 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327291",
+      "descModelo": "IT-SRCE3",
+      "descModeloStd": "IT-SRTCE3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005871"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266376",
+      "descModelo": "IT SRB40E3",
+      "descModeloStd": "IT SRB40E3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000708"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273078",
+      "descModelo": "IT-SRTE 3",
+      "descModeloStd": "IT-SRT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004250"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327292",
+      "descModelo": "IT-RF21E2",
+      "descModeloStd": "IT-RF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005872"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267945",
+      "descModelo": "NACIONAL",
+      "descModeloStd": "NACIONAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001665"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273722",
+      "descModelo": "CAMABAJA",
+      "descModeloStd": "CAMABAJA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004441"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270054",
+      "descModelo": "IT-SRTCE3",
+      "descModeloStd": "IT-SRTCE3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000504"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0288802",
+      "descModelo": "SRP40E3",
+      "descModeloStd": "SRP40E3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005861"
+    }
+  }
+]

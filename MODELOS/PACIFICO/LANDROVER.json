@@ -1,0 +1,1334 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193678",
+      "descModelo": "FREELANDER2 HSE 3.2",
+      "descModeloStd": "FREELANDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001908"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BA",
+      "descModelo": "FREELANDER 2.5 V6",
+      "descModeloStd": "FREELANDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000829"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AT",
+      "descModelo": "DEFENDER 90 2.5 TDI",
+      "descModeloStd": "DEFENDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000821"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327334",
+      "descModelo": "DISCOVERY /ST / V6",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005891"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331967",
+      "descModelo": "DEFENDER FIRST EDITION MY20",
+      "descModeloStd": "DEFENDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007490"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267221",
+      "descModelo": "DISCOVERY SPORT",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001269"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324969",
+      "descModelo": " RANGE ROVER VELAR",
+      "descModeloStd": "RANGE ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005211"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0183658",
+      "descModelo": "DEFENDER 90",
+      "descModeloStd": "DEFENDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002017"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "0",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AA",
+      "descModelo": "DEFENDER",
+      "descModeloStd": "DEFENDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003771"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328791",
+      "descModelo": "DISCOVERY HSE 3.0 L S16",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006412"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205238",
+      "descModelo": "LR2",
+      "descModeloStd": "LR2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001363"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233266",
+      "descModelo": "DEFENDER 110 TD4 2.4 ",
+      "descModeloStd": "DEFENDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001906"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0029448",
+      "descModelo": "DISCOVERY TD5",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002238"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195561",
+      "descModelo": "DISCOVERY 4",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004031"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AY",
+      "descModelo": "FREELANDER 1.8I",
+      "descModeloStd": "FREELANDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000827"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267380",
+      "descModelo": "RANGER ROVER 2.0",
+      "descModeloStd": "RANGER ROVER 2.0",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009617"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264843",
+      "descModelo": "SERIE III",
+      "descModeloStd": "SERIE III",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009617"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270639",
+      "descModelo": "DISCOVERY SDV6 ADVENTURE MY16",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003181"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AZ",
+      "descModelo": "FREELANDER 2.0 TD4",
+      "descModeloStd": "FREELANDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000828"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267382",
+      "descModelo": "RANGE ROVER 4.4 V8",
+      "descModeloStd": "RANGE ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001360"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265971",
+      "descModelo": "SV",
+      "descModeloStd": "SV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001002"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AX",
+      "descModelo": "FREELANDER 2.0 DI",
+      "descModeloStd": "FREELANDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000826"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176559",
+      "descModelo": "MILITAR 88",
+      "descModeloStd": "MILITAR 88",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009617"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325287",
+      "descModelo": "RANGER ROVER VOGUE 5.0\t\t\t\t\t",
+      "descModeloStd": "RANGE ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005297"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270823",
+      "descModelo": "SPORT",
+      "descModeloStd": "SPORT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003293"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AG",
+      "descModelo": "RANGE ROVER",
+      "descModeloStd": "RANGE ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001650"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262202",
+      "descModelo": "RANGER ROVER SPORT",
+      "descModeloStd": "RANGER ROVER 2.0",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011040"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220875",
+      "descModelo": "RANGE ROVER SPORT",
+      "descModeloStd": "RANGE ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011040"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BB",
+      "descModelo": "RANGE ROVER 4.0",
+      "descModeloStd": "RANGE ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000830"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BC",
+      "descModelo": "RANGE ROVER 4.6",
+      "descModeloStd": "RANGE ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000831"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233265",
+      "descModelo": "RANGE ROVER 4.4 HSE",
+      "descModeloStd": "RANGE ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000836"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331267",
+      "descModelo": "COMBI WAGON LHD",
+      "descModeloStd": "COMBI WAGON LHD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009617"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220207",
+      "descModelo": "RANGE ROVER EVOQUE",
+      "descModeloStd": "RANGE ROVER EVOQUE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002051"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AU",
+      "descModelo": "DEFENDER 90 4.0",
+      "descModeloStd": "DEFENDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000822"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219947",
+      "descModelo": "DISCOVERY",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003612"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "9",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AO",
+      "descModelo": "DEFENDER 110 2.5 TDI",
+      "descModeloStd": "DEFENDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000816"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273770",
+      "descModelo": "DISCOVERY SPORT SI4HSE",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004453"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233262",
+      "descModelo": "DISCOVERY3 2.7 TD",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000833"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269980",
+      "descModelo": "DISCOVERY TD5 /2001",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002904"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334726",
+      "descModelo": "DISCOVERY SPORT DYNAMIC SE (HIBRIDO)",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009146"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193677",
+      "descModelo": "FREELANDER2 3.2",
+      "descModeloStd": "FREELANDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001907"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332011",
+      "descModelo": "D 924",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007515"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233263",
+      "descModelo": "RANGE ROVER SPORT 4.4",
+      "descModeloStd": "RANGE ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000834"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233259",
+      "descModelo": "DISCOVERY 2.5 TDI",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000823"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333280",
+      "descModelo": "NEW RANGE ROVER SPORT P400 FIRST EDIT",
+      "descModeloStd": "RANGE ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008236"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0059263",
+      "descModelo": "109LR",
+      "descModeloStd": "109LR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004736"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328794",
+      "descModelo": "DISCOVERY HSE V6",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006413"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331551",
+      "descModelo": "RANGER ROVER SPORT",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007263"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333138",
+      "descModelo": "DEFENDER 130 CP",
+      "descModeloStd": "DEFENDER 130",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009617"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0237945",
+      "descModelo": "LR3",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010650"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AW",
+      "descModelo": "FREELANDER 2",
+      "descModeloStd": "FREELANDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000825"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325974",
+      "descModelo": "RANGE ROVER UP",
+      "descModeloStd": "RANGE ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009617"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BD",
+      "descModelo": "88",
+      "descModeloStd": "88",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004328"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193679",
+      "descModelo": "RANGE ROVER 5.0",
+      "descModeloStd": "RANGE ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001914"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327907",
+      "descModelo": "RANGE ROVER AUTO",
+      "descModeloStd": "RANGE ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009617"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233264",
+      "descModelo": "DISCOVERY3 HSE 2.7",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000835"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271663",
+      "descModelo": "88 1.2",
+      "descModeloStd": "88",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009617"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "9",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323208",
+      "descModelo": "DEFENDER 110",
+      "descModeloStd": "DEFENDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009617"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233260",
+      "descModelo": "DISCOVERY 4.0 V8",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000824"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322983",
+      "descModelo": "109 RURAL",
+      "descModeloStd": "109",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009617"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326345",
+      "descModelo": "DESENDES 110 2.2 DIESE",
+      "descModeloStd": "Desendes 110 2.2 diese",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005607"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193681",
+      "descModelo": "RANGE ROVER SPORT SE 5.0",
+      "descModeloStd": "RANGE ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001912"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193676",
+      "descModelo": "DISCOVERY4 TDV6 2.7",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001909"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0179693",
+      "descModelo": "RANGE ROVER 2.7L V6",
+      "descModeloStd": "RANGE ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002577"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233267",
+      "descModelo": "RANGE ROVER EVOQUE COUPE",
+      "descModeloStd": "RANGE ROVER EVOQUE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002052"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193675",
+      "descModelo": "DISCOVERY4 SE 5.0",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001910"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193674",
+      "descModelo": "DISCOVERY4 HSE 5.0",
+      "descModeloStd": "DISCOVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001911"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233261",
+      "descModelo": "DEFENDER 2.4 (110 HP)",
+      "descModeloStd": "DEFENDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000832"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271571",
+      "descModelo": "EVOQUE",
+      "descModeloStd": "EVOQUE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330760",
+      "descModelo": "RANGE OVER",
+      "descModeloStd": "RANGE OVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009617"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329496",
+      "descModelo": "DISCOVERY SPORT A",
+      "descModeloStd": "DISCOVERY SPORT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009617"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "9",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AQ",
+      "descModelo": "DEFENDER 110 4.0",
+      "descModeloStd": "DEFENDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000818"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193680",
+      "descModelo": "RANGE ROVER SPORT HSE 5.0",
+      "descModeloStd": "RANGE ROVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001913"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0012919",
+      "descModelo": "JEEP",
+      "descModeloStd": "JEEP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009617"
+    }
+  }
+]

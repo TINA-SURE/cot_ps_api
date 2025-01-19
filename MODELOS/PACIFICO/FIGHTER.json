@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "MICROBUS",
+    "claseVeh": "MICROBUS",
+    "numPue": "15",
+    "idTipoVeh": 101,
+    "keyTipoVeh": "microbus",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333749",
+      "descModelo": "SANTANA",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008510"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272508",
+      "descModelo": "GDQ6531A1",
+      "descModeloStd": "GDQ6531A1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004013"
+    }
+  }
+]

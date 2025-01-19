@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334524",
+      "descModelo": "B3.9-C",
+      "descModeloStd": "B3.9-C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009018"
+    }
+  }
+]

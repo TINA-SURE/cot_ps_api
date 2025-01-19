@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327765",
+      "descModelo": "BENTAYGA V8\t\t\t\t\t",
+      "descModeloStd": "BENTAYGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006105"
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233086",
+      "descModelo": "SUCCE MINIVAN",
+      "descModeloStd": "SUCCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002148"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265666",
+      "descModelo": "SUCCE",
+      "descModeloStd": "SUCCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009656"
+    }
+  },
+  {
+    "tipoRie": null,
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193447",
+      "descModelo": "SUCCE",
+      "descModeloStd": "SUCCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009378"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233084",
+      "descModelo": "RICH 2.5 TD 4X2 ",
+      "descModeloStd": "RICH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002130"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196235",
+      "descModelo": "RICH",
+      "descModeloStd": "RICH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002666"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326381",
+      "descModelo": "SUCCE 1.6\t\t\t\t\t",
+      "descModeloStd": "SUCCE 1.6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005622"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233085",
+      "descModelo": "RICH 2.5 TD 4X4",
+      "descModeloStd": "RICH ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002131"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231940",
+      "descModelo": "SUCCE PANEL",
+      "descModeloStd": "SUCCE PANEL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002147"
+    }
+  }
+]

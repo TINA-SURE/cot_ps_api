@@ -1,0 +1,6932 @@
+[
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CZ",
+      "descModelo": "GRAND VITARA 2.0",
+      "descModeloStd": "GRAND VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001360"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195454",
+      "descModelo": "GRAND NOMADE 2.4 4X2",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001391"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0012061",
+      "descModelo": "GRAND NOMADE XL7",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002405"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0026386",
+      "descModelo": "CARRY 2003",
+      "descModeloStd": "CARRY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330596",
+      "descModelo": "S-PRESSO",
+      "descModeloStd": "S-PRESSO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006769"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328667",
+      "descModelo": "TS-125 MT",
+      "descModeloStd": "TS-125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014719",
+      "descModelo": "AERIO SED",
+      "descModeloStd": "AERIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334942",
+      "descModelo": "ALL NEW CELERIO",
+      "descModeloStd": "NEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0245715",
+      "descModelo": "LEVANTE",
+      "descModeloStd": "LEVANTE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BN",
+      "descModelo": "SWIFT 1.3",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001381"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322911",
+      "descModelo": "SAMURAI/99",
+      "descModeloStd": "SAMURAI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325952",
+      "descModelo": "CELERIO 1.0",
+      "descModeloStd": "CELERIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005493"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "0",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000EP",
+      "descModelo": "SE416 VJLXP",
+      "descModeloStd": "SE416 VJLXP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328471",
+      "descModelo": "GRAN NOMADE SUV",
+      "descModeloStd": "GRAN NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CV",
+      "descModelo": "BALENO 1.6 GLX",
+      "descModeloStd": "BALENO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001356"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264012",
+      "descModelo": "ERTIGA",
+      "descModeloStd": "ERTIGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009527"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000EM",
+      "descModelo": "AERIO 2.0",
+      "descModeloStd": "AERIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328330",
+      "descModelo": "LIANA RURAL",
+      "descModeloStd": "LIANA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221412",
+      "descModelo": "LANDY",
+      "descModeloStd": "LANDY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "3",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095897",
+      "descModelo": "ALTO",
+      "descModeloStd": "ALTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L4",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0169184",
+      "descModelo": "LIANA (CETICO)",
+      "descModeloStd": "LIANA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009485"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324682",
+      "descModelo": "A-50 MOTO",
+      "descModeloStd": "A-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328833",
+      "descModelo": "NEW VITARA GLX",
+      "descModeloStd": "VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006425"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273680",
+      "descModelo": "BALENO GL MT 2WD",
+      "descModeloStd": "BALENO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004424"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194097",
+      "descModelo": "AN125",
+      "descModeloStd": "AN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330730",
+      "descModelo": "S- PRESSO",
+      "descModeloStd": "S- PRESSO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178078",
+      "descModelo": "APV FURGON",
+      "descModeloStd": "APV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003292"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332676",
+      "descModelo": "NEW JIMNY GL 1.5 AT 4X4",
+      "descModeloStd": "NEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007888"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326058",
+      "descModelo": "UR110",
+      "descModeloStd": "UR110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334084",
+      "descModelo": "LJ81KLEA",
+      "descModeloStd": "LJ81KLEA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270207",
+      "descModelo": "NEW SWIFT HB 1.2 GL MT AC",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003022"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325254",
+      "descModelo": "BO2 ALTO",
+      "descModeloStd": "BO2 ALTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320569",
+      "descModelo": "5 TON",
+      "descModeloStd": "5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329515",
+      "descModelo": "GJ7CA",
+      "descModeloStd": "G",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CY",
+      "descModelo": "GRAND VITARA 1.6 JLX",
+      "descModeloStd": "GRAND VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001359"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0212204",
+      "descModelo": "SA310",
+      "descModeloStd": "SA310",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324303",
+      "descModelo": "S-CROSS GLX 1.6",
+      "descModeloStd": "S-CROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005017"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328233",
+      "descModelo": "FRR90SL MAPES",
+      "descModeloStd": "FR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334702",
+      "descModelo": "ERTIGA CP",
+      "descModeloStd": "ERTIGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323669",
+      "descModelo": "LJ81KLAN",
+      "descModeloStd": "LJ81KLAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330419",
+      "descModelo": "KATANA MOTOCICLETA",
+      "descModeloStd": "KATANA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0240991",
+      "descModelo": "SF413GL (M.C.)",
+      "descModeloStd": "SF413GL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268631",
+      "descModelo": "VW",
+      "descModeloStd": "VW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001990"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0238907",
+      "descModelo": "SS80-GLAH",
+      "descModeloStd": "SS80-GLAH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329551",
+      "descModelo": "SX-4 CMT",
+      "descModeloStd": "SX-4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331616",
+      "descModelo": "JIMNY JX R",
+      "descModeloStd": "JIMNY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0279644",
+      "descModelo": "VL800",
+      "descModeloStd": "VL800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005441"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271437",
+      "descModelo": "CIAZ 1.4",
+      "descModeloStd": "CIAZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003600"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DU",
+      "descModelo": "CARRY FURGON 1.3 MT",
+      "descModeloStd": "CARRY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001371"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325673",
+      "descModelo": "SJ410KL UP",
+      "descModeloStd": "SJ410KL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231933",
+      "descModelo": "SX4 1.6 URBANO HB",
+      "descModeloStd": "SX4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002151"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AZ",
+      "descModelo": "SS80FL",
+      "descModeloStd": "SS80FL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0212213",
+      "descModelo": "SB308GAT",
+      "descModeloStd": "SB308GAT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324631",
+      "descModelo": "DK12DSJ-98",
+      "descModeloStd": "DK12DSJ-98",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0034776",
+      "descModelo": "LIANA",
+      "descModeloStd": "LIANA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325945",
+      "descModelo": "ERTIGA 1.4 GL MT",
+      "descModeloStd": "ERTIGA 1.4 GL MT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005489"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BI",
+      "descModelo": "CULTUS CRESCENT",
+      "descModeloStd": "CULTUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0094862",
+      "descModelo": "APV PANEL",
+      "descModeloStd": "APV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001384"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327451",
+      "descModelo": "GRAND VITARA 4X4\t\t\t\t\t",
+      "descModeloStd": "GRAN VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005945"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0172518",
+      "descModelo": "CULTUS",
+      "descModeloStd": "CULTUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327700",
+      "descModelo": "V-STROM250",
+      "descModeloStd": "V",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328516",
+      "descModelo": "GLX LUX AT 4 WD",
+      "descModeloStd": "GLX ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006329"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334943",
+      "descModelo": "NEW S-CROSS",
+      "descModeloStd": "NEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168733",
+      "descModelo": "FD110DV/98",
+      "descModeloStd": "FD110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330904",
+      "descModelo": "BALENO",
+      "descModeloStd": "BALENO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006934"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168766",
+      "descModelo": "SWIFT SPORT 1.6",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002142"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328666",
+      "descModelo": "FORENZA 1.2 MT",
+      "descModeloStd": "FORENZA 1.2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0020323",
+      "descModelo": "SF146NGLX",
+      "descModeloStd": "SF146NGLX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323599",
+      "descModelo": "BALENO",
+      "descModeloStd": "BALENO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0094878",
+      "descModelo": "AERIO",
+      "descModeloStd": "AERIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002423"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326683",
+      "descModelo": "GN-125 M",
+      "descModeloStd": "GN-125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326667",
+      "descModelo": "GSX250",
+      "descModeloStd": "GSX250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332833",
+      "descModelo": "VITARA RUGBY 1.6",
+      "descModeloStd": "VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264924",
+      "descModelo": "S-CROSS",
+      "descModeloStd": "S-CROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002036"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325792",
+      "descModelo": "HYOSUNG MOTO",
+      "descModeloStd": "HYOSUNG",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256618",
+      "descModelo": "SWIFT HB 1.4 GL MT AC",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009478"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270352",
+      "descModelo": "NEW ERTIGA",
+      "descModeloStd": "ERTIGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003089"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334085",
+      "descModelo": "LJ81KLEA 4X4",
+      "descModeloStd": "LJ81KLEA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330425",
+      "descModelo": "EN125-2A MOTOCICLETA",
+      "descModeloStd": "EN125-2A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014619",
+      "descModelo": "AERIO 1.6 SX HB",
+      "descModeloStd": "AERIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001373"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332082",
+      "descModelo": "VAN VAN 90",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007558"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272073",
+      "descModelo": "AN125HK 2.1",
+      "descModeloStd": "AN125HK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009311"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0024444",
+      "descModelo": "ESCUDO 5P",
+      "descModeloStd": "ESCUDO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320400",
+      "descModelo": "G NOMADE",
+      "descModeloStd": "G NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324673",
+      "descModelo": "IGNIS GL CVT\t\t\t\t\t",
+      "descModeloStd": "IGNIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005110"
+    }
+  },
+  {
+    "tipoRie": "L4",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DN",
+      "descModelo": "ESCUDO CETICO",
+      "descModeloStd": "ESCUDO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002591"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334944",
+      "descModelo": "NEW GRAND VITARA",
+      "descModeloStd": "NEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327619",
+      "descModelo": "RGSK2200",
+      "descModeloStd": "RG",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326330",
+      "descModelo": "STAT WAGON",
+      "descModeloStd": "STAT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233596",
+      "descModelo": "ALTO K 10 1.0",
+      "descModeloStd": "ALTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001959"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272166",
+      "descModelo": "XV",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0034256",
+      "descModelo": "APV",
+      "descModeloStd": "APV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005134"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0016922",
+      "descModelo": "GRAND NOMADE 2002",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331807",
+      "descModelo": "SWIFT GLS 1.2 AMT 2X2 V2",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007405"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DW",
+      "descModelo": "GRAND NOMADE 2.0 TDI",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001370"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325140",
+      "descModelo": "GSX150\t\t\t\t\t",
+      "descModeloStd": "GSX150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005250"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265090",
+      "descModelo": "AERIO 1.6",
+      "descModeloStd": "AERIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325148",
+      "descModelo": "NEW ERTIGA MULTI",
+      "descModeloStd": "NEW ERTIGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0244286",
+      "descModelo": "EVERY JOY POP",
+      "descModeloStd": "EVERY JOY POP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326477",
+      "descModelo": "GD110HU",
+      "descModeloStd": "GD110HU",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267147",
+      "descModelo": "GS150R",
+      "descModeloStd": "GS150R",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334472",
+      "descModelo": "GSX250FRLM4",
+      "descModeloStd": "GS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008990"
+    }
+  },
+  {
+    "tipoRie": "L4",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233591",
+      "descModelo": "SWIFT 1.3 CETICOS",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001387"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323807",
+      "descModelo": "JIMNY SEDAN",
+      "descModeloStd": "JIMNY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233593",
+      "descModelo": "GRAND VITARA 2.4 AT S/R",
+      "descModeloStd": "GRAND VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007644"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269907",
+      "descModelo": "NEW SWIFT SEDAN GL AT AW",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002864"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268031",
+      "descModelo": "GSX150",
+      "descModeloStd": "GSX150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268408",
+      "descModelo": "NEW VITARA GL LUX MT",
+      "descModeloStd": "VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001875"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268980",
+      "descModelo": "NEW VITARA GL LUX 6AT 2WD",
+      "descModeloStd": "VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002873"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265444",
+      "descModelo": "GR-650",
+      "descModeloStd": "GR-650",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010643"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325424",
+      "descModelo": "DL 250 MOTO",
+      "descModeloStd": "DL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273138",
+      "descModelo": "SX-4 GLX",
+      "descModeloStd": "SX4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004270"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265372",
+      "descModelo": "K10 1.0 M/T LX",
+      "descModeloStd": "K10",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010620"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326915",
+      "descModelo": "CSX 150",
+      "descModeloStd": "CSX 150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "3",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0075257",
+      "descModelo": "ALTO 800 CC",
+      "descModeloStd": "ALTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324302",
+      "descModelo": "S-CROSS GL 1.6",
+      "descModeloStd": "S-CROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005016"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328497",
+      "descModelo": "NEW SWIFT",
+      "descModeloStd": "NEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006321"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326875",
+      "descModelo": "QS125-5",
+      "descModeloStd": "QS125-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234085",
+      "descModelo": "KIZASHI 2.4",
+      "descModeloStd": "KIZASHI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002278"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234413",
+      "descModelo": "DR125SJ",
+      "descModeloStd": "DR125 SJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326282",
+      "descModelo": "GIXXER GSX 150",
+      "descModeloStd": "GIXXER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268871",
+      "descModelo": "DR",
+      "descModeloStd": "DR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003987"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331857",
+      "descModelo": "APV",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007434"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268661",
+      "descModelo": "GRAND NOMADE 2.4",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002007"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271674",
+      "descModelo": "DR200SE",
+      "descModeloStd": "DR200SE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003733"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DH",
+      "descModelo": "SF413 GL",
+      "descModeloStd": "SF413GL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269027",
+      "descModelo": "GRAND NOMADE 4X4",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002245"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325290",
+      "descModelo": "DL650A",
+      "descModeloStd": "DL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256247",
+      "descModelo": "4X4 LJ80VL",
+      "descModeloStd": "4X4 LJ80VL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330935",
+      "descModelo": "S-PRESSO GA MT",
+      "descModeloStd": "GRAN VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0098816",
+      "descModelo": "GRAND NOMADE",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002671"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333348",
+      "descModelo": "JIMNY",
+      "descModeloStd": "JIMNY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008280"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0016921",
+      "descModelo": "IGNIS 4X4",
+      "descModeloStd": "IGNIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014963",
+      "descModelo": "IGNIS 1.3 4X2",
+      "descModeloStd": "IGNIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324980",
+      "descModelo": "GN125 F\t\t\t\t\t",
+      "descModeloStd": "GN125 F\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193521",
+      "descModelo": "GRAN NOMADE",
+      "descModeloStd": "GRAN NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002699"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233585",
+      "descModelo": "BALENO 1.3 GL",
+      "descModeloStd": "BALENO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001368"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328218",
+      "descModelo": "AN125 MOTO",
+      "descModeloStd": "AN125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327212",
+      "descModelo": "GS-125ESX-98\t\t\t\t\t",
+      "descModeloStd": "GS-125ESX-98\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005838"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266309",
+      "descModelo": "XLT 2.8",
+      "descModeloStd": "XLT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000679"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331825",
+      "descModelo": "NEW DZIRE",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007416"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324198",
+      "descModelo": "GSX250 MT",
+      "descModeloStd": "GSX250 MT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0172855",
+      "descModelo": "SK410VJ",
+      "descModeloStd": "SK410VJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333724",
+      "descModelo": "U-70",
+      "descModeloStd": "U-70",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233583",
+      "descModelo": "BALENO 1.6 SW",
+      "descModeloStd": "BALENO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001357"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0054797",
+      "descModelo": "SX4",
+      "descModeloStd": "SX4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003235"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332054",
+      "descModelo": "SWIFT HYBRID",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007543"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "0",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000EZ",
+      "descModelo": "AERIO 2003",
+      "descModeloStd": "AERIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331963",
+      "descModelo": "SWIFT GLS 1.2 MT 4X2",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007488"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194098",
+      "descModelo": "AN125HK",
+      "descModeloStd": "AN125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010418"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189056",
+      "descModelo": "GRAND NOMADE 2.5",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001358"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0010349",
+      "descModelo": "AERIO 1.6 SW",
+      "descModeloStd": "AERIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001372"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0245137",
+      "descModelo": "SJ 410 VL",
+      "descModeloStd": "SJ 410 VL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331145",
+      "descModelo": "S-PRESSO SUV",
+      "descModeloStd": "S-PRESSO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323047",
+      "descModelo": "SX-4 HB",
+      "descModeloStd": "SX-4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270665",
+      "descModelo": "JIMMY 1.2",
+      "descModeloStd": "JIMMY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0022069",
+      "descModelo": "APV 1.6",
+      "descModeloStd": "APV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DV",
+      "descModelo": "GRAND NOMADE 2.0 JLX",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001369"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327079",
+      "descModelo": "SWIFT NEW DZIRE GLX AMT",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005793"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192582",
+      "descModelo": "SWIFT 1.4",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002071"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263637",
+      "descModelo": "GN125",
+      "descModeloStd": "GN-125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0023495",
+      "descModelo": "APV GL MULTI",
+      "descModeloStd": "APV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272563",
+      "descModelo": "RENO 1.2",
+      "descModeloStd": "RENO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327674",
+      "descModelo": "VITARA S",
+      "descModeloStd": "VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CN",
+      "descModelo": "JIMNY 1.3",
+      "descModeloStd": "JIMNY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001361"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DY",
+      "descModelo": "SF413GS",
+      "descModeloStd": "SF413GS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266692",
+      "descModelo": "DZIRE",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000977"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326096",
+      "descModelo": "CARRY UP",
+      "descModeloStd": "CARRY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328834",
+      "descModelo": "SOLIO A",
+      "descModeloStd": "SOLIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334313",
+      "descModelo": "FRONX",
+      "descModeloStd": "FRONX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008857"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273345",
+      "descModelo": "SWIFT HB",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265655",
+      "descModelo": "GRAND NOMADE 2.0 4X2",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010688"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168415",
+      "descModelo": "GRAND VITARA V6",
+      "descModeloStd": "GRAND VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272000",
+      "descModelo": "NEW SWIFT 1.2 GA MT AC",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003868"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BJ",
+      "descModelo": "SIDEKICK 1.6",
+      "descModeloStd": "SIDEKICK ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010552"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324487",
+      "descModelo": "JIMNY 2004\t\t\t\t\t SUV",
+      "descModeloStd": "JIMNY 2004\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273335",
+      "descModelo": "BALENO",
+      "descModeloStd": "BALENO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004323"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265650",
+      "descModelo": "GRAND NOMADE 2.0",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010686"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0290373",
+      "descModelo": "BOULEVARD",
+      "descModeloStd": "BOULEVARD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0022624",
+      "descModelo": "SWIFT 1.5",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001382"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331979",
+      "descModelo": "S/M SEDAN",
+      "descModeloStd": "S/M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270335",
+      "descModelo": "SE416 WJX",
+      "descModeloStd": "SE416",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234678",
+      "descModelo": "SX-4",
+      "descModeloStd": "SX4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264425",
+      "descModelo": "SCROSS",
+      "descModeloStd": "S-CROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009950"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326347",
+      "descModelo": "NEW SWIFT 1.2 GLX CVT PW TC\t\t\t\t\t",
+      "descModeloStd": "NEW SWIFT 1.2 GLX CVT PW TC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005610"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DB",
+      "descModelo": "SWIFT 1.3 GL",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001364"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335017",
+      "descModelo": "FRONX HYBRID",
+      "descModeloStd": "FRONX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009274"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334891",
+      "descModelo": "VITARA CMNTA",
+      "descModeloStd": "VITARA CMNTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327633",
+      "descModelo": "APVL GL",
+      "descModeloStd": "APVL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266992",
+      "descModelo": "SE416WJX(MCW/FH)",
+      "descModeloStd": "SE416",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0182317",
+      "descModelo": "SJ110D",
+      "descModeloStd": "SJ110D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328978",
+      "descModelo": "SIDE KICK/O",
+      "descModeloStd": "SIDE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329170",
+      "descModelo": "SDS SWIFT NEW DZIRE",
+      "descModeloStd": "SDS SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264372",
+      "descModelo": "GSXR 600",
+      "descModeloStd": "GSXR 600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009377"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273658",
+      "descModelo": "GE 110D",
+      "descModeloStd": "GE 110D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327999",
+      "descModelo": "ERTIGA CR",
+      "descModeloStd": "ERTIGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L4",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0004241",
+      "descModelo": "CULTUS (CETICO)",
+      "descModeloStd": "CULTUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002314"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264416",
+      "descModelo": "GS125ESK1-2001",
+      "descModeloStd": "GS125ESK1-2001",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233587",
+      "descModelo": "GRAND NOMADE G3 2.0",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001378"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328701",
+      "descModelo": "SUPER CARRY VAN RURAL",
+      "descModeloStd": "SUPER CARRY VAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0026727",
+      "descModelo": "AERIO SX SW",
+      "descModeloStd": "AERIO SX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0028045",
+      "descModelo": "GRAN VITARA",
+      "descModeloStd": "GRAN VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003981"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265647",
+      "descModelo": "EN125HU",
+      "descModeloStd": "EN125HU",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001763"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233588",
+      "descModelo": "ALTO 1.1 GL",
+      "descModeloStd": "ALTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001380"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188827",
+      "descModelo": "SOLIO",
+      "descModeloStd": "SOLIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330807",
+      "descModelo": "XL7",
+      "descModeloStd": "XL7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006884"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329138",
+      "descModelo": "SX-4",
+      "descModeloStd": "S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001395"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267094",
+      "descModelo": "GSXR750LIMA2",
+      "descModeloStd": "GSXR750L2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325505",
+      "descModelo": "FAMILIA TB",
+      "descModeloStd": "FAMILIA TB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188593",
+      "descModelo": "XL-7 2.0 TDI",
+      "descModeloStd": "XL-7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001379"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0048716",
+      "descModelo": "APV PICK UP",
+      "descModeloStd": "APV PICK UP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190642",
+      "descModelo": "FORENZA",
+      "descModeloStd": "FORENZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001563"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CG",
+      "descModelo": "GRAND NOMADE",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273824",
+      "descModelo": "NEW VITARA RURAL",
+      "descModeloStd": "NEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000ET",
+      "descModelo": "ST90VLAN",
+      "descModeloStd": "ST90VLAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272346",
+      "descModelo": "GSX150 1.2",
+      "descModeloStd": "GSX150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328274",
+      "descModelo": "GSX125",
+      "descModeloStd": "GSX125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0012443",
+      "descModelo": "CARRY MASTER VAN 1.3",
+      "descModeloStd": "CARRY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000672"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0319951",
+      "descModelo": "SF416VJX(W/FH)-94",
+      "descModeloStd": "SF416VJX(W/FH)-94",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320549",
+      "descModelo": "5X-4",
+      "descModeloStd": "5X",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233590",
+      "descModelo": "SX4 1.6",
+      "descModeloStd": "SX4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001386"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188595",
+      "descModelo": "XL-7 3.6 V6",
+      "descModeloStd": "XL-7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001390"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325342",
+      "descModelo": "FR 50 SQUARE",
+      "descModeloStd": "FR 50 SQUARE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0296966",
+      "descModelo": "GS150CD",
+      "descModeloStd": "GS150CD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188296",
+      "descModelo": "CELERIO 1.0",
+      "descModeloStd": "CELERIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001960"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AG",
+      "descModelo": "FRONTE",
+      "descModeloStd": "FRONTE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190479",
+      "descModelo": "LJ80VL",
+      "descModeloStd": "LJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177847",
+      "descModelo": "APV GL",
+      "descModeloStd": "APV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001185"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AN",
+      "descModelo": "SAMURAI 1.3",
+      "descModeloStd": "SAMURAI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001363"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000B5",
+      "descModelo": "S-PRESSO GA MT",
+      "descModeloStd": "GRAN VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268391",
+      "descModelo": "SOLIA",
+      "descModeloStd": "SOLIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266160",
+      "descModelo": "GZ150HC",
+      "descModeloStd": "GZ150HC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011049"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330426",
+      "descModelo": "GL150 MOTOCICLETA",
+      "descModeloStd": "GL150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328449",
+      "descModelo": "NEW SWIFT 1.2 GLX MT",
+      "descModeloStd": "NEW SWIFT 1.2 GLX CVT PW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006310"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328076",
+      "descModelo": "SPARK A",
+      "descModeloStd": "SPARK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000B1",
+      "descModelo": "AERIO 1.6",
+      "descModeloStd": "AERIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001372"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0076418",
+      "descModelo": "SX-4",
+      "descModeloStd": "S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001654"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273540",
+      "descModelo": "IGNIS GL MT",
+      "descModeloStd": "IGNIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004388"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325596",
+      "descModelo": "ESTIGA",
+      "descModeloStd": "ESTIGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271971",
+      "descModelo": "ERTIGA 1.2",
+      "descModeloStd": "ERTIGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320433",
+      "descModelo": "LJ 80 VL",
+      "descModeloStd": "LJ 80 VL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269207",
+      "descModelo": "S-CROSS GLX+CVT 4WD",
+      "descModeloStd": "S-CROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002413"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0212032",
+      "descModelo": "CARRY MASTERVAN 2003",
+      "descModeloStd": "CARRY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193029",
+      "descModelo": "CELERIO",
+      "descModeloStd": "CELERIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002352"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CT",
+      "descModelo": "JIMMY",
+      "descModeloStd": "JIMMY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0180036",
+      "descModelo": "FORENZA 1.2",
+      "descModeloStd": "FORENZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000C4",
+      "descModelo": "GRAND NOMADE 2.0",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266509",
+      "descModelo": "SX4 2.0",
+      "descModeloStd": "SX4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0254441",
+      "descModelo": "SJ-410",
+      "descModeloStd": "SJ413",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270976",
+      "descModelo": "AN125HK 1.2",
+      "descModeloStd": "AN125HK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0253619",
+      "descModelo": "EVERY WAGON",
+      "descModeloStd": "EVERY WAGON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273177",
+      "descModelo": "GD115HU",
+      "descModeloStd": "GD115HU",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0020070",
+      "descModelo": "VITARA",
+      "descModeloStd": "VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003287"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196566",
+      "descModelo": "SX4 CROSS OVER AWD 1.6",
+      "descModeloStd": "SX4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002072"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324344",
+      "descModelo": " S-CROSS  1.6  4WD GL 5MT",
+      "descModeloStd": "S-CROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005038"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267872",
+      "descModelo": "SWIFT SEDAN GL MT AC",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001624"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320597",
+      "descModelo": "PREVIA",
+      "descModeloStd": "PREVIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325944",
+      "descModelo": "ERTIGA 1.4 GL AT",
+      "descModeloStd": "ERTIGA 1.4 GL AT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005488"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268406",
+      "descModelo": "GS150R",
+      "descModeloStd": "GS250R",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000001000187"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0036076",
+      "descModelo": "SPORT STDEKICKJLX",
+      "descModeloStd": "SPORT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233594",
+      "descModelo": "SX4 CROSS OVER 1.6",
+      "descModeloStd": "SX4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001394"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324036",
+      "descModelo": "NEW VITARA GL MT 2WD",
+      "descModeloStd": "NEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271328",
+      "descModelo": "KEIX 1.2",
+      "descModeloStd": "KEIX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266579",
+      "descModelo": "SWIFT 1.4 GL MT AC",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000880"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325437",
+      "descModelo": "BALENO 1.4",
+      "descModeloStd": "BALENO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005334"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270052",
+      "descModelo": "JIMNY JLX",
+      "descModeloStd": "JIMNY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006349"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233586",
+      "descModelo": "GRAND VITARA G3 1.6",
+      "descModeloStd": "GRAND VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001377"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264827",
+      "descModelo": "GS 125",
+      "descModeloStd": "GS 125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323821",
+      "descModelo": "SWIFT SEDAN",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331369",
+      "descModelo": "D125 S5",
+      "descModeloStd": "D125 S5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0239178",
+      "descModelo": "LJ 80 LCV",
+      "descModeloStd": "LJ 80 LC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329068",
+      "descModelo": "SF413GTI SEDAN",
+      "descModeloStd": "SF413GTI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334937",
+      "descModelo": "ALL NEW S-CROSS GLX 1.4T",
+      "descModeloStd": "S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009241"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326305",
+      "descModelo": "CIAZ SPORT GLX AT\t\t\t\t\t",
+      "descModeloStd": "CIAZ SPORT GLX AT\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005594"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329516",
+      "descModelo": "90 MOTO",
+      "descModeloStd": "90",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330811",
+      "descModelo": "SF413GTI HATCHBACK",
+      "descModeloStd": "SF413GTI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0023564",
+      "descModelo": "DR 125SJ",
+      "descModeloStd": "DR 125 SJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326476",
+      "descModelo": "DR200SL5",
+      "descModeloStd": "DR200EL2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326071",
+      "descModelo": "ESTEEM SD",
+      "descModeloStd": "ESTEEM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325574",
+      "descModelo": "WAGON R SW",
+      "descModeloStd": "WAGON R",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271046",
+      "descModelo": "STI IMPRESA 05",
+      "descModeloStd": "STI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188594",
+      "descModelo": "GRAND NOMADE G3 2.7",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001389"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0315544",
+      "descModelo": "DR200EL2",
+      "descModeloStd": "DR200EL2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320317",
+      "descModelo": "SC100",
+      "descModeloStd": "SC100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324724",
+      "descModelo": "CIAZ SPORT GLX MT\t\t\t\t\t",
+      "descModeloStd": "CIAZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005128"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321902",
+      "descModelo": "BALENO HATCHBACK",
+      "descModeloStd": "BALENO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004901"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324978",
+      "descModelo": "SX4\t\t\t\t\t HATCHBACK",
+      "descModeloStd": "SX4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003235"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BE",
+      "descModelo": "SWIFT",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001724"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271923",
+      "descModelo": "NEW SWIFT HB 1.2 GL AT AC",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003832"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BD",
+      "descModelo": "SUPER CARRY",
+      "descModeloStd": "SUPER CARRY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010082"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000EW",
+      "descModelo": "GRAN VITARA 2.0 TD",
+      "descModeloStd": "GRAN VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0172966",
+      "descModelo": "APV GL",
+      "descModeloStd": "APV GL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272661",
+      "descModelo": "G16AID276266",
+      "descModeloStd": "G16AID276266",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264347",
+      "descModelo": "AX 100",
+      "descModeloStd": "AX 100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009377"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334460",
+      "descModelo": "NEW GRAND VITARA",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008978"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235383",
+      "descModelo": "NEW ALTO",
+      "descModeloStd": "ALTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001300"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272238",
+      "descModelo": "VIVA-FD115",
+      "descModeloStd": "VIVA-FD115",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325423",
+      "descModelo": "DL250",
+      "descModeloStd": "DL250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0106846",
+      "descModelo": "BALENO/97",
+      "descModeloStd": "BALENO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268755",
+      "descModelo": "APV PASAJERO V2",
+      "descModeloStd": "APV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003396"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325992",
+      "descModelo": "JOURNEY",
+      "descModeloStd": "JOURNEY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328325",
+      "descModelo": "GSX",
+      "descModeloStd": "GSX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187243",
+      "descModelo": "JIMNY/99",
+      "descModeloStd": "JIMNY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BG",
+      "descModelo": "VITARA 1.6 QLAD",
+      "descModeloStd": "VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001365"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328027",
+      "descModelo": "VITARA ALL GRIP\t\t\t\t\t",
+      "descModeloStd": "VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006188"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325257",
+      "descModelo": "BO2 ALTO",
+      "descModeloStd": "BO2 ALTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326110",
+      "descModelo": "CRESCENT SW",
+      "descModeloStd": "CRESCENT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266964",
+      "descModelo": "SCROSS GL CVT 2WD",
+      "descModeloStd": "S-CROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001122"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324301",
+      "descModelo": "S-CROSS GA 1.6",
+      "descModeloStd": "S-CROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005015"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "1",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CS",
+      "descModelo": "DF-200EW",
+      "descModeloStd": "DF-200EW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334945",
+      "descModelo": "NEW JIMNY",
+      "descModeloStd": "NEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324081",
+      "descModelo": "GSX250 MOTO",
+      "descModeloStd": "GSX250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269927",
+      "descModelo": "S-CROSS GLX CVT 4V",
+      "descModeloStd": "S-CROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002885"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328021",
+      "descModelo": "GD115HU RURAL",
+      "descModeloStd": "GD115HU",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323622",
+      "descModelo": "APV 1.6 VAN\t\t\t\t\t",
+      "descModeloStd": "APV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002634"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "12",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335061",
+      "descModelo": "APV MC",
+      "descModeloStd": "APV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327160",
+      "descModelo": "GRAND NOMADE 2.0 4X4\t\t\t\t\t",
+      "descModeloStd": "GRAN NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325675",
+      "descModelo": "UR110",
+      "descModeloStd": "UR110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330591",
+      "descModelo": "GS 126",
+      "descModeloStd": "GS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272467",
+      "descModelo": "IGNIS 1.2 GLX CVT",
+      "descModeloStd": "IGNIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003984"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326180",
+      "descModelo": "GSXR150",
+      "descModeloStd": "GSXR150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014965",
+      "descModelo": "GRAND NOMADE 2.0 CRDI",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001376"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233595",
+      "descModelo": "SX4 1.6 SEDAN",
+      "descModeloStd": "SX4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001395"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233584",
+      "descModelo": "XL-7 2.7",
+      "descModeloStd": "XL-7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001367"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266782",
+      "descModelo": "JIMNY JX",
+      "descModeloStd": "JIMNY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001026"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265754",
+      "descModelo": "CIAZ",
+      "descModeloStd": "CIAZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010819"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325661",
+      "descModelo": "VITARA SD",
+      "descModeloStd": "VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332201",
+      "descModelo": "NEW BALENO",
+      "descModeloStd": "BALENO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007631"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196586",
+      "descModelo": "GRAND NOMADE G3 2.0 4X2",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001388"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269269",
+      "descModelo": "NEW CELERIO",
+      "descModeloStd": "CELERIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002473"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0016607",
+      "descModelo": "AERIO SX",
+      "descModeloStd": "AERIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330597",
+      "descModelo": "SWIFT SPORT",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006768"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327939",
+      "descModelo": "VZ800W/98",
+      "descModeloStd": "VZ800W/98",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324484",
+      "descModelo": " JIMNY 2004",
+      "descModeloStd": "JIMNY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A3",
+      "descModelo": "MARUTI",
+      "descModeloStd": "MARUTI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001362"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327570",
+      "descModelo": "APV CR",
+      "descModeloStd": "APV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329328",
+      "descModelo": "SV650S",
+      "descModeloStd": "SV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0077557",
+      "descModelo": "EVERY",
+      "descModeloStd": "EVERY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330516",
+      "descModelo": "EN150HA MOTO",
+      "descModeloStd": "EN150HA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325435",
+      "descModelo": "S-CROSS CVT 4WD",
+      "descModeloStd": "S-CROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005332"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321229",
+      "descModelo": "ERTIGA VAN",
+      "descModeloStd": "ERTIGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004704"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323084",
+      "descModelo": "185",
+      "descModeloStd": "185",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326369",
+      "descModelo": "GEMMA MOTO",
+      "descModeloStd": "GEMMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332460",
+      "descModelo": "GSX-R150",
+      "descModeloStd": "GS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007780"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233592",
+      "descModelo": "GRAND NOMADE 3.2 V6 4X4 .",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001392"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0212170",
+      "descModelo": "MARUTI 2001",
+      "descModeloStd": "MARUTI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176298",
+      "descModelo": "SK410 BLAN",
+      "descModeloStd": "SK410",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329338",
+      "descModelo": "JIMNY 1.5",
+      "descModeloStd": "JIMNY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006598"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CI",
+      "descModelo": "GRAND VITARA",
+      "descModeloStd": "GRAND VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001691"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331978",
+      "descModelo": "SWIFT SEDAN",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0016359",
+      "descModelo": "NOMADE/98",
+      "descModeloStd": "NOMADE/98",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331324",
+      "descModelo": "S-PRESSO\t",
+      "descModeloStd": "S-PRESSO\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328028",
+      "descModelo": "330XI (E46)",
+      "descModeloStd": "330XI (E46)\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006189"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014964",
+      "descModelo": "IGNIS 1.3 4X4",
+      "descModeloStd": "IGNIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001375"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233589",
+      "descModelo": "ALTO 800 0.8",
+      "descModeloStd": "ALTO 800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001383"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326721",
+      "descModelo": "NEW DZIRE GL MT\t\t\t\t\t",
+      "descModeloStd": "NEW DZIRE GL MT\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005703"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DD",
+      "descModelo": "WAGON R+ 1.2",
+      "descModeloStd": "WAGON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001366"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0021082",
+      "descModelo": "SF413NGLT",
+      "descModeloStd": "SF413NGLT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334183",
+      "descModelo": "GRAND VITARA HYBRID",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008774"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330806",
+      "descModelo": "XL-7 SUV",
+      "descModeloStd": "XL-7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264975",
+      "descModelo": "AX 100",
+      "descModeloStd": "AX 100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265934",
+      "descModelo": "APV GL R",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "0",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A?",
+      "descModelo": "BALENO SD 2001",
+      "descModeloStd": "SAMURAI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001363"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324854",
+      "descModelo": "UM125 MOTOR",
+      "descModeloStd": "UM125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177919",
+      "descModelo": "SWIFT 1.2",
+      "descModeloStd": "SWIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002242"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268442",
+      "descModelo": "NEW VITARA",
+      "descModeloStd": "VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002558"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219821",
+      "descModelo": "APV VAN",
+      "descModeloStd": "APV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002634"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0169382",
+      "descModelo": "SJ413",
+      "descModeloStd": "SJ413",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0171732",
+      "descModelo": "GN125H",
+      "descModeloStd": "GN125H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003424"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326171",
+      "descModelo": "SEPIA MOTO",
+      "descModeloStd": "Sepia",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328264",
+      "descModelo": "ERTIGA SEDAN",
+      "descModeloStd": "ERTIGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328113",
+      "descModelo": "S-CROSS SEDAN",
+      "descModeloStd": "S-CROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325891",
+      "descModelo": "NEW SWIFT 1.2 GLX CVT PW",
+      "descModeloStd": "NEW SWIFT 1.2 GLX CVT PW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005478"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268344",
+      "descModelo": "SIDEDIK",
+      "descModeloStd": "SIDEDIK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325359",
+      "descModelo": "GW250",
+      "descModeloStd": "GW250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095334",
+      "descModelo": "GRAND VITARA 3P 4X4",
+      "descModeloStd": "GRAND VITARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001824"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192584",
+      "descModelo": "GRAND NOMADE 2.4 4X4",
+      "descModeloStd": "GRAND NOMADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002121"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320343",
+      "descModelo": "4X4 LJ80VL R",
+      "descModeloStd": "4X4 LJ80VL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009311"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327673",
+      "descModelo": "ERTIGA S",
+      "descModeloStd": "ERTIGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256737",
+      "descModelo": "CAPPUCCINO",
+      "descModeloStd": "CAPPUCCINO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325616",
+      "descModelo": "NEW DZIRE GL AT\t\t\t\t\t",
+      "descModeloStd": "DZIRE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005389"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324706",
+      "descModelo": "IGNIS\t\t\t\t\t",
+      "descModeloStd": "IGNIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005118"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0169691",
+      "descModelo": "ALTO",
+      "descModeloStd": "ALTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001776"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192842",
+      "descModelo": "SK410VJ94",
+      "descModeloStd": "SK410VJ94",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188547",
+      "descModelo": "SIDEKICK",
+      "descModeloStd": "SIDEKICK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009626"
+    }
+  }
+]

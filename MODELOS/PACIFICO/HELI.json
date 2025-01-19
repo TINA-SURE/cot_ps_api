@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269956",
+      "descModelo": "CPCD 70",
+      "descModeloStd": "CPCD 70",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002895"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269949",
+      "descModelo": "CPQYD30",
+      "descModeloStd": "CPQYD30",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002891"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323439",
+      "descModelo": "S/M",
+      "descModeloStd": "S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002891"
+    }
+  }
+]

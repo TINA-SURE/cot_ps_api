@@ -1,0 +1,146 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327395",
+      "descModelo": "SUCCE PN",
+      "descModeloStd": "SUCCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001739"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324208",
+      "descModelo": "PASSAGE BT SDAN",
+      "descModeloStd": "PASSAGE ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001739"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324207",
+      "descModelo": "PASSAGE BT",
+      "descModeloStd": "PASSAGE BT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001739"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221946",
+      "descModelo": "RICH",
+      "descModeloStd": "RICH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001739"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320846",
+      "descModelo": "PATHFINDER UP",
+      "descModeloStd": "PATHFINDER ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004605"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320339",
+      "descModelo": "SUCCE",
+      "descModeloStd": "SUCCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001739"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320329",
+      "descModelo": "SUCCE R",
+      "descModeloStd": "SUCCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001739"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329015",
+      "descModelo": "SILVER",
+      "descModeloStd": "SILVER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001739"
+    }
+  }
+]

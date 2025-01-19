@@ -1,0 +1,794 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327425",
+      "descModelo": "ZZ3257V3647N1",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009805"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333571",
+      "descModelo": "JHL5250ZYS CC",
+      "descModeloStd": "JHL5250ZYS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009805"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267445",
+      "descModelo": "4ACJVJ5312GYJ",
+      "descModeloStd": "4ACJVJ5312GYJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001384"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334606",
+      "descModelo": "V70 2.3 T5",
+      "descModeloStd": "v70",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009065"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BOMBA HORMIGONERA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 197,
+    "keyTipoVeh": "concreteMixerBomb",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332644",
+      "descModelo": "ZZ1257N3847C",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007874"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331872",
+      "descModelo": "ZZ1257N4347C",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007447"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187356",
+      "descModelo": "ZZ3257N3647A",
+      "descModeloStd": "ZZ3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000240"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0180033",
+      "descModelo": "ZZ3317S3061",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005919"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178093",
+      "descModelo": "ZZ3257S3247B",
+      "descModeloStd": "ZZ3257S3247B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010817"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333908",
+      "descModelo": "V7",
+      "descModeloStd": "V7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009805"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329447",
+      "descModelo": "ZZ4257V3847C1CB REMOLCADOR",
+      "descModeloStd": "ZZ4257V3847C1CB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009805"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324733",
+      "descModelo": "ZZ4187V3817P1CB\t\t\t\t\t",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005131"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274136",
+      "descModelo": "ZZ3257N3647B",
+      "descModeloStd": "ZZ3257N3647B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004516"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334835",
+      "descModelo": "ZZ3257V364GF1",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009199"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328378",
+      "descModelo": "ZZ5257GJBN3847C BARANDA",
+      "descModeloStd": "ZZ5257GJBN3847C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009805"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265423",
+      "descModelo": "ZZ4257V3249W",
+      "descModeloStd": "ZZ4257V3249W",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010637"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265721",
+      "descModelo": "ZZ2257N5857C1",
+      "descModeloStd": "ZZ2257N5857C1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009805"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331879",
+      "descModelo": "ZZ3257N3647C/S2WA",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007449"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333456",
+      "descModelo": "ZZ4187S3517C",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008352"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232327",
+      "descModelo": "ZZ5257GJBN3847C",
+      "descModeloStd": "ZZ5257GJBN3847C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009805"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194573",
+      "descModelo": "CA6390B5",
+      "descModeloStd": "CA6390B5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010757"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334713",
+      "descModelo": "MAX 6X4 GNV 460 HP AMT",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009137"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334140",
+      "descModelo": "ZZ5257GJBN3847C",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008746"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196378",
+      "descModelo": "ZZ4257V3247N1H",
+      "descModeloStd": "ZZ4257",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000321"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334732",
+      "descModelo": "6X4 GNV 460HP AMT",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009151"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326161",
+      "descModelo": "290",
+      "descModeloStd": "290",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009805"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331395",
+      "descModelo": "ZZ3257V3647D1",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007185"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231704",
+      "descModelo": "ZZ4257N3247C1",
+      "descModeloStd": "ZZ4257N3247C1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000320"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334890",
+      "descModelo": "ZZ3257V364HE1",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009227"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0180230",
+      "descModelo": "ZZ3257S3247B",
+      "descModeloStd": "ZZ3257S3247B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009805"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "VOLQUETE",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 53,
+    "keyClaseVeh": "dump",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195994",
+      "descModelo": "ZZ3257N3847A",
+      "descModeloStd": "ZZ3257N3847A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000241"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188917",
+      "descModelo": "ZZ3257N3447A1",
+      "descModeloStd": "ZZ3257N3447A1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000238"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194141",
+      "descModelo": "ZZ3257N3647N1",
+      "descModeloStd": "ZZ3257N3647N1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009805"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320523",
+      "descModelo": "ZZ1257N3847C",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009805"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333176",
+      "descModelo": "ZZ4257V3847C1CB",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008169"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325745",
+      "descModelo": "QDZ51677ZYSA C",
+      "descModeloStd": "QDZ51677ZYSA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009805"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "FURGON FRIGORIFICO",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 176,
+    "keyTipoVeh": "refrigeratorVan",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334768",
+      "descModelo": "ZZ1048F38150145",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009163"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320944",
+      "descModelo": "ZZ3257N3647A/SO",
+      "descModeloStd": "ZZ3257N3647A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009805"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334789",
+      "descModelo": "MAX  HOWO MAX 8*260L-RATIO 4.11",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009175"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334812",
+      "descModelo": "ZZ4257V424KE1CK",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009190"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333825",
+      "descModelo": "ZZ4257V384HE1CB",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008557"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334659",
+      "descModelo": "ZZ4257V344KE1",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009102"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334848",
+      "descModelo": "ZZ3257N33447E1",
+      "descModeloStd": "ZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009209"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265943",
+      "descModelo": "ZZ4257V3247N1B",
+      "descModeloStd": "ZZ4257V3247N1B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010983"
+    }
+  }
+]

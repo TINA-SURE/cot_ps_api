@@ -1,0 +1,5438 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BR",
+      "descModelo": "A3 1.9 TDI 110",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000045"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324458",
+      "descModelo": "RS3",
+      "descModeloStd": "RS3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005058"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330183",
+      "descModelo": "R83",
+      "descModeloStd": "R8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006704"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233880",
+      "descModelo": "R8 4.2 FSI",
+      "descModeloStd": "R8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000160"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "6",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000FG",
+      "descModelo": "A6 3.0",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000108"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233888",
+      "descModelo": "Q5 3.2 FSI QUATTRO",
+      "descModeloStd": "Q5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000177"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264464",
+      "descModelo": "S3 2.0 QUATTRO",
+      "descModeloStd": "S3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009963"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0198009",
+      "descModelo": "Q7",
+      "descModeloStd": "Q7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003339"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329378",
+      "descModelo": "A6 CR",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326370",
+      "descModelo": "A4 E 1.8T MULTITRONIC/2012 SD",
+      "descModeloStd": "A4 E 1.8T MULTITRONIC/2012",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328458",
+      "descModelo": "TT 2.0T FSI S TRONIC CP",
+      "descModeloStd": "TT 2.0T FSI S TRONIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272439",
+      "descModelo": "A1\t\t\t\t\t",
+      "descModeloStd": "A1\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004396"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323758",
+      "descModelo": "Q5 2.0",
+      "descModeloStd": "Q5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234057",
+      "descModelo": "A4 AVANT 2.8",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000068"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CONVERTIBLE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 129,
+    "keyTipoVeh": "convertible",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233882",
+      "descModelo": "A3 1.8T FSI",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000162"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272857",
+      "descModelo": "A1 1.2",
+      "descModeloStd": "A1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191121",
+      "descModelo": "A4 2.4 170 HP",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000106"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233885",
+      "descModelo": "A5 2.0T FSI",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000166"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233793",
+      "descModelo": "ALLROAD 2.7 QUATTRO BITURBO",
+      "descModeloStd": "ALLROAD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000109"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264979",
+      "descModelo": "A3 1.2 TFSI",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010179"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233794",
+      "descModelo": "ALLROAD 2.5 QUATTRO TDI",
+      "descModeloStd": "ALLROAD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000110"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235364",
+      "descModelo": "80 AVANT",
+      "descModeloStd": "80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272960",
+      "descModelo": "GL80 1.2",
+      "descModeloStd": "GL80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191133",
+      "descModelo": "A8 L 4.2 FSI QUATTRO",
+      "descModeloStd": "A8 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000153"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CA",
+      "descModelo": "A4 2.4",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000053"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328040",
+      "descModelo": "Q3 SEDAN",
+      "descModeloStd": "Q3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BS",
+      "descModelo": "A4 1.6",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000046"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CV",
+      "descModelo": "A4 AVANT 2.6",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000067"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014890",
+      "descModelo": "A4 1.8T CABRIOLET",
+      "descModeloStd": "A4 CABRIOLET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000114"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234060",
+      "descModelo": "S6 4.2",
+      "descModeloStd": "S6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000096"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326313",
+      "descModelo": "FYBBAY",
+      "descModeloStd": "FYBBAY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0170784",
+      "descModelo": "S6 5.2 FSI QUATTRO",
+      "descModeloStd": "S6 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000151"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0003481",
+      "descModelo": "A6 3.0 QUATTRO",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000112"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326372",
+      "descModelo": "A4 E 1.8T MULTITRONIC/2012",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234054",
+      "descModelo": "A4 1.8T",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000049"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220582",
+      "descModelo": "Q3",
+      "descModeloStd": "Q3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001784"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328856",
+      "descModelo": "RS3 2.5 TFSI QUATTRO 400",
+      "descModeloStd": "RS3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006434"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014884",
+      "descModelo": "A6 3.0 (2004)",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000122"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BL",
+      "descModelo": "A3 1.8 3P",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000039"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DO",
+      "descModelo": "A6 AVANT 1.9 TDI",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000081"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233883",
+      "descModelo": "A3 SPORTBACK 1.8T FSI",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000163"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270367",
+      "descModelo": "PI 1.8 TFSI STRONIC",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003099"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "1",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269311",
+      "descModelo": "RS7 SPORTBACK PERFORMANCE",
+      "descModeloStd": "RS7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002510"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193687",
+      "descModelo": "A4 3.2 FSI QUATTRO TIPTRONIC (265)",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001834"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268143",
+      "descModelo": "A5 COUPE 1.8 TF SI 170HP MU",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001758"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268877",
+      "descModelo": "TT 2.0 T",
+      "descModeloStd": "TT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002129"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269571",
+      "descModelo": "A5 2.0T FSI QUATTRO S",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326296",
+      "descModelo": "A6 2.8 FSI MULTRITONIC",
+      "descModeloStd": "A6 2.8 FSI MULTRITONIC \t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005598"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234053",
+      "descModelo": "A4 1.8 QUATTRO",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000048"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0250590",
+      "descModelo": "Q5 2.0T FSI S TRONIC/2012",
+      "descModeloStd": "Q5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001621"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0241801",
+      "descModelo": "A4 AVANT 2.0",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001945"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324264",
+      "descModelo": "A3 1.8 TFSI S TRONIC SEDAN",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004991"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326859",
+      "descModelo": "A4 LIMOUSINE",
+      "descModeloStd": "A4 LIMOUSINE //",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334784",
+      "descModelo": "R8",
+      "descModeloStd": "R8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009172"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CG",
+      "descModelo": "A4 2.8 V6 30V",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000058"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233892",
+      "descModelo": "A7 3.0 TFSI QUATTRO S TRONIC",
+      "descModeloStd": "A7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002188"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234059",
+      "descModelo": "S3 1.8 QUATTRO",
+      "descModeloStd": "S3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000094"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0175897",
+      "descModelo": "R8 V8",
+      "descModeloStd": "R8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000652"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327665",
+      "descModelo": "Q8 CAMIONETA",
+      "descModeloStd": "Q8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006756"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266945",
+      "descModelo": "A5 2.0 TFSI QUATTRI STRONIC",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001111"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325179",
+      "descModelo": "Q2 SD",
+      "descModeloStd": "Q2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327991",
+      "descModelo": "SQ5 CMTR",
+      "descModeloStd": "S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191128",
+      "descModelo": "A6 2.0 TFSI",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000173"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333215",
+      "descModelo": "A5 SPORTBACK 40 TFSI TRONIC",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008191"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268876",
+      "descModelo": "A3 1.2T SEDAN",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002128"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268438",
+      "descModelo": "TT RS 2.5 QUATTRO",
+      "descModeloStd": "TT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001897"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233801",
+      "descModelo": "A3 2.0T FSI S TRONIC",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000135"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270972",
+      "descModelo": "RS Q3",
+      "descModeloStd": "R8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003353"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328870",
+      "descModelo": "Q5 2.0 TFSI 230 HP TIPTRONIC",
+      "descModeloStd": "Q5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006437"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191435",
+      "descModelo": "A1 1.4 TFSI",
+      "descModeloStd": "A1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001979"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326168",
+      "descModelo": "2.0 T SPORTBACK",
+      "descModeloStd": "2.0 T SPORTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005552"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0252113",
+      "descModelo": "Q7 3.0 TFSI QUATTRO S TRONIC",
+      "descModeloStd": "Q7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001723"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DM",
+      "descModelo": "A6 AVANT 1.8T",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000080"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231847",
+      "descModelo": "A6 2.8 FSI (205 HP)",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002186"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328460",
+      "descModelo": "TT 2.0T FSI S TRONIC 2019",
+      "descModeloStd": "TT 2.0T FSI S TRONIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003339"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326719",
+      "descModelo": "QS 2.0",
+      "descModeloStd": "QS 2.0",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005698"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269800",
+      "descModelo": "RS6 SEDAN",
+      "descModeloStd": "RS6 SEDAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AJ",
+      "descModelo": "A4",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003056"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DI",
+      "descModelo": "A6 2.8",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000076"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231835",
+      "descModelo": "R8 SPYDER 4.2 FSI QUATRO S TRONIC",
+      "descModeloStd": "R8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002191"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233791",
+      "descModelo": "A4 3.0 QUATTRO (MODELO 2001)",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000105"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233891",
+      "descModelo": "S4 3.0 TFSI 4S TRONIC",
+      "descModeloStd": "S4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002025"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326151",
+      "descModelo": "Q5 DESIGN 2.0TFSI QUATTRO S TRONIC",
+      "descModeloStd": "Q5 DESIGN 2.0TFSI QUATTRO ST",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005546"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DG",
+      "descModelo": "A6 2.7 BITURBO",
+      "descModeloStd": "A6 BITURBO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000075"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335005",
+      "descModelo": "E-TRON  SPORTBACK",
+      "descModeloStd": "Q5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233889",
+      "descModelo": "A3 1.4 T ",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001832"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AE",
+      "descModelo": "A4 2.0 LIMOUSINE",
+      "descModeloStd": "A4 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002626"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191127",
+      "descModelo": "A5 SPORTBACK 3.2 FSI QUATTRO",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000172"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0198147",
+      "descModelo": "Q5 3.2 FSI S TRONIC",
+      "descModeloStd": "Q5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002702"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193690",
+      "descModelo": "S5 SPORTBACK 3.0",
+      "descModeloStd": "S5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001847"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188551",
+      "descModelo": "A8 L 6.0 W12 QUATTRO",
+      "descModeloStd": "A8 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000154"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BX",
+      "descModelo": "A4 1.9 TDI 110",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000052"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270993",
+      "descModelo": "S7",
+      "descModeloStd": "S7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003385"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219241",
+      "descModelo": "A5 SPORTBACK 1.8T MULTITRONIC/2011",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001605"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269230",
+      "descModelo": "E-TRON SPORTBACK",
+      "descModeloStd": "A8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004316"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CY",
+      "descModelo": "A6 1.8T",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000070"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000FF",
+      "descModelo": "A4 LIMOUSINE 2.0/2002",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327316",
+      "descModelo": "A4 1.8E LIMOUSINE SD",
+      "descModeloStd": "A4 1.8E LIMOUSINE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266967",
+      "descModelo": "A3 SEDAN AMBITION 1.8 TFSI 18OHP STRONIC",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "9604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325271",
+      "descModelo": "A4 ATRACTION 1.4 TFSI",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005287"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0156817",
+      "descModelo": "A3 SPORTBACK 1.6",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000129"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000EP",
+      "descModelo": "S3",
+      "descModeloStd": "S3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006051"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191123",
+      "descModelo": "A4 AVANT 2.5 TDI",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000066"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333687",
+      "descModelo": "TT RS",
+      "descModeloStd": "TT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001850"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014889",
+      "descModelo": "A4 3.0 CABRIOLET",
+      "descModeloStd": "A4 CABRIOLET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000115"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266932",
+      "descModelo": "Q7.3 0T FSI QUATTRO TRIPTRONIC",
+      "descModeloStd": "Q7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "9604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BH",
+      "descModelo": "80 2.0 E",
+      "descModeloStd": "80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000034"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268454",
+      "descModelo": "Q5 2.0 TF SI 225 HP TIPTRONIC",
+      "descModeloStd": "Q5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001910"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325295",
+      "descModelo": "SQ5\t\t\t\t\t",
+      "descModeloStd": "SQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005298"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266441",
+      "descModelo": "TT",
+      "descModeloStd": "TT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264296",
+      "descModelo": "A3 1.6 SEDAN",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009565"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191126",
+      "descModelo": "A5 SPORTBACK 2.0 TFSI QUATTRO S TRON",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000171"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234056",
+      "descModelo": "A4 AVANT 2.4",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000065"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231863",
+      "descModelo": "TT 2.0 TFSI S TRONIC (211 HP)",
+      "descModeloStd": "TT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002190"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219069",
+      "descModelo": "A8 4.2 FSI",
+      "descModeloStd": "A8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002026"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176177",
+      "descModelo": "A6 2.8 FSI",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000174"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333851",
+      "descModelo": "RS Q8 TFSI 600",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008570"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000FS",
+      "descModelo": "A4 2.0",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001211"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269130",
+      "descModelo": "Q5 2.0 TFSITIPTRONIC",
+      "descModeloStd": "Q5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002354"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CL",
+      "descModelo": "A4 AVANT 1.8T",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000062"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324265",
+      "descModelo": "A3 SEDAN 2.0 TFSI",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004992"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267984",
+      "descModelo": "GIULIETTA SPIDER",
+      "descModeloStd": "GIULIETTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191114",
+      "descModelo": "A3 3.2 QUATTRO DSG",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000128"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235314",
+      "descModelo": "RS3SB 2.5TFSI 340HP STRONIC QUATTRO",
+      "descModeloStd": "RS3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001872"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326412",
+      "descModelo": "A7 SPORT",
+      "descModeloStd": "A7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005633"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272065",
+      "descModelo": "TT 1.8T",
+      "descModeloStd": "TT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003886"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0010449",
+      "descModelo": "A4 2.0 MULTITRONIC",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004447"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234055",
+      "descModelo": "A4 2.4 QUATTRO",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000054"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233802",
+      "descModelo": "A4 2.0T FSI QUATTRO",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000140"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268885",
+      "descModelo": "A3 SPORTBACK 1.2T STRONIC",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002134"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233890",
+      "descModelo": "A4 AVANT 1.8T FSI (160 HP) ",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001846"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327557",
+      "descModelo": "Q8",
+      "descModeloStd": "Q8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006009"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DJ",
+      "descModelo": "A6 2.8  QUATTRO",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000077"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234062",
+      "descModelo": "A4 1.9 TDI (MODELO 2001)",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000104"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233795",
+      "descModelo": "A4 1.8T QUATTRO (163 HP)",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000113"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233796",
+      "descModelo": "S4 (344 HP)",
+      "descModeloStd": "S4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000116"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233803",
+      "descModelo": "RS4 4.2 QUATTRO",
+      "descModeloStd": "RS4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000146"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CE",
+      "descModelo": "A4 2.6",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000056"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266162",
+      "descModelo": "R8 COUPE QUATTRO 5.2",
+      "descModeloStd": "R8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000EB",
+      "descModelo": "A8 3.7 40V",
+      "descModeloStd": "A8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000090"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0022268",
+      "descModelo": "A3 2.0 FSI",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000127"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235109",
+      "descModelo": "A6 2.0 TFSI MULTITRONIC",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003761"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192291",
+      "descModelo": "Q5",
+      "descModeloStd": "Q5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002441"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187419",
+      "descModelo": "A4 3.2 FSI MULTITRONIC",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000142"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0251882",
+      "descModelo": "A7 SPORTBACK 3.0 TFSI QUATTRO",
+      "descModeloStd": "A7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001584"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273437",
+      "descModelo": "A4 SPORT 1.4 TFSI STRONIC",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004353"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333605",
+      "descModelo": "E-TRON ADVANCED 55 QUATTRO",
+      "descModeloStd": "Q5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008417"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014882",
+      "descModelo": "A4 3.0 MULTITRONIC",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000120"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014883",
+      "descModelo": "A6 2.4 (2004)",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000121"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267851",
+      "descModelo": "A5 SPORTBACK 1.8 TFSI",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001607"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000EE",
+      "descModelo": "CABRIOLET 1.8 20V",
+      "descModeloStd": "CABRIOLET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000092"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014880",
+      "descModelo": "A4 2.4 CABRIOLET",
+      "descModeloStd": "A4 CABRIOLET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000118"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231549",
+      "descModelo": "Q5 2.0 TFSI",
+      "descModeloStd": "Q5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000176"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333371",
+      "descModelo": "A3 SPORTBACK 1.2T FSI",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003566"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233792",
+      "descModelo": "A4 1.8T (MODELO 2001)",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000107"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268781",
+      "descModelo": "A3 SEDAN 1.2T",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002071"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191130",
+      "descModelo": "A6 4.2 FSI QUATTRO",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000149"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CX",
+      "descModelo": "A6 1.8",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000069"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0198128",
+      "descModelo": "A4 2.0 TFSI MULTITRONIC",
+      "descModeloStd": "A4 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001389"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273053",
+      "descModelo": "S3 2.0 TFSI",
+      "descModeloStd": "S3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004239"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333684",
+      "descModelo": "Q5 SPORTBACK",
+      "descModeloStd": "Q5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002441"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228994",
+      "descModelo": "A6 3.0T FSI QUATTRO S TRONIC AUT",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001944"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264826",
+      "descModelo": " A1 1.4 TFSI S TRONIC AMBITION/2012",
+      "descModeloStd": "A1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235456",
+      "descModelo": "Q5 3.0 TFSI TIPTRONIC",
+      "descModeloStd": "Q5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001268"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332541",
+      "descModelo": "E-TRON AMBITION",
+      "descModeloStd": "E-TRON AMBITION",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007825"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014881",
+      "descModelo": "A4 2.0 AVANT",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000119"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268936",
+      "descModelo": "RS6",
+      "descModeloStd": "RS6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002185"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326785",
+      "descModelo": "2",
+      "descModeloStd": "2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005721"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191115",
+      "descModelo": "A3 3.2 QUATTRO S TRONIC",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000136"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DB",
+      "descModelo": "A6 2.4",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000072"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188550",
+      "descModelo": "A8 4.2 FSI QUATTRO",
+      "descModeloStd": "A8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000152"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231836",
+      "descModelo": "A1 1.4 TFSI SPORTBACK",
+      "descModeloStd": "A1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002181"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231830",
+      "descModelo": "A5 3.0 TFSI",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002183"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191125",
+      "descModelo": "A4 CABRIOLET 3.2 FSI MULTITRONIC",
+      "descModeloStd": "A4 CABRIOLET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000145"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335004",
+      "descModelo": "E-TRON",
+      "descModeloStd": "Q5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326251",
+      "descModelo": "Q2 SUV",
+      "descModeloStd": "Q2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334163",
+      "descModelo": "E TRON SPORTBACK",
+      "descModeloStd": "ETRON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000047"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268919",
+      "descModelo": "A3",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003289"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233894",
+      "descModelo": "Q3 2.0 TFSI QUATTRO S TRONIC",
+      "descModeloStd": "Q3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002192"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328459",
+      "descModelo": "TT 2.0T FSI S TRONIC PLATA",
+      "descModeloStd": "TT 2.0T FSI S TRONIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BK",
+      "descModelo": "A3 1.6",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000126"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0047556",
+      "descModelo": "A6 3.2 FSI MULTITRONIC",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000147"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327948",
+      "descModelo": "E-TRON SPORTBACK 55 QUATRO",
+      "descModeloStd": "FSI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265381",
+      "descModelo": "Q7 QUATRO 4.2",
+      "descModeloStd": "Q7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188549",
+      "descModelo": "A3 SPORTBACK 2.0 FSI",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000130"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330983",
+      "descModelo": "Q2",
+      "descModeloStd": "Q2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006979"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235110",
+      "descModelo": "Q3 2.0 TFSI 211HP STRONIC/2013",
+      "descModeloStd": "Q3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001561"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327802",
+      "descModelo": "A5 2.0T QUATTRO  S TRONIC/2011",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006114"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BW",
+      "descModelo": "A4 1.8T QUATTRO",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000051"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DW",
+      "descModelo": "A6 AVANT 2.8",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000085"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BN",
+      "descModelo": "A3 1.8 T 150",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000041"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331720",
+      "descModelo": "X7",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007357"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324707",
+      "descModelo": "A4 SPORT 2.0 TF SI 190 HP S\t\t\t\t\t",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005119"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187148",
+      "descModelo": "A4 E 1.8T MULTITRONIC",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004308"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0012637",
+      "descModelo": "4000 S",
+      "descModeloStd": "4000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0029616",
+      "descModelo": "A5",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001197"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229019",
+      "descModelo": "A5 2.0T QUATTRO S TRONIC/2010",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003684"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0250926",
+      "descModelo": "Q5 2.0 TFSI 225HP TIPTRONIC",
+      "descModeloStd": "Q5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003685"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0224587",
+      "descModelo": "RS5",
+      "descModeloStd": "RS5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001252"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269551",
+      "descModelo": "A4 SPORT 2.0 TFSI STRONIC 190 HP",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002692"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191116",
+      "descModelo": "A3 SPORTBACK 2.0T FSI",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000137"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0248686",
+      "descModelo": "86",
+      "descModeloStd": "86",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269082",
+      "descModelo": "S5 COUPE",
+      "descModeloStd": "S5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002310"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266082",
+      "descModelo": "A5 COUPE 1.8 TFSI",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011027"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273233",
+      "descModelo": "A1 PL 1.4 TFSI STRONIC",
+      "descModeloStd": "A1\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004291"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0018647",
+      "descModelo": "A4 1.8T MULTITRONIC",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002385"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014887",
+      "descModelo": "A6 3.0 QUATTRO (2004)",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000124"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324118",
+      "descModelo": "RS6 AVANT SEDAN",
+      "descModeloStd": "RS6 AVANT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000EF",
+      "descModelo": "CABRIOLET 2.0 E",
+      "descModeloStd": "CABRIOLET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000093"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DK",
+      "descModelo": "A6 4.2 V8 40V QUATTRO",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000078"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267343",
+      "descModelo": "Q7 30T FSI QUATRRO 4X4",
+      "descModeloStd": "Q7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "9604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191120",
+      "descModelo": "A4 2.0T FSI",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000165"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193689",
+      "descModelo": "S3 2.0",
+      "descModeloStd": "S3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001845"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328455",
+      "descModelo": "TT 2.0T FSI S TRONIC COUPE",
+      "descModeloStd": "TT 2.0T FSI S TRONIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003339"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320675",
+      "descModelo": "Q2 ATTRACTION",
+      "descModeloStd": "Q2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004634"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327078",
+      "descModelo": "Q7 AMBITION 3.0 TFSI  QUATTRO TRIPTRONIC",
+      "descModeloStd": "Q7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005792"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CONVERTIBLE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 129,
+    "keyTipoVeh": "convertible",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0253083",
+      "descModelo": "A3 CABRIOLET 1.8 TFSI S TRONIC",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233887",
+      "descModelo": "A6 3.0 FSI QUATTRO",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000175"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193686",
+      "descModelo": "A3 1.4 T SPORTBACK",
+      "descModeloStd": "A3 1.4 T SPORTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000038"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AR",
+      "descModelo": "A3 1.8T",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0035456",
+      "descModelo": "ALLROAD QUATTRO 4.2 FSI",
+      "descModeloStd": "ALLROAD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010186"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014877",
+      "descModelo": "A4 3.0",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000111"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DY",
+      "descModelo": "A6 AVANT 4.2 QUATTRO",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000087"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325825",
+      "descModelo": "ATTRACTION 1.4T FSI S TRONI",
+      "descModeloStd": "ATTRACTION",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233881",
+      "descModelo": "Q7 3.6 FSI QUATTRO",
+      "descModeloStd": "Q7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000161"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273666",
+      "descModelo": "A3 SEDAN ATTRACTION 1.2 TFSI STRONIC",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004421"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320771",
+      "descModelo": "RX 52 QUATTRO",
+      "descModeloStd": "RX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263838",
+      "descModelo": "COUPE GT AUTO",
+      "descModeloStd": "COUPE GT AUTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000034"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233879",
+      "descModelo": "TT ROADSTER 2.0T FSI",
+      "descModeloStd": "TT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000158"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DP",
+      "descModelo": "A6 AVANT 2.4",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000082"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014879",
+      "descModelo": "435I",
+      "descModeloStd": "435I",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010706"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324620",
+      "descModelo": "Q2 SPORT 1.0 TFSI S TRONIC\t\t\t\t\t",
+      "descModeloStd": "Q2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005095"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233878",
+      "descModelo": "TT 2.0T FSI",
+      "descModeloStd": "TT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000156"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176260",
+      "descModelo": "Q7 4.2 FSI QUATTRO",
+      "descModeloStd": "Q7 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000133"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BM",
+      "descModelo": "A3 1.8 5P",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000040"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193688",
+      "descModelo": "Q7 T FSI 3.0 (333 HP)",
+      "descModeloStd": "Q7 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001852"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0316033",
+      "descModelo": "A4 ALLROAD",
+      "descModeloStd": "A4 ALLROAD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324570",
+      "descModelo": "Q7 ATTRACTION 2.0 TFSI QUATTRO\t\t\t\t\t",
+      "descModeloStd": "Q7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005083"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CF",
+      "descModelo": "A4 2.8",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000057"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266946",
+      "descModelo": "Q7 3.0 T FSI QUATTRO TRIPTONIC",
+      "descModeloStd": "Q7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001112"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0009113",
+      "descModelo": "A3",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003289"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BV",
+      "descModelo": "A4 1.8T 180",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000050"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263661",
+      "descModelo": "Q3 1.4 TFSI STRONIC",
+      "descModeloStd": "Q3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010040"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191119",
+      "descModelo": "A4 1.8  TFSI",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000169"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191129",
+      "descModelo": "A6 3.2 FSI QUATTRO TIPTRONIC",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000148"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BI",
+      "descModelo": "80 2.8 E",
+      "descModeloStd": "80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000036"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DD",
+      "descModelo": "A6 2.5 TDI",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003435"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231845",
+      "descModelo": "A5 1.8 TFSI SPORTBACK",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002184"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BO",
+      "descModelo": "A3 1.8 T 150 QUATTRO",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000042"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333539",
+      "descModelo": "A5 2.0T QUATTRO S TRONIC/2013",
+      "descModeloStd": "TT 2.0T FSI S TRONIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003339"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332454",
+      "descModelo": "RS Q8 TFSI 600",
+      "descModeloStd": "RS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007777"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000ED",
+      "descModelo": "A8 4.2 40V LWB QUATTRO",
+      "descModeloStd": "A8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000091"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0253312",
+      "descModelo": "S8 4.0 TFSI",
+      "descModeloStd": "S8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003268"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BQ",
+      "descModelo": "A3 1.8 T 180 QUATTRO",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000044"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231848",
+      "descModelo": "A6 3.0 TFSI QUATTRO (310 HP)",
+      "descModeloStd": "A6 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002187"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191124",
+      "descModelo": "A4 CABRIOLET 2.0T FSI",
+      "descModeloStd": "A4 CABRIOLET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000144"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "3",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0253584",
+      "descModelo": "A5 3.2 FSI QUATTRO TIPTRONIC/2010",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002484"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194957",
+      "descModelo": "Q7 T FSI 3.0 (272 HP)",
+      "descModeloStd": "Q7 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001851"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233798",
+      "descModelo": "A4 1.8T  AVANT (MODELO 2001)",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000125"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234061",
+      "descModelo": "A4 2.0 (MODELO 2001)",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000103"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267000",
+      "descModelo": "A6",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002186"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327406",
+      "descModelo": "U5 ATRACCION 2.0 TFSI",
+      "descModeloStd": "U5 atraccion 2.0 tfsi",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005930"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326121",
+      "descModelo": "Q5 ATTRACTION 2.0 TFSI QUATTRO S TRONIC",
+      "descModeloStd": "Q5 ATTRACTION 2.0 TFSI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005534"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CJ",
+      "descModelo": "A4 AVANT 1.8",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000060"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234657",
+      "descModelo": "A3 SPORTBACK",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003566"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266401",
+      "descModelo": "TT RS S TRONIC  2.5T",
+      "descModeloStd": "TT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "9604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BP",
+      "descModelo": "A3 1.8 T 180",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000043"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267800",
+      "descModelo": "Q3 2.0 TFSI",
+      "descModeloStd": "Q3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001578"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233799",
+      "descModelo": "A4 1.8T (163 HP)",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000132"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233886",
+      "descModelo": "A5 3.2 FSI",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000167"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194167",
+      "descModelo": "Q5 2.0T FSI S TRONIC/2010",
+      "descModeloStd": "Q5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002412"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000EA",
+      "descModelo": "A8 2.8 30V QUATTRO",
+      "descModeloStd": "A8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000089"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231846",
+      "descModelo": "A6 2.0 TFSI (180 HP)",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002185"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DL",
+      "descModelo": "A6 AVANT 1.8",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000079"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333683",
+      "descModelo": "Q3 SPORTBACK",
+      "descModeloStd": "Q3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001784"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187829",
+      "descModelo": "A5 2.0T",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007150"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327405",
+      "descModelo": "U5 VISAN 2.0 FSI",
+      "descModeloStd": "U5 visan 2.0 fsi",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005929"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330879",
+      "descModelo": "R8 5.2 QUATTRO R TRONIC/2012",
+      "descModeloStd": "R8 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006919"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233884",
+      "descModelo": "A4 1.8T FSI MULTITRONIC",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000164"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BA",
+      "descModelo": "S4 2.7",
+      "descModeloStd": "S4 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000095"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274011",
+      "descModelo": " 100DTYP44",
+      "descModeloStd": "100DTYP44",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333685",
+      "descModelo": "RS Q3 SPORTBACK",
+      "descModeloStd": "RS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003353"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191132",
+      "descModelo": "A8 L 3.2 FSI QUATTRO",
+      "descModeloStd": "A8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000168"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191118",
+      "descModelo": "A3 SPORTBACK 3.2 QUATTRO S TRONIC",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000138"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333446",
+      "descModelo": "A7 3.0 TFSI 310 HP",
+      "descModeloStd": "A7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008347"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233893",
+      "descModelo": "A8 3.0 TFSI QUATTRO ",
+      "descModeloStd": "A8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002189"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272021",
+      "descModelo": "RS6 AVANT 4.0 TFSI",
+      "descModeloStd": "RS6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003873"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DR",
+      "descModelo": "A6 AVANT 2.5 TDI",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000083"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191117",
+      "descModelo": "A3 SPORTBACK 3.2 QUATTRO DSG",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000131"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BT",
+      "descModelo": "A4 1.8",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000047"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231829",
+      "descModelo": "A5 1.8 TFSI MULTITRONIC",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002182"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268670",
+      "descModelo": "A5 1.8 TFSI 170HP",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002010"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191122",
+      "descModelo": "A4 3.2 FSI QUATTRO TIPTRONIC",
+      "descModeloStd": "A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000143"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233797",
+      "descModelo": "TT 3.2 QUATTRO",
+      "descModeloStd": "TT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000117"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234058",
+      "descModelo": "A6 2.4 QUATTRO",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000073"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233877",
+      "descModelo": "S8 5.2 V10 QUATTRO",
+      "descModeloStd": "S8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000155"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014885",
+      "descModelo": "A6 4.2 QUATTRO",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000123"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271018",
+      "descModelo": "R8 V10",
+      "descModeloStd": "R8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003393"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266994",
+      "descModelo": "SPORTBACK 1.4",
+      "descModeloStd": "SPORTBACK 1.4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009604"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233800",
+      "descModelo": "A3 2.0T FSI",
+      "descModeloStd": "A3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000134"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "0",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270360",
+      "descModelo": "S6 4.0 TFSI QUATRO STRONIC",
+      "descModeloStd": "S6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003093"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191131",
+      "descModelo": "A6 ALLROAD 3.2 FSI QUATTRO",
+      "descModeloStd": "A6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000150"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329042",
+      "descModelo": "YZ6410YFBB2Z",
+      "descModeloStd": "YZ6410YFBBZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006483"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325676",
+      "descModelo": "YZ6410YFBBZZ",
+      "descModeloStd": "YZ6410YFBBZZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005413"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324936",
+      "descModelo": "YZ6410YFAB0Z S",
+      "descModeloStd": "YZ6410YFAB0Z",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004738"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323076",
+      "descModelo": "YZ6410YFAB0Z",
+      "descModeloStd": "YZ6410YFAB0Z",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004738"
+    }
+  }
+]

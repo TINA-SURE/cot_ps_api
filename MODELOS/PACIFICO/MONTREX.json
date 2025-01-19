@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334189",
+      "descModelo": "PLA06FAB03",
+      "descModeloStd": "PLA06FAB03",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008778"
+    }
+  }
+]

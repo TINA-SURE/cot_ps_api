@@ -1,0 +1,218 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AH",
+      "descModelo": "SOMERSET",
+      "descModeloStd": "SOMERSET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009703"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0249572",
+      "descModelo": "REGAL GRAND SPORT",
+      "descModeloStd": "REGAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009703"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0198749",
+      "descModelo": "LESABRE",
+      "descModeloStd": "LE SABRE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009703"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AD",
+      "descModelo": "REGAL",
+      "descModeloStd": "REGAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009703"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AG",
+      "descModelo": "SKYLARK",
+      "descModeloStd": "SKYLARK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009703"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AV",
+      "descModelo": "EIGHT",
+      "descModeloStd": "EIGHT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009703"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AI",
+      "descModelo": "SKYHAWK",
+      "descModeloStd": "SKYHAWK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009703"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AU",
+      "descModelo": "FIGHT",
+      "descModeloStd": "FIGHT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001039"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0258206",
+      "descModelo": "PARK AVENUE ULTRA",
+      "descModeloStd": "PARK AVENUE ULTRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009703"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256562",
+      "descModelo": "ENCLAVE",
+      "descModeloStd": "ENCLAVE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009703"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AB",
+      "descModelo": "CENTURY",
+      "descModeloStd": "CENTURY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009703"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AC",
+      "descModelo": "LE SABRE",
+      "descModeloStd": "LE SABRE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009703"
+    }
+  }
+]

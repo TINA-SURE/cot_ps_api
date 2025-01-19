@@ -1,0 +1,128 @@
+[
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271513",
+      "descModelo": "ATV",
+      "descModeloStd": "ATV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CUATRIMOTO",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 32,
+    "keyClaseVeh": "quad",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330522",
+      "descModelo": "COMMANDER MAX XT 1000 EFI",
+      "descModeloStd": "COMMANDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003631"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CUATRIMOTO",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 32,
+    "keyClaseVeh": "quad",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334275",
+      "descModelo": "RYKER RALLY 900",
+      "descModeloStd": "RYKER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008833"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CUATRIMOTO",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 32,
+    "keyClaseVeh": "quad",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330514",
+      "descModelo": "OUTLANDER MAX XT 850 EFI",
+      "descModeloStd": "OUTLANDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003631"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271512",
+      "descModelo": "MAVERICK",
+      "descModeloStd": "MAVERICK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003631"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329196",
+      "descModelo": "OUTLANDER 450",
+      "descModeloStd": "OUTLANDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329197",
+      "descModelo": "0005AJC00",
+      "descModeloStd": "0",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003632"
+    }
+  }
+]

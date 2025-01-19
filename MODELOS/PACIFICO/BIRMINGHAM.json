@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178587",
+      "descModelo": "1600 FLU",
+      "descModeloStd": "1600 FLU",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000419"
+    }
+  }
+]

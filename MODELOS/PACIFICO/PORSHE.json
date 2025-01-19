@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270361",
+      "descModelo": "180",
+      "descModeloStd": "180",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003094"
+    }
+  }
+]

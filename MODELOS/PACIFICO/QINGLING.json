@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333744",
+      "descModelo": "QL 5210TZZU2QDRY",
+      "descModeloStd": "QL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008096"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334631",
+      "descModelo": "QL1030BEVEEGW",
+      "descModeloStd": "QL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008096"
+    }
+  }
+]

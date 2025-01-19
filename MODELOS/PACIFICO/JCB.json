@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334608",
+      "descModelo": "3CXD",
+      "descModeloStd": "JS200W",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009067"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COMPACTADOR",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 154,
+    "keyTipoVeh": "compact",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335083",
+      "descModelo": "CARGADOR FRONTAL",
+      "descModeloStd": "CARGADOR FRONTAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007216"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331460",
+      "descModelo": "JS200W",
+      "descModeloStd": "JS200W",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007216"
+    }
+  }
+]

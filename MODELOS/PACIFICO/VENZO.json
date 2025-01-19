@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223748",
+      "descModelo": "AJ200GY-2G",
+      "descModeloStd": "AJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006294"
+    }
+  }
+]

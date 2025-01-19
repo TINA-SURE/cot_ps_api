@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271719",
+      "descModelo": "RO1478",
+      "descModeloStd": "RO1478",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003748"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271722",
+      "descModelo": "CATALINA",
+      "descModeloStd": "CATALINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003748"
+    }
+  }
+]

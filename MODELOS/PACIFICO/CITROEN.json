@@ -1,0 +1,2288 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326967",
+      "descModelo": "BERLINGO SUV",
+      "descModeloStd": "BERLINGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000PO",
+      "descModelo": "XSARA 1.8I",
+      "descModeloStd": "XSARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000403"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233990",
+      "descModelo": "C4 PICASSO 2.0",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000423"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233986",
+      "descModelo": "C5 2.0 16V (141 HP)",
+      "descModeloStd": "C5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000419"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271253",
+      "descModelo": "CROSSBACK",
+      "descModeloStd": "CROSSBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003521"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0242030",
+      "descModelo": "BERLINGO MULTIPACE",
+      "descModeloStd": "BERLINGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004214"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267928",
+      "descModelo": "NOUVELLE DS3 5P 1.6T",
+      "descModeloStd": "DS3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001652"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187573",
+      "descModelo": "XSARA SX 1.6I",
+      "descModeloStd": "XSARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0002881",
+      "descModelo": "C3",
+      "descModeloStd": "C3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231854",
+      "descModelo": "DS3 1.6 THP (156 HP)",
+      "descModeloStd": "DS3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002204"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231856",
+      "descModelo": "DS5 THP 1.6",
+      "descModeloStd": "DS5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002206"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AG",
+      "descModelo": "BX TZD",
+      "descModeloStd": "BX TZD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0006950",
+      "descModelo": "XANTIA 2.0I",
+      "descModeloStd": "XANTIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000395"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332038",
+      "descModelo": "BERLINGO",
+      "descModeloStd": "BERLINGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007533"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233978",
+      "descModelo": "XSARA 1.8I 16V SX",
+      "descModeloStd": "XSARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000404"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233981",
+      "descModelo": "C5 2.0 16V",
+      "descModeloStd": "C5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000410"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328574",
+      "descModelo": "C5 AIRCROSS 1.6 THP AT6 FEEL",
+      "descModeloStd": "C5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006339"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0236608",
+      "descModelo": "C3 SX 1.4I8V",
+      "descModeloStd": "C3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001336"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270808",
+      "descModelo": "JUMPY",
+      "descModeloStd": "JUMPY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003281"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0169276",
+      "descModelo": "BERLINA XANTIA X 1.8I",
+      "descModeloStd": "BERLINA ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010904"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231855",
+      "descModelo": "DS3 1.6 (120 HP)",
+      "descModeloStd": "DS3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002203"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324263",
+      "descModelo": "C4 3P VTR 1.6 IBVM",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332568",
+      "descModelo": "2-CV",
+      "descModeloStd": "2-CV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266661",
+      "descModelo": "JUMPER 2.2D 5P 1",
+      "descModeloStd": "JUMPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000420"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272311",
+      "descModelo": "NOUVELLE C4VTI 120 BVA",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003949"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194973",
+      "descModelo": "DS3",
+      "descModeloStd": "DS3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001867"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233987",
+      "descModelo": "XSARA PICASSO 1.6",
+      "descModeloStd": "XSARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000420"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323293",
+      "descModelo": "C3 1.2",
+      "descModeloStd": "C3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005284"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332991",
+      "descModelo": "AIRCROSS C 3",
+      "descModeloStd": "AIRCROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008053"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327984",
+      "descModelo": "F3 CACTUS",
+      "descModeloStd": "FLD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006171"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233977",
+      "descModelo": "XM 3.0 V6-24",
+      "descModeloStd": "XM 30 V6-24",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000400"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327721",
+      "descModelo": "C4 CACTUS 1.2",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006093"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234540",
+      "descModelo": " C-15D",
+      "descModeloStd": "C-15D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324578",
+      "descModelo": "C35X1.418V",
+      "descModeloStd": "C35X1.418V",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0201032",
+      "descModelo": "BERLINA XANTIA",
+      "descModeloStd": "XANTIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000393"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270291",
+      "descModelo": "JUMPER 2.2D 5P 1525",
+      "descModeloStd": "JUMPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003063"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000PI",
+      "descModelo": "XANTIA 1.8I",
+      "descModeloStd": "XANTIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000393"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233992",
+      "descModelo": "C4 4P 1.6",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000425"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320221",
+      "descModelo": "NOUVELLE DS3 5P 1.6TI 6MT",
+      "descModeloStd": "NOUVELLE DS3 5P 1.6TI 6MT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000PN",
+      "descModelo": "XSARA 1.6I",
+      "descModeloStd": "XSARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000402"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272299",
+      "descModelo": "C5 SX 2.0I",
+      "descModeloStd": "C5 SX 2.0I",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "17",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332066",
+      "descModelo": "JUMPER MN",
+      "descModeloStd": "JUMPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0240435",
+      "descModelo": "BERLINA XSARA SX 1.6I/2003",
+      "descModeloStd": "BERLINA ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010905"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327064",
+      "descModelo": "C-15/97 SUV",
+      "descModeloStd": "C-15/97",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229738",
+      "descModelo": "C4 GRAND PICASSO 2.0",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000426"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334730",
+      "descModelo": "C5 AIRCROSS 1.6 THP AT6 LIVE",
+      "descModeloStd": "C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006339"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334120",
+      "descModelo": "C-3",
+      "descModeloStd": "C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008732"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324065",
+      "descModelo": " AX DIESEL SP AUTO",
+      "descModeloStd": " AX DIESEL SP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324266",
+      "descModelo": "C ELYSEE 1.6",
+      "descModeloStd": "C-ELYSEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005024"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335099",
+      "descModelo": "C5 AIRCROSS",
+      "descModeloStd": "AIRCROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009318"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "9",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328145",
+      "descModelo": "JUMPY CR",
+      "descModeloStd": "JUMPY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270319",
+      "descModelo": "NOUVELLE DS# 1.6 TI 6MT",
+      "descModeloStd": "DS1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003067"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000PK",
+      "descModelo": "XANTIA BREAK 2.0I",
+      "descModeloStd": "XANTIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000398"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328307",
+      "descModelo": "CITROEN",
+      "descModeloStd": "C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270323",
+      "descModelo": "NOUVELLE DS3 1.6TI 6MT",
+      "descModeloStd": "DS3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003069"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "16",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330949",
+      "descModelo": "JUMPER MICROBUS",
+      "descModeloStd": "JUMPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332569",
+      "descModelo": "2-CV CMT",
+      "descModeloStd": "2-CV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325167",
+      "descModelo": "SPACETOURER  BUSINESS\t\t\t\t\t",
+      "descModeloStd": "SPACETOURER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005261"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0240428",
+      "descModelo": "AX GT 1400 3P",
+      "descModeloStd": "AX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323346",
+      "descModelo": "NEW C3",
+      "descModeloStd": "NEW C3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267355",
+      "descModelo": "C3 PICASSO",
+      "descModeloStd": "C3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001349"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268323",
+      "descModelo": "C4 CACTUS",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001838"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0186201",
+      "descModelo": "C4",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002682"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273320",
+      "descModelo": "NEMO",
+      "descModeloStd": "NEMO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004317"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BU",
+      "descModelo": "BERLINGO",
+      "descModeloStd": "BERLINGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005804"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326931",
+      "descModelo": "BERLINA XANTIA 2.0",
+      "descModeloStd": "BERLINA XANTIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191643",
+      "descModelo": "DS3",
+      "descModeloStd": "DS3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0238229",
+      "descModelo": "CR SX 201 BVA",
+      "descModeloStd": "CR SX 201 BVA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266301",
+      "descModelo": "BERLINGO 1.6 BVM5",
+      "descModeloStd": "BERLINGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000674"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191108",
+      "descModelo": "XANTIA 3.0I ACTIVA",
+      "descModeloStd": "XANTIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000396"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323847",
+      "descModelo": "NOUVELLE C4 HB\t\t\t\t\t",
+      "descModeloStd": "NOUVELLE C4 HB\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234334",
+      "descModelo": "NOUVELLE C4",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010840"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191408",
+      "descModelo": "NOUVELLE C3 5P 1.4I 5MT",
+      "descModeloStd": "NOUVELLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265689",
+      "descModelo": "JUMPER 2.2D",
+      "descModeloStd": "JUMPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178755",
+      "descModelo": "C4 SX 1.6I",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328337",
+      "descModelo": "C3 AIRCROSS 1.2 110",
+      "descModeloStd": "C3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006264"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267248",
+      "descModelo": "BERLINGO FG 800 19",
+      "descModeloStd": "BERLINGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001289"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000PP",
+      "descModelo": "ZX 1.4",
+      "descModeloStd": "ZX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000405"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233983",
+      "descModelo": "C3 1.4",
+      "descModeloStd": "C3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000415"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320234",
+      "descModelo": "XARA SX 1.6T",
+      "descModeloStd": "XARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331044",
+      "descModelo": "C5 AIRCROSS",
+      "descModeloStd": "AIRCROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007012"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335100",
+      "descModelo": "C5 X",
+      "descModeloStd": "C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009319"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325066",
+      "descModelo": "C3 5P SX 1.41 BVM",
+      "descModeloStd": "C3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231874",
+      "descModelo": "C5 1.6",
+      "descModeloStd": "C5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002207"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233985",
+      "descModelo": "C4 1.6 16V COUPE",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000418"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233989",
+      "descModelo": "C4 PICASSO 1.6 HDI",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000422"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268414",
+      "descModelo": "NOUVELLE C3 5P 4.5I 5MT",
+      "descModeloStd": "C3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001888"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187560",
+      "descModelo": "BERLINGO FG600 19D",
+      "descModeloStd": "BERLINGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325187",
+      "descModelo": "NEW C3\t\t\t\t\t",
+      "descModeloStd": "NEW C3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005265"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267232",
+      "descModelo": "C5 4P N2C 2.0",
+      "descModeloStd": "C5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001276"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323362",
+      "descModelo": "BX GTI SEDAN",
+      "descModeloStd": "BX GTI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273997",
+      "descModelo": "GSA CLUB SED",
+      "descModeloStd": "GSA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332148",
+      "descModelo": "NEW C3 SD",
+      "descModeloStd": "NEW C3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000PM",
+      "descModelo": "XSARA 1.4I",
+      "descModeloStd": "XSARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000401"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233984",
+      "descModelo": "C4 1.6 16V",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000417"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A3",
+      "descModelo": "C5 3.0 V6",
+      "descModeloStd": "C5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000412"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320743",
+      "descModelo": "C4 5P SX 1.6 I BVA",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324745",
+      "descModelo": "NEW C3 1.6 HDI 90 BVM5 SHINE\t\t\t\t\t",
+      "descModeloStd": "C3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005140"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268074",
+      "descModelo": "DS4 THP 155 BVA6 SO CHIC",
+      "descModeloStd": "DS4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001732"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BW",
+      "descModelo": "XSARA 1.6I 16V",
+      "descModeloStd": "XSARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000409"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232201",
+      "descModelo": "NOUVELLE C4",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010840"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BE",
+      "descModelo": "ZX 1.9D",
+      "descModeloStd": "ZX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000406"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0183123",
+      "descModelo": "C4 5P SX 16I",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002830"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325537",
+      "descModelo": "AIRCROSS FOX ELCO C-3",
+      "descModeloStd": "AIRCROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005367"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233975",
+      "descModelo": "SAXO 1.4I SX",
+      "descModeloStd": "SAXO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000392"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270803",
+      "descModelo": "11CV 1.2",
+      "descModeloStd": "11CV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231875",
+      "descModelo": "DS4 THP 1.6",
+      "descModeloStd": "DS4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002205"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320881",
+      "descModelo": "NOUVELLE",
+      "descModeloStd": "NOUVELLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A2",
+      "descModelo": "C5 2.0 HDI",
+      "descModeloStd": "C5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000411"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333367",
+      "descModelo": "C4 CACTUS FEEL 1.6 AT 4X2",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008295"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0181621",
+      "descModelo": "BERLINA C5 SX 2.0I",
+      "descModeloStd": "BERLINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001351"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014898",
+      "descModelo": "C3 1.6",
+      "descModeloStd": "C3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000416"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234149",
+      "descModelo": "C-ELYSEE",
+      "descModeloStd": "C-ELYSEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009465"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233993",
+      "descModelo": "C4 VTI 120",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002084"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263918",
+      "descModelo": "ID.19",
+      "descModeloStd": "ID.19",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000391"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268718",
+      "descModelo": "C-ELYSSE",
+      "descModeloStd": "C-ELYSSE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009465"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000PF",
+      "descModelo": "AX 1.4",
+      "descModeloStd": "AX ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000391"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233991",
+      "descModelo": "C4 4P 2.0I AT",
+      "descModeloStd": "C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000424"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264590",
+      "descModelo": "JUMPER",
+      "descModeloStd": "JUMPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003243"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0199781",
+      "descModelo": "AX ALLURE",
+      "descModeloStd": "AX ALLURE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233988",
+      "descModelo": "XSARA PICASSO 2.0",
+      "descModeloStd": "XSARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000421"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192420",
+      "descModelo": "NOUVELLE C3",
+      "descModeloStd": "C3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002137"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "0",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A9",
+      "descModelo": "BERLINA",
+      "descModeloStd": "BERLINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233982",
+      "descModelo": "C-15 1.9 FURGON DIES",
+      "descModeloStd": "C-15",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000413"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233976",
+      "descModelo": "XANTIA BREAK 2.0 TCT",
+      "descModeloStd": "XANTIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000399"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270006",
+      "descModelo": "ZX ADVANTAGE 19D",
+      "descModeloStd": "ZX ADVANTAGE 19D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264527",
+      "descModelo": "NOUVELLE 1.6",
+      "descModeloStd": "NOUVELLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009607"
+    }
+  }
+]

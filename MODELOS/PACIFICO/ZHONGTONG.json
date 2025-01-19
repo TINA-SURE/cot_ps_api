@@ -1,0 +1,110 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "37",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327536",
+      "descModelo": "LCK6129DGC",
+      "descModeloStd": "LC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009928"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324653",
+      "descModelo": "LCK6750D3E",
+      "descModeloStd": "LCK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001067"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219588",
+      "descModelo": "LCK6770D3G",
+      "descModeloStd": "LCK6770D3G",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000188"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "19",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263593",
+      "descModelo": "LCK6770DGC",
+      "descModeloStd": "LCK6770DGC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001067"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "50",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334209",
+      "descModelo": "LCK6129DGC",
+      "descModeloStd": "LC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008788"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234995",
+      "descModelo": "LCK6125GC",
+      "descModeloStd": "LCK6125GC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10001752"
+    }
+  }
+]

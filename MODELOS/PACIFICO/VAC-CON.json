@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235349",
+      "descModelo": "311/1000SHNA",
+      "descModeloStd": "311/1000SHNA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000185"
+    }
+  }
+]

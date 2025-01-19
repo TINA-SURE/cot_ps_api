@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328093",
+      "descModelo": "Z (TRI PASAJEROS)",
+      "descModeloStd": "Z (TRI PASAJEROS)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006087"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333567",
+      "descModelo": "Z-2211-500",
+      "descModeloStd": "Z-2211-500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006087"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327710",
+      "descModelo": "Z-2211-150",
+      "descModeloStd": "Z (TRI PASAJEROS)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006087"
+    }
+  }
+]

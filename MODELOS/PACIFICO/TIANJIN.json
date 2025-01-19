@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268839",
+      "descModelo": "LR9380TJZP",
+      "descModeloStd": "LR9380TJZP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002100"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272212",
+      "descModelo": "LOHR",
+      "descModeloStd": "LOHR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003925"
+    }
+  }
+]

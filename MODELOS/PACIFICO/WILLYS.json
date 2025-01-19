@@ -1,0 +1,128 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220232",
+      "descModelo": "CJ2",
+      "descModeloStd": "CJ2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004690"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330135",
+      "descModelo": "4 WELL DRIVE PICKUP",
+      "descModeloStd": "4 WELL DRIVE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001006"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326941",
+      "descModelo": "JEEP CP",
+      "descModeloStd": "JEEP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001006"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329530",
+      "descModelo": "4X4 DC",
+      "descModeloStd": "4X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001006"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0218972",
+      "descModelo": "CJ3B",
+      "descModeloStd": "CJ3B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001006"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AA",
+      "descModelo": "JEEP",
+      "descModeloStd": "JEEP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001006"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334346",
+      "descModelo": "J-4",
+      "descModeloStd": "J-4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001006"
+    }
+  }
+]

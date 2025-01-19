@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0255360",
+      "descModelo": "MD250GK",
+      "descModeloStd": "MD250GK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004825"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0297153",
+      "descModelo": "MDVDQ1",
+      "descModeloStd": "MDVDQ1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004825"
+    }
+  }
+]

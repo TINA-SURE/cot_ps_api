@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322997",
+      "descModelo": "ZZ658N3647N1 V",
+      "descModeloStd": "ZZ658N3647N1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002196"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328259",
+      "descModelo": "ZZ1257N3647P1",
+      "descModeloStd": "ZZ1257N3647P1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002196"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321402",
+      "descModelo": "ZZ3257N3447N1",
+      "descModeloStd": "ZZ3257N3447N1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002196"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228988",
+      "descModelo": "ZZ3257N3647N1",
+      "descModeloStd": "ZZ3257N3647N1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002196"
+    }
+  }
+]

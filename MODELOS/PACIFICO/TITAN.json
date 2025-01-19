@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0212453",
+      "descModelo": "TITAN 1020",
+      "descModeloStd": "TITAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004695"
+    }
+  }
+]

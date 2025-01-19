@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323423",
+      "descModelo": "SIULI YCR 250",
+      "descModeloStd": "SIULI YCR 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004838"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0237197",
+      "descModelo": "FLYING",
+      "descModeloStd": "FLYING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002031"
+    }
+  }
+]

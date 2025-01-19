@@ -1,0 +1,110 @@
+[
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320385",
+      "descModelo": "F12",
+      "descModeloStd": "F12",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001204"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320888",
+      "descModelo": "F12 STATION WAGON",
+      "descModeloStd": "F12",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002998"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268844",
+      "descModelo": "F10",
+      "descModeloStd": "F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001204"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270159",
+      "descModelo": "F12",
+      "descModeloStd": "F12",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002998"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271118",
+      "descModelo": "T70",
+      "descModeloStd": "T70",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001204"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330176",
+      "descModelo": "F12 SEDAN",
+      "descModeloStd": "F12",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001204"
+    }
+  }
+]

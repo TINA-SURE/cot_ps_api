@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231761",
+      "descModelo": "DYX 3251",
+      "descModeloStd": "DYX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000111"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234147",
+      "descModelo": "DYX 5250GS",
+      "descModeloStd": "DYX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009757"
+    }
+  }
+]

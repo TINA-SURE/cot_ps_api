@@ -1,0 +1,542 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323729",
+      "descModelo": "KYRONAUT 2.3 4X2",
+      "descModeloStd": "KYRONAUT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004584"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333718",
+      "descModelo": "TORRES",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008490"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271114",
+      "descModelo": "XLV AUT 1.6G 4X2",
+      "descModeloStd": "XLV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003438"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270491",
+      "descModelo": "TIVOLI",
+      "descModeloStd": "TIVOLI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002927"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330588",
+      "descModelo": "MUSSO MEC 2.2D 4X2",
+      "descModeloStd": "MUSSO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006766"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193814",
+      "descModelo": "ACTYON SPORTS",
+      "descModeloStd": "ACTYON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003940"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326913",
+      "descModelo": "ACTYON SPORTS PIC",
+      "descModeloStd": "ACTYON SPORTS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004584"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326199",
+      "descModelo": "KORANDO C AUT 2.0G 4X2 CMTA",
+      "descModeloStd": "KORANDO C AUT 2.0G 4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004584"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210846",
+      "descModelo": "REXTON G4X4/2008",
+      "descModeloStd": "REXTON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004584"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0301640",
+      "descModelo": "VACUUNCAR",
+      "descModeloStd": "VACUUNCAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004584"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0238786",
+      "descModelo": "KYRON 2.0 XDI AUT/2007",
+      "descModeloStd": "KYRON 2.0",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331382",
+      "descModelo": "REXTON RX 320",
+      "descModeloStd": "REXTON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004584"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210807",
+      "descModelo": "KYRON MEC 2.3G 4X2/2011",
+      "descModeloStd": "KYRON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002962"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324359",
+      "descModelo": "MUSSO CP",
+      "descModeloStd": "MUSSO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004584"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210824",
+      "descModelo": "REXTON",
+      "descModeloStd": "REXTON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002927"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324767",
+      "descModelo": "AUT. 2.0 4X2\t\t\t\t\t",
+      "descModeloStd": "AUT. 2.0 4X2\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005152"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232467",
+      "descModelo": " KORANDO C MEC 2.0G 4X2",
+      "descModeloStd": "KORANDO C MEC 2.0G 4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003140"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0226284",
+      "descModelo": "STAVIC AUT 2.7D 4X2",
+      "descModeloStd": "STAVIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004062"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327474",
+      "descModelo": "RODIUS CMTA",
+      "descModeloStd": "RODIUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004584"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "11",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330893",
+      "descModelo": "RODIUS AUT 2.0 MICROBUS",
+      "descModeloStd": "RODIUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004584"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326373",
+      "descModelo": "ACTYON MEC 2.3G 4X2/2012 SUV",
+      "descModeloStd": "ACTYON MEC 2.3G 4X2/2012",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004584"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0250579",
+      "descModelo": "KORANDO C AUT 2.0G 4X2",
+      "descModeloStd": "KORANDO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002520"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0245969",
+      "descModelo": "STAVIC 2.7 XDI AUT/2009",
+      "descModeloStd": "STAVIC 2.7 XDI AUT/2009",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004584"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "11",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331809",
+      "descModelo": "STAVIC MICROBUS",
+      "descModeloStd": "STAVIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004584"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326154",
+      "descModelo": "KYRON MEC 2.3G 4X2",
+      "descModeloStd": "KYRON MEC 2.3G",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004584"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "11",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210863",
+      "descModelo": "RODIUS",
+      "descModeloStd": "RODIUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003654"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323826",
+      "descModelo": "NEW RODIUS",
+      "descModeloStd": "NEW RODIUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004584"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334385",
+      "descModelo": "ALL NEW MUSSO GRAND",
+      "descModeloStd": "MUSSO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008938"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331759",
+      "descModelo": "MUSSO STD SX4",
+      "descModeloStd": "MUSSO STD SX4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004584"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329211",
+      "descModelo": "ACTYON SPORTS SUV",
+      "descModeloStd": "ACTYON SPORTS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004584"
+    }
+  }
+]

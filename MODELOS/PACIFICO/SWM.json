@@ -1,0 +1,146 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334264",
+      "descModelo": "G05",
+      "descModeloStd": "G01",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008824"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333171",
+      "descModelo": "X2 BASIC",
+      "descModeloStd": "X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008163"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330774",
+      "descModelo": "X7",
+      "descModeloStd": "X7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006856"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333834",
+      "descModelo": "G03",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008562"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "7",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333583",
+      "descModelo": "X7 SD",
+      "descModeloStd": "X7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006331"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331111",
+      "descModelo": "G01",
+      "descModeloStd": "G01",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007047"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334776",
+      "descModelo": "X2 SE MI FULL",
+      "descModeloStd": "X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009170"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328541",
+      "descModelo": "X7",
+      "descModeloStd": "X7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006331"
+    }
+  }
+]

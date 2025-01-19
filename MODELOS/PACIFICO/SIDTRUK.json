@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268402",
+      "descModelo": "ZZ3257N3647A",
+      "descModeloStd": "ZZ3257N3647A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001871"
+    }
+  }
+]

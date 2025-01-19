@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229028",
+      "descModelo": "SX3254DT384",
+      "descModeloStd": "SX3254DT384",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010828"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267732",
+      "descModelo": "SX3255DT384",
+      "descModeloStd": "SX3255DT384",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10001544"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0253505",
+      "descModelo": "FORTWO BRABUS",
+      "descModeloStd": "FORTWO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009504"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190980",
+      "descModelo": "FORTWO",
+      "descModeloStd": "FORTWO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009700"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325088",
+      "descModelo": "FORTWO AC",
+      "descModeloStd": "FORTWO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009700"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324595",
+      "descModelo": "FORTWO HB",
+      "descModeloStd": "FORTWO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009700"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323878",
+      "descModelo": "BJ1044P4L5Y",
+      "descModeloStd": "BJ1044P4L5Y",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004935"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0185921",
+      "descModelo": "BJ1065P6L6Y",
+      "descModeloStd": "BJ1065P6L6Y",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000088"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0186488",
+      "descModelo": "BD044P4I5Y",
+      "descModeloStd": "BD044P4I5Y",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000087"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0179721",
+      "descModelo": "CUSTOM C-10",
+      "descModeloStd": "CUSTOM ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010708"
+    }
+  }
+]

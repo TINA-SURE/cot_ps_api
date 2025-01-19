@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "REMOLCADOR",
+    "claseVeh": "REMOLQUE",
+    "numPue": "5",
+    "idTipoVeh": 22,
+    "keyTipoVeh": "tug",
+    "idClaseVeh": 6,
+    "keyClaseVeh": "trailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232557",
+      "descModelo": "TJ7000",
+      "descModeloStd": "TJ7000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000098"
+    }
+  }
+]

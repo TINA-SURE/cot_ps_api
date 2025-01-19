@@ -1,0 +1,92 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330712",
+      "descModelo": "YS350R3C-P",
+      "descModeloStd": "YS350R3C-P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003301"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333517",
+      "descModelo": "YS350R3C-P",
+      "descModeloStd": "YS350R3C-P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003301"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330711",
+      "descModelo": "YS350R5CT-P",
+      "descModeloStd": "YS350R5CT-P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003301"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270837",
+      "descModelo": "YS300R5CB-P",
+      "descModeloStd": "YS300R5CB-P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003301"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322935",
+      "descModelo": "YS300R5CB-P TRIMOTO",
+      "descModeloStd": "YS300R5CB-P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003301"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS URBANO",
+    "numPue": "35",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 75,
+    "keyClaseVeh": "omniBusUrbano",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329264",
+      "descModelo": "FC BUS",
+      "descModeloStd": "FC ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006565"
+    }
+  }
+]

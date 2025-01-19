@@ -1,0 +1,92 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330707",
+      "descModelo": "BJ1153VLPFG-B BARANDA",
+      "descModeloStd": "BJ1153VLPFG-B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009872"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330161",
+      "descModelo": "POL250-H",
+      "descModeloStd": "POL250-H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009872"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329060",
+      "descModelo": "POL200-BZ",
+      "descModeloStd": "POL200-BZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009872"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CAMION",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 163,
+    "keyTipoVeh": "truck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232188",
+      "descModelo": "BJ1153VLPFG-B",
+      "descModeloStd": "BJ1153VLPFG-B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000170"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333844",
+      "descModelo": "LUCKY 110P",
+      "descModeloStd": "LUCKY 110P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009872"
+    }
+  }
+]

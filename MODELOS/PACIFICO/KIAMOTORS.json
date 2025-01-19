@@ -1,0 +1,326 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268125",
+      "descModelo": "SEPHIA",
+      "descModeloStd": "SEPHIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273160",
+      "descModelo": "K2700",
+      "descModeloStd": "K2700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223871",
+      "descModelo": "CERES 4WD STD S/C/95",
+      "descModeloStd": "CERES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "12",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AE",
+      "descModelo": "BESTA VAN STD",
+      "descModeloStd": "BESTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327061",
+      "descModelo": "PRIDE N/B 1.3L GTX",
+      "descModeloStd": "PRIDE N/B 1.3L GTX //",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325551",
+      "descModelo": "BESTA 12C EST RU",
+      "descModeloStd": "BESTA 12C EST",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0172997",
+      "descModelo": " PRIDE N/B 1.3L SLX SEDAN",
+      "descModeloStd": "PRIDE N/B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0248147",
+      "descModelo": "BESTA 3V VAN 2.2L",
+      "descModeloStd": "BESTA 3V VAN 2.2L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0055160",
+      "descModelo": "K-2400 WIT 10S S/C",
+      "descModeloStd": "K-2400 WIT 10S S/C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AB",
+      "descModelo": "SPORTAGE 2.0 DOHC DLX",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321113",
+      "descModelo": "K2400 WIT - 10S",
+      "descModeloStd": "K2400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "12",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320173",
+      "descModelo": "BESTA 12C ST222",
+      "descModeloStd": "BESTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AD",
+      "descModelo": "K-3600S",
+      "descModeloStd": "K-3600S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0005981",
+      "descModelo": "PRIDE N/B 1.3L SLX",
+      "descModeloStd": "PRIDE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270083",
+      "descModelo": "SPORTAGE 2.0 DOHAC",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327146",
+      "descModelo": "PRIDE N/B 1.3L LX",
+      "descModeloStd": "PRIDE N/B 1.3L/",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327716",
+      "descModelo": "PRIDE POP 1.1L SLX S",
+      "descModeloStd": "PRIDE POP 1.1L SLX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228349",
+      "descModelo": "K-3600S/97",
+      "descModeloStd": "K-3600S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001757"
+    }
+  }
+]

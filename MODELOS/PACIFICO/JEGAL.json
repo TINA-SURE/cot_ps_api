@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "REMOLQUE",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 6,
+    "keyClaseVeh": "trailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0012523",
+      "descModelo": "NACIONAL",
+      "descModeloStd": "NACIONAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006420"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095745",
+      "descModelo": "DETROIT",
+      "descModeloStd": "DETROIT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000089"
+    }
+  }
+]

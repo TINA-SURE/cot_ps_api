@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "22",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333090",
+      "descModelo": "PK6900DH3",
+      "descModeloStd": "PK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008105"
+    }
+  }
+]

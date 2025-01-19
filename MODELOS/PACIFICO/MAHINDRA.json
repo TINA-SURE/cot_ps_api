@@ -1,0 +1,650 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231818",
+      "descModelo": "PIK UP 2.2 CRDI 4X4 CS",
+      "descModeloStd": "PIKCK UP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002106"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334422",
+      "descModelo": "NEW PIK UP 4X4 DC S10",
+      "descModeloStd": "PIK UP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008948"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265893",
+      "descModelo": "XUV 500 4X4",
+      "descModeloStd": "XUV500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010973"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262229",
+      "descModelo": "XUV500",
+      "descModeloStd": "XUV500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009516"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330421",
+      "descModelo": "XUV300",
+      "descModeloStd": "XUV300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006746"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269761",
+      "descModelo": "CL540 DP",
+      "descModeloStd": "CL540 DP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002814"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231819",
+      "descModelo": "SCORPIO 2.2",
+      "descModeloStd": "SCORPIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001915"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268939",
+      "descModelo": "DC 4WD",
+      "descModeloStd": "DC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002192"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325211",
+      "descModelo": "NEW PIK UP DC 4X4 S6",
+      "descModeloStd": "PICK UP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005267"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324498",
+      "descModelo": "NEW PIK UP DC 4X2 S4\t\t\t\t\t",
+      "descModeloStd": "DC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005066"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231817",
+      "descModelo": "PIK UP 2.2 CRDI 4X2 DC",
+      "descModeloStd": "PIKCK UP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002105"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328433",
+      "descModelo": "NEW AGE XUV 500 W8 2.2 TDI AWD\t\t\t\t\t",
+      "descModeloStd": "NEW AGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006304"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327404",
+      "descModelo": "XUV 500 W8 2.2 GSL FWD AT",
+      "descModeloStd": "XUV500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005927"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324503",
+      "descModelo": "PIK UP DC 4X4 S6\t\t\t\t\t",
+      "descModeloStd": "PIK UP DC 4X4 S6\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009646"
+    }
+  },
+  {
+    "tipoRie": "L12",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "1",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323523",
+      "descModelo": "PICK UP AMBULANCIA",
+      "descModeloStd": "PICK UP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004858"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193448",
+      "descModelo": "PIK UP DOBLE CABINA",
+      "descModeloStd": "PIK UP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009646"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326953",
+      "descModelo": "PIK UP DOBLE CABINA\t\t\t\t\t SUV",
+      "descModeloStd": "PIK UP DOBLE CABINA\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009646"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233061",
+      "descModelo": "PIK UP 2.5 TDI 4X4 DC",
+      "descModeloStd": "PIKCK UP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326696",
+      "descModelo": "PIK UP DOBLE CABINA\t\t\t\t\t",
+      "descModeloStd": "PICK UP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005688"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265604",
+      "descModelo": "PICK UP D/CAB",
+      "descModeloStd": "PICK UP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009646"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177405",
+      "descModelo": "PICK UP D/C",
+      "descModeloStd": "PIKCK UP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233062",
+      "descModelo": "PIK UP 2.2 CRDI 4X4 DC",
+      "descModeloStd": "PIKCK UP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002107"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328211",
+      "descModelo": "NEW PIK UP DC 4X4 S4NEW PIK UP DC 4X4 S4",
+      "descModeloStd": "PICK UP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006234"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329095",
+      "descModelo": "M_HAWK",
+      "descModeloStd": "H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009646"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233063",
+      "descModelo": "SCORPIO 2.2 CRDI 4X4",
+      "descModeloStd": "SCORPIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002108"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269030",
+      "descModelo": "XUV 500 W6 2.2 4X2",
+      "descModeloStd": "XUV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002248"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330413",
+      "descModelo": "XUV300",
+      "descModeloStd": "XUV300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009646"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265892",
+      "descModelo": "XUV 500 4X2",
+      "descModeloStd": "XUV500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010972"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326943",
+      "descModelo": "PICK UP DOBLE CABINA SUV",
+      "descModeloStd": "PICK UP DOBLE CABINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009646"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189817",
+      "descModelo": "PICK UP DOBLE CABINA",
+      "descModeloStd": "PIKCK UP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002341"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326955",
+      "descModelo": " BOLERO GLX",
+      "descModeloStd": "BOLERO GLX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009646"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273738",
+      "descModelo": "KUV100",
+      "descModeloStd": "KUV100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004442"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231820",
+      "descModelo": "SCORPIO SUV 2.6 TDI",
+      "descModeloStd": "SCORPIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256346",
+      "descModelo": "GENIO",
+      "descModeloStd": "GENIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010835"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325213",
+      "descModelo": "NIUPI CAP DC 4X4 6S6",
+      "descModeloStd": "NIUPI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005270"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326952",
+      "descModelo": "PIK UP DOBLE CABINA SUV",
+      "descModeloStd": "PICK UP DOBLE CABINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009646"
+    }
+  }
+]

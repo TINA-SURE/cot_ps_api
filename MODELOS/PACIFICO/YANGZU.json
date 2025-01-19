@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267167",
+      "descModelo": "YZ 150-2C",
+      "descModeloStd": "YZ 150-2C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001243"
+    }
+  }
+]

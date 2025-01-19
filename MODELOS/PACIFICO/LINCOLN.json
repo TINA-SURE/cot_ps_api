@@ -1,0 +1,128 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0254951",
+      "descModelo": "TOWN",
+      "descModeloStd": "TOWN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004182"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264062",
+      "descModelo": "CONTINENTAL LUXURY",
+      "descModeloStd": "CONTINENTAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004663"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "7",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328901",
+      "descModelo": "TOWNCAR SEDAN",
+      "descModeloStd": "TOWNCAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009689"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205362",
+      "descModelo": "CONTINENTAL",
+      "descModeloStd": "CONTINENTAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009689"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205365",
+      "descModelo": "NAVIGATOR",
+      "descModeloStd": "NAVIGATOR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009689"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325182",
+      "descModelo": "MARK VII  SEDAN",
+      "descModeloStd": "MARK VII",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009689"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331513",
+      "descModelo": "EXECUTINEL",
+      "descModeloStd": "EXECUTINEL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009689"
+    }
+  }
+]

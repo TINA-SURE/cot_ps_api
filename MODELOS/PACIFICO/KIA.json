@@ -1,0 +1,6374 @@
+[
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271783",
+      "descModelo": "RIO 1.4 AT EX FULL DELUXE",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003773"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268387",
+      "descModelo": "K2500",
+      "descModeloStd": "K2500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001856"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268872",
+      "descModelo": "SPORTAGE 2WD 2.0",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002125"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220574",
+      "descModelo": "RIO",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273211",
+      "descModelo": "AM-95",
+      "descModeloStd": "AM-95",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267679",
+      "descModelo": "LEON FR  1.8 TSI DSG",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001513"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331468",
+      "descModelo": "NEW SONET",
+      "descModeloStd": "SONET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007227"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331448",
+      "descModelo": "SORENTO 3.8  4WD",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007218"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265466",
+      "descModelo": "CERATO COUPE",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AC",
+      "descModelo": "BESTA",
+      "descModeloStd": "BESTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000822"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BV",
+      "descModelo": "CARENS SW",
+      "descModeloStd": "CARENS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325208",
+      "descModelo": "SPORTAGE 4X2 2.0\t\t\t\t\t",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005271"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BO",
+      "descModelo": "TRADE REMOLCADOR",
+      "descModeloStd": "TRADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "15",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233230",
+      "descModelo": "PREGIO 2.9 DIES 15 PSJ",
+      "descModeloStd": "PREGIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000787"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267594",
+      "descModelo": "NEW RIO HB",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001454"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331150",
+      "descModelo": "PICANTO EX CROSS",
+      "descModeloStd": "PICANTO ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007065"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235304",
+      "descModelo": "RIO 1.4 AT EX FULL",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002249"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324067",
+      "descModelo": "RIO HB 1.6 MT",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004958"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265412",
+      "descModelo": "CERATO 2.0",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010635"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233250",
+      "descModelo": "OPTIMA 2.0 (163 HP)",
+      "descModeloStd": "OPTIMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001901"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327703",
+      "descModelo": "K-2700 PICK UP",
+      "descModeloStd": "K2400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0226294",
+      "descModelo": "K3600",
+      "descModeloStd": "K3600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010358"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272782",
+      "descModelo": "SPORTAGE LX 2WD 2.0",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004126"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188576",
+      "descModelo": "RIO EVOLUTION 1.4",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000790"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333335",
+      "descModelo": "SPORTAGE NQ5 1.6T DCT - X LINE",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008273"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A6",
+      "descModelo": "SORENTO",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264121",
+      "descModelo": "CERATO SEDAN",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001559"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176580",
+      "descModelo": "K2700 II",
+      "descModeloStd": "K2700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334002",
+      "descModelo": "K4000G",
+      "descModeloStd": "K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008662"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268503",
+      "descModelo": "RIO 2000",
+      "descModeloStd": "RIO 2000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328717",
+      "descModelo": "SPORTAGE 2.0 MT LX FULL",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006389"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332687",
+      "descModelo": "NIRO 1.6 DCT – ECO HYBRID",
+      "descModeloStd": "NIRO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007895"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331931",
+      "descModelo": "SORENTO 2.5 AT EX 4X2 SPORT",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007477"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326321",
+      "descModelo": "TITAN UP",
+      "descModeloStd": "TITAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320542",
+      "descModelo": "230 E",
+      "descModeloStd": "230",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "25",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326989",
+      "descModelo": "KM500",
+      "descModeloStd": "KM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329583",
+      "descModelo": "TRADE 2.5 TON CC",
+      "descModeloStd": "TRADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333407",
+      "descModelo": "SOLUTO CC",
+      "descModeloStd": "SOLUTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334706",
+      "descModelo": "CARNIVAL 3.5 AT - EX FULL DELUXE",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009132"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326990",
+      "descModelo": "KM420",
+      "descModeloStd": "KM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333625",
+      "descModelo": "SONET 1.5 CVT - LX FULL",
+      "descModeloStd": "SONET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008432"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0185586",
+      "descModelo": "SOUL 1.6",
+      "descModeloStd": "SOUL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000810"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "3",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231789",
+      "descModelo": "KOUP",
+      "descModeloStd": "KOUP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001288"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0204993",
+      "descModelo": "VISTO",
+      "descModeloStd": "VISTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0179236",
+      "descModelo": "SPORTAGE 4X2",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002706"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269374",
+      "descModelo": "NEW CERATO SEDAN",
+      "descModeloStd": "NEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002544"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332895",
+      "descModelo": "EV6",
+      "descModeloStd": "EV6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008007"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333030",
+      "descModelo": "SPORTAGE NQ5 2.0 AT - EX SPORT",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008080"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263959",
+      "descModelo": "CERATO STD",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009522"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333295",
+      "descModelo": "SORENTO 2.5 AT EX 4X2 PLUS",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008244"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334278",
+      "descModelo": "EV9",
+      "descModeloStd": "EV9",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333302",
+      "descModelo": "SPORTAGE 1.6T DCT – XLINE",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008248"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CO",
+      "descModelo": "D-MAX",
+      "descModeloStd": "D-MAX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010711"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DE",
+      "descModelo": "CARNIVAL 2.9 TDI",
+      "descModeloStd": "CARNIVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000767"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229619",
+      "descModelo": "RIO  HB 1.4",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002103"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324835",
+      "descModelo": "RIO SCMT 1.4 LX FULL\t\t\t\t\t",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005170"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265600",
+      "descModelo": "CERATO AT SX 1.6",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010679"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DI",
+      "descModelo": "RIO 1.3 RS HATCHBACK",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000764"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327279",
+      "descModelo": "RIO CROSS",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005859"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270825",
+      "descModelo": "RIO HATCHBACK",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233244",
+      "descModelo": "FORTE KOUP 2.0",
+      "descModeloStd": "FORTE KOUP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000807"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273717",
+      "descModelo": "BONGO 1.2",
+      "descModeloStd": "BONGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270768",
+      "descModelo": "CERATO 1.6 AT EX",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003260"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320565",
+      "descModelo": "JETTA GLI",
+      "descModeloStd": "JETTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333270",
+      "descModelo": "PICANTO 1.2 AT - EX CROSS",
+      "descModeloStd": "PICANTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008223"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190127",
+      "descModelo": "CADENZA",
+      "descModeloStd": "CADENZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002546"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326188",
+      "descModelo": "SORENTO GAS 2.4 MT",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005557"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233246",
+      "descModelo": "SORENTO 2.4 4WD (172 HP)",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000809"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DP",
+      "descModelo": "SORENTO EX 2.5",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004153"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327751",
+      "descModelo": "FRONTIER METAL",
+      "descModeloStd": "FRONTIER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000788"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331994",
+      "descModelo": "STINGER",
+      "descModeloStd": "STINGER\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007505"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "11",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AZ",
+      "descModelo": "CARNIVAL",
+      "descModeloStd": "CARNIVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001734"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DD",
+      "descModelo": "CARNIVAL 2.5",
+      "descModeloStd": "CARNIVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000768"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188578",
+      "descModelo": "OPIRUS 3.8",
+      "descModeloStd": "OPIRUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000799"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CF",
+      "descModelo": "PRIDE 1.3",
+      "descModeloStd": "PRIDE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000751"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333289",
+      "descModelo": "SONET 1.5 MT - LX FULL",
+      "descModeloStd": "SONET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008240"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320891",
+      "descModelo": "PRIDE N/B 13L GTX/97",
+      "descModeloStd": "PRIDE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272250",
+      "descModelo": "ROP",
+      "descModeloStd": "ROP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269903",
+      "descModelo": "RIO 1.4 MT EX PLUS",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002861"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0287162",
+      "descModelo": "HIACE SUPER GL",
+      "descModeloStd": "HIACE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266580",
+      "descModelo": "NEW SORENTO 2.4 AT-EX 4X2 SPORT",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000881"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233252",
+      "descModelo": "SPORTAGE 2WD 2.0 (2010)",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001904"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234077",
+      "descModelo": "QUORIS",
+      "descModeloStd": "QUORIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002259"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "12",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BZ",
+      "descModelo": "PREGIO 2.7L 12P GS",
+      "descModeloStd": "PREGIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196368",
+      "descModelo": "CARENS",
+      "descModeloStd": "CARENS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000766"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264302",
+      "descModelo": "RIO 1.2 MT LX",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003530"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231901",
+      "descModelo": "FORTE KOUP 1.6",
+      "descModeloStd": "FORTE KOUP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002237"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269373",
+      "descModelo": "NEW SORENTO",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002543"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233237",
+      "descModelo": "CARNIVAL 2.9 CRDI",
+      "descModeloStd": "CARNIVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000796"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270767",
+      "descModelo": "CARENS 1.9",
+      "descModeloStd": "CARENS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "12",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DF",
+      "descModelo": "PREGIO 2.7 12 PSJ",
+      "descModeloStd": "PREGIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000769"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265094",
+      "descModelo": "SPORTAGE 2.0 GAS MT",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324627",
+      "descModelo": "PICANTO CROSS\t\t\t\t\t",
+      "descModeloStd": "PICANTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005098"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0204912",
+      "descModelo": "MORNING",
+      "descModeloStd": "MORNING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006071"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270458",
+      "descModelo": "SORENTO 2.4 4WD",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003146"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265786",
+      "descModelo": "CIAZ",
+      "descModeloStd": "CIAZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010837"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CX",
+      "descModelo": "CONCORD",
+      "descModeloStd": "CONCORD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333151",
+      "descModelo": "PICANTO 1.0 MT",
+      "descModeloStd": "PICANTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008152"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0181420",
+      "descModelo": "OPTIMA REGAL",
+      "descModeloStd": "OPTIMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CR",
+      "descModelo": "K2400 WIT 10S S/C",
+      "descModeloStd": "K2400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000823"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "25",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327563",
+      "descModelo": "KM500 O",
+      "descModeloStd": "KM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "10",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329608",
+      "descModelo": "SUB-URBANA",
+      "descModeloStd": "SUB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333945",
+      "descModelo": "GRAND CARNIVAL RURAL",
+      "descModeloStd": "GRAND CARNIVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331184",
+      "descModelo": "SONET RURAL",
+      "descModeloStd": "SONET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "15",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176022",
+      "descModelo": "PREGIO",
+      "descModeloStd": "PREGIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002542"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325082",
+      "descModelo": "BESTA CP",
+      "descModeloStd": "BESTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233240",
+      "descModelo": "MOHAVE 3.8",
+      "descModeloStd": "MOHAVE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000802"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0184966",
+      "descModelo": "SOUL",
+      "descModeloStd": "SOUL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000982"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233226",
+      "descModelo": "SORENTO 3.5 EX 24V",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000779"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DK",
+      "descModelo": "RIO 1.5 LS HATCHBACK",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000765"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188574",
+      "descModelo": "CARENS 2.0 EX CRDI",
+      "descModeloStd": "CARENS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000776"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AG",
+      "descModelo": "CERES",
+      "descModeloStd": "CERES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325415",
+      "descModelo": "CARENS SUV",
+      "descModeloStd": "CARENS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329460",
+      "descModelo": "SOLUTO",
+      "descModeloStd": "SOLUTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006526"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0204892",
+      "descModelo": "BONGO III",
+      "descModeloStd": "BONGO III",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001575"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0169402",
+      "descModelo": "SORENTO 2.5 EX CRDI",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000778"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324618",
+      "descModelo": "CARENS 1.8\t\t\t\t\t",
+      "descModeloStd": "CARENS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000766"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320202",
+      "descModelo": "CARENS",
+      "descModeloStd": "CARENS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320817",
+      "descModelo": "KM SPORTAGE 4X2 2.0",
+      "descModeloStd": "KM SPORTAGE 4X2 2.0",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0011472",
+      "descModelo": "CERATO 1.6 EX",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000785"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269009",
+      "descModelo": "NEW SPORTAGE",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003083"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014929",
+      "descModelo": "OPTIMA 2.0",
+      "descModeloStd": "OPTIMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000800"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327734",
+      "descModelo": "K2780",
+      "descModeloStd": "K2780",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194980",
+      "descModelo": "PICANTO 1.0",
+      "descModeloStd": "PICANTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001996"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0182656",
+      "descModelo": "BONGO",
+      "descModeloStd": "BONGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003887"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328057",
+      "descModelo": "PICANTO GT LINE",
+      "descModeloStd": "PICANTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006196"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330437",
+      "descModelo": "SPORTAGE 2.0 AUTO",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0015657",
+      "descModelo": "TITAN",
+      "descModeloStd": "TITAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010919"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328515",
+      "descModelo": " RIO SC HB 1.4 AT LX SPORT\t\t\t\t\t",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006326"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BL",
+      "descModelo": "FRONTIER",
+      "descModeloStd": "FRONTIER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268324",
+      "descModelo": "RIO 1.4 MT EX FULL",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001840"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332917",
+      "descModelo": "SPORTAGE NQ5 1.6T DCT ? EX LIMITED",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008022"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233218",
+      "descModelo": "PRIDE 1.1",
+      "descModeloStd": "PRIDE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000750"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "16",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "000",
+      "descModelo": "TITAN BARANDA",
+      "descModeloStd": "TITAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329555",
+      "descModelo": "TOWNER CMT",
+      "descModeloStd": "TOWNER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "11",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266874",
+      "descModelo": "CARNIVAL 3.3 AT EX FULL DE LUJO",
+      "descModeloStd": "CARNIVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001064"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0204906",
+      "descModelo": "CREDOS",
+      "descModeloStd": "CREDOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233233",
+      "descModelo": "CERATO 1.6 (2006)",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000792"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320331",
+      "descModelo": "SOUL A",
+      "descModeloStd": "SOUL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265867",
+      "descModelo": "CERATO HB",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010964"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331599",
+      "descModelo": "K3600S",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007293"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325439",
+      "descModelo": "RIO 1.6 EX ULTRA",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005335"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0170497",
+      "descModelo": "EQ1020TF T03",
+      "descModeloStd": "EQ1020TF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000684"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233231",
+      "descModelo": "PICANTO 1.1",
+      "descModeloStd": "PICANTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000789"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332754",
+      "descModelo": "K2500",
+      "descModeloStd": "K2500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001856"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325715",
+      "descModelo": "CARENS MULTI",
+      "descModeloStd": "CARENS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334867",
+      "descModelo": "K2500 BARANDA",
+      "descModeloStd": "K2500 BARANDA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177372",
+      "descModelo": "NEW RIO",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002736"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233235",
+      "descModelo": "OPTIMA 2.7 V6",
+      "descModeloStd": "OPTIMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000794"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194944",
+      "descModelo": "CERATO FORTE 1.6",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000806"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330495",
+      "descModelo": "SORENTO PICK",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231495",
+      "descModelo": "SORENTO 2.4 AT",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001812"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264587",
+      "descModelo": "RIO 1.2 HB",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010023"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233219",
+      "descModelo": "PRIDE 1.3 SED",
+      "descModeloStd": "PRIDE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000752"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331221",
+      "descModelo": "ALL-NEW CERATO SEDAN",
+      "descModeloStd": "ALL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270673",
+      "descModelo": "RIO 1.4 HATCHBACK",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271983",
+      "descModelo": "PRADE",
+      "descModeloStd": "PRADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267673",
+      "descModelo": "K",
+      "descModeloStd": "K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329368",
+      "descModelo": "PICANTO RURAL",
+      "descModeloStd": "PICANTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321396",
+      "descModelo": "SORENTO 4X4",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329503",
+      "descModelo": "BOXER",
+      "descModeloStd": "BOXER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0257591",
+      "descModelo": "SORENTO 2.4 MT",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006157"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270576",
+      "descModelo": "K2700 1.2",
+      "descModeloStd": "K2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265730",
+      "descModelo": "CERATO KOUP",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010812"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233238",
+      "descModelo": "SORENTO EX 3.8 V6",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000797"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266703",
+      "descModelo": "RIO 1.599",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000984"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CE",
+      "descModelo": "CLARUS 2.0",
+      "descModeloStd": "CLARUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000749"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AL",
+      "descModelo": "K-2400",
+      "descModeloStd": "K2400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000761"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233221",
+      "descModelo": "SPORTAGE 2.0 TDI",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000757"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "0",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271489",
+      "descModelo": "NEW RIO SEDAN 1.4 AT - EX PLUS",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003617"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334336",
+      "descModelo": "K3",
+      "descModeloStd": "K3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CI",
+      "descModelo": "SEPHIA 1.5",
+      "descModeloStd": "SEPHIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000754"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176554",
+      "descModelo": "RETONA",
+      "descModeloStd": "RETONA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324637",
+      "descModelo": "CARNIVAL\t\t\t\t\t CMTA",
+      "descModeloStd": "CARNIVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267008",
+      "descModelo": "NEW SOUL",
+      "descModeloStd": "SOUL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001148"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324431",
+      "descModelo": "SOUL",
+      "descModeloStd": "SOUL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233224",
+      "descModelo": "RIO 1.5 WAGON LS",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000775"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321023",
+      "descModelo": "J TITAN 2.5",
+      "descModeloStd": "J TITAN 2.5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321331",
+      "descModelo": "K2700 P",
+      "descModeloStd": "K2700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332751",
+      "descModelo": "RIO 1.4 AT LX PLUS",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007933"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262130",
+      "descModelo": "CERATO 1.6 MT L",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004398"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233249",
+      "descModelo": "RIO EVOLUTION 1.6 ",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001899"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334442",
+      "descModelo": "CARNIVAL  3.5",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008961"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330587",
+      "descModelo": "SELTOS",
+      "descModeloStd": "SELTOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006765"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331970",
+      "descModelo": "TOWNER K2500",
+      "descModeloStd": "TOWNER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007492"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325703",
+      "descModelo": "PICANTO 1.2 CROSS",
+      "descModeloStd": "PICANTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005431"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268584",
+      "descModelo": "SORENTO 2.4 AT EX 4X2 SPORT",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001957"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0248901",
+      "descModelo": "CERATO 1.6 AT",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003311"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272096",
+      "descModelo": "NEW RIO  1.4 AT",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003896"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323391",
+      "descModelo": "RIO HB",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332267",
+      "descModelo": "SOLUTO RURAL",
+      "descModeloStd": "SOLUTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272566",
+      "descModelo": "SOUL 1.2",
+      "descModeloStd": "SOUL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010023"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194949",
+      "descModelo": "PICANTO 1.2",
+      "descModeloStd": "PICANTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001997"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273423",
+      "descModelo": "K5 1.2",
+      "descModeloStd": "K5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233228",
+      "descModelo": "OPIRUS 3.5 V6",
+      "descModeloStd": "OPIRUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000783"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235562",
+      "descModelo": "CERATO 1.8",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010277"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331292",
+      "descModelo": "SELTOS SUV",
+      "descModeloStd": "SELTOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233248",
+      "descModelo": "OPTIMA 2.0 (162 HP)",
+      "descModeloStd": "OPTIMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001838"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332827",
+      "descModelo": "STONIC",
+      "descModeloStd": "STONIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007976"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272603",
+      "descModelo": "GARBASE",
+      "descModeloStd": "GARBASE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178475",
+      "descModelo": "K300",
+      "descModeloStd": "K300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011004"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333553",
+      "descModelo": "SORENTO 2.2",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008388"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233223",
+      "descModelo": "TOPIC 2.7 3V",
+      "descModeloStd": "TOPIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000759"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267836",
+      "descModelo": "NEW CERATO HB",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001603"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334384",
+      "descModelo": "K3",
+      "descModeloStd": "K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008937"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233245",
+      "descModelo": "SORENTO 2.4 2WD (172 HP)",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000808"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "10",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329380",
+      "descModelo": "PREGIO MICROBUS",
+      "descModeloStd": "PREGIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324566",
+      "descModelo": "CARENS",
+      "descModeloStd": "CARENS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270355",
+      "descModelo": "SORENTO 2.4 4WD AT EX SPORT -SUV",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003092"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326293",
+      "descModelo": "JUMBO TITAN",
+      "descModeloStd": "JUMBO TITAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329299",
+      "descModelo": "SOLUTO SEDAN",
+      "descModeloStd": "SOLUTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270178",
+      "descModelo": "SORENTO 2.4 4X2 EX",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003005"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192485",
+      "descModelo": "SEDONA",
+      "descModeloStd": "SEDONA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003985"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331117",
+      "descModelo": "RIO 1.6 AT EX ULTRA",
+      "descModeloStd": "RIO ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007050"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0169842",
+      "descModelo": "OPTIMA",
+      "descModeloStd": "OPTIMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002545"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188577",
+      "descModelo": "KM SPORTAGE 4X4 2.0 CRDI",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000798"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334341",
+      "descModelo": "EV9 ELÉCTRICO",
+      "descModeloStd": "EV9",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008871"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262318",
+      "descModelo": "K2400WIT",
+      "descModeloStd": "K2400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264828",
+      "descModelo": "SORENTO 3.5 EX",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010127"
+    }
+  },
+  {
+    "tipoRie": "L4",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233247",
+      "descModelo": "OPTIMA 2.0 (F)",
+      "descModeloStd": "OPTIMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000811"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328311",
+      "descModelo": "K301",
+      "descModeloStd": "K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334778",
+      "descModelo": "K3 SEDAN",
+      "descModeloStd": "K3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233253",
+      "descModelo": "SPORTAGE 4WD 2.0 (2010)",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001905"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264359",
+      "descModelo": "CERATO 1.6 MT EX",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009598"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0186889",
+      "descModelo": "LOTZE",
+      "descModeloStd": "LOTZE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010365"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334208",
+      "descModelo": "KIA 2500",
+      "descModeloStd": "KIA 2500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328284",
+      "descModelo": "FRONTIER PICK UP",
+      "descModeloStd": "FRONTIER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DH",
+      "descModelo": "RIO 1.3 RS",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000773"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014045",
+      "descModelo": "PICANTO",
+      "descModeloStd": "PICANTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002394"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A4",
+      "descModelo": "SPECTRA 1.6",
+      "descModeloStd": "SPECTRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000771"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229842",
+      "descModelo": "RIO 1.4 AT - LX SPORT",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003859"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325054",
+      "descModelo": "K2400 CP",
+      "descModeloStd": "K2400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "11",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329362",
+      "descModelo": "GRAND CARNIVAL 3.3 A\t\t\t\t\t",
+      "descModeloStd": "CARNIVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325796",
+      "descModelo": "K2700\t CI",
+      "descModeloStd": "K2700\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332370",
+      "descModelo": "SORENTO MQ4",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007743"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333604",
+      "descModelo": "CARENS 1.4T DCT",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008418"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0253742",
+      "descModelo": "K5",
+      "descModeloStd": "K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003731"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0033416",
+      "descModelo": "FRONTIER TOP",
+      "descModeloStd": "FRONTIER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004227"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256575",
+      "descModelo": "PICANTO 1.2 MT - EX FULL",
+      "descModeloStd": "PICANTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "11",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335149",
+      "descModelo": "CARNIVAL MC",
+      "descModeloStd": "CARNIVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AE",
+      "descModelo": "BOXER",
+      "descModeloStd": "BOXER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002761"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325344",
+      "descModelo": "SORENTO 2.4 MT EX 4WD SPORT\t\t\t\t\t",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005314"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095756",
+      "descModelo": "NEW CARNIVAL",
+      "descModeloStd": "CARNIVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000891"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334207",
+      "descModelo": "K2500 P",
+      "descModeloStd": "K2500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0174381",
+      "descModelo": "K3000",
+      "descModeloStd": "K3000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011004"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326235",
+      "descModelo": "TRADE UP",
+      "descModeloStd": "TRADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268605",
+      "descModelo": "NEW RIO SEDAN 1.4",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001975"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323705",
+      "descModelo": "K7",
+      "descModeloStd": "K7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329390",
+      "descModelo": "CERATO CTMR",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0171462",
+      "descModelo": "PICANTO SEDAN",
+      "descModeloStd": "PICANTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265719",
+      "descModelo": "K2700 C",
+      "descModeloStd": "K2700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DC",
+      "descModelo": "CARENS",
+      "descModeloStd": "CARENS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002403"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327859",
+      "descModelo": "SEPHIA 1.8 L",
+      "descModeloStd": "SEPHIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235653",
+      "descModelo": "SORENTO",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009280"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331624",
+      "descModelo": "NIRO",
+      "descModeloStd": "NIRO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007306"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233251",
+      "descModelo": "OPTIMA 2.4 (178 HP)",
+      "descModeloStd": "OPTIMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001902"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233234",
+      "descModelo": "CERATO SPORT WAGON 1.6",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000793"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232318",
+      "descModelo": "RIO 1.2",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002101"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CJ",
+      "descModelo": "SPORTAGE 2.0",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000756"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A5",
+      "descModelo": "OPTIMA 2.5 V6",
+      "descModeloStd": "OPTIMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000772"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267861",
+      "descModelo": "K-2700",
+      "descModeloStd": "K2400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269375",
+      "descModelo": "NEW RIO SEDAN",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002547"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273598",
+      "descModelo": "BESTA STD SUV",
+      "descModeloStd": "BESTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327737",
+      "descModelo": "FRONTIER TOP UP",
+      "descModeloStd": "FRONTIER TOP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000748"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CN",
+      "descModelo": "TOWNER COACH",
+      "descModeloStd": "TOWNER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000760"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327141",
+      "descModelo": "SPORTAGE 2.0 AT LX FULL 6 AB",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005816"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194979",
+      "descModelo": "CADENZA 3.5",
+      "descModeloStd": "CADENZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001903"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192569",
+      "descModelo": "BESTA 93",
+      "descModeloStd": "BESTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000822"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269187",
+      "descModelo": "SPORTAGE QL",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002392"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331313",
+      "descModelo": "SELTOS.",
+      "descModeloStd": "SELTOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232794",
+      "descModelo": "KM SPORTAGE 4X4 2.0",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000781"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325377",
+      "descModelo": "RIO SCHD",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005320"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320264",
+      "descModelo": "AM-95 CAM",
+      "descModeloStd": "AM-95",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0007129",
+      "descModelo": "CERATO 1.6 LX",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000784"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233229",
+      "descModelo": "KM SPORTAGE 4X4 2.0 EX FULL SPECIAL",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000786"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273563",
+      "descModelo": "RIO 1.4 MT LX",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004399"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000B0",
+      "descModelo": "SPORTAGE.",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271147",
+      "descModelo": "1210 1.4",
+      "descModeloStd": "1210",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "11",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333495",
+      "descModelo": "CARNIVAL",
+      "descModeloStd": "CARNIVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008371"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328749",
+      "descModelo": "F-350",
+      "descModeloStd": "F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "7",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274031",
+      "descModelo": "CARENS SEDAN",
+      "descModeloStd": "CARENS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193671",
+      "descModelo": "CERATO FORTE HB 1.6",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001900"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0059037",
+      "descModelo": "SORENTO 2.5 TD",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002707"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325559",
+      "descModelo": "CERATO 2.0 GSL",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005373"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265598",
+      "descModelo": "SPORTAGE 2WD 2.0 (2014)",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010677"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331638",
+      "descModelo": "NIRO",
+      "descModeloStd": "NIRO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007306"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0066439",
+      "descModelo": "CERATO",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003430"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272193",
+      "descModelo": "K3500S",
+      "descModeloStd": "K3500S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333315",
+      "descModelo": "CARENS 1.4T DCT - EX PLUS",
+      "descModeloStd": "CARENS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008259"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0010189",
+      "descModelo": "TRADE",
+      "descModeloStd": "TRADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009280"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0024668",
+      "descModelo": "K2400",
+      "descModeloStd": "K2400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233241",
+      "descModelo": "SORENTO EX 4WD 3.3",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000803"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233225",
+      "descModelo": "SORENTO 2.4 LX",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000777"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328059",
+      "descModelo": "PICANTO JA",
+      "descModeloStd": "PICANTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006198"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269372",
+      "descModelo": "OPTIMA JF",
+      "descModeloStd": "OPTIMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002542"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233242",
+      "descModelo": "CARENS EX 2.0 CRDI (145 HP)",
+      "descModeloStd": "CARENS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000804"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333980",
+      "descModelo": "SELTOS PICK",
+      "descModeloStd": "SELTOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233243",
+      "descModelo": "SORENTO LX 4WD 3.3 V6",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000805"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0074240",
+      "descModelo": "SEDONA (V. AMERICANA.)",
+      "descModeloStd": "SEDONA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010140"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191826",
+      "descModelo": "MOHAVE",
+      "descModeloStd": "MOHAVE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003523"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233254",
+      "descModelo": "RIO  1.4",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002101"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233236",
+      "descModelo": "CARENS 2.0 (2006)",
+      "descModeloStd": "CARENS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000795"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271225",
+      "descModelo": "SPORTAGE 2WD 2.0 (2016)",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003494"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0018273",
+      "descModelo": "SPECTRA",
+      "descModeloStd": "SPECTRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264189",
+      "descModelo": "CERATO 1.6 MT SX",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002901"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331188",
+      "descModelo": "SONET",
+      "descModeloStd": "SONET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007079"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0013821",
+      "descModelo": "CARNIVAL MULTI",
+      "descModeloStd": "CARNIVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330497",
+      "descModelo": "ALL-NEW CERATO",
+      "descModeloStd": "ALL-NEW CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330815",
+      "descModelo": "FELTOS",
+      "descModeloStd": "FELTOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271133",
+      "descModelo": "NEW SORENTO 4WD",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003451"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270241",
+      "descModelo": "SORENTO 3.3 AT EX 4WD FULL D",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003041"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329148",
+      "descModelo": "SOLUTO",
+      "descModeloStd": "SOLUTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006526"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324684",
+      "descModelo": "SPORTAGE",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234783",
+      "descModelo": "RIO 1.4 HB AT",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001503"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CD",
+      "descModelo": "CLARUS 1.8",
+      "descModeloStd": "K-2700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000748"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0171024",
+      "descModelo": "RIO NB",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010422"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331174",
+      "descModelo": "BESTA PANEL",
+      "descModeloStd": "BESTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DJ",
+      "descModelo": "RIO 1.5 LS",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000774"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189238",
+      "descModelo": "K2700",
+      "descModeloStd": "K2700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000788"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0057116",
+      "descModelo": "RIO",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001484"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268007",
+      "descModelo": "SOUL FULL DE LUXE",
+      "descModeloStd": "SOUL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001693"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323058",
+      "descModelo": "OUTLANDER 4WD 2.4 GLS",
+      "descModeloStd": "OUTLANDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BH",
+      "descModelo": "TOWNER 1.2",
+      "descModeloStd": "TOWNER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "16",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233222",
+      "descModelo": "TOPIC 2.7 16C",
+      "descModeloStd": "TOPIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000758"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324638",
+      "descModelo": "CARNIVAL C",
+      "descModeloStd": "CARNIVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0204907",
+      "descModelo": "GRAND CARNIVAL",
+      "descModeloStd": "CARNIVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001604"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335041",
+      "descModelo": "K3 CROOS",
+      "descModeloStd": "K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009291"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0009013",
+      "descModelo": "CARENS.",
+      "descModeloStd": "CARENS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324171",
+      "descModelo": "STINGER\t\t\t\t\t",
+      "descModeloStd": "STINGER\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005149"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266575",
+      "descModelo": "NEW SPORTAGE 4.0 MT-LX 4X2",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000875"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DG",
+      "descModelo": "PREGIO 2.7 PANEL",
+      "descModeloStd": "PREGIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000769"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A=",
+      "descModelo": "BESTA STD",
+      "descModeloStd": "BESTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233220",
+      "descModelo": "SEPHIA 1.6",
+      "descModeloStd": "SEPHIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000755"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0032016",
+      "descModelo": "K3600S",
+      "descModeloStd": "K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010720"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325306",
+      "descModelo": "K2700 BARANDA",
+      "descModeloStd": "H100 TRUCK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229899",
+      "descModelo": "RIO HB DELUXE 1.4",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002104"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "0",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A0",
+      "descModelo": "WIDE BONGO",
+      "descModeloStd": "WIDE BONGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0011837",
+      "descModelo": "CERATO SEDAN",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BK",
+      "descModelo": "CAPITAL",
+      "descModeloStd": "CAPITAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323120",
+      "descModelo": "K3000 B",
+      "descModeloStd": "K3000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0185907",
+      "descModelo": "FORTE",
+      "descModeloStd": "FORTE KOUP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000993"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266687",
+      "descModelo": "CERATO 2.0 MT EX",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330517",
+      "descModelo": "S/M SUV",
+      "descModeloStd": "S/M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331671",
+      "descModelo": "FURGON",
+      "descModeloStd": "FURGON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L4",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233239",
+      "descModelo": "RIO 1.3 CETICOS",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000801"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271690",
+      "descModelo": "BESTA 3V-VAN/97",
+      "descModeloStd": "BESTA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327747",
+      "descModelo": "RIO CMT",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231456",
+      "descModelo": "CERATO FORTE",
+      "descModeloStd": "CERATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001430"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271256",
+      "descModelo": "CADENZA 3.5 AT EX",
+      "descModeloStd": "CADENZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003524"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333406",
+      "descModelo": "SOLUTO CP",
+      "descModeloStd": "SOLUTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271221",
+      "descModelo": "SORENTO 4WD 3.3 V6",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003492"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "7",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327712",
+      "descModelo": "SORENTO AS",
+      "descModeloStd": "SORENTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009615"
+    }
+  },
+  {
+    "tipoRie": "L2R",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229900",
+      "descModelo": "RIO  DELUXE 1.4",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002102"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0012406",
+      "descModelo": "SPORTAGE",
+      "descModeloStd": "SPORTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002099"
+    }
+  }
+]

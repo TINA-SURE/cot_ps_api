@@ -1,0 +1,542 @@
+[
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268916",
+      "descModelo": "HAVAL H2",
+      "descModeloStd": "H2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002723"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330854",
+      "descModelo": "JOYEAR S500",
+      "descModeloStd": "JOYEAR S500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005521"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334202",
+      "descModelo": "NG H6 2.0 4X2 AT SUPREME",
+      "descModeloStd": "HAVAL H6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008786"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333266",
+      "descModelo": "DARGO",
+      "descModeloStd": "DARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008221"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333158",
+      "descModelo": "ALL NEW H6",
+      "descModeloStd": "H6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008155"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331695",
+      "descModelo": "JOLION 1.5T AT 4X2 SUPREME PLUS",
+      "descModeloStd": "JOLION",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007344"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268006",
+      "descModelo": "HAVAL H6",
+      "descModeloStd": "H6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001696"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331405",
+      "descModelo": "NEW H6",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007189"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329488",
+      "descModelo": "NEW H6",
+      "descModeloStd": "NEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005521"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271220",
+      "descModelo": "H6 SPORT 1.5T GSL 6MT 4X",
+      "descModeloStd": "H6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003491"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334062",
+      "descModelo": "H6 HAVAL",
+      "descModeloStd": "H6 HAVAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005521"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333032",
+      "descModelo": "DARGO",
+      "descModeloStd": "DARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005521"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325209",
+      "descModelo": "H2 DIGNITY\t\t\t\t\t",
+      "descModeloStd": "H2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005272"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331499",
+      "descModelo": "JOLION",
+      "descModeloStd": "1.5T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007238"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332210",
+      "descModelo": "JOLION R",
+      "descModeloStd": "JOLION",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005521"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323504",
+      "descModelo": "H7",
+      "descModeloStd": "H7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004857"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269065",
+      "descModelo": "HAVAL H2 1.5 T GSL 6MT X2 CITY",
+      "descModeloStd": "H2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002297"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333990",
+      "descModelo": "H6 GT2.0",
+      "descModeloStd": "H6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008651"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324275",
+      "descModelo": "H2 4X2",
+      "descModeloStd": "H2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005000"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269159",
+      "descModelo": "H6",
+      "descModeloStd": "H6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003687"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331672",
+      "descModelo": " NEW H2",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007327"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334187",
+      "descModelo": "TANK 300",
+      "descModeloStd": "TANK 300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008777"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322897",
+      "descModelo": "H1",
+      "descModeloStd": "H1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004742"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324276",
+      "descModelo": "H2 4X4",
+      "descModeloStd": "H2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005001"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270438",
+      "descModelo": "H6 CITY 4X2",
+      "descModeloStd": "H6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003136"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268935",
+      "descModelo": "H2",
+      "descModeloStd": "H2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002184"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332202",
+      "descModelo": "DARGO 2.0T AT 4X4 TOP",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007632"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334182",
+      "descModelo": "TANK 300",
+      "descModeloStd": "TANK 300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005521"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332418",
+      "descModelo": "JOLION SUV",
+      "descModeloStd": "JOLION",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005521"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328280",
+      "descModelo": "HAVAL H7L\t\t\t\t\t",
+      "descModeloStd": "H7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006250"
+    }
+  }
+]

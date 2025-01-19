@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271129",
+      "descModelo": "S45L",
+      "descModeloStd": "S45L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003445"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332452",
+      "descModelo": "M40",
+      "descModeloStd": "M40",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003445"
+    }
+  }
+]

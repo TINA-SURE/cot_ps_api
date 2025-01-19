@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AD",
+      "descModelo": "DK",
+      "descModeloStd": "DK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009727"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "REMOLCADOR",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "5",
+    "idTipoVeh": 22,
+    "keyTipoVeh": "tug",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0186216",
+      "descModelo": "KM-64-N",
+      "descModeloStd": "KM-64-N",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000083"
+    }
+  }
+]

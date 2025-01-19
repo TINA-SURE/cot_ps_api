@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270408",
+      "descModelo": "YX S3",
+      "descModeloStd": "YX S3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003116"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335032",
+      "descModelo": "K50",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009284"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "MICROBUS",
+    "claseVeh": "MICROBUS",
+    "numPue": "11",
+    "idTipoVeh": 101,
+    "keyTipoVeh": "microbus",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332992",
+      "descModelo": "Q22L",
+      "descModeloStd": "Q22",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008051"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333231",
+      "descModelo": "K60",
+      "descModeloStd": "K60",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008199"
+    }
+  }
+]

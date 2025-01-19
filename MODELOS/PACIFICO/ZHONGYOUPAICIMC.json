@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331870",
+      "descModelo": "ZYT5200TCY",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007445"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CAMION",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 163,
+    "keyTipoVeh": "truck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231708",
+      "descModelo": "ZYT5150TJC35",
+      "descModeloStd": "ZYT5150TJC35",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000189"
+    }
+  }
+]

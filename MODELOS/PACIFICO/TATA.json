@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328675",
+      "descModelo": "LPT-1313/48 C",
+      "descModeloStd": "LPT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003372"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229003",
+      "descModelo": "TELCOLINE 207/28",
+      "descModeloStd": "TELCOLINE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003372"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325849",
+      "descModelo": "207/28",
+      "descModeloStd": "207",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003372"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332944",
+      "descModelo": "BAR06FAB04/OBRM1",
+      "descModeloStd": "BAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008025"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333016",
+      "descModelo": "PLA06FAB04-OBRM1",
+      "descModeloStd": "PLA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008071"
+    }
+  }
+]

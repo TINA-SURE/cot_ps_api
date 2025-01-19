@@ -1,0 +1,128 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0182401",
+      "descModelo": "HXK2021CJ",
+      "descModeloStd": "HXK2021CJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009695"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320304",
+      "descModelo": "HXK2021CJ CAM",
+      "descModeloStd": "HXK2021CJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009695"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0186659",
+      "descModelo": "HXK1041T",
+      "descModeloStd": "HXK1041T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009695"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0291148",
+      "descModelo": "CENTURY",
+      "descModeloStd": "CENTURY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009695"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272051",
+      "descModelo": "HXK1021E 1.2",
+      "descModeloStd": "HXK1021E 1.2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009695"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330451",
+      "descModelo": "HXK1041",
+      "descModeloStd": "HXK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009695"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0180517",
+      "descModelo": "HXK6490EB",
+      "descModeloStd": "HXK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009695"
+    }
+  }
+]

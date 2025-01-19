@@ -1,0 +1,182 @@
+[
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229027",
+      "descModelo": "GTS 300 I E",
+      "descModeloStd": "GTS 300 I E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000053"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264262",
+      "descModelo": "VXL 125",
+      "descModeloStd": "LX 125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009547"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264168",
+      "descModelo": "PRIMAVERA 125 ABS",
+      "descModeloStd": "PRIMAVERA 125 ABS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000894"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331080",
+      "descModelo": "VXL 125 MOTO",
+      "descModeloStd": "VXL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009916"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267645",
+      "descModelo": "946",
+      "descModeloStd": "946",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001490"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273790",
+      "descModelo": "SPRINT 125 ABS",
+      "descModeloStd": "SPRINT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004455"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329265",
+      "descModelo": "PRIMAVERA 150\t\t\t\t\t",
+      "descModeloStd": "PRIMAVERA ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006567"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328941",
+      "descModelo": "LX 150 I.E",
+      "descModeloStd": "LX 150 I.E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009916"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268288",
+      "descModelo": "GTS 300 SUPER ABS",
+      "descModeloStd": "GTS 300 SUPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009916"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265119",
+      "descModelo": "GTV 300",
+      "descModeloStd": "GTV 300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010366"
+    }
+  }
+]

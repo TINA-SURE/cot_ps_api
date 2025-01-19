@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327981",
+      "descModelo": "BJ1044P4L5Y BARANDA",
+      "descModeloStd": "BJ1044P4L5Y",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002361"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0227308",
+      "descModelo": "BJ1086P8L8F",
+      "descModeloStd": "BJ1086P8L8F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002361"
+    }
+  }
+]

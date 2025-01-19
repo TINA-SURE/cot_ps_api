@@ -1,0 +1,398 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270641",
+      "descModelo": "V3 1.2",
+      "descModeloStd": "V3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009649"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324789",
+      "descModelo": "ZHONGHUA",
+      "descModeloStd": "ZHONGHUA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009649"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263654",
+      "descModelo": "H220 1.5",
+      "descModeloStd": "H220",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009649"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192264",
+      "descModelo": "ZHONGHUA",
+      "descModeloStd": "ZHONGHUA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009535"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265639",
+      "descModelo": "H 530 1.6",
+      "descModeloStd": "H530",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002194"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "COUPE",
+    "claseVeh": "REMOLQUE",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 6,
+    "keyClaseVeh": "trailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229850",
+      "descModelo": "FRV CROSS",
+      "descModeloStd": "FRV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010193"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231838",
+      "descModelo": "H530 1.6",
+      "descModeloStd": "H530 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002194"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231533",
+      "descModelo": "V5",
+      "descModeloStd": "V5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002195"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193697",
+      "descModelo": "FSV 1.5",
+      "descModeloStd": "FSV 15",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "9649"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256460",
+      "descModelo": "H230",
+      "descModeloStd": "H230",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009518"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231837",
+      "descModelo": "FRV CROSS 1.5 AT (104 HP)",
+      "descModeloStd": "FRV CROSS 15 AT (104 HP)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002193"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271639",
+      "descModelo": "ZHONGHUA 1.2",
+      "descModeloStd": "ZHONGHUA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009649"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267509",
+      "descModelo": "V3",
+      "descModeloStd": "V3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001522"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267211",
+      "descModelo": "H220 1.5MT DELUXE",
+      "descModeloStd": "H220 1.5MT DELUXE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001268"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233066",
+      "descModelo": "V5 1.6",
+      "descModeloStd": "V5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002195"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267383",
+      "descModelo": "H230 1.5MT COMFORTABLE",
+      "descModeloStd": "H230",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001361"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0250605",
+      "descModelo": "FSV",
+      "descModeloStd": "FSV 15",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001590"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264373",
+      "descModelo": "H220",
+      "descModeloStd": "H220",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009601"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221863",
+      "descModelo": "FRV CROSS",
+      "descModeloStd": "FRV CROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010193"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269366",
+      "descModelo": "V5 1.6 MT COMFORTABLE",
+      "descModeloStd": "V5 1.6 MT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009649"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219861",
+      "descModelo": "FRV 1.5 CROSS",
+      "descModeloStd": "FVR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001859"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191346",
+      "descModelo": "FRV 1.6",
+      "descModeloStd": "FRV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010192"
+    }
+  }
+]

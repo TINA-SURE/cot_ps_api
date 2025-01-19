@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195867",
+      "descModelo": "ROADSTER",
+      "descModeloStd": "ROADSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009978"
+    }
+  }
+]

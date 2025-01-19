@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322882",
+      "descModelo": "K-FD176AA",
+      "descModeloStd": "K FD176AA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004693"
+    }
+  }
+]

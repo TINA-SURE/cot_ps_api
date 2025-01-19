@@ -1,0 +1,110 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324351",
+      "descModelo": "BJ1044P1U52\t\t\t\t\t",
+      "descModeloStd": "BJ1044P1U52\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005039"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271370",
+      "descModelo": "BJ1065PPU62",
+      "descModeloStd": "BJ1065PPU62",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0284155",
+      "descModelo": "BJ1044P4L5F",
+      "descModeloStd": "BJ1044P4L5F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222252",
+      "descModelo": "BJ1065P6L6F",
+      "descModeloStd": "BJ1065P6L6F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326811",
+      "descModelo": "BJ103091T41 CP",
+      "descModeloStd": "BJ103091T41",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273573",
+      "descModelo": "BJ1086P8L8F 1.2",
+      "descModeloStd": "BJ1086P8L8F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000985"
+    }
+  }
+]

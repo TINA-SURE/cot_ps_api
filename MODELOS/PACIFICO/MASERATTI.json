@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320587",
+      "descModelo": "LEVANTE S",
+      "descModeloStd": "LEVANTE S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010283"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0000222",
+      "descModelo": "AM 101",
+      "descModeloStd": "AM 101",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009956"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268756",
+      "descModelo": "CAMBIOCORSA 1JA",
+      "descModeloStd": "CAMBIOCORSA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002054"
+    }
+  }
+]

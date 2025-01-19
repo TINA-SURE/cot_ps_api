@@ -1,0 +1,200 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MOTOCICLETA LINEAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 215,
+    "keyTipoVeh": "linealMotorbike",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232827",
+      "descModelo": "SPEED250",
+      "descModeloStd": "SPEED250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005358"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326768",
+      "descModelo": "CHALLENGER 200",
+      "descModeloStd": "CHALLENGER 200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005358"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334096",
+      "descModelo": "HUNTER 200",
+      "descModeloStd": "HUNTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008718"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326143",
+      "descModelo": "SPEED 250 MOTO",
+      "descModeloStd": "SPEED 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005358"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326108",
+      "descModelo": "TZ200INTERCOOLER",
+      "descModeloStd": "TZ200INTERCOOLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005358"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331480",
+      "descModelo": "HUNTER 150A",
+      "descModeloStd": "HUNTER 150A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005358"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326689",
+      "descModelo": "AS-150A-2",
+      "descModeloStd": "AS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005358"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0284708",
+      "descModelo": "VIPER 200",
+      "descModeloStd": "SPEED250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005358"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325984",
+      "descModelo": "FZ200INTERCOOLER",
+      "descModeloStd": "FZ200INTERCOOLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005358"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328219",
+      "descModelo": "AS TRI CARGA",
+      "descModeloStd": "AS TRI CARGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005358"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331004",
+      "descModelo": "ASYA 200",
+      "descModeloStd": "ASYA 200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005358"
+    }
+  }
+]

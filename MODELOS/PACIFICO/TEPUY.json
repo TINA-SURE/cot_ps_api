@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330889",
+      "descModelo": "TP150 – 10 F",
+      "descModeloStd": "TP150 – 10 F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001309"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330462",
+      "descModelo": "TP200ZH",
+      "descModeloStd": "TP TRI CARGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001309"
+    }
+  }
+]

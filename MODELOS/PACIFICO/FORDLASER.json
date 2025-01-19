@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0230208",
+      "descModelo": "BE15LBJ",
+      "descModeloStd": "BE15LBJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001922"
+    }
+  }
+]

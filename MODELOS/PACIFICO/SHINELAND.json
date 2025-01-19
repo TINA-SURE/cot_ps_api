@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "16",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333149",
+      "descModelo": "XMQ6520E",
+      "descModeloStd": "XMQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004312"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "9",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320143",
+      "descModelo": "XMQ 6552",
+      "descModeloStd": "XMQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004312"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273310",
+      "descModelo": "DN6410M",
+      "descModeloStd": "DN6410M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004312"
+    }
+  }
+]

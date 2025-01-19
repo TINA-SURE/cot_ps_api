@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326343",
+      "descModelo": "BJ1044P415Y",
+      "descModeloStd": "BJ1044P415Y",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005602"
+    }
+  }
+]

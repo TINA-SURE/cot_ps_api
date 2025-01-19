@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333279",
+      "descModelo": "70.700",
+      "descModeloStd": "70.700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008232"
+    }
+  }
+]

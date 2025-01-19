@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "LIMOSINA",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 195,
+    "keyTipoVeh": "limousine",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0253878",
+      "descModelo": "S11",
+      "descModeloStd": "S11",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010814"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0319936",
+      "descModelo": "D400",
+      "descModeloStd": "D400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010814"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331048",
+      "descModelo": "D-100 BARANDA",
+      "descModeloStd": "D-100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010814"
+    }
+  }
+]

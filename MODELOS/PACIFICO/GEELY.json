@@ -1,0 +1,1064 @@
+[
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256469",
+      "descModelo": "EMGRAND GX7 GS MT",
+      "descModeloStd": "GX7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010234"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269791",
+      "descModelo": "CK 1.3 GSV2",
+      "descModeloStd": "CK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002821"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265840",
+      "descModelo": "GX7 2 4L GS AT",
+      "descModeloStd": "GX7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010859"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264423",
+      "descModelo": "GC6",
+      "descModeloStd": "GC6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009948"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233104",
+      "descModelo": "EC7 SEDAN",
+      "descModeloStd": "EC7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002036"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328355",
+      "descModelo": "EMGRAND",
+      "descModeloStd": "EMGRAND",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006275"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194974",
+      "descModelo": "LC GV AW 1300",
+      "descModeloStd": "LC ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001878"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326505",
+      "descModelo": "EMGRAND X7 SPORT",
+      "descModeloStd": "EMGRAND X7 SPORT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009635"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324326",
+      "descModelo": "LC SD",
+      "descModeloStd": "LC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009635"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333579",
+      "descModelo": "TUGELLA",
+      "descModeloStd": "TUGELLA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003423"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328174",
+      "descModelo": "EMGRAND7",
+      "descModeloStd": "EMGRAND",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006214"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328588",
+      "descModelo": "MK-2 1.6 HATCHBACK",
+      "descModeloStd": "MK-2 1.6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009635"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334421",
+      "descModelo": "GS 1.8 MT",
+      "descModeloStd": "GS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009635"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233102",
+      "descModelo": "CK GT 1500",
+      "descModeloStd": "CK GS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001775"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327621",
+      "descModelo": "GX3 INCLUSIVE 1.5 MT",
+      "descModeloStd": "GX3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006042"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271415",
+      "descModelo": "CL",
+      "descModeloStd": "CL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009635"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233101",
+      "descModelo": "CK GS 1500",
+      "descModeloStd": "CK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009635"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335112",
+      "descModelo": "STARRAY",
+      "descModeloStd": "STARRAY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009326"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333580",
+      "descModelo": "TUGELLA RURAL",
+      "descModeloStd": "TUGELLA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009635"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332791",
+      "descModelo": "OKAVANGO",
+      "descModeloStd": "OKAVANGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007956"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271906",
+      "descModelo": "EC 1.8",
+      "descModeloStd": "EC 1.8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009635"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324272",
+      "descModelo": "S7 1.8",
+      "descModeloStd": "S7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004998"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333673",
+      "descModelo": "GX3 PRO",
+      "descModeloStd": "GX3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008470"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231889",
+      "descModelo": "SC5 1.5",
+      "descModeloStd": "SC5 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002228"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188694",
+      "descModelo": "MK",
+      "descModeloStd": "MK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009635"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331006",
+      "descModelo": "SIGNATURE X7",
+      "descModeloStd": "SIGNATURE ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006991"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327354",
+      "descModelo": "EMGRAND GS",
+      "descModeloStd": "EMGRAND",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005899"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328034",
+      "descModelo": "X7 SPORT",
+      "descModeloStd": "7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006192"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233100",
+      "descModelo": "CK GS 1300",
+      "descModeloStd": "CK GS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001773"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328089",
+      "descModelo": "GS",
+      "descModeloStd": "GS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006206"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333642",
+      "descModelo": "TUGELLA",
+      "descModeloStd": "TUGELLA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008447"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0203296",
+      "descModelo": "08MK",
+      "descModeloStd": "08MK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009635"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266553",
+      "descModelo": "CK 1.5 GLX",
+      "descModeloStd": "CK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000865"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324603",
+      "descModelo": "LC 1.3\t\t\t\t\t",
+      "descModeloStd": "LC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005089"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334283",
+      "descModelo": "COOLRAY 1.5",
+      "descModeloStd": "COOLRAY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008839"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268932",
+      "descModelo": "LC CROSS 1.3 MT",
+      "descModeloStd": "LC CROSS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002179"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327569",
+      "descModelo": "GX3  SUV",
+      "descModeloStd": "GX3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009635"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267312",
+      "descModelo": "GC7",
+      "descModeloStd": "GC7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001324"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264530",
+      "descModelo": "EC 1.8 GL",
+      "descModeloStd": "EC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009997"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333039",
+      "descModelo": "AZKARRA",
+      "descModeloStd": "AZKARRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008083"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0182379",
+      "descModelo": "24.25",
+      "descModeloStd": "24.25",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000976"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0066136",
+      "descModelo": "CK",
+      "descModeloStd": "CK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003423"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268926",
+      "descModelo": "CK GS 1500",
+      "descModeloStd": "CK GS 1500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002174"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327118",
+      "descModelo": "EMGRAND X7 SPORT\t\t\t\t\t",
+      "descModeloStd": "EMGRAND X7 SPORT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005811"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334331",
+      "descModelo": "EC7",
+      "descModeloStd": "EC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008867"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324274",
+      "descModelo": "S7 SPORT 1.8",
+      "descModeloStd": "S7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004999"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270082",
+      "descModelo": "MK-2 1.6",
+      "descModeloStd": "MK-2 1.6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002954"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330636",
+      "descModelo": "COOLRAY",
+      "descModeloStd": "COOLRAY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006795"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193683",
+      "descModelo": "MK RSI GS 1500",
+      "descModeloStd": "MK 1500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001879"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194421",
+      "descModelo": "LC GB",
+      "descModeloStd": "LC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000661"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327813",
+      "descModelo": "EMGRAND EC7 SPORT 1.8L GS\t\t\t\t\t",
+      "descModeloStd": "EMGRAND",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006120"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269100",
+      "descModelo": "LC CROSS 1300",
+      "descModeloStd": "LC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002330"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223134",
+      "descModelo": "EC",
+      "descModeloStd": "EC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009635"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0169074",
+      "descModelo": "7",
+      "descModeloStd": "7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009635"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233103",
+      "descModelo": "MK 1500",
+      "descModeloStd": "MK 1500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001776"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231890",
+      "descModelo": "SL 1.8",
+      "descModeloStd": "SL ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002229"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327568",
+      "descModelo": "GX3",
+      "descModeloStd": "GX3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006115"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233105",
+      "descModelo": "EC7 SPORT",
+      "descModeloStd": "EC7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002037"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195548",
+      "descModelo": "EC7",
+      "descModeloStd": "EC7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009635"
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "RETROEXCAVADORA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 41,
+    "keyClaseVeh": "backhoe",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326685",
+      "descModelo": "WB93R RETRO",
+      "descModeloStd": "WB93R",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003329"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320971",
+      "descModelo": "GD511A-1",
+      "descModeloStd": "GD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003329"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327388",
+      "descModelo": "D63E",
+      "descModeloStd": "D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003329"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334036",
+      "descModelo": "GD511 A-1 DE 135 HP",
+      "descModeloStd": "GD511 A-1 DE 135 HP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003329"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331224",
+      "descModelo": "WA180-3",
+      "descModeloStd": "WA180-3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003329"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324161",
+      "descModelo": "WB140 CAMI",
+      "descModeloStd": "WB140",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003329"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270922",
+      "descModelo": "WB93R",
+      "descModeloStd": "WB93R",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003329"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "EXCAVADORA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 42,
+    "keyClaseVeh": "excavator",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332258",
+      "descModelo": "PC450LC",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007670"
+    }
+  }
+]

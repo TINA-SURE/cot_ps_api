@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320449",
+      "descModelo": "DN7154ES",
+      "descModeloStd": "DN7154ES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004588"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334293",
+      "descModelo": "SEMZA MISTY",
+      "descModeloStd": "SEMZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004588"
+    }
+  }
+]

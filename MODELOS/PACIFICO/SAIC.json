@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327759",
+      "descModelo": "SAC5020 PANEL",
+      "descModeloStd": "SAC5020",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006102"
+    }
+  }
+]

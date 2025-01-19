@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334919",
+      "descModelo": "FJ-300JN",
+      "descModeloStd": "FJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007313"
+    }
+  }
+]

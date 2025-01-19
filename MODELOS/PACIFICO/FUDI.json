@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0169138",
+      "descModelo": "NHQ1027",
+      "descModeloStd": "NHQ1027",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004536"
+    }
+  }
+]

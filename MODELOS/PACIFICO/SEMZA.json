@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334597",
+      "descModelo": "WUXI 150",
+      "descModeloStd": "WUXI 150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009057"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334596",
+      "descModelo": "SEMZA - SOAT",
+      "descModeloStd": "WUXI 150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009057"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271987",
+      "descModelo": "FJ6440AGK",
+      "descModeloStd": "FJ6440AGK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003855"
+    }
+  }
+]

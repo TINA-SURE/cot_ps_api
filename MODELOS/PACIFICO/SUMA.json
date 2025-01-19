@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321291",
+      "descModelo": "BRAHO 200",
+      "descModeloStd": "BRAHO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004717"
+    }
+  }
+]

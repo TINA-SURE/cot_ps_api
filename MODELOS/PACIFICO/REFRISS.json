@@ -1,0 +1,128 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271820",
+      "descModelo": "PREMIUM 03-12.80",
+      "descModeloStd": "PREMIUM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003798"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187392",
+      "descModelo": "PREMIUM 03-13.00",
+      "descModeloStd": "PREMIUM 03-13.00",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000573"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267749",
+      "descModelo": "PREMIUM 03-12.00",
+      "descModeloStd": "PREMIUM 03-12.00",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001550"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265933",
+      "descModelo": "PREMIUM 03-12 30",
+      "descModeloStd": "PREMIUM 03-12 30",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010981"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266975",
+      "descModelo": "PREMIUM 03-14-00",
+      "descModeloStd": "PREMIUM 03-14-00",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001133"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0279647",
+      "descModelo": "PREMIUN 02-7.80",
+      "descModeloStd": "PREMIUN 02-7.80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004841"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271825",
+      "descModelo": "PREMIUM",
+      "descModeloStd": "PREMIUM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009877"
+    }
+  }
+]

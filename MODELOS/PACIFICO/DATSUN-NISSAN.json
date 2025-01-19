@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332058",
+      "descModelo": "PLB11FUP",
+      "descModeloStd": "PLB11FUP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006667"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256680",
+      "descModelo": "PICK UP",
+      "descModeloStd": "DATSUN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006667"
+    }
+  }
+]

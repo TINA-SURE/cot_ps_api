@@ -1,0 +1,92 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321357",
+      "descModelo": "UL 42 R 104L",
+      "descModeloStd": "UL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004722"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326979",
+      "descModelo": "CRONER PKE 4X2     \t\t\t\t\t",
+      "descModeloStd": "CRONER PKE 4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005776"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327423",
+      "descModelo": "CRONER MKE",
+      "descModeloStd": "CRONER MIKE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005939"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328329",
+      "descModelo": "CRONER PKE",
+      "descModeloStd": "CRONER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006260"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235666",
+      "descModelo": "CONDOR 5",
+      "descModeloStd": "CONDOR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003809"
+    }
+  }
+]

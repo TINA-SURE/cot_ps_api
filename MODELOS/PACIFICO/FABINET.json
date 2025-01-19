@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188462",
+      "descModelo": "FIM-STD",
+      "descModeloStd": "FIM-STD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000442"
+    }
+  }
+]

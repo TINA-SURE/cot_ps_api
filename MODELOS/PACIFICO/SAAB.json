@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256407",
+      "descModelo": "97X",
+      "descModeloStd": "97X",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003562"
+    }
+  }
+]

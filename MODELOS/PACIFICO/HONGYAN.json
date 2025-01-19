@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324963",
+      "descModelo": "CQ4183TSG351\t\t\t\t\t",
+      "descModeloStd": "CQ4183TSG351\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005210"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232006",
+      "descModelo": "CQ3254HTG384",
+      "descModeloStd": "CQ3254HTG384",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000125"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263026",
+      "descModelo": "CQ4254HXVG334",
+      "descModeloStd": "CQ4254HXVG334",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000884"
+    }
+  }
+]

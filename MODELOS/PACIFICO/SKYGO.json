@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0291060",
+      "descModelo": "SG150XL-8",
+      "descModeloStd": "SG",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005322"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325393",
+      "descModelo": "SG150XL-8 MOTO",
+      "descModeloStd": "SG150XL-8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005322"
+    }
+  }
+]

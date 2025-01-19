@@ -1,0 +1,236 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "AMBULANCIA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 10,
+    "keyClaseVeh": "ambulance",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327551",
+      "descModelo": "STQ1087L7Y1\t\t\t\t\t",
+      "descModeloStd": "STQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006008"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229147",
+      "descModelo": "STQ3256L8Y9S3",
+      "descModeloStd": "STQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003468"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265138",
+      "descModelo": "STQ3129L3Y13",
+      "descModeloStd": "STQ3129L3Y13",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000180"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192182",
+      "descModelo": "STQ311GL7453",
+      "descModeloStd": "STQ311GL7453",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000179"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323571",
+      "descModelo": "STQ3102L7YIN4",
+      "descModeloStd": "STQ3102L7YIN4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004871"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266102",
+      "descModelo": "STQ1063L2Y33",
+      "descModeloStd": "STQ1063L2Y33",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009899"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334109",
+      "descModelo": "STQ1089L7Y123",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008722"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325371",
+      "descModelo": "STQ3102L7Y1N4",
+      "descModeloStd": "STQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009899"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0224821",
+      "descModelo": "STQ3126L4Y43",
+      "descModeloStd": "STQ3126L4Y43",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009899"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325420",
+      "descModelo": "STQ2122L4Y403",
+      "descModeloStd": "STQ2122L4Y403",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009899"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271486",
+      "descModelo": "STQ3129L3Y13 1.2",
+      "descModeloStd": "STQ3129L3Y13",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009899"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262900",
+      "descModelo": "STQ1087L7Y1",
+      "descModeloStd": "STQ1087L7Y1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009899"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320502",
+      "descModelo": "STQ1089L7Y123",
+      "descModeloStd": "STQ1089L7Y123",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009899"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324506",
+      "descModelo": "KEMBARA CTA",
+      "descModeloStd": "KEMBARA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005068"
+    }
+  }
+]

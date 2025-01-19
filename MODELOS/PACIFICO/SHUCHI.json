@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192609",
+      "descModelo": "YTK6800",
+      "descModeloStd": "YTK6800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000178"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191775",
+      "descModelo": "YTK6760A",
+      "descModeloStd": "YTK6760A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000177"
+    }
+  }
+]

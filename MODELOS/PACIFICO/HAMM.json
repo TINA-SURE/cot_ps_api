@@ -1,0 +1,92 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COMPACTADOR",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 154,
+    "keyTipoVeh": "compact",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334750",
+      "descModelo": "3410",
+      "descModeloStd": "3410",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007122"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331528",
+      "descModelo": "HD90",
+      "descModeloStd": "HD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007122"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331286",
+      "descModelo": "3520 HT",
+      "descModeloStd": "3520 HT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007122"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CARGADOR FRONTAL",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 35,
+    "keyClaseVeh": "frontLoader",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335103",
+      "descModelo": "3410C",
+      "descModeloStd": "3410",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007122"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333829",
+      "descModelo": "GRW-280-16",
+      "descModeloStd": "GRW-280-16",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007122"
+    }
+  }
+]

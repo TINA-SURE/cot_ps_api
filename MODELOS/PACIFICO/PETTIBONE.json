@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0181466",
+      "descModelo": "FORK LIFT",
+      "descModeloStd": "FORK LIFT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000033"
+    }
+  }
+]

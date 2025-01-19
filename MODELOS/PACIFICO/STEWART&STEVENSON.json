@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332820",
+      "descModelo": "M1078A1-LMTV",
+      "descModeloStd": "M1078A1-LMTV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005445"
+    }
+  }
+]

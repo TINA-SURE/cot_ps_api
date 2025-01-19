@@ -1,0 +1,4214 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332763",
+      "descModelo": "ALL NEW FORESTER",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007940"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0238480",
+      "descModelo": "JF1AN",
+      "descModeloStd": "JF1AN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233579",
+      "descModelo": "LEGACY 2.5I",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001352"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229043",
+      "descModelo": "ALL NEW OUTBACK 36R AWD 5AT SI DRI",
+      "descModeloStd": "OUTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195632",
+      "descModelo": "PLEO",
+      "descModeloStd": "PLEO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0065656",
+      "descModelo": "GL SW",
+      "descModeloStd": "GL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001046"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333881",
+      "descModelo": "CROSSTREK CVT",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008584"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326857",
+      "descModelo": "LEGACY 2.2 GX",
+      "descModeloStd": "LEGACY 2.2 GX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AT",
+      "descModelo": "LEONE",
+      "descModeloStd": "LEONE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233560",
+      "descModelo": "IMPREZA 2.0 WRX STI",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "1330"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334284",
+      "descModelo": "EVOLTIS 2.3",
+      "descModeloStd": "EVOLTIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008840"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324225",
+      "descModelo": "WRX 2.0 AWD CVT",
+      "descModeloStd": "WRX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003104"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326434",
+      "descModelo": "ALL NEW XV 2.0 I AWT DYNAMIC",
+      "descModeloStd": "All new xv 2.0 i awt Dynamic",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005643"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262962",
+      "descModelo": "WRX",
+      "descModeloStd": "WRX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010976"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191097",
+      "descModelo": "OUTBACK 3.6R",
+      "descModeloStd": "OUTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001355"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229036",
+      "descModelo": "K87D9XA",
+      "descModeloStd": "VAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196175",
+      "descModelo": "FORESTER 2 2.0 AWD AT X",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003999"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271295",
+      "descModelo": "LEGACY 4.9",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267520",
+      "descModelo": "ALL NEW OUTBACK",
+      "descModeloStd": "ALL NEW OUTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003739"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0236642",
+      "descModelo": "LEGACY 2.0I 4D AWD 6MT X",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003095"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269186",
+      "descModelo": "FORESTER 2.0I AWD CVT SI DRIVE XS",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002391"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266328",
+      "descModelo": "XV 2.0 I",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000682"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0224347",
+      "descModelo": "ALL NEW LEGACY 2.5I4DAWDCVT LIMITED",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324561",
+      "descModelo": "ALL NEW IMPRESA SEDAN\t\t\t\t\t",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005082"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193191",
+      "descModelo": "XV 2.0R AWD AT",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187531",
+      "descModelo": "OUTBACK 2.5I AWD CVT LIMITED",
+      "descModeloStd": "OUTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001354"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332969",
+      "descModelo": "IMPREZA 2.0I AWD CVT LIMITED",
+      "descModeloStd": "IMPREZA 2.0I AWD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008041"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320598",
+      "descModelo": "SLK 280",
+      "descModeloStd": "SLK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0017866",
+      "descModelo": "LEGACY",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0179133",
+      "descModelo": "IMPREZA 4D 2.0 GT TBX",
+      "descModeloStd": "IMPREZA  4D 2.0 GT TBX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005533"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233564",
+      "descModelo": "FORESTER 2.5XT TURBO",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001334"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331821",
+      "descModelo": "EVOLTIS",
+      "descModeloStd": "EVOLTIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007414"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AC",
+      "descModelo": "GL",
+      "descModeloStd": "GL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0007351",
+      "descModelo": "OUTBACK 3.0 AWD",
+      "descModeloStd": "OUTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002619"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268624",
+      "descModelo": "OUTBACK 2.5I LIMITED",
+      "descModeloStd": "OUTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320271",
+      "descModelo": "BF38L3N",
+      "descModeloStd": "BF38L3N",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326637",
+      "descModelo": "LEGACY 4D 2.0GL",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233571",
+      "descModelo": "FORESTER 2.0 MT (2008)",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001342"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0236810",
+      "descModelo": "XT6",
+      "descModeloStd": "XT6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219511",
+      "descModelo": "NEW XV 2.0I AWD MT",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010420"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "6",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176698",
+      "descModelo": "TRIBECA 3.6",
+      "descModeloStd": "TRIBECA 3.6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0174681",
+      "descModelo": "LEGACY 2.0 GL",
+      "descModeloStd": "LEGACY 2.0 GL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CD",
+      "descModelo": "LEGACY 2.5 GX AWD",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001320"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000EV",
+      "descModelo": "IMPREZA 2.0",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001310"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0211115",
+      "descModelo": "FORESTER 5D 2.0X 5MT-D AWD XB",
+      "descModeloStd": "FORESTER 5D 2.0X 5MT-D AWD XB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266558",
+      "descModelo": "ALL NEW LEGACY 2.0I",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000869"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328279",
+      "descModelo": "WRX 2.0 AWD 6MT\t\t\t\t\t",
+      "descModeloStd": "WRX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006374"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0185284",
+      "descModelo": "FORESTER 2.0 5D",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "9625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232068",
+      "descModelo": "NEW FORESTER 2.5I-S AWD CVT SPORT",
+      "descModeloStd": "NEW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233575",
+      "descModelo": "LEGACY  2.0R AWD (165 HP)",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001347"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0250753",
+      "descModelo": "FORESTER 2.0I AWD CVT X",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001395"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233577",
+      "descModelo": "IMPREZA 2.5 STI 5P",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001350"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233501",
+      "descModelo": "FORESTER 2.0",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001305"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326433",
+      "descModelo": "ALL NEW XV 2.0 I",
+      "descModeloStd": "All new xv 2.0 i",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005642"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BR",
+      "descModelo": "OUTBACK",
+      "descModeloStd": "OUTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002298"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BD",
+      "descModelo": "1600",
+      "descModeloStd": "1600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0186868",
+      "descModelo": "JUSTY",
+      "descModeloStd": "JUSTY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002749"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271045",
+      "descModelo": "IMPREZA WRY SII",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003414"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330682",
+      "descModelo": "ASCENT",
+      "descModeloStd": "ASCENT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006810"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267403",
+      "descModelo": "IMPREZA CVT",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001368"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233565",
+      "descModelo": "IMPREZA 2.5 WRX AWD",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "1336"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233578",
+      "descModelo": "LEGACY 2.0I",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001351"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168898",
+      "descModelo": "LEGACY 4D 2.0I AWD",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001863"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0251421",
+      "descModelo": "NEW IMPREZA 5D 1.6I 5MT",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004188"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326858",
+      "descModelo": "LEGACY 1.8 GL 5S",
+      "descModeloStd": "LEGACY 1.8 GL 5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CC",
+      "descModelo": "IMPREZA 1.6 LX",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001307"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0058564",
+      "descModelo": "LEGACY 4D2.0R 4AT AWD XA",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002801"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270743",
+      "descModelo": "2.5I AWD CVT SI DRIVE DYNAMIC",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003239"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233558",
+      "descModelo": "OUTBACK 2.5 GX AWD AUT.",
+      "descModeloStd": "OUTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001328"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320540",
+      "descModelo": "GNL-620",
+      "descModeloStd": "GNL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270996",
+      "descModelo": "XV LIMITED",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003389"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233555",
+      "descModelo": "OUTBACK 2.5",
+      "descModeloStd": "OUTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001321"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321273",
+      "descModelo": "GL 1800 4WD",
+      "descModeloStd": "GL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333984",
+      "descModelo": "2.0I AWD CVT XS SI DRIVE",
+      "descModeloStd": "awd",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008646"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233572",
+      "descModelo": "FORESTER 2.5  AT TURBO (2008)",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001343"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268386",
+      "descModelo": "OUTBACK 2.5 AWD CVT DYNAMIC",
+      "descModeloStd": "OUTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001854"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330622",
+      "descModelo": "FORESTER 2.5",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006782"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334008",
+      "descModelo": "NSB035SL005",
+      "descModeloStd": "NSB035SL005",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193434",
+      "descModelo": "FORESTER 2.0 AWD AT XS",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194991",
+      "descModelo": "XV 2.0R",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001958"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333637",
+      "descModelo": "FORESTER 2 2.5",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008442"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0058566",
+      "descModelo": "FORESTER",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002485"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320584",
+      "descModelo": "KORANDO 2.9 TDI",
+      "descModeloStd": "KORANDO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234923",
+      "descModelo": "NEW XV",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "9625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327240",
+      "descModelo": "IMPREZA 4D 1.6 LX",
+      "descModeloStd": "IMPREZA 4D 1.6 LX/",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0211614",
+      "descModelo": "LOYALE GL",
+      "descModeloStd": "LOYALE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267038",
+      "descModelo": "IMPREZA 1.5 R",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001167"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273574",
+      "descModelo": "FORESTER  2.0I AWD CVT X 4X4",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004403"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233557",
+      "descModelo": "LEGACY 3.0R AWD AUT.",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001327"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272111",
+      "descModelo": "XV CVT 1.6",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003897"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0240832",
+      "descModelo": "700-SDX",
+      "descModeloStd": "700-SDX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233503",
+      "descModelo": "IMPREZA 2.0 GL AWD SW",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001312"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CE",
+      "descModelo": "IMPREZA 2.0 GL",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001310"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266794",
+      "descModelo": "WRX STI 2.5",
+      "descModeloStd": "WRX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "9625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229826",
+      "descModelo": "NEW IMPREZA 5D 1.6I S CVT",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001310"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331915",
+      "descModelo": "XV",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007466"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233504",
+      "descModelo": "LEGACY  2.0 GL SW AWD",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001314"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0247784",
+      "descModelo": "LEGACY 4D 2.5L GX AT-AWD",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0021221",
+      "descModelo": "FORESTER 5D 2.0X 5MT AWD XA",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "9625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266911",
+      "descModelo": "IMPREZA 4D 2.0R SMT AWD",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "9625"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264297",
+      "descModelo": "WRX 2.0 SEDAN",
+      "descModeloStd": "WRX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "9566"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323022",
+      "descModelo": "LOYALE GL",
+      "descModeloStd": "LOYALE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191496",
+      "descModelo": "ALL NEW LEGACY 2.5I 4D AWD CVT LIMITED",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001541"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0238944",
+      "descModelo": "LEGACY 4D 2.5L GX AT AWD 1H/98",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327487",
+      "descModelo": "1300 DL AH",
+      "descModeloStd": "1300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A?",
+      "descModelo": "1800 GL - AT\t\t\t\t\t",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001309"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272314",
+      "descModelo": "LEGACY  4D 2.5 GX AT AWD",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003952"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334674",
+      "descModelo": "SAMBARDIAS",
+      "descModeloStd": "SAMBARDIAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0251589",
+      "descModelo": "VAL-700",
+      "descModeloStd": "VAL-700",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000RY",
+      "descModelo": "IMPREZA 2.0 GL AWD",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001311"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0244941",
+      "descModelo": "DL SUBARU",
+      "descModeloStd": "DL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000SC",
+      "descModelo": "LEGACY 2.0 GL SW",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0251893",
+      "descModelo": "ALL NEW OUTBACK 2.5I CVT LIMITED",
+      "descModeloStd": "OUTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000EZ",
+      "descModelo": "LEGACY 1.8 GL E4AT",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003269"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233502",
+      "descModelo": "FORESTER 2.0 TURBO",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001306"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271476",
+      "descModelo": "LEGACY",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323417",
+      "descModelo": "1300 DL SD",
+      "descModeloStd": "1300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0211903",
+      "descModelo": "IMPREZA 4D 1.8 GL AT",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "6",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220038",
+      "descModelo": "TRAVIQ",
+      "descModeloStd": "TRAVIQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AE",
+      "descModelo": "IMPREZA 1.8 GL",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001309"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269955",
+      "descModelo": "IMPREZA CAMIONETA STATION WAGON",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330968",
+      "descModelo": "EVOLTIS",
+      "descModeloStd": "EVOLTIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268779",
+      "descModelo": "IMPREZA 2.0I AWD MT",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002069"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0001581",
+      "descModelo": "LEGACY 2.0I AWD AUT.",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001325"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194990",
+      "descModelo": "FORESTER 2.5  AWD",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002003"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267233",
+      "descModelo": "XV 2.01 AWD CVT LIMITED",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001277"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233563",
+      "descModelo": "FORESTER 2.0X AWD",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001333"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264782",
+      "descModelo": "ALL NEW LEGACY 2.0I 4D AWD C",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L4",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233567",
+      "descModelo": "IMPREZA 1.6 CETICOS",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001338"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0022121",
+      "descModelo": "FORESTER 5D 2.0X 5 AT AWD XA",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000719"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270701",
+      "descModelo": "IMPREZA SPORT 2.01R",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003207"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235097",
+      "descModelo": "XV",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009028"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262146",
+      "descModelo": "IMPREZA SPORT",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002069"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265467",
+      "descModelo": "E10 VAN1000 4WD",
+      "descModeloStd": "E10",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267544",
+      "descModelo": "\t1.8",
+      "descModeloStd": "1.8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0251439",
+      "descModelo": "NEW IMPREZA 5D 1.6I-S 5MT",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268030",
+      "descModelo": "FORESTER 2.5 AWD CVT LTD SPORT",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001709"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DP",
+      "descModelo": "LEGACY 2.0 GL AWD",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001323"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273431",
+      "descModelo": "FORESTER TURBO",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004349"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000SA",
+      "descModelo": "LEGACY  2.0 LX SW",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001315"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000SE",
+      "descModelo": "LEGACY 2.0I GL",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001319"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0012646",
+      "descModelo": "IMPREZA",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002540"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235440",
+      "descModelo": "WRX 2.5 4D AWD 5MT",
+      "descModeloStd": "WRX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000991"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0211484",
+      "descModelo": "LEGACY 2.0 GL/95",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001000"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000SB",
+      "descModelo": "LEGACY  2.0 SW LX AWD",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001316"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233561",
+      "descModelo": "IMPREZA 2.0 GX AWD",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001331"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233576",
+      "descModelo": "IMPREZA 2.5 WRX (265 HP) HB",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "1349"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0248017",
+      "descModelo": "IMPREZA 2.06 GL 5S/98",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326038",
+      "descModelo": "1800 GL - AT\t\t\t\t\t CW",
+      "descModeloStd": "1800 GL - AT\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267710",
+      "descModelo": "IMPREZA 2.0I AWD CVT",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001532"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AV",
+      "descModelo": "LEONE 1.6 DL",
+      "descModeloStd": "LEONE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0250984",
+      "descModelo": "IMPREZA SEDAN 1.5R 4D AWD AT XS",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193725",
+      "descModelo": "WRX 2.5 SEDAN",
+      "descModeloStd": "WRX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010081"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233568",
+      "descModelo": "IMPREZA 1.5R",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001339"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322904",
+      "descModelo": "1800-4WD-GL SW",
+      "descModeloStd": "1800-4WD-GL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333983",
+      "descModelo": "ALL NEW LEGACY",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008645"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234084",
+      "descModelo": "IMPREZA 1.6 (114 HP)",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002277"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233569",
+      "descModelo": "IMPREZA 2.0R",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001340"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0018408",
+      "descModelo": "FORESTER SD",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270800",
+      "descModelo": "IMPREZA 2.0I AWD",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003274"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320268",
+      "descModelo": "200 SDX",
+      "descModeloStd": "200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233559",
+      "descModelo": "OUTBACK 3.0R GX AWD AUT.",
+      "descModeloStd": "OUTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001329"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269446",
+      "descModelo": "FORESTER 2.5I AWD CVT SI DRIVE DYNAMIC",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003240"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219379",
+      "descModelo": "NEW XV 2.0I AWD CVT",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002925"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188592",
+      "descModelo": "IMPREZA 1.6 AWD",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001324"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333998",
+      "descModelo": "CROSSTREK",
+      "descModeloStd": "CROSSTREK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008658"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0250886",
+      "descModelo": "FORESTER 2.5I AWD CVT LIMITED",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001461"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233556",
+      "descModelo": "LEGACY 2.0I TW AWD AUT.",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001326"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266809",
+      "descModelo": "GL1.8",
+      "descModeloStd": "GL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001046"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233574",
+      "descModelo": "LEGACY 2.5 AWD 3S",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001346"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0211746",
+      "descModelo": "LEGACY SW 2.0L GL AT",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000B8",
+      "descModelo": "OUTBACK 2.5",
+      "descModeloStd": "OUTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001321"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0020067",
+      "descModelo": "DL",
+      "descModeloStd": "DL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231932",
+      "descModelo": "XV 2.0R (2012)",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002152"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000SG",
+      "descModelo": "LEGACY SW 2.0I LX",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001322"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233573",
+      "descModelo": "LEGACY 2.0R (150 HP)",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001345"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265200",
+      "descModelo": "OUBACK 2.51 AWD CVT LIMITED",
+      "descModeloStd": "OUTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0172299",
+      "descModelo": "LOYALE",
+      "descModeloStd": "LOYALE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L4",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332047",
+      "descModelo": "IMPREZA",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007536"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0226300",
+      "descModelo": "IMPREZA 4D 1.61 5MT AWD",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005019"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AB",
+      "descModelo": "DL",
+      "descModeloStd": "DL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000840"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265717",
+      "descModelo": "FORESTER CVT",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010810"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326681",
+      "descModelo": "ALL NEW OUTBACK 2.5I AWD CVT",
+      "descModeloStd": "OUTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334020",
+      "descModelo": "FORESTER HIBRIDO",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008679"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191096",
+      "descModelo": "IMPREZA 1.5R HB",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001348"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328857",
+      "descModelo": "NEW FORESTER 2.5 AWD DRIVE",
+      "descModeloStd": "NEW FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006433"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324934",
+      "descModelo": "FRONTE SS80FL SD",
+      "descModeloStd": "FRONTE SS80FL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233562",
+      "descModelo": "IMPREZA 2.0 WRX",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001332"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327544",
+      "descModelo": "WRX SD",
+      "descModeloStd": "WRX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001669"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AR",
+      "descModelo": "LEGACY 2.0 GL",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001317"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233581",
+      "descModelo": "OUTBACK 2.5I",
+      "descModeloStd": "OUTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001354"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0043525",
+      "descModelo": "VIVIO EFS",
+      "descModeloStd": "VIVIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330677",
+      "descModelo": "ASCENT",
+      "descModeloStd": "ASCENT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187437",
+      "descModelo": "IMPREZA 5D 2.5 WRX STI 6MT AWD MQ",
+      "descModeloStd": "WRX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010080"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270550",
+      "descModelo": "ALL NEW OUTBACK 2.5I AWD CVT LIMITED\t\t\t\t\t",
+      "descModeloStd": "ALL NEW OUTBACK 2.5I AWD CVT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003153"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0019982",
+      "descModelo": "IMPREZA 2.5",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001337"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324430",
+      "descModelo": "XV 2.0I AWD CVT\t\t\t\t\t",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005053"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268555",
+      "descModelo": "M2112",
+      "descModeloStd": "M2112",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0230364",
+      "descModelo": "NEW XV 2.0I AWD CVT LIMITED",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002268"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233580",
+      "descModelo": "LEGACY 2.5 GT",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001353"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0211779",
+      "descModelo": "LEGACY TW 2.5L OUTBACK AT AWD",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330728",
+      "descModelo": "BF3BL3N SW",
+      "descModeloStd": "BF3BL3N",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0020209",
+      "descModelo": "DL",
+      "descModeloStd": "DL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0026765",
+      "descModelo": "IMPREZA 2.0R AWD",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001335"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0248971",
+      "descModelo": "BG4BL3G",
+      "descModeloStd": "BG4BL3G",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0252437",
+      "descModelo": "IMPREZA SEDAN 2.0I CVT",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002831"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270382",
+      "descModelo": "WRX 2.0 AWD CVT",
+      "descModeloStd": "WRX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003104"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270400",
+      "descModelo": "FORESTER CVT XS",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003114"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0211902",
+      "descModelo": "LEGACY SW 2.0L GL AT",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233566",
+      "descModelo": "IMPREZA 2.5 WRX STI AWD",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "1337"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267766",
+      "descModelo": "NEW XV 2.0I AWD CTV LIMITED",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271478",
+      "descModelo": "XV 1.6I AWD CVT",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003611"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326037",
+      "descModelo": "1800 GL - AT\t\t\t\t\t",
+      "descModeloStd": "1800 GL - AT\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0171789",
+      "descModelo": "IMPREZA 5D",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001669"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327282",
+      "descModelo": "LEGACY TW 2.0 AWD/98",
+      "descModeloStd": "LEGACY TW 2.0 AWD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333640",
+      "descModelo": "CROSSTREK 2.0 AWD DYNAMIC",
+      "descModeloStd": "CROSSTREK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008445"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333760",
+      "descModelo": "CROSSTREK 2.0 LIMITED",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008520"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CY",
+      "descModelo": "1800 GLF 5",
+      "descModeloStd": "1800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0252322",
+      "descModelo": "BRZ 2.0R MT",
+      "descModeloStd": "BRZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000990"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0251993",
+      "descModelo": "NEW LEGACY 2.0I 4D AWD CVT XS",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001889"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000RT",
+      "descModelo": "FORESTER 2.0 AWD",
+      "descModeloStd": "FORESTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219994",
+      "descModelo": "TRIBECA",
+      "descModeloStd": "TRIBECA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003929"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233570",
+      "descModelo": "IMPREZA 2.5 WRX  5D",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002540"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0211553",
+      "descModelo": "LEGACY GL E4AT",
+      "descModeloStd": "LEGACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010419"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320753",
+      "descModelo": "XV 2.0 R AWD MT",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0276460",
+      "descModelo": "RAP 2",
+      "descModeloStd": "RAP 2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333878",
+      "descModelo": "CROSSTEK",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008581"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330917",
+      "descModelo": "EVOLTIS LIMITED",
+      "descModeloStd": "EVOLTIS ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006941"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000GN",
+      "descModelo": "STATION WAGON",
+      "descModeloStd": "STATION WAGON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268690",
+      "descModelo": "IMPREZA AWD MT",
+      "descModeloStd": "IMPREZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002021"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0241810",
+      "descModelo": "STI IMPRESA 05",
+      "descModeloStd": "STI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0254682",
+      "descModelo": "LEG.4D 2.5LGXAT AWD 1H",
+      "descModeloStd": "LEG.4D 2.5LGXAT AWD 1H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269737",
+      "descModelo": "NEW XV 2.0 I",
+      "descModeloStd": "XV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002799"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176073",
+      "descModelo": "JUSTY 10 GL",
+      "descModeloStd": "JUSTY 10 GL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009625"
+    }
+  }
+]

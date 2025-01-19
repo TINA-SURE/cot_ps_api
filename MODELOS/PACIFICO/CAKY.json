@@ -1,0 +1,92 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330675",
+      "descModelo": "SC1040D BARANDA",
+      "descModeloStd": "SC1040D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009738"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178081",
+      "descModelo": "SC3040D",
+      "descModeloStd": "SC3040D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000091"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0198822",
+      "descModelo": "SC5023XXYS",
+      "descModeloStd": "SC5023XXYS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009738"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189070",
+      "descModelo": "SC1050KD1",
+      "descModeloStd": "SC1050KD1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009738"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0289030",
+      "descModelo": "SC5040XXY",
+      "descModeloStd": "SC5040XXY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009738"
+    }
+  }
+]

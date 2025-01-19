@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CAMION",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 163,
+    "keyTipoVeh": "truck",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231714",
+      "descModelo": " TCSR-3",
+      "descModeloStd": " TCSR-3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000606"
+    }
+  }
+]

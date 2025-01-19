@@ -1,0 +1,398 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328740",
+      "descModelo": "ESCALADE R",
+      "descModeloStd": "ESCALADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0198808",
+      "descModelo": "DTS",
+      "descModeloStd": "DTS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002288"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0004376",
+      "descModelo": "32S-222",
+      "descModeloStd": "32S-222",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0023555",
+      "descModelo": "SEVILLA",
+      "descModeloStd": "SEVILLA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0000361",
+      "descModelo": "CIMARRON",
+      "descModeloStd": "CIMARRON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332608",
+      "descModelo": "FLEENWOOD CR",
+      "descModeloStd": "FLEENWOOD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009324"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AB",
+      "descModelo": "BIARRITZ",
+      "descModeloStd": "BIARRIT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268629",
+      "descModelo": "ATS-B",
+      "descModeloStd": "ATS-B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0226720",
+      "descModelo": "STS",
+      "descModeloStd": "STS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325844",
+      "descModelo": "CARROZA",
+      "descModeloStd": "CARROZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0182100",
+      "descModelo": "CTS3.6V6",
+      "descModeloStd": "CTS3.6V6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001450"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AH",
+      "descModelo": "ELDORADO 4.6",
+      "descModeloStd": "ELDORADO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004046"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "LIMOSINA",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 195,
+    "keyTipoVeh": "limousine",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0240103",
+      "descModelo": "LIMOSINA",
+      "descModeloStd": "ELDORADO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0198807",
+      "descModelo": "DE VILLE",
+      "descModeloStd": "DE VILLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0198811",
+      "descModelo": "FLEETWOOD",
+      "descModeloStd": "FLEETWOOD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327255",
+      "descModelo": "FLEENWOOD CP",
+      "descModeloStd": "FLEENWOOD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "3",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332609",
+      "descModelo": "FLEENWOOD SD",
+      "descModeloStd": "FLEENWOOD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0182451",
+      "descModelo": "ESCALADE",
+      "descModeloStd": "ESCALADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010194"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332432",
+      "descModelo": "FEDERAL",
+      "descModeloStd": "FEDERAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330446",
+      "descModelo": "FLEENWOOD CMTA",
+      "descModeloStd": "FLEENWOOD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327219",
+      "descModelo": "FLEENWOOD",
+      "descModeloStd": "F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0297059",
+      "descModelo": "XTS",
+      "descModeloStd": "XTS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009668"
+    }
+  }
+]

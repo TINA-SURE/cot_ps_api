@@ -1,0 +1,2306 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "32",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331889",
+      "descModelo": "BS 106",
+      "descModeloStd": "BS 106",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189439",
+      "descModelo": "TOSCA",
+      "descModeloStd": "TOSCA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009404"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS URBANO",
+    "numPue": "46",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 75,
+    "keyClaseVeh": "omniBusUrbano",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265086",
+      "descModelo": "B S106",
+      "descModeloStd": "B S106",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330550",
+      "descModelo": " LEMANS STI PICK",
+      "descModeloStd": " LEMANS STI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BA",
+      "descModelo": "TICO DX",
+      "descModeloStd": "TICO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004049"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264608",
+      "descModelo": "DAMAS VAN",
+      "descModeloStd": "DAMAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010030"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326948",
+      "descModelo": "DAMAS II SD",
+      "descModeloStd": "DAMAS II",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000SI",
+      "descModelo": "NUBIRA 2.0 CDX",
+      "descModeloStd": "NUBIRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000445"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AE",
+      "descModelo": "DAMAS",
+      "descModeloStd": "DAMAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009590"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273611",
+      "descModelo": "LUBLIN II 1.2",
+      "descModeloStd": "LUBLIN II",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233998",
+      "descModelo": "LABO PICK UP",
+      "descModeloStd": "LABO PICK UP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000435"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195177",
+      "descModelo": "LANOS SE/97",
+      "descModeloStd": "LANOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000RW",
+      "descModelo": "KORANDO 2.3 TD",
+      "descModeloStd": "KORANDO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000433"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331249",
+      "descModelo": "KPP",
+      "descModeloStd": "KPP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327761",
+      "descModelo": "D7Q CC",
+      "descModeloStd": "D7Q",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CX",
+      "descModelo": "DAMAS DLX",
+      "descModeloStd": "DAMAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329155",
+      "descModelo": "V3TVF",
+      "descModeloStd": "V3TVF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006528"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234010",
+      "descModelo": "TACUMA 2.0 CDX",
+      "descModeloStd": "TACUMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000457"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274267",
+      "descModelo": "N7DVF",
+      "descModeloStd": "N7DVF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234002",
+      "descModelo": "LEGANZA 2.2 CDX",
+      "descModeloStd": "LEGANZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000440"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323665",
+      "descModelo": "SUPER SALON",
+      "descModeloStd": "SUPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234009",
+      "descModelo": "LANOS 1.5 SE HATCHBACK",
+      "descModeloStd": "LANOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000456"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000SH",
+      "descModelo": "NUBIRA 1.6 SX SW",
+      "descModeloStd": "NUBIRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000444"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233999",
+      "descModelo": "LANOS 1.5 S",
+      "descModeloStd": "LANOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000436"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CM",
+      "descModelo": "RACER BASICO",
+      "descModeloStd": "RACER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003909"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232280",
+      "descModelo": "PRINCE ACE 2.0",
+      "descModeloStd": "PRINCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000451"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "46",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177782",
+      "descModelo": "BS106",
+      "descModeloStd": "BS106",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271844",
+      "descModelo": "ETU97",
+      "descModeloStd": "ETU97",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323240",
+      "descModelo": "LANCER 1.3 GL",
+      "descModeloStd": "LANCER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233997",
+      "descModelo": "ESPERO 1.5",
+      "descModeloStd": "ESPERO ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000432"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324179",
+      "descModelo": "DAMAS II MULTI",
+      "descModeloStd": "DAMAS II",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331081",
+      "descModelo": "MATIZ II HB",
+      "descModeloStd": "MATIZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BR",
+      "descModelo": "TICO SX",
+      "descModeloStd": "TICO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000455"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0173866",
+      "descModelo": "MAGNUS",
+      "descModeloStd": "MAGNUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009310"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0226879",
+      "descModelo": "CLEANING 11T",
+      "descModeloStd": "CLEANING 11T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220592",
+      "descModelo": "RACER",
+      "descModeloStd": "RACER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010713"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0071496",
+      "descModelo": "WINSTORM",
+      "descModeloStd": "WINSTORM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272484",
+      "descModelo": "DAMAS VAN 7TF0",
+      "descModeloStd": "DAMAS VAN 7TF0",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233996",
+      "descModelo": "ESPERO 2.0 CD",
+      "descModeloStd": "ESPERO ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000431"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234008",
+      "descModelo": "RACER 1.5 GTI",
+      "descModeloStd": "RACER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000453"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323701",
+      "descModelo": "SUPER TICO SR SEDAN",
+      "descModeloStd": "SUPER TICO SR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0171039",
+      "descModelo": "DAMAS",
+      "descModeloStd": "DAMAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0201207",
+      "descModelo": "SUPER TICO SR",
+      "descModeloStd": "SUPER TICO SR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000SE",
+      "descModelo": "MATIZ SE",
+      "descModeloStd": "MATIZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000443"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327198",
+      "descModelo": "SUPER TICO SD",
+      "descModeloStd": "SUPER TICO SR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0175271",
+      "descModelo": "DAMAS",
+      "descModeloStd": "DAMAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332127",
+      "descModelo": "DAMAS II RURAL",
+      "descModeloStd": "DAMAS II",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0007389",
+      "descModelo": "LABO TOP",
+      "descModeloStd": "LABO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001337"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323178",
+      "descModelo": "EZZ4590",
+      "descModeloStd": "EZZ4590",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0200268",
+      "descModelo": "PRINCE 1.8",
+      "descModeloStd": "PRINCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323434",
+      "descModelo": "CIELO GTX/97 SEDAN",
+      "descModeloStd": "CIELO GTX/97",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CF",
+      "descModelo": "NUBIRA II S",
+      "descModeloStd": "NUBIRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000447"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000RX",
+      "descModelo": "KORANDO 3.2",
+      "descModeloStd": "KORANDO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000434"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325117",
+      "descModelo": "BR-101 SD",
+      "descModeloStd": "BR-101",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0201151",
+      "descModelo": "LACETTI",
+      "descModeloStd": "LACETTI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000SD",
+      "descModelo": "MATIZ S",
+      "descModeloStd": "MATIZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000442"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327195",
+      "descModelo": "SUPER TICO SR SD",
+      "descModeloStd": "SUPER TICO SR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0200146",
+      "descModelo": "KALOS",
+      "descModeloStd": "KALOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324454",
+      "descModelo": "TACUMA CDX SW",
+      "descModeloStd": "TACUMA CDX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272932",
+      "descModelo": "KLCXZ48R1LB",
+      "descModeloStd": "KLCXZ48R1LB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0006281",
+      "descModelo": "MA45D1",
+      "descModeloStd": "MA45D1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233995",
+      "descModelo": "CIELO 1.5 BX",
+      "descModeloStd": "CIELO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000428"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AV",
+      "descModelo": "LANOS STD",
+      "descModeloStd": "LANOS STD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327339",
+      "descModelo": "CIELO//SD",
+      "descModeloStd": "CIELO/",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326726",
+      "descModelo": "NUBIRA SX",
+      "descModeloStd": "NUBIRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264779",
+      "descModelo": "CIELO BX1999",
+      "descModeloStd": "CIELO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272181",
+      "descModelo": "RACER GS1 2109",
+      "descModeloStd": "RACER GS1 2109",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324028",
+      "descModelo": "RACER PANEL",
+      "descModeloStd": "RACER PANEL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330618",
+      "descModelo": "Y3S11-TICO HB",
+      "descModeloStd": "Y3S11-TICO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333304",
+      "descModelo": "RACER GTE 3110",
+      "descModeloStd": "RACER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008250"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000SG",
+      "descModelo": "MUSSO 3.2",
+      "descModeloStd": "MUSSO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000459"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BC",
+      "descModelo": "TICO SL",
+      "descModeloStd": "TICO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0171984",
+      "descModelo": "NUBIRAS",
+      "descModeloStd": "NUBIRAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326097",
+      "descModelo": "SUPER SALON ACE SD",
+      "descModeloStd": "SUPER SALON ACE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270269",
+      "descModelo": "BF101 -A",
+      "descModeloStd": "BF101 -A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003052"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327072",
+      "descModelo": "DAMAS 2 VAN SW",
+      "descModeloStd": "DAMAS 2 VAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325118",
+      "descModelo": "BR-101 D",
+      "descModeloStd": "BR-101",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000SF",
+      "descModelo": "MUSSO 2.9 TDI",
+      "descModeloStd": "MUSSO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000458"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323930",
+      "descModelo": "CIELO BX SED",
+      "descModeloStd": "CIELO BX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189083",
+      "descModelo": "DAMAS II",
+      "descModeloStd": "DAMAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330549",
+      "descModelo": "LEMANS STI CMTA",
+      "descModeloStd": "LEMANS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334032",
+      "descModelo": "LORRY",
+      "descModeloStd": "LORRY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0201276",
+      "descModelo": "ESPERO BASE A100",
+      "descModeloStd": "ESPERO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AP",
+      "descModelo": "RACER ETI",
+      "descModeloStd": "RACER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000668"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0182544",
+      "descModelo": "DAMAS COACH",
+      "descModeloStd": "DAMAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003988"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234003",
+      "descModelo": "LEGANZA 2.0 SX",
+      "descModeloStd": "LEGANZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000441"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234006",
+      "descModelo": "NUBIRA 1.6 SX",
+      "descModeloStd": "NUBIRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000450"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AZ",
+      "descModelo": "TICO",
+      "descModeloStd": "TICO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000454"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AJ",
+      "descModelo": "LABO",
+      "descModeloStd": "LT-11142",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324017",
+      "descModelo": "ROJO SUPER",
+      "descModeloStd": "ROJO SUPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320934",
+      "descModelo": "TACUMA CDX A",
+      "descModeloStd": "TACUMA CDX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325412",
+      "descModelo": "LANOS SE/99 SEDAN",
+      "descModeloStd": "LANOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234000",
+      "descModelo": "LANOS 1.5 SX",
+      "descModeloStd": "LANOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000438"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328100",
+      "descModelo": "CIELO BX / 98",
+      "descModeloStd": "CIELO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320574",
+      "descModelo": "RIO 1.3 RS",
+      "descModeloStd": "RIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195628",
+      "descModelo": "DAMAS II PANEL",
+      "descModeloStd": "DAMAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009590"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234004",
+      "descModelo": "NUBIRA II 1.6 SX SW",
+      "descModeloStd": "NUBIRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000448"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "54",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228322",
+      "descModelo": "BF120",
+      "descModeloStd": "BF120",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004912"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326963",
+      "descModelo": "DAMAS SUV",
+      "descModeloStd": "DAMAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0170633",
+      "descModelo": "TICO",
+      "descModeloStd": "TICO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0054696",
+      "descModelo": "MATIZ",
+      "descModeloStd": "MATIZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234001",
+      "descModelo": "LEGANZA 2.0 CDX",
+      "descModeloStd": "LEGANZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000439"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234007",
+      "descModelo": "RACER 1.5 ETI",
+      "descModeloStd": "RACER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000452"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327011",
+      "descModelo": "DAMAS SD",
+      "descModeloStd": "DAMAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325077",
+      "descModelo": "MUSSO DLX\t\t\t\t\t",
+      "descModeloStd": "MUSSO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005239"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095633",
+      "descModelo": "BH-115",
+      "descModeloStd": "BH-115",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001022"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326290",
+      "descModelo": "SUPER SALON SD",
+      "descModeloStd": "SUPER SALON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0020202",
+      "descModelo": "1994 RACER GTE 3110",
+      "descModeloStd": "1994",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324025",
+      "descModelo": "RACE ETI PANEL",
+      "descModeloStd": "RACER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325157",
+      "descModelo": "Y3S11-TICO SD",
+      "descModeloStd": "Y3S11-TICO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265751",
+      "descModelo": "LABO PICK UP",
+      "descModeloStd": "LABO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330491",
+      "descModelo": "KPP1039W1",
+      "descModeloStd": "KPP1039W1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273662",
+      "descModelo": "CARGO 8",
+      "descModeloStd": "CARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273909",
+      "descModelo": "REZZO",
+      "descModeloStd": "REZZO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004946"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178752",
+      "descModelo": "LANOS 1.5 SE",
+      "descModeloStd": "LANOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000437"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BH",
+      "descModelo": "RACER GTE 3110",
+      "descModeloStd": "RACER GTE 3110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233994",
+      "descModelo": "ACE 2.2 SUPER SALON",
+      "descModeloStd": "ACE 22 SUPER SALON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000427"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331886",
+      "descModelo": "LEGAZA",
+      "descModeloStd": "LEGAZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "51",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333027",
+      "descModelo": "ESCOLAR",
+      "descModeloStd": "ESCOLAR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234005",
+      "descModelo": "NUBIRA 1.6 S",
+      "descModeloStd": "NUBIRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000449"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BS",
+      "descModelo": "LANOS SE",
+      "descModeloStd": "LANOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002136"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000SJ",
+      "descModelo": "NUBIRA 2.0 CDX SW",
+      "descModeloStd": "NUBIRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000446"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222000",
+      "descModelo": "Y3S11-TICO",
+      "descModeloStd": "Y3S11-TICO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "46",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0316393",
+      "descModelo": "BS-105",
+      "descModeloStd": "B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L4",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AL",
+      "descModelo": "LEMANS",
+      "descModeloStd": "LEMANS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009300"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0182336",
+      "descModelo": "NOVUS",
+      "descModeloStd": "NOVUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0255904",
+      "descModelo": "GENTRA",
+      "descModeloStd": "GENTRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325330",
+      "descModelo": "CIELO GLE SD",
+      "descModeloStd": "CIELO GLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009608"
+    }
+  }
+]

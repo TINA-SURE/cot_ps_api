@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325852",
+      "descModelo": "SD-100D",
+      "descModeloStd": "SD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005460"
+    }
+  }
+]

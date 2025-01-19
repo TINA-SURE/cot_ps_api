@@ -1,0 +1,3008 @@
+[
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273391",
+      "descModelo": "FIORINO 4X2",
+      "descModeloStd": "FIORINO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004337"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268000",
+      "descModelo": "PALIO 1.6",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001689"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234022",
+      "descModelo": "UNO MILLE 1.0",
+      "descModeloStd": "UNO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000497"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323541",
+      "descModelo": "PALIO WEEKEN ADVENTURE",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327308",
+      "descModelo": "619N1 CC",
+      "descModeloStd": "619N1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327803",
+      "descModelo": "ARGO DRIVE",
+      "descModeloStd": "FIAT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006116"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0202384",
+      "descModelo": "BERLINA 600",
+      "descModeloStd": "BERLINA 2300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234027",
+      "descModelo": "PALIO 1.8R",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000516"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0319905",
+      "descModelo": "850 BERLINA",
+      "descModeloStd": "850 BERLINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0202418",
+      "descModelo": "LINEA",
+      "descModeloStd": "LINEA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009529"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DB",
+      "descModelo": "PALIO WEEKEND 1.6",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000489"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234025",
+      "descModelo": "FIORINO 1.3",
+      "descModeloStd": "FIORINO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004063"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193578",
+      "descModelo": "PALIO WEEKEND ADVENTURE",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000870"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328475",
+      "descModelo": "500 POP 1.2 DUALOGIC",
+      "descModeloStd": "500 1.2 DUALOGIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006314"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256705",
+      "descModelo": "1993 ELBA CSL",
+      "descModeloStd": "1993 ELBA CSL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231877",
+      "descModelo": "STRADA ADVENTURE 1.6",
+      "descModeloStd": "STRADA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002216"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CZ",
+      "descModelo": "PALIO 1.3 EDX",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000487"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334920",
+      "descModelo": "500X",
+      "descModeloStd": "500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009233"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234034",
+      "descModelo": "BRAVO 1.4",
+      "descModeloStd": "BRAVO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001981"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AZ",
+      "descModelo": "TIPO CL",
+      "descModeloStd": "TIPO CL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234031",
+      "descModelo": "PUNTO 1.4",
+      "descModeloStd": "PUNTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001872"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191110",
+      "descModelo": "FIAT IDEA 1.8",
+      "descModeloStd": "IDEA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000513"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234018",
+      "descModelo": "UNO 45 1.0",
+      "descModeloStd": "UNO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000493"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234035",
+      "descModelo": "PALIO ADVENTURE 1.6",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002035"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193682",
+      "descModelo": "STRADA WORKING 1.4",
+      "descModeloStd": "STRADA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001875"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327301",
+      "descModelo": "F-9000",
+      "descModeloStd": "F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334423",
+      "descModelo": "PUNTO",
+      "descModeloStd": "PUNTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008949"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0202382",
+      "descModelo": "BERLINA 2300",
+      "descModeloStd": "BERLINA 2300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177683",
+      "descModelo": "PUNTO",
+      "descModeloStd": "PUNTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0021903",
+      "descModelo": "DOBLO",
+      "descModeloStd": "DOBLO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003682"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0025986",
+      "descModelo": "PALIO ADVENTURE 1.8",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000512"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267268",
+      "descModelo": "STRADA 1.4 MT TREKKING CD",
+      "descModeloStd": "STRADA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001298"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0318069",
+      "descModelo": "957B",
+      "descModeloStd": "957",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269807",
+      "descModelo": "UNO WAY",
+      "descModeloStd": "UNO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005277"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328538",
+      "descModelo": "PANDA 4*4",
+      "descModeloStd": "PANDA 4*4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325225",
+      "descModelo": "UNO WAY\t\t\t\t\t",
+      "descModeloStd": "UNO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005277"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272213",
+      "descModelo": "FIORINO 1.4 MT",
+      "descModeloStd": "FIORINO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003928"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0202324",
+      "descModelo": "124 SPORT",
+      "descModeloStd": "124 SPORT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273723",
+      "descModelo": "FULLBACK",
+      "descModeloStd": "FULLBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004448"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323102",
+      "descModelo": "FIORINO UP",
+      "descModeloStd": "FIORINO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177326",
+      "descModelo": "UNO",
+      "descModeloStd": "UNO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003482"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325193",
+      "descModelo": "1994 ELBA CLS",
+      "descModeloStd": "1994 ELBA CLS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014906",
+      "descModelo": "PALIO 1.8 5P",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000503"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BV",
+      "descModelo": "TEMPRA 1.6 MEDIA",
+      "descModeloStd": "TEMPRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006232"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DR",
+      "descModelo": "STRADA",
+      "descModeloStd": "STRADA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002921"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321135",
+      "descModelo": "BERLINA SEDAN",
+      "descModeloStd": "BERLINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272501",
+      "descModelo": "ONE WAY",
+      "descModeloStd": "ONE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004006"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332089",
+      "descModelo": "500 L",
+      "descModeloStd": "500 L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331904",
+      "descModelo": "ARGO TREKKING 1.3",
+      "descModeloStd": "ARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007463"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333362",
+      "descModelo": "UNO 1.3",
+      "descModeloStd": "UNO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008290"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014909",
+      "descModelo": "UNO 1.3 FIRE",
+      "descModeloStd": "UNO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000498"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0004372",
+      "descModelo": "TOPOLINO C",
+      "descModeloStd": "TOPOLINO C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0202367",
+      "descModelo": "600",
+      "descModeloStd": "600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0026636",
+      "descModelo": "PALIO 16V",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332771",
+      "descModelo": "PULSE",
+      "descModeloStd": "PULSE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007945"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014907",
+      "descModelo": "PALIO WEEKEND 1.8",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000504"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328192",
+      "descModelo": "CRONOS SEDAN",
+      "descModeloStd": "CRONOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BQ",
+      "descModelo": "190-H",
+      "descModeloStd": "190-H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003009"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DH",
+      "descModelo": "TEMPRA 1.6 SW",
+      "descModeloStd": "TEMPRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010227"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323683",
+      "descModelo": "UNO.",
+      "descModeloStd": "UNO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234026",
+      "descModelo": "PALIO 1.4 FIRE",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000515"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0202401",
+      "descModelo": "ELBA WEEKEND SD",
+      "descModeloStd": "ELBA WEEKEND",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271762",
+      "descModelo": "FIORINO 1.3 GLP",
+      "descModeloStd": "FIORINO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003762"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234037",
+      "descModelo": "DUCATO 2.3",
+      "descModeloStd": "DUCATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002217"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325558",
+      "descModelo": "500 1.4 MT GUCCI\t\t\t\t\t",
+      "descModeloStd": "500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005372"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270556",
+      "descModelo": "UNO WAY STILE",
+      "descModeloStd": "UNO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003155"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325557",
+      "descModelo": "500 FRANCIS LOMBARDI\t\t\t\t\t",
+      "descModeloStd": "500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005371"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325418",
+      "descModelo": "FIORINO SD",
+      "descModeloStd": "FIORINO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234028",
+      "descModelo": "SIENA 1.4 FIRE GNV",
+      "descModeloStd": "SIENA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000517"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014903",
+      "descModelo": "PALIO 1.3 FIRE 3P",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000500"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320429",
+      "descModelo": "S/M CAMION",
+      "descModeloStd": "S/M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AR",
+      "descModelo": "PREMIO CS",
+      "descModeloStd": "PREMIO CS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014911",
+      "descModelo": "SIENA 1.3 FIRE",
+      "descModeloStd": "SIENA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000506"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323555",
+      "descModelo": "100",
+      "descModeloStd": "100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332834",
+      "descModelo": "ARGO",
+      "descModeloStd": "ARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007978"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269542",
+      "descModelo": " 80L",
+      "descModeloStd": " 80L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002679"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CE",
+      "descModelo": "697N",
+      "descModeloStd": "697N",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0006470",
+      "descModelo": "125 BERLINA",
+      "descModeloStd": "125 BERLINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004809"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014901",
+      "descModelo": "STILO 1.8 5P",
+      "descModeloStd": "STILO ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000508"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327811",
+      "descModelo": "CRONOS",
+      "descModeloStd": "CRONOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006119"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234030",
+      "descModelo": "PUNTO SPORTING 1.8",
+      "descModeloStd": "PUNTO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000520"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014904",
+      "descModelo": "PALIO 1.3 FIRE 5P",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000501"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326806",
+      "descModelo": "227F CC",
+      "descModeloStd": "227F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332713",
+      "descModelo": "PULSE DRIVE 1.3 CVT",
+      "descModeloStd": "PULSE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007914"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A8",
+      "descModelo": "FIORINO 1.7 PANEL",
+      "descModeloStd": "FIORINO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014905",
+      "descModelo": "PALIO 1.8 3P",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000502"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0202397",
+      "descModelo": "CAMPAGNOLA",
+      "descModeloStd": "CAMPAGNOLA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324110",
+      "descModelo": "UNO BN SUPER 60 SEDAN",
+      "descModeloStd": "UNO BN SUPER 60",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "0",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CH",
+      "descModelo": "BRAVO SX 1.6",
+      "descModeloStd": "BRAVO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334797",
+      "descModelo": "GIARDINERA",
+      "descModeloStd": "Giardinera",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BF",
+      "descModelo": "SPIDER",
+      "descModeloStd": "SPIDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "20",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330177",
+      "descModelo": "DUCATO MINI",
+      "descModeloStd": "DUCATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328676",
+      "descModelo": "619 N1 CCI",
+      "descModeloStd": "619 N1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272497",
+      "descModelo": "FIAT STRADA TREKKING",
+      "descModeloStd": "STRADA ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004001"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0170506",
+      "descModelo": "BRAVO 1.6 SX",
+      "descModeloStd": "BRAVO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000476"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324000",
+      "descModelo": "PRIDE",
+      "descModeloStd": "PRIDE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177363",
+      "descModelo": "PANDA SD",
+      "descModeloStd": "PANDA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329404",
+      "descModelo": " MOBI",
+      "descModeloStd": "MOBI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006446"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014899",
+      "descModelo": "STRADA 1.3 FIRE",
+      "descModeloStd": "STRADA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000509"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CB",
+      "descModelo": "ELBA",
+      "descModeloStd": "ELBA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0016707",
+      "descModelo": "UNO BN SUPER 60",
+      "descModeloStd": "UNO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270564",
+      "descModelo": "FIAT UNO CARGO",
+      "descModeloStd": "FIAT UNO CARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003160"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000OL",
+      "descModelo": "BRAVA 1.6 SX",
+      "descModeloStd": "BRAVA ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000475"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328904",
+      "descModelo": "MOBI",
+      "descModeloStd": "MOBI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006446"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0239664",
+      "descModelo": "ALFA 156",
+      "descModeloStd": "ALFA 156",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273426",
+      "descModelo": "SEDAN 4 PUERTAS",
+      "descModeloStd": "SEDAN 4 PUERTAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234033",
+      "descModelo": "500 1.4",
+      "descModeloStd": "500 14",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001874"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234021",
+      "descModelo": "UNO 1.7 DIESEL",
+      "descModeloStd": "UNO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000496"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0202432",
+      "descModelo": "S/M",
+      "descModeloStd": "S/M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270100",
+      "descModelo": "500 1.2 DUALOGIC",
+      "descModeloStd": "500 1.2 DUALOGIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002972"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327897",
+      "descModelo": "850 CMTR",
+      "descModeloStd": "850",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324388",
+      "descModelo": "TIPO 1.4 SUPER SEDAN",
+      "descModeloStd": "TIPO 1.4 SUPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DC",
+      "descModelo": "PALIO WEEKEND 1.7 TD",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000490"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272705",
+      "descModelo": "250",
+      "descModeloStd": "250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0025824",
+      "descModelo": "600/D BERLINA",
+      "descModeloStd": "600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234029",
+      "descModelo": "IDEA ADVENTURE 1.8",
+      "descModeloStd": "IDEA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000518"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326799",
+      "descModelo": "DUCATO CP",
+      "descModeloStd": "DUCATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234036",
+      "descModelo": "500",
+      "descModeloStd": "500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002139"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CX",
+      "descModelo": "MAREA 1.8 16V",
+      "descModeloStd": "MAREA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000485"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332718",
+      "descModelo": "PULSE IMPETUS 1.0 T3 CVT",
+      "descModeloStd": "PULSE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007916"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268444",
+      "descModelo": "UNO VIVANCE",
+      "descModeloStd": "UNO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001900"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014900",
+      "descModelo": "STRADA 1.7 TD",
+      "descModeloStd": "STRADA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000510"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335133",
+      "descModelo": "2400",
+      "descModeloStd": "2400",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221326",
+      "descModelo": "PALIO WEEKEND ADVENTURE",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002087"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271778",
+      "descModelo": "DOBLO 1.4 MT",
+      "descModeloStd": "DOBLO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003770"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327418",
+      "descModelo": "DUCATO MAXI",
+      "descModeloStd": "DUCATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333835",
+      "descModelo": "FASTBACK",
+      "descModeloStd": "FASTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DD",
+      "descModelo": "SIENA 1.6 16V",
+      "descModeloStd": "SIENA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000491"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176771",
+      "descModelo": "SIENA 1.4",
+      "descModeloStd": "SIENA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000519"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231876",
+      "descModelo": "500 SPORT 1.3",
+      "descModeloStd": "500 SPORT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002215"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321234",
+      "descModelo": "650E",
+      "descModeloStd": "650E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235373",
+      "descModelo": "PALIO WEEKEND ADVENTURE",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002087"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BE",
+      "descModelo": "UNO MILLE",
+      "descModeloStd": "UNO MILLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327903",
+      "descModelo": "1500 CMTR",
+      "descModeloStd": "1500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234023",
+      "descModelo": "UNO 1.7 DIESEL (2004)",
+      "descModeloStd": "UNO ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000499"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271934",
+      "descModelo": "643-EP",
+      "descModeloStd": "643-EP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006259"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325529",
+      "descModelo": "619A",
+      "descModeloStd": "619A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323546",
+      "descModelo": "UNO 1.3 FIRE PANEL",
+      "descModeloStd": "UNO 1.3 FIRE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268239",
+      "descModelo": "BED PLATAFORMA",
+      "descModeloStd": "BED PLATAFORMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234019",
+      "descModelo": "UNO 60S 1.1",
+      "descModeloStd": "UNO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000494"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328546",
+      "descModelo": "PANDA 4X4 RURAL",
+      "descModeloStd": "Panda 4X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194946",
+      "descModelo": "LINEA 1.8",
+      "descModeloStd": "LINEA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001871"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AO",
+      "descModelo": "PANORAMA",
+      "descModeloStd": "PANORAMA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010799"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234032",
+      "descModelo": "PALIO WEEKEND 1.4",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001873"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234020",
+      "descModelo": "UNO 70S 1.4",
+      "descModeloStd": "UNO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000495"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AV",
+      "descModelo": "ELBA WEEKEND 1500",
+      "descModeloStd": "ELBA WEEKEND",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000813"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BO",
+      "descModelo": "1500",
+      "descModeloStd": "1500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0012679",
+      "descModelo": "PALIO",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002503"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332715",
+      "descModelo": "PULSE AUDACE 1.0 T3 CVT",
+      "descModeloStd": "PULSE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007915"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267527",
+      "descModelo": "NEW FIORINO",
+      "descModeloStd": "FIORINO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001425"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271433",
+      "descModelo": "PALIO  WEEKEND ADVENTURE 1.6 MT",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003598"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271037",
+      "descModelo": "UNO 1.4 MT WAY STILE",
+      "descModeloStd": "UNO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003408"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332710",
+      "descModelo": "PULSE",
+      "descModeloStd": "PULSE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CONVERTIBLE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 129,
+    "keyTipoVeh": "convertible",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331164",
+      "descModelo": "SIPDER",
+      "descModeloStd": "SIPDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007068"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333363",
+      "descModelo": "500C",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008291"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187900",
+      "descModelo": "DUCATO",
+      "descModeloStd": "DUCATO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001528"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AJ",
+      "descModelo": "FIORINO",
+      "descModeloStd": "FIORINO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003357"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333839",
+      "descModelo": "FASTBACK",
+      "descModeloStd": "FASTBACK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008564"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267040",
+      "descModelo": "GRAND SIENA",
+      "descModeloStd": "GRAND DIENA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001168"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0184431",
+      "descModelo": "STRADA ADVENTURE",
+      "descModeloStd": "STRADA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000514"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0202425",
+      "descModelo": "PALIO WEEKEND ATTRACTIVE",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0022598",
+      "descModelo": "DOBLO ELX",
+      "descModeloStd": "DOBLO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009937"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014902",
+      "descModelo": "SIENA 1.8",
+      "descModeloStd": "SIENA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000507"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328470",
+      "descModelo": "PANDA 4X4 HATCHBACK",
+      "descModeloStd": "Panda 4X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009610"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232991",
+      "descModelo": "500 1.2",
+      "descModeloStd": "500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009263"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234024",
+      "descModelo": "PALIO WEEKEND 1.7 DIESEL",
+      "descModeloStd": "PALIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000505"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332055",
+      "descModelo": "NEW TERRITORY",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007544"
+    }
+  }
+]

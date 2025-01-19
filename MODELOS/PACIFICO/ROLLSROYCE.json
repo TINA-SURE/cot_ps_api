@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AA",
+      "descModelo": "SILVER SHADOW",
+      "descModeloStd": "SILVER SHADOW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003691"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269384",
+      "descModelo": "GHOST",
+      "descModeloStd": "GHOST",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002552"
+    }
+  }
+]

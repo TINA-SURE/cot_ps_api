@@ -1,0 +1,380 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187170",
+      "descModelo": "F3 5800",
+      "descModeloStd": "F3 5800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000176"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187085",
+      "descModelo": "F1 DUMPER",
+      "descModeloStd": "F1 DUMPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009892"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187361",
+      "descModelo": "F3-3800 DUMPER",
+      "descModeloStd": "F3 3800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000877"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326281",
+      "descModelo": "T97 SF2810 CM",
+      "descModeloStd": "T97 SF2810",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009892"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330991",
+      "descModelo": "SF2810D VOLQUETE",
+      "descModeloStd": "SF2810D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009892"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0224031",
+      "descModelo": "F34100",
+      "descModeloStd": "F34100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009892"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270834",
+      "descModelo": "F1SF 2810P",
+      "descModeloStd": "F1SF 2810P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009892"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272243",
+      "descModelo": "SSF1040HDJ54-3",
+      "descModeloStd": "SSF1040HDJ54-3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009892"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321076",
+      "descModelo": "SF2810 PICK UP",
+      "descModeloStd": "SF2810",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009892"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0170752",
+      "descModelo": "SF2810",
+      "descModeloStd": "SF2810",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001903"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221145",
+      "descModelo": "F3 4100 BARANDA",
+      "descModeloStd": "F34100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009892"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268937",
+      "descModelo": "SF5815PF3",
+      "descModeloStd": "SF5815PF3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002188"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328042",
+      "descModelo": "SF5815P-2",
+      "descModeloStd": "SF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009892"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190543",
+      "descModelo": "F2 DUMPER",
+      "descModeloStd": "F2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009892"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325052",
+      "descModelo": "SF5815PF3 CC",
+      "descModeloStd": "SF5815PF3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009892"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331976",
+      "descModelo": "SF4015PD",
+      "descModeloStd": "SF4015PD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009892"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223879",
+      "descModelo": "F3-5300",
+      "descModeloStd": "F3-5300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002122"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0226296",
+      "descModelo": "SF5815PF3",
+      "descModeloStd": "SF5815PF3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009892"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327506",
+      "descModelo": "FL-SSF",
+      "descModeloStd": "F2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009892"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0313207",
+      "descModelo": "OU50P",
+      "descModeloStd": "OU50P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009892"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330992",
+      "descModelo": "SF5015PDF3 VOLQUETE",
+      "descModeloStd": "SF5015PDF3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009892"
+    }
+  }
+]

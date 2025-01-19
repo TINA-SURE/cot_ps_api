@@ -1,0 +1,128 @@
+[
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "35",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268078",
+      "descModelo": "VOLARE W9-FLY",
+      "descModeloStd": "VOLARE W9 FLY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001736"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271218",
+      "descModelo": "VOLARE WL",
+      "descModeloStd": "VOLARE WL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009851"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0173392",
+      "descModelo": "VOLARE W9 EJECUTIVO",
+      "descModeloStd": "VOLARE W9 FLY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000158"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "33",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328636",
+      "descModelo": "VOLARE W9 O",
+      "descModeloStd": "VOLARE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009851"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "16",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334018",
+      "descModelo": "VOLARE A6",
+      "descModeloStd": "VOLARE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009851"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "31",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328915",
+      "descModelo": "VOLARE W9-FLY MINIBUS",
+      "descModeloStd": "VOLARE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009851"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "29",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328744",
+      "descModelo": "VOLARE W8 MINIBUS",
+      "descModeloStd": "VOLARE W8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009851"
+    }
+  }
+]

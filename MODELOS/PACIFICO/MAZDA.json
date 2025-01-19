@@ -1,0 +1,4952 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233286",
+      "descModelo": "MX5",
+      "descModeloStd": "MX-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010037"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0167981",
+      "descModelo": "CX-9",
+      "descModeloStd": "CX 9",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001794"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0029349",
+      "descModelo": "UF111",
+      "descModeloStd": "UF 211",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0167935",
+      "descModelo": "LEVANTE",
+      "descModeloStd": "LEVANTE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328746",
+      "descModelo": "PREMACY SEDAN",
+      "descModeloStd": "PREMACY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "9",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328835",
+      "descModelo": "N-SSF8V RURAL",
+      "descModeloStd": "N-SSF8V",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331778",
+      "descModelo": "MAZDA CX-5",
+      "descModeloStd": "MAZDA CX-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233289",
+      "descModelo": "2 SEDAN1.5",
+      "descModeloStd": "2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002053"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320932",
+      "descModelo": "UF 31",
+      "descModeloStd": "UF 31",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272605",
+      "descModelo": "\tCAPELLA CARGO DX",
+      "descModeloStd": "\tCAPELLA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272246",
+      "descModelo": "CX-5 1.3",
+      "descModeloStd": "CX-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268691",
+      "descModelo": "BT50 MID",
+      "descModeloStd": "BT-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002022"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0034956",
+      "descModelo": "DEMIO GL",
+      "descModeloStd": "DEMIO GL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189724",
+      "descModelo": "MAZDA2 SED",
+      "descModeloStd": "2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001916"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0246699",
+      "descModelo": "AUTOZAN AZ-3",
+      "descModeloStd": "AUTOZAN AZ-3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271718",
+      "descModelo": "MAZDA 3 SPORT MT 2.5 G",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003749"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330785",
+      "descModelo": "CX-30 2.5 AWD",
+      "descModeloStd": "CX-30 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006866"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268648",
+      "descModelo": "3 SPORT AT 2.0 GS CORE",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005575"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CN",
+      "descModelo": "B2000 CS",
+      "descModeloStd": "B2000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000849"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332519",
+      "descModelo": "CX-3 HIGH 2.0 AT 2WD IPM IV",
+      "descModeloStd": "CX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007812"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A5",
+      "descModelo": "6 2.0",
+      "descModeloStd": "6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000862"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233281",
+      "descModelo": "6 (149 HP)",
+      "descModeloStd": "6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000870"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267813",
+      "descModelo": "BT50 MT 3.2 4X4 D2 HIGH PE",
+      "descModeloStd": "BT-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001589"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "0",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A;",
+      "descModelo": "FAMILIA LS",
+      "descModeloStd": "FAMILIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324282",
+      "descModelo": "CX-5 2.0",
+      "descModeloStd": "MX-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005007"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0021223",
+      "descModelo": "MAZDA \t929",
+      "descModeloStd": "MAZDA\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0185246",
+      "descModelo": "MAZDA 3 1.6",
+      "descModeloStd": "MAZDA 3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220288",
+      "descModelo": "CX5 AT 2.0 4X2",
+      "descModeloStd": "CX5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002422"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325819",
+      "descModelo": "MILLENIA",
+      "descModeloStd": "MILLENIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AT",
+      "descModelo": "PICK UP",
+      "descModeloStd": "PICK UP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002599"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205640",
+      "descModelo": "CX7",
+      "descModeloStd": "CX-7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003706"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AU",
+      "descModelo": "PROTEGE",
+      "descModeloStd": "PROTEGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "3",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AV",
+      "descModelo": "RX-7",
+      "descModeloStd": "RX-7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0055516",
+      "descModelo": "MAZDA 6",
+      "descModeloStd": "6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002858"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331964",
+      "descModelo": "NEW BT-50",
+      "descModeloStd": "NEW BT-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AY",
+      "descModelo": "T-3500",
+      "descModeloStd": "T-3500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334516",
+      "descModelo": "DUSTER",
+      "descModeloStd": "DUSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265403",
+      "descModelo": "DEMIO HB",
+      "descModeloStd": "DEMIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177968",
+      "descModelo": "BT- 50",
+      "descModeloStd": "BT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CM",
+      "descModelo": "B1600 CS",
+      "descModeloStd": "B1600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000845"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BA",
+      "descModelo": "323",
+      "descModeloStd": "9200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0009849",
+      "descModelo": "DEMIO",
+      "descModeloStd": "DEMIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327158",
+      "descModelo": "91",
+      "descModeloStd": "91",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005820"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328927",
+      "descModelo": "BT- 50 MT 2.2 4X4 D2 HIGH IPM PER\t\t\t\t\t",
+      "descModeloStd": "B-2600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006452"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "7",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323133",
+      "descModelo": "MAZDA 5 M",
+      "descModeloStd": "MAZDA 5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0007252",
+      "descModelo": "CAPELLA",
+      "descModeloStd": "CAPELLA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002620"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334958",
+      "descModelo": "MPV 4WD",
+      "descModeloStd": "MPV 4WD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266664",
+      "descModelo": "CX9 AT 3.7 AWD",
+      "descModeloStd": "CX 9",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000955"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232371",
+      "descModelo": "BT-50 4X4 CD TDI",
+      "descModeloStd": "BT-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000875"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325966",
+      "descModelo": "ST-50 CP",
+      "descModeloStd": "ST-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327218",
+      "descModelo": "BT- 50 4X4 CD TDI 2.2 SUV",
+      "descModeloStd": "BT- 50 4X4 CD TDI 2.2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231911",
+      "descModelo": "BT- 50 4X4 CD TDI 2.2",
+      "descModeloStd": "BT-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002238"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CJ",
+      "descModelo": "626 2.0 16V",
+      "descModeloStd": "626",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000841"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324711",
+      "descModelo": "MAZDA 3 SPORT AT 2.\t\t\t\t\t",
+      "descModeloStd": "MAZDA 3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005123"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0040037",
+      "descModelo": "CAPELLA CARGO DX",
+      "descModeloStd": "CAPELLA ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010921"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273815",
+      "descModelo": "B-T50",
+      "descModeloStd": "B-T50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269606",
+      "descModelo": "3 SPORT AT 2.5 GS HIGH PE",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002734"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270407",
+      "descModelo": "MAZDA2 1.5",
+      "descModeloStd": "2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003119"
+    }
+  },
+  {
+    "tipoRie": "L4",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0169127",
+      "descModelo": "FAMILIA",
+      "descModeloStd": "FAMILIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002978"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000ED",
+      "descModelo": "929 HT",
+      "descModeloStd": "929 HT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324411",
+      "descModelo": "BONGO",
+      "descModeloStd": "BONGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005046"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267435",
+      "descModelo": "CX-5 AT 2.0 2WD GS  IPM PE",
+      "descModeloStd": "CX-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001378"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333909",
+      "descModelo": "CX-5 HIGH 2.0 AT AWD IPM VI",
+      "descModeloStd": "CX-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008603"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000B0",
+      "descModelo": "B1800 4X2 CS",
+      "descModeloStd": "B1800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000847"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271079",
+      "descModelo": "B200 4WDDX",
+      "descModeloStd": "B2000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320441",
+      "descModelo": "CX-9 AT 2.5T AWD GS HIGH PE\t\t\t\t\t",
+      "descModeloStd": "CX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000873"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233270",
+      "descModelo": "323 1.3 LX",
+      "descModeloStd": "323",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000839"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332847",
+      "descModelo": "PROCEED MARVIE",
+      "descModeloStd": "PROCEED MARVIE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268002",
+      "descModelo": "CX5 AT 2.5 AWD GS HIGH IPM PE",
+      "descModeloStd": "CX5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001690"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "10",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332505",
+      "descModelo": "EV80",
+      "descModeloStd": "EV80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233279",
+      "descModelo": "B2900 4X2 CD DIES",
+      "descModeloStd": "B2900",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000864"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268082",
+      "descModelo": "MAZDA 2 COUPE",
+      "descModeloStd": "MAZDA2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000955"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324356",
+      "descModelo": "929 W",
+      "descModeloStd": "929 W",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330783",
+      "descModelo": "MAZDA 3 SPORT 2.0 MT",
+      "descModeloStd": "MAZDA ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006864"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205841",
+      "descModelo": "RX7",
+      "descModeloStd": "RX-7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004682"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330160",
+      "descModelo": "BA 200 SINGLE",
+      "descModeloStd": "BA 200 SINGLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187584",
+      "descModelo": "AXELA",
+      "descModeloStd": "AXELA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194345",
+      "descModelo": "MAZDA 2.",
+      "descModeloStd": "MAZDA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CT",
+      "descModelo": "B2500 4X2 CS DIESEL",
+      "descModeloStd": "B2500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000853"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0074396",
+      "descModelo": "PREMACY BASIC",
+      "descModeloStd": "PREMACY BASIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000840"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233269",
+      "descModelo": "323 1.6 GLX",
+      "descModeloStd": "323",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000838"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CV",
+      "descModelo": "B2500 4X4 CD DX  DIESEL",
+      "descModeloStd": "B2500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000855"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CX",
+      "descModelo": "B2500 4X4 CS DIESEL",
+      "descModeloStd": "B2500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000856"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0043317",
+      "descModelo": "CAPELLA CARGO DX",
+      "descModeloStd": "CAPELLA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "0",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A9",
+      "descModelo": "BD221",
+      "descModeloStd": "BD221",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0171390",
+      "descModelo": "BT50 4X4 CD",
+      "descModeloStd": "BT-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002977"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331791",
+      "descModelo": "323 2003",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007392"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327393",
+      "descModelo": "A5 SPORTBACK 3.2 FSI QUATTRO\t\t\t\t\t",
+      "descModeloStd": "A5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005924"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329395",
+      "descModelo": "MAZDA CMT",
+      "descModeloStd": "MAZDA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0239541",
+      "descModelo": "PROCEED CAB PLUS",
+      "descModeloStd": "PROCEED CAB PLUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327424",
+      "descModelo": "MAZDA 3 SEDAN AT 2019",
+      "descModeloStd": "MAZDA 3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005941"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0053676",
+      "descModelo": "323",
+      "descModeloStd": "MAZDA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233285",
+      "descModelo": "BT-50 4X2",
+      "descModeloStd": "BT-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000874"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271769",
+      "descModelo": "BONGO FRIENDEE 1.2",
+      "descModeloStd": "BONGO FRIENDEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AM",
+      "descModelo": "MIATA MX-5",
+      "descModeloStd": "MIATA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0319998",
+      "descModelo": "323 MF",
+      "descModeloStd": "323",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333254",
+      "descModelo": "CX-5 SIGNATURE",
+      "descModeloStd": "CX-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008214"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233276",
+      "descModelo": "LANTIS 1.6 GLX",
+      "descModeloStd": "LANTIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000859"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326646",
+      "descModelo": " T-3600",
+      "descModeloStd": " T-3600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233268",
+      "descModelo": "121 1.3 LX",
+      "descModeloStd": "121",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000837"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0171827",
+      "descModelo": "323 M",
+      "descModeloStd": "323",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0015017",
+      "descModelo": "FAMILIA S WAGON",
+      "descModeloStd": "FAMILIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009599"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324647",
+      "descModelo": "CX 5 AS",
+      "descModeloStd": "CX 5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324573",
+      "descModelo": "CRONOS C",
+      "descModeloStd": "CRONOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333981",
+      "descModelo": "CX-30 PN",
+      "descModeloStd": "CX-30",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328653",
+      "descModelo": "2",
+      "descModeloStd": "2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002481"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CY",
+      "descModelo": "B2600 4X4 CD",
+      "descModeloStd": "B2600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000857"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323373",
+      "descModelo": "T-300 CAMION",
+      "descModeloStd": "T-300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205451",
+      "descModelo": "323 BK2W-LAG-2001",
+      "descModeloStd": "323 BK2W-LAG-2001",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333982",
+      "descModelo": "CX3 PC",
+      "descModeloStd": "CX3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329507",
+      "descModelo": "LXG SPECIAL",
+      "descModeloStd": "LXG",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334155",
+      "descModelo": "CX90",
+      "descModeloStd": "CX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00013012529.81"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267105",
+      "descModelo": "6 SEDAN AT 2.5 GS HIGH IPM PE",
+      "descModeloStd": "6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001203"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331966",
+      "descModelo": "NEW BT-50",
+      "descModeloStd": "NEW BT-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007489"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231179",
+      "descModelo": "T3000",
+      "descModeloStd": "T-3000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CR",
+      "descModelo": "B2500 4X2 CD DIESEL",
+      "descModeloStd": "B2500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000852"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267729",
+      "descModelo": "3 SPORT MT 2.0 GS CORE",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001543"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195141",
+      "descModelo": "AXELA SPORT",
+      "descModeloStd": "AXELA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269323",
+      "descModelo": "B-2900",
+      "descModeloStd": "B-2600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331169",
+      "descModelo": "CX5 AT CORE",
+      "descModeloStd": "CX5 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007071"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333469",
+      "descModelo": "CX5 SIGNATURE 2.5AWD",
+      "descModeloStd": "CX5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AD",
+      "descModelo": "B-2000",
+      "descModeloStd": "B-2000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0245475",
+      "descModelo": "COSMO",
+      "descModeloStd": "COSMO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205501",
+      "descModelo": "626 GLX",
+      "descModeloStd": "626",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269281",
+      "descModelo": "3 SEDAN AT 1.6 GS CORE",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002483"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269259",
+      "descModelo": "MAZDA 3 SEDAN AT 1.8 GS CORE J",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002463"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256617",
+      "descModelo": "FRR90SL-MAS",
+      "descModeloStd": "FRR90SL-MAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003350"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320766",
+      "descModelo": "MAZDA HB.",
+      "descModeloStd": "MAZDA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205900",
+      "descModelo": "QBG7P",
+      "descModeloStd": "QBG7P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0257423",
+      "descModelo": "4X4 TRUCK",
+      "descModeloStd": "4X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0017479",
+      "descModelo": "AZ-3",
+      "descModeloStd": "AZ-3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269280",
+      "descModelo": "2",
+      "descModeloStd": "2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002481"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322980",
+      "descModelo": "BONGO PICK UP",
+      "descModeloStd": "BONGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271992",
+      "descModelo": "MAZDA 3 SPORT AT",
+      "descModeloStd": "MAZDA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320978",
+      "descModelo": "MAZDA 6 RURAL",
+      "descModeloStd": "MAZDA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333325",
+      "descModelo": "MAZDA 3 SEDAN AT 2.0 NEW CORE",
+      "descModeloStd": "MAZDA 3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008268"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323921",
+      "descModelo": "SE-5 PICK UP",
+      "descModeloStd": "SE-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233278",
+      "descModelo": "MX-6 2.0I",
+      "descModeloStd": "MX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000861"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CQ",
+      "descModelo": "B2200 4X2 CS",
+      "descModeloStd": "B2200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000851"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0172460",
+      "descModelo": "RX8",
+      "descModeloStd": "RX-8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010122"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331627",
+      "descModelo": "MAZDA CX-9 CAMIONETA",
+      "descModeloStd": "MAZDA CX-9",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272742",
+      "descModelo": "MAZDA CX3",
+      "descModeloStd": "CX-3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004110"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0064916",
+      "descModelo": "MAZDA3",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009422"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325369",
+      "descModelo": "UF 211",
+      "descModeloStd": "UF 211",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323281",
+      "descModelo": "MPV RURAL",
+      "descModeloStd": "MPV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205869",
+      "descModelo": "EBF5P",
+      "descModeloStd": "EBF5P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270726",
+      "descModelo": "CX5 AT 2.0 2WD GS CORE NEW PE",
+      "descModeloStd": "CX-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003230"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0044536",
+      "descModelo": "BK2TLAT 2001",
+      "descModeloStd": "BK2TLAT 2001",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0004442",
+      "descModelo": "SALOON",
+      "descModeloStd": "SALOON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229682",
+      "descModelo": "CX-5",
+      "descModeloStd": "CX-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001226"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231913",
+      "descModelo": "CX-5 4X4 2.0",
+      "descModeloStd": "CX-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002167"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "0",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269368",
+      "descModelo": "BT-50 DC 4X4",
+      "descModeloStd": "BT-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002541"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196532",
+      "descModelo": "MAZDA 2",
+      "descModeloStd": "2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001592"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273473",
+      "descModelo": "B1600 CS 1.2",
+      "descModeloStd": "B1600 CS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327488",
+      "descModelo": "3 2.5 AT\t\t\t\t\t",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005975"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266081",
+      "descModelo": "MAZDA 3",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002963"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322872",
+      "descModelo": "MPV RURAL",
+      "descModeloStd": "MPV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323866",
+      "descModelo": "B2900 RURAL",
+      "descModeloStd": "B2900",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A6",
+      "descModelo": "TRIBUTE 3.0",
+      "descModeloStd": "TRIBUTE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000863"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233288",
+      "descModelo": "MAZDA2 HB",
+      "descModeloStd": "2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001916"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320427",
+      "descModelo": "WD37EJI",
+      "descModeloStd": "WD37EJI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0036456",
+      "descModelo": "MAZDA3 HB",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009422"
+    }
+  },
+  {
+    "tipoRie": "L4",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233282",
+      "descModelo": "DEMIO 1.3  CETICOS",
+      "descModeloStd": "DEMIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000871"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320039",
+      "descModelo": "UF26 DX",
+      "descModeloStd": "UF26 DX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272273",
+      "descModelo": "CX-3 AT 2.0 2WD GS",
+      "descModeloStd": "CX-3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003935"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232360",
+      "descModelo": "CX5 SIGNATURE 2.5AWD",
+      "descModeloStd": "CX5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001226"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000EO",
+      "descModelo": "BS67 GLX",
+      "descModeloStd": "BS67 GLX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271928",
+      "descModelo": "MAZDA 2 SPORT AT 1",
+      "descModeloStd": "2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003834"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268692",
+      "descModelo": "BT50 MID IPM",
+      "descModeloStd": "BT-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002023"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268946",
+      "descModelo": "CX-3",
+      "descModeloStd": "CX-3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326401",
+      "descModelo": "626//SD",
+      "descModeloStd": "626",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177167",
+      "descModelo": "CX 9",
+      "descModeloStd": "CX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192464",
+      "descModelo": "ATENZA",
+      "descModeloStd": "ATENZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AO",
+      "descModelo": "MPV",
+      "descModeloStd": "MPV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000828"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014930",
+      "descModelo": "B2500 CABINA DOBLE",
+      "descModeloStd": "B2500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000865"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321081",
+      "descModelo": "CX-3 SD",
+      "descModeloStd": "CX-3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205646",
+      "descModelo": "DX 323",
+      "descModeloStd": "DX 323",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0319928",
+      "descModelo": "2000",
+      "descModeloStd": "2000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333857",
+      "descModelo": "CX-60",
+      "descModeloStd": "CX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008575"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273427",
+      "descModelo": "TITAN 1.2",
+      "descModeloStd": "TITAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231912",
+      "descModelo": "BT- 50 4X4 CD TDI 3.2",
+      "descModeloStd": "BT-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002239"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0243709",
+      "descModelo": "N-SEF8T",
+      "descModeloStd": "N-SEF8T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270350",
+      "descModelo": "VERISA 1.2",
+      "descModeloStd": "VERISA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326082",
+      "descModelo": "FAMILIA DX SW",
+      "descModeloStd": "FAMILIA DX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0185127",
+      "descModelo": "PROCEED LEVANTE",
+      "descModeloStd": "PROCEED LEVANTE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271828",
+      "descModelo": "T-3000 1.2",
+      "descModeloStd": "T-3000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325297",
+      "descModelo": "MAZDA 2 SPORT AT 1.5 GS HIGH IPM PE\t\t\t\t\t",
+      "descModeloStd": "MAZDA 2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005300"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0175219",
+      "descModelo": "3 1.6",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000866"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329595",
+      "descModelo": "CX-30",
+      "descModeloStd": "CX-30",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006676"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335009",
+      "descModelo": "B2000",
+      "descModeloStd": "B-2000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009264"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0013797",
+      "descModelo": "BONGO DX",
+      "descModeloStd": "BONGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "4",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0000488",
+      "descModelo": "BONGO BRAWNY",
+      "descModeloStd": "BONGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0185311",
+      "descModelo": "RX-8",
+      "descModeloStd": "RX-8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326605",
+      "descModelo": "UF 27",
+      "descModeloStd": "UF 27",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270224",
+      "descModelo": "MAZDA 3 SPORT AT 2.0 GS HIGH",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003029"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178345",
+      "descModelo": " 3",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003608"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268609",
+      "descModelo": "CX3",
+      "descModeloStd": "CX-3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001978"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233275",
+      "descModelo": "B1800 4X2 CD",
+      "descModeloStd": "B1800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000846"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326589",
+      "descModelo": "ROADSTER SD",
+      "descModeloStd": "ROADSTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330784",
+      "descModelo": "CX3 AT 2.0 AWD",
+      "descModeloStd": "CX3 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006865"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176726",
+      "descModelo": "M1",
+      "descModeloStd": "M1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005504"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270866",
+      "descModelo": "323 1.5",
+      "descModeloStd": "323",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195168",
+      "descModelo": "B2000 CD",
+      "descModeloStd": "B2000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000848"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327523",
+      "descModelo": "3 SEDAN MT2",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005991"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325046",
+      "descModelo": "B-T50 RURAL",
+      "descModeloStd": "B-T50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231914",
+      "descModelo": "CX-5 4X2 2.0",
+      "descModeloStd": "CX-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002166"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325074",
+      "descModelo": "CX3 MT 2.0 2WD GS\t\t\t\t\t",
+      "descModeloStd": "CX 3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005236"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271790",
+      "descModelo": "GADE",
+      "descModeloStd": "GADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L4",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0183276",
+      "descModelo": "FAMILIA ES",
+      "descModeloStd": "FAMILIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010922"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273682",
+      "descModelo": "MAZDA 3 SPORT AT 2.5 GS HIGH I",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004425"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320358",
+      "descModelo": "MAZDA 5 C",
+      "descModeloStd": "MAZDA 5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333123",
+      "descModelo": "NEW BT-50 HIGH PLUS 3.0T AT 4X4 IPM",
+      "descModeloStd": "BT-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008130"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334167",
+      "descModelo": "CX-5 SPORT",
+      "descModeloStd": "CX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008766"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233273",
+      "descModelo": "626 2.0 SW",
+      "descModeloStd": "626",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000844"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331421",
+      "descModelo": "CX-30 PRIME 2.0 MT 2WD NV",
+      "descModeloStd": "CX-30",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007203"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233284",
+      "descModelo": "CX-9 3.7 V6",
+      "descModeloStd": "CX-9",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000873"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263646",
+      "descModelo": "MAZDA 5",
+      "descModeloStd": "5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000868"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330782",
+      "descModelo": "MAZDA 3 SEDAN AT 2.5 NEW HIGH",
+      "descModeloStd": "MAZDA ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006863"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0106823",
+      "descModelo": "323 5HB 1.6L M5 GLX",
+      "descModeloStd": "323",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331481",
+      "descModelo": "BT-50 PICK",
+      "descModeloStd": "BT-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0246435",
+      "descModelo": "PROCEED LEVANTEV6 2",
+      "descModeloStd": "PROCEED LEVANTEV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268475",
+      "descModelo": "CX-5 4X4 2.5",
+      "descModeloStd": "CX-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010284"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324838",
+      "descModelo": "CX-3 AT 2.0 2WD GS\t\t\t\t\t",
+      "descModeloStd": "CX-3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005169"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233277",
+      "descModelo": "MIATA 1.8",
+      "descModeloStd": "MIATA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000860"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233290",
+      "descModelo": "2 SPORT 1.5",
+      "descModeloStd": "2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002054"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000B3",
+      "descModelo": "BONGO",
+      "descModeloStd": "BONGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000DB",
+      "descModelo": "B-2600",
+      "descModeloStd": "B2600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000858"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0243148",
+      "descModelo": "SIN MODELO",
+      "descModeloStd": ".",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0031957",
+      "descModelo": "3 2.0",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000869"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168004",
+      "descModelo": "DEMIO",
+      "descModeloStd": "DEMIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION GRUA",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 20,
+    "keyClaseVeh": "towTruck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192668",
+      "descModelo": "VERISA",
+      "descModeloStd": "VERISA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330837",
+      "descModelo": "MAZDA 3 SPORT AT 2.5",
+      "descModeloStd": "MAZDA ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006904"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328890",
+      "descModelo": "AZ-3 SEDAN",
+      "descModeloStd": "AZ-3\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329088",
+      "descModelo": "MAZDA 2X",
+      "descModeloStd": "MAZDA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269094",
+      "descModelo": "3 SPORT AT 2.0 GS",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002327"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272606",
+      "descModelo": "\tCAPELLA 1.2",
+      "descModeloStd": "\tCAPELLA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325164",
+      "descModelo": "CX 3 R",
+      "descModeloStd": "CX 3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0245161",
+      "descModelo": "B-1800 1.8L GE CREW CAB 4X2 BASE",
+      "descModeloStd": "B-1800 1.8L GE CREW CAB 4X2 BA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0006122",
+      "descModelo": "323 4DR 1.6L GLX",
+      "descModeloStd": "323",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001643"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0021584",
+      "descModelo": "AZ OFF ROAD",
+      "descModeloStd": "AZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271779",
+      "descModelo": "FAMILIA 1.2",
+      "descModeloStd": "FAMILIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0319238",
+      "descModelo": "U-WGT7T",
+      "descModeloStd": "MAZDA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205819",
+      "descModelo": "MX5",
+      "descModeloStd": "MX5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188354",
+      "descModelo": "MAZDA 3",
+      "descModeloStd": "MAZDA 3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333058",
+      "descModelo": "B-1600 PN",
+      "descModeloStd": "B-1600",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0251104",
+      "descModelo": "CX 7",
+      "descModeloStd": "CX 7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CO",
+      "descModelo": "B2200 4X2 CD",
+      "descModeloStd": "B2200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000850"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273652",
+      "descModelo": "GDMY6",
+      "descModeloStd": "GDMY6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325047",
+      "descModelo": "BT-50 RURAL",
+      "descModeloStd": "BT-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L4",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233283",
+      "descModelo": "FAMILIA 1.5 CETICOS",
+      "descModeloStd": "FAMILIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000872"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326425",
+      "descModelo": "NEW CX-5",
+      "descModeloStd": "NEW CX-5\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005635"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264928",
+      "descModelo": "FAMILIA SEDAN",
+      "descModeloStd": "FAMILIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191372",
+      "descModelo": "B22002.2L GE SINGLE 4X2DX",
+      "descModeloStd": "B22002.2L GE SINGLE 4X2DX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323409",
+      "descModelo": "S-5 CAMION",
+      "descModeloStd": "S-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233272",
+      "descModelo": "626 2.0 GLX",
+      "descModeloStd": "626",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000842"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327687",
+      "descModelo": "3 SEDAN AT 2.5 GS HIGH IPM PE",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006075"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333629",
+      "descModelo": "BT-50 HIGH 3.0T MT 4X4",
+      "descModeloStd": "BT-50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008436"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0003882",
+      "descModelo": "TITAN",
+      "descModeloStd": "TITAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004251"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233271",
+      "descModelo": "323 1.6 LX",
+      "descModeloStd": "323",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003522"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0183092",
+      "descModelo": "BT-50",
+      "descModeloStd": "BT50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002977"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188507",
+      "descModelo": "PREMACY",
+      "descModeloStd": "PREMACY BASIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270936",
+      "descModelo": "MAZDA 2 SPORT AT 1.5",
+      "descModeloStd": "2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003336"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326669",
+      "descModelo": "CX-9 4X4\t\t\t\t\t",
+      "descModeloStd": "CX-9 4X4\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005684"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268348",
+      "descModelo": "3 SEDAN AT 2.0 GS CORE P",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001846"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168350",
+      "descModelo": "TITAN (B)",
+      "descModeloStd": "TITAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009423"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193648",
+      "descModelo": "MAZDA6 2.5",
+      "descModeloStd": "6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001917"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233280",
+      "descModelo": "5 2.0",
+      "descModeloStd": "5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000868"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331379",
+      "descModelo": "CX-5 HIGH 2.0 AT 2WD IPM IV",
+      "descModeloStd": "CX5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007173"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0205811",
+      "descModelo": "MAZDA SPEED 6",
+      "descModeloStd": "MAZDA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0237695",
+      "descModelo": "B1800 1.8L GE CREW CAB4X2 BASE",
+      "descModeloStd": "B1800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235517",
+      "descModelo": "CX5 AT 2.0 AWD GS HIGH PF",
+      "descModeloStd": "CX-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004903"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266625",
+      "descModelo": "3 SEDAN MT 1.6 GS CORE",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000916"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321000",
+      "descModelo": "3 SPORT 1.6",
+      "descModeloStd": "3 SPORT 1.6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327196",
+      "descModelo": "CAPELLA CARGO DX CS",
+      "descModeloStd": "CAPELLA CARGO DX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009618"
+    }
+  },
+  {
+    "tipoRie": "L2",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0028687",
+      "descModelo": "3 HB",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000867"
+    }
+  }
+]

@@ -1,0 +1,1046 @@
+[
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334129",
+      "descModelo": "IBIZA",
+      "descModeloStd": "IBIZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008739"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0250699",
+      "descModelo": "IBIZA SC STYLE 1.6 MEC",
+      "descModeloStd": "IBIZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009633"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233553",
+      "descModelo": "LEON TOP SPORT 1.8",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001739"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0012526",
+      "descModelo": "ALTEA 2.0 FSI",
+      "descModeloStd": "ALTEA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001747"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229766",
+      "descModelo": "IBIZA 1.6",
+      "descModeloStd": "IBIZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001743"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014951",
+      "descModelo": "CORDOBA 1.6",
+      "descModeloStd": "CORDOBA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001750"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233552",
+      "descModelo": "LEON MASTER SIGNO 1.8",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001737"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210476",
+      "descModelo": "CORDOBA REFERENCE",
+      "descModeloStd": "CORDOBA REFERENCE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009633"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014952",
+      "descModelo": "ALTEA 1.6",
+      "descModeloStd": "ALTEA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001746"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195533",
+      "descModelo": "IBIZA SPORT 1.6",
+      "descModeloStd": "IBIZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002119"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333401",
+      "descModelo": "TARRACO STYLE PLUS 1.4TSI DSG CA6",
+      "descModeloStd": "TARRACO STYLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008321"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331908",
+      "descModelo": "NEW IBIZA SPORT 1.6 MEC",
+      "descModeloStd": "NEW IBIZA SPORT 1.6 MEC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009633"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233088",
+      "descModelo": "LEON 2.0 TFSI FR",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001754"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0169158",
+      "descModelo": "LEON FR 2.0 TFSI",
+      "descModeloStd": "LEON FR 2.0 TFSI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009633"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233093",
+      "descModelo": "LEON 2.0 TFSI CUPRA R",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002120"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187033",
+      "descModelo": "IBIZA SPORT 1.4",
+      "descModeloStd": "IBIZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002118"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262997",
+      "descModelo": "ALTEA 1.8",
+      "descModeloStd": "ALTEA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009490"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233089",
+      "descModelo": "LEON 2.0 TFSI CUPRA",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001755"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233091",
+      "descModelo": "IBIZA 1.6 3P",
+      "descModeloStd": "IBIZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002068"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219993",
+      "descModelo": "LEON STYLE 1.6 MEC 4X2",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009523"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000XX",
+      "descModelo": "IBIZA",
+      "descModeloStd": "IBIZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009633"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263878",
+      "descModelo": "IBIZA SIGNO 2.0",
+      "descModeloStd": "IBIZA ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001736"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AA",
+      "descModelo": "LEON MASTER SPORT 1.8",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001738"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219791",
+      "descModelo": "LEON STYLE 1.8 TSI DSG",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003432"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233087",
+      "descModelo": "LEON 2.0 TFSI",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001753"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271734",
+      "descModelo": "LEON STYIANCE 2.0 FSI TIP/2008",
+      "descModeloStd": "LEON STYIANCE 2.0 FSI TIP/2008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009633"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231927",
+      "descModelo": "LEON 1.6 (2012)",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002156"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194987",
+      "descModelo": "EXEO TFSI 2.0",
+      "descModeloStd": "EXEO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002001"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330457",
+      "descModelo": "ARONA",
+      "descModeloStd": "ARONA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006752"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332590",
+      "descModelo": "CUPRA FORMENTOR MID",
+      "descModeloStd": "cupra FORMENTOR MID",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007847"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188619",
+      "descModelo": "LEON 1.6",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001751"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014953",
+      "descModelo": "ALHAMBRA 1.9 TDI",
+      "descModeloStd": "ALHAMBRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001748"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233092",
+      "descModelo": "IBIZA FR 1.4 3P",
+      "descModeloStd": "IBIZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002070"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0012442",
+      "descModelo": "IBIZA REFERENCE 1.6",
+      "descModeloStd": "IBIZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002781"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231715",
+      "descModelo": "LEON 1.8 TSI",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001757"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330163",
+      "descModelo": "ATECA",
+      "descModeloStd": "ATECA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006702"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0172570",
+      "descModelo": "CORDOBA 2.0",
+      "descModeloStd": "CORDOBA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001742"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325068",
+      "descModelo": "850",
+      "descModeloStd": "850",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009633"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0030776",
+      "descModelo": "LEON 2.0 FSI",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001752"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334686",
+      "descModelo": "LEON 5D CUPRA PLUS 2.0 TS",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009114"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0052180",
+      "descModelo": "IBIZA REFERENCE",
+      "descModeloStd": "IBIZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002256"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324099",
+      "descModelo": "ALTEA HATCHBACK",
+      "descModeloStd": "Altea",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009633"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191094",
+      "descModelo": "LEON CUPRA R 1.8",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001740"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328416",
+      "descModelo": "IBIZA 5D STYLE PLUS 1.6 MPI",
+      "descModeloStd": "IBIZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006298"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AD",
+      "descModelo": "IBIZA SPORT 2.0",
+      "descModeloStd": "IBIZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001736"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233090",
+      "descModelo": "IBIZA 1.4",
+      "descModeloStd": "IBIZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001756"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332719",
+      "descModelo": "IBIZA STYLE 1.6 CA6",
+      "descModeloStd": "IBIZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007917"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0243887",
+      "descModelo": "PANDA",
+      "descModeloStd": "PANDA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009633"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273365",
+      "descModelo": "LEON STYLE PLUS",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004334"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233554",
+      "descModelo": "ALHAMBRA STELLA 1.8T",
+      "descModeloStd": "ALHAMBRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001741"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191095",
+      "descModelo": "LEON CUPRA R 1.8 T",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001749"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191093",
+      "descModelo": "LEON 2.0 TSI FR",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001758"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219262",
+      "descModelo": "IBIZA 1.6 5P",
+      "descModeloStd": "IBIZA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002069"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168895",
+      "descModelo": "LEON FR",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001745"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331570",
+      "descModelo": "LEON 5D STYLE PLUS 1.6 MP1 CA7",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007273"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324529",
+      "descModelo": "IBIZA 1.4 5P W",
+      "descModeloStd": "IBIZA 1.4 5P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009633"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0251942",
+      "descModelo": "LEON FR 2.0 TFSI MEC",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001473"
+    }
+  },
+  {
+    "tipoRie": "L1C",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0251967",
+      "descModelo": "LEON STYLE 1.8 TSI DSG/2011",
+      "descModeloStd": "LEON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003641"
+    }
+  }
+]

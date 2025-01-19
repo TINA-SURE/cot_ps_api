@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267330",
+      "descModelo": "CCF3040A1",
+      "descModeloStd": "CCF3040A1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001331"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322954",
+      "descModelo": "XC5820PD2 C",
+      "descModeloStd": "XC5820PD2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009701"
+    }
+  }
+]

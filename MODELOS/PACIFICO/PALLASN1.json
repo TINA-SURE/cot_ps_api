@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273368",
+      "descModelo": "NJP5020XXYRD28BC",
+      "descModeloStd": "NJP5020XXYRD28BC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004267"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273124",
+      "descModelo": "NPJ5030XXYWDA26BC",
+      "descModeloStd": "NPJ5030XXYWDA26BC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004267"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322898",
+      "descModelo": "ZT5820",
+      "descModeloStd": "ZT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004694"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325749",
+      "descModelo": "ZT5820 UP",
+      "descModeloStd": "ZT5820",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004694"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324230",
+      "descModelo": "ZT1044\t\t\t\t\t",
+      "descModeloStd": "ZT1044",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004990"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177599",
+      "descModelo": "ZT1044Z",
+      "descModeloStd": "ZT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004694"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256764",
+      "descModelo": "ZT1044",
+      "descModeloStd": "ZT1044",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004694"
+    }
+  }
+]

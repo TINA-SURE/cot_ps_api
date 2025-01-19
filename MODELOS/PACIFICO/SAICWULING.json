@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323934",
+      "descModelo": "LQG5029XXYBF RURAL",
+      "descModeloStd": "LQG5029XXYBF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001991"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268632",
+      "descModelo": "LQG5029XXYBF",
+      "descModeloStd": "LQG5029XXYBF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10001991"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320554",
+      "descModelo": "LQ05022XXYB",
+      "descModeloStd": "LQ05022XXYB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001991"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "9",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262530",
+      "descModelo": "LQG5026XXYLBAF",
+      "descModeloStd": "LQG5029XXYBF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006079"
+    }
+  }
+]

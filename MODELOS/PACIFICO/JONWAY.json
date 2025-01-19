@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0251302",
+      "descModelo": "PARACAS",
+      "descModeloStd": "PARACAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009684"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231781",
+      "descModelo": "A380",
+      "descModeloStd": "A380",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009684"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326710",
+      "descModelo": "A380 SD",
+      "descModeloStd": "A380",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009684"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0296500",
+      "descModelo": "FD6432 FALCON",
+      "descModeloStd": "FD6432 FALCON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009684"
+    }
+  }
+]

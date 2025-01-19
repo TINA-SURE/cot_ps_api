@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327966",
+      "descModelo": "NJP5020XXYRD28BC PICK",
+      "descModeloStd": "NJP5020XXYRD28BC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006165"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332952",
+      "descModelo": "GTS25L 4V",
+      "descModeloStd": "GTS25L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008031"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333569",
+      "descModelo": "GPX20CE",
+      "descModeloStd": "GPX20CE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009747"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MONTACARGA",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 29,
+    "keyClaseVeh": "forkLiftTruck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231377",
+      "descModelo": "C-500YS80D",
+      "descModeloStd": "C-500YS80D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000102"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0181464",
+      "descModelo": "SEGUN TARJETA DE PROPIEDAD",
+      "descModeloStd": "SEGÚN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000104"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333538",
+      "descModelo": "CT-50D",
+      "descModeloStd": "CT-50D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009747"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322883",
+      "descModelo": "720CMW",
+      "descModeloStd": "720CMW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009747"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MONTACARGA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 29,
+    "keyClaseVeh": "forkLiftTruck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0061776",
+      "descModelo": "CMP60D",
+      "descModeloStd": "CMP60D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000103"
+    }
+  }
+]

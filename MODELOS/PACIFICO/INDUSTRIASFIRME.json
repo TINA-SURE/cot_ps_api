@@ -1,0 +1,92 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265959",
+      "descModelo": "IF-SEM BAR-2 22",
+      "descModeloStd": "IF-SEM BAR-2 22",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010987"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 6,
+    "keyClaseVeh": "trailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265250",
+      "descModelo": "IF-SRECB-3-25",
+      "descModeloStd": "IF-SRECB-3-25",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010413"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266066",
+      "descModelo": "SR03-FF",
+      "descModeloStd": "SR03-FF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011017"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329187",
+      "descModelo": "IF SEMPLA 3\t\t\t\t\t",
+      "descModeloStd": "IF ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006540"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266065",
+      "descModelo": "SR03-RD",
+      "descModeloStd": "SR03-RD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "11016"
+    }
+  }
+]

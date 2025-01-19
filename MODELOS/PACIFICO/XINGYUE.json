@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266583",
+      "descModelo": "XY150ZK-3",
+      "descModeloStd": "XY150ZK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000883"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266582",
+      "descModelo": "XY150ZK",
+      "descModeloStd": "XY150ZK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000882"
+    }
+  }
+]

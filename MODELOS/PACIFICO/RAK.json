@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325607",
+      "descModelo": "ATLAS",
+      "descModeloStd": "ATLAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005385"
+    }
+  }
+]

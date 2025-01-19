@@ -1,0 +1,794 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273107",
+      "descModelo": "PD8000-D",
+      "descModeloStd": "PD8000-D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269633",
+      "descModelo": "420F BE CH",
+      "descModeloStd": "420",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269958",
+      "descModelo": "DP70E1",
+      "descModeloStd": "DP70E1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002897"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269957",
+      "descModelo": "DP40K",
+      "descModeloStd": "DP40K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002896"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235009",
+      "descModelo": "246C",
+      "descModeloStd": "246C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CARGADOR FRONTAL",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 35,
+    "keyClaseVeh": "frontLoader",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335117",
+      "descModelo": "938G DE 160 HP C",
+      "descModeloStd": "938G DE 160 HP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270364",
+      "descModelo": "962H",
+      "descModeloStd": "962H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332371",
+      "descModelo": "CS54B",
+      "descModeloStd": "CS54B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CARGADOR FRONTAL",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 35,
+    "keyClaseVeh": "frontLoader",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235264",
+      "descModelo": "966",
+      "descModeloStd": "966",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CARGADOR FRONTAL",
+    "numPue": "4",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 35,
+    "keyClaseVeh": "frontLoader",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335086",
+      "descModelo": "CARGADOR FRONTAL 950H",
+      "descModeloStd": "CARGADOR FRONTAL 950H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323441",
+      "descModelo": "4IE6 3054C",
+      "descModeloStd": "4IE6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270369",
+      "descModelo": "950H STD",
+      "descModeloStd": "950H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTO NIVELADORA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 36,
+    "keyClaseVeh": "grader",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0175569",
+      "descModelo": "140 H",
+      "descModeloStd": "140 H",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334405",
+      "descModelo": "P33000",
+      "descModeloStd": "P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008928"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324221",
+      "descModelo": "329 DL",
+      "descModeloStd": "329 DL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "1",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327429",
+      "descModelo": "938-G CP",
+      "descModeloStd": "938-G",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331204",
+      "descModelo": "236-B-3",
+      "descModeloStd": "236-B-3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320020",
+      "descModelo": "950GC",
+      "descModeloStd": "950GC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270366",
+      "descModelo": "420F2",
+      "descModeloStd": "420F2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332487",
+      "descModelo": "DP50N1",
+      "descModeloStd": "DP50N1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007794"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320975",
+      "descModelo": "938-G",
+      "descModeloStd": "938",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323313",
+      "descModelo": "420F BE",
+      "descModeloStd": "420F BE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333696",
+      "descModelo": "L90C",
+      "descModeloStd": "L90C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "RETROEXCAVADORA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 41,
+    "keyClaseVeh": "backhoe",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235262",
+      "descModelo": "416E",
+      "descModeloStd": "416E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332372",
+      "descModelo": "120 C",
+      "descModeloStd": "120",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320976",
+      "descModelo": "950-B",
+      "descModeloStd": "950",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334404",
+      "descModelo": "V225B",
+      "descModeloStd": "SEGUN TARJETA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008927"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "RETROEXCAVADORA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 41,
+    "keyClaseVeh": "backhoe",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330868",
+      "descModelo": "336D2L",
+      "descModeloStd": "336D2L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006909"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334031",
+      "descModelo": "938G DE 160 HP",
+      "descModeloStd": "938G DE 160 HP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "RETROEXCAVADORA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 41,
+    "keyClaseVeh": "backhoe",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331057",
+      "descModelo": "4IE6 3054C",
+      "descModeloStd": "4IE6 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007019"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "EXCAVADORA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 42,
+    "keyClaseVeh": "excavator",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334636",
+      "descModelo": "420F2 E",
+      "descModeloStd": "420F2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328444",
+      "descModelo": "D6M XL C",
+      "descModeloStd": "D6M XL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331265",
+      "descModelo": "CS78B",
+      "descModeloStd": "CS78B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CARGADOR FRONTAL",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 35,
+    "keyClaseVeh": "frontLoader",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332656",
+      "descModelo": "246D",
+      "descModeloStd": "246",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323056",
+      "descModelo": "420E C",
+      "descModeloStd": "420E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267627",
+      "descModelo": "MONTACARGA",
+      "descModeloStd": "MONTACARGA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334536",
+      "descModelo": "246D R",
+      "descModeloStd": "246",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0169213",
+      "descModelo": "246B",
+      "descModeloStd": "246",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328846",
+      "descModelo": "814 F2",
+      "descModeloStd": "814",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTO NIVELADORA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 36,
+    "keyClaseVeh": "grader",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334734",
+      "descModelo": "140GC",
+      "descModeloStd": "140GC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "EXCAVADORA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 42,
+    "keyClaseVeh": "excavator",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334736",
+      "descModelo": "420 E",
+      "descModeloStd": "420",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270365",
+      "descModelo": "\tD6T XL-ANGULABLE",
+      "descModeloStd": "\tD6T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010374"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333706",
+      "descModelo": "966-C",
+      "descModeloStd": "966-C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008129"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333119",
+      "descModelo": "325BL",
+      "descModeloStd": "325",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008129"
+    }
+  }
+]

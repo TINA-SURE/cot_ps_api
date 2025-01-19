@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "0",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AB",
+      "descModelo": "GT-500",
+      "descModeloStd": "GT-500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003223"
+    }
+  }
+]

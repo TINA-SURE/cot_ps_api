@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273669",
+      "descModelo": "CJ3042E9K",
+      "descModeloStd": "CJ3042E9K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004420"
+    }
+  }
+]

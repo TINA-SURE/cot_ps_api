@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265781",
+      "descModelo": "MG410",
+      "descModeloStd": "MG410",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009663"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0170094",
+      "descModelo": "MG40010GLC",
+      "descModeloStd": "MG40010GLC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009663"
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266072",
+      "descModelo": "AZ15W2 6",
+      "descModeloStd": "AZ15W2 6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001009"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326513",
+      "descModelo": "ORBIT II 125",
+      "descModeloStd": "ORBIT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010020"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264568",
+      "descModelo": "AD12W16",
+      "descModeloStd": "AD12W16",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010020"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256344",
+      "descModelo": "FIDDLE II 125",
+      "descModeloStd": "FIDDLE II 125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010020"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270225",
+      "descModelo": "ORBIT II",
+      "descModeloStd": "ORBIT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010020"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324883",
+      "descModelo": "SYMPHONY SR 150",
+      "descModeloStd": "SYMPHONY SR 150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010020"
+    }
+  }
+]

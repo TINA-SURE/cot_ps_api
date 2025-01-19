@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333183",
+      "descModelo": "TT 120 2000",
+      "descModeloStd": "TT 120 2000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008168"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267153",
+      "descModelo": "TT 120 2000",
+      "descModeloStd": "TT 120 2000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010361"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265093",
+      "descModelo": "TT20 2000",
+      "descModeloStd": "TT20 2000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010361"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0073777",
+      "descModelo": "BOX TRUCK",
+      "descModeloStd": "BOX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010361"
+    }
+  }
+]

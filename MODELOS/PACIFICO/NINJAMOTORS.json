@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329490",
+      "descModelo": "NJM 150",
+      "descModeloStd": "NJM TRI PASAJEROS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006643"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329489",
+      "descModelo": "NJM TRI PASAJEROS",
+      "descModeloStd": "NJM TRI PASAJEROS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006643"
+    }
+  }
+]

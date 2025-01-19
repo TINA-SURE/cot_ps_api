@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268590",
+      "descModelo": "KM250-CA",
+      "descModeloStd": "KM250-CA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001967"
+    }
+  }
+]

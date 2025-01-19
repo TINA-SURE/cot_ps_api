@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256034",
+      "descModelo": "MA4E",
+      "descModeloStd": "MA4E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001301"
+    }
+  }
+]

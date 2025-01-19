@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L1",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330347",
+      "descModelo": "GT",
+      "descModeloStd": "GT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009686"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AC",
+      "descModelo": "MINI MINOR 1000",
+      "descModeloStd": "MINI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009686"
+    }
+  }
+]

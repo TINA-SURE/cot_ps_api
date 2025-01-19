@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324997",
+      "descModelo": "FEN 4251WD380",
+      "descModeloStd": "FEN 4251WD380",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005219"
+    }
+  }
+]

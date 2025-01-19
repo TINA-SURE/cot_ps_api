@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272099",
+      "descModelo": "GU813E",
+      "descModeloStd": "GU813E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003893"
+    }
+  }
+]

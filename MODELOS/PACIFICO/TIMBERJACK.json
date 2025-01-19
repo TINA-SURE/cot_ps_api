@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229614",
+      "descModelo": "450C",
+      "descModeloStd": "450C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10001099"
+    }
+  }
+]

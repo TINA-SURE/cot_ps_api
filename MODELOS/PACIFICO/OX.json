@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320136",
+      "descModelo": "CNJ5040XXYZD33B3",
+      "descModeloStd": "CNJ5040XXYZD33B3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004534"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323296",
+      "descModelo": "SC 5040 XXY",
+      "descModeloStd": "SC 5040 XXY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004534"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322863",
+      "descModelo": "SC5040XXYD",
+      "descModeloStd": "SC5040XXYD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004534"
+    }
+  }
+]

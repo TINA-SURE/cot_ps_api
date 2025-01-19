@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CUATRIMOTO",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 32,
+    "keyClaseVeh": "quad",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333424",
+      "descModelo": "RTM 250D",
+      "descModeloStd": "RTM 250D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008332"
+    }
+  },
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CUATRIMOTO",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 32,
+    "keyClaseVeh": "quad",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332639",
+      "descModelo": "BRAVES 200",
+      "descModeloStd": "BRAVES 200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007865"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332707",
+      "descModelo": "FORMENTOR",
+      "descModeloStd": "FORMENTOR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007909"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332730",
+      "descModelo": "FORMENTOR MID",
+      "descModeloStd": "FORMENTOR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007921"
+    }
+  }
+]

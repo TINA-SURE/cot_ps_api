@@ -1,0 +1,3080 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231464",
+      "descModelo": "TJ7133UE4S",
+      "descModeloStd": "TJ7133UE4S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000646"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328625",
+      "descModelo": "CA1024VRL BARANDA",
+      "descModeloStd": "CA1024VRL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326239",
+      "descModelo": "S80 SD",
+      "descModeloStd": "S80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325887",
+      "descModelo": "MAMUT XL BARANDA",
+      "descModeloStd": "MAMUT ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265772",
+      "descModelo": "CA644OA45",
+      "descModeloStd": "CA644OA45",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010826"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265958",
+      "descModelo": "CA5040XXYP40K50E5A84",
+      "descModeloStd": "CA1053P40K2L2EA84",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010985"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330341",
+      "descModelo": "AIL M-325",
+      "descModeloStd": "AIL M-325",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221320",
+      "descModelo": "XENIA",
+      "descModeloStd": "XENIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321039",
+      "descModelo": "R7",
+      "descModeloStd": "R7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005623"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329284",
+      "descModelo": "CA RURAL",
+      "descModeloStd": "CA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327069",
+      "descModelo": "SEDAN HONHQI",
+      "descModeloStd": "SEDAN HONHQI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0181750",
+      "descModelo": "CAS013XXYA2,",
+      "descModeloStd": "CA5013XXYA5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324687",
+      "descModelo": "SEDAN BESTURN",
+      "descModeloStd": "SEDAN BESTURN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0253436",
+      "descModelo": "CA7137E4S",
+      "descModeloStd": "CA7137E4S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001041"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269537",
+      "descModelo": "ACTIS V77",
+      "descModeloStd": "ACTIS V77",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002678"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266622",
+      "descModelo": "CA1083P9K2L1EA80",
+      "descModeloStd": "CA1083P9K2L1EA80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000910"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331518",
+      "descModelo": "CA1027VRLA1",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007254"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325091",
+      "descModelo": "D60 SD",
+      "descModeloStd": "D60",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190325",
+      "descModelo": "CA3256P2K2T1A80",
+      "descModeloStd": "CA3256P2K2T1A80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010426"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333832",
+      "descModelo": "BESTUNE T33",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008560"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323691",
+      "descModelo": "T80 MAMUT XL CARGO BOX",
+      "descModeloStd": "T80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004898"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269988",
+      "descModelo": "MAMUT SIMPLE 1.0 MT",
+      "descModeloStd": "MAMUT SIMPLE 1.0 MT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002906"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326249",
+      "descModelo": "CA4258P2K2T1EA80",
+      "descModeloStd": "CA4258P2K2T1EA80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005572"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "11",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269196",
+      "descModelo": "V80",
+      "descModeloStd": "V80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003310"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRACTOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 33,
+    "keyClaseVeh": "tractor",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333564",
+      "descModelo": "CA4250P77K25T1E5",
+      "descModeloStd": "CA4250P77K25T1E5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008396"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0319971",
+      "descModelo": "V75",
+      "descModeloStd": "V75",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004538"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327699",
+      "descModelo": "HONHQI",
+      "descModeloStd": "HO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267900",
+      "descModelo": "OLEY VE",
+      "descModeloStd": "OLEY VE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001636"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332965",
+      "descModelo": "V77",
+      "descModeloStd": "V77",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008036"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333999",
+      "descModelo": "BESTUNE",
+      "descModeloStd": "BESTUNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008660"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187098",
+      "descModelo": "CA1161P1K2L2A80",
+      "descModeloStd": "CA1161P1K2L2A80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010224"
+    }
+  },
+  {
+    "tipoRie": "L1",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327583",
+      "descModelo": "V80 CMTA",
+      "descModeloStd": "V80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002214"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326970",
+      "descModelo": "V77 SUV",
+      "descModeloStd": "V77",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265802",
+      "descModelo": "TJ7133 UE4S",
+      "descModeloStd": "TJ7133UE4S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010841"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0256477",
+      "descModelo": "CA6420A29",
+      "descModeloStd": "CA6420A29",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010014"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219736",
+      "descModelo": "CA6390E",
+      "descModeloStd": "CA6390E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009944"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328847",
+      "descModelo": "BJ11065",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266682",
+      "descModelo": "CA6420A45 VERSION ACTIS",
+      "descModeloStd": "CA6420A45 VERSION ACTIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000970"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267948",
+      "descModelo": "OLEY",
+      "descModeloStd": "OLEY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271146",
+      "descModelo": "HONGQI H7/CA7251A",
+      "descModeloStd": "HONGQI H7/CA7251A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003460"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325814",
+      "descModelo": "T80 MAMUT XL DOBLE 1.5",
+      "descModeloStd": "T80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005453"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187147",
+      "descModelo": "CA-1020",
+      "descModeloStd": "CA-1020",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001160"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334904",
+      "descModelo": "CA6440A45 C",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327696",
+      "descModelo": "HONGQQIHQ 300",
+      "descModeloStd": "HONGQ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326439",
+      "descModelo": "CA1041KZL",
+      "descModeloStd": "CA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326019",
+      "descModelo": "CA5013XXYA2",
+      "descModeloStd": "CA5013XXYA2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234559",
+      "descModelo": "CA6780A80",
+      "descModeloStd": "CA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010668"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331063",
+      "descModelo": "CA1176P1K2L7",
+      "descModeloStd": "CA1176P1K2L7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007023"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264604",
+      "descModelo": "HONGQI",
+      "descModeloStd": "HONGQI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324152",
+      "descModelo": "V75 RURAL",
+      "descModeloStd": "V75",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331765",
+      "descModelo": "CA4250P25K15T1E5A30",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007375"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326184",
+      "descModelo": "V213EZCA7150VE3",
+      "descModeloStd": "V213EZCA7150VE3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325888",
+      "descModelo": " MAMUT XL BARANDA",
+      "descModeloStd": " MAMUT XL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193701",
+      "descModelo": "XIALI 1.3",
+      "descModeloStd": "XIALI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001796"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325822",
+      "descModelo": "CA7150UE4",
+      "descModeloStd": "CA7150UE4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193139",
+      "descModelo": "CA6371 III",
+      "descModeloStd": "CA6371 III",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001012"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332535",
+      "descModelo": "T33",
+      "descModeloStd": "T33",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007823"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330910",
+      "descModelo": "X40",
+      "descModeloStd": "X40",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006937"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232814",
+      "descModelo": "CA4250P66K24T1A1EX",
+      "descModeloStd": "CA4250P66K24T1A1EX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000999"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331714",
+      "descModelo": "CA3256P2K2T1E5A80",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007355"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326971",
+      "descModelo": "CA6390E SUV",
+      "descModeloStd": "CA6390E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264096",
+      "descModelo": "FAW",
+      "descModeloStd": "FAW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001796"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263264",
+      "descModelo": "CA6420A25",
+      "descModeloStd": "CA6420A25",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326192",
+      "descModelo": "M-F800-92",
+      "descModeloStd": "M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270273",
+      "descModelo": "HONGQQIHQ 300 2.1",
+      "descModeloStd": "HONGQQIHQ 300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333355",
+      "descModelo": "CA4250P25K15T1NE5A80",
+      "descModeloStd": "CA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008285"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321043",
+      "descModelo": "R7 1.6L LUXURY SR AT",
+      "descModeloStd": "R7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004678"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335144",
+      "descModelo": "JK6 245",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009342"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332473",
+      "descModelo": "T77",
+      "descModeloStd": "T77",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007790"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0062557",
+      "descModelo": "CA",
+      "descModeloStd": "CA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231263",
+      "descModelo": "CA6390B5",
+      "descModeloStd": "CA6390B5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002146"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325308",
+      "descModelo": "CA6413A22",
+      "descModeloStd": "CA6413A22",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270167",
+      "descModelo": "CA1024VL 1.2",
+      "descModeloStd": "CA1024VL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233122",
+      "descModelo": "XIALI 1.1",
+      "descModeloStd": "XIALI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001797"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232807",
+      "descModelo": "N5 1.3",
+      "descModeloStd": "N5 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002033"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232895",
+      "descModelo": "CA4258P2K15T1NA80",
+      "descModeloStd": "CA4258P2K15T1NA80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "11",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270846",
+      "descModelo": "B80",
+      "descModeloStd": "B80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003305"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270971",
+      "descModelo": "CA1258P7K2L11T1EA80",
+      "descModeloStd": "CA1258P7K2L11T1EA80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003352"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324267",
+      "descModelo": "D60 1.5",
+      "descModeloStd": "D60",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004994"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "MICROBUS",
+    "claseVeh": "MICROBUS",
+    "numPue": "null",
+    "idTipoVeh": 101,
+    "keyTipoVeh": "microbus",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333189",
+      "descModelo": "V80L",
+      "descModeloStd": "V80L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008178"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271572",
+      "descModelo": "CA7251",
+      "descModeloStd": "CA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003669"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332046",
+      "descModelo": "CA1258P1K2L11T1",
+      "descModeloStd": "CA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007535"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325588",
+      "descModelo": "CA4258P2K15T1NA80\t\t\t\t\t",
+      "descModeloStd": "CA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005382"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328651",
+      "descModelo": "HONGGI HQ300",
+      "descModeloStd": "HONGGI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333006",
+      "descModelo": "CA4258P2K2T1A80",
+      "descModeloStd": "CA4258",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008064"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333229",
+      "descModelo": "T80 F",
+      "descModeloStd": "T80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008198"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265770",
+      "descModelo": "CA6440A 45",
+      "descModeloStd": "CA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270274",
+      "descModelo": "BESTUR2 AOT 1.2",
+      "descModeloStd": "BESTUR2 AOT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231861",
+      "descModelo": "FV70 1.3",
+      "descModeloStd": "FV70 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002214"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269993",
+      "descModelo": "V77",
+      "descModeloStd": "V77",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323160",
+      "descModelo": "CA 1020",
+      "descModeloStd": "CA 1020",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327823",
+      "descModelo": "CA3300P2K2L1T4EA80 REMOLCADOR",
+      "descModeloStd": "CA3300P2K2L1T4EA80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333870",
+      "descModelo": "CA3310P25K15L3T4E5A80",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008583"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232998",
+      "descModelo": "CA1258P1K2L11T1",
+      "descModeloStd": "CA1258P1K2L11T1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000812"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268300",
+      "descModelo": "CA1024VRL",
+      "descModeloStd": "CA1024VRL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004078"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324447",
+      "descModelo": "CA3256P2K2T1A80\t\t\t\t\t CAMION",
+      "descModeloStd": "CA3256P2K2T1A80\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231862",
+      "descModelo": "S80 1.3",
+      "descModeloStd": "S80 ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002213"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323544",
+      "descModelo": "CA2013XXYA8",
+      "descModeloStd": "CA2013XXYA8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004863"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0183399",
+      "descModelo": "MAXIMA 3.0 (V. AMERICANA)",
+      "descModeloStd": "MAXIMA 3.0 (V. AMERICANA)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10001848"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223150",
+      "descModelo": "CA6371A4",
+      "descModeloStd": "CA6371A4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10001013"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328732",
+      "descModelo": "MAMUT XL DOBLE 1.5 B",
+      "descModeloStd": "MAMUT XL DOBLE 1.5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232285",
+      "descModelo": "CA3256P2K2T1EA81",
+      "descModeloStd": "CA3256P2K2T1EA81",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003191"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "11",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272969",
+      "descModelo": "ACTIS V80",
+      "descModeloStd": "ACTIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004191"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330915",
+      "descModelo": "CA3256 CAMION",
+      "descModeloStd": "CA3256",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L1",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327584",
+      "descModelo": "V80 T",
+      "descModeloStd": "V80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002214"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0185184",
+      "descModelo": "CA6371",
+      "descModeloStd": "CA5013XXYA5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264528",
+      "descModelo": "CA1750BUE4 (V5)",
+      "descModeloStd": "CA1750BUE4 (V5)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009996"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323781",
+      "descModelo": "ACTIS V75\t\t\t\t\t",
+      "descModeloStd": "ACTIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004918"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329279",
+      "descModelo": "CA6390E PANEL",
+      "descModeloStd": "CA6390E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L1",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326899",
+      "descModelo": "V80 RURAL",
+      "descModeloStd": "V80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330480",
+      "descModelo": "1.75 TNS",
+      "descModeloStd": "1.75 TNS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332554",
+      "descModelo": "CA4250P25K2T1E5A",
+      "descModeloStd": "CA4250P25K2T1E5A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007831"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268751",
+      "descModelo": "D60 1.5 DELUXE MT",
+      "descModeloStd": "D60",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002045"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264772",
+      "descModelo": "CA4258",
+      "descModeloStd": "CA4258",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010105"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223690",
+      "descModelo": "CA5083XXYK28",
+      "descModeloStd": "CA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334000",
+      "descModelo": "BESTUNE T77",
+      "descModeloStd": "BESTUNE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008661"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324807",
+      "descModelo": "T80 RURAL",
+      "descModeloStd": "T80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328068",
+      "descModelo": "MINI TIGER",
+      "descModeloStd": "M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006200"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272204",
+      "descModelo": "580",
+      "descModeloStd": "580",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267003",
+      "descModelo": "CA1075PK2A81",
+      "descModeloStd": "CA1075PK2A81",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003227"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "55",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331734",
+      "descModelo": "CAG900",
+      "descModeloStd": "CAG900",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269488",
+      "descModelo": "N50FP00103",
+      "descModeloStd": "N50FP00103",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329140",
+      "descModelo": "HONGQI HQ300 CR",
+      "descModeloStd": "HONGQI HQ300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326007",
+      "descModelo": "CA4250P66K24T1A1EX\t\t\t\t\t CG",
+      "descModeloStd": "CA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327585",
+      "descModelo": "V80 CTA",
+      "descModeloStd": "V80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005224"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192189",
+      "descModelo": "CA1161P7K2L4A80",
+      "descModeloStd": "CA1161P7K2L4A80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010225"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0183618",
+      "descModelo": "BESTURN",
+      "descModeloStd": "BESTURN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003391"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220177",
+      "descModelo": "CA1013A1",
+      "descModeloStd": "CA1013A1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000811"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326700",
+      "descModelo": "MAMUT XL DOBLE 1.5",
+      "descModeloStd": "MAMUT XL DOBLE 1.5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324269",
+      "descModelo": "V2 1.3",
+      "descModeloStd": "V2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004996"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325227",
+      "descModelo": "CA3256P2K2T1EA80     \t\t\t\t\t",
+      "descModeloStd": "CA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005278"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "6",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0202291",
+      "descModelo": "WORLD AUTOS",
+      "descModeloStd": "WORLD AUTOS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009954"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270638",
+      "descModelo": "CA45027XXYB",
+      "descModeloStd": "CA45027XXYB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003179"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332957",
+      "descModelo": "CA1121P40K2L5E5A85",
+      "descModeloStd": "CA1121P40K2L5E5A85",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328405",
+      "descModelo": "F80 PICK",
+      "descModeloStd": "F80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264824",
+      "descModelo": "CA5013XXYA8",
+      "descModeloStd": "CA5013XXYA8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004865"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271378",
+      "descModelo": "CA6390E 1.2",
+      "descModeloStd": "CA6390E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "11",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333937",
+      "descModelo": "CA6440A45 MC",
+      "descModeloStd": "CA6440A45",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "0",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270394",
+      "descModelo": "D60",
+      "descModeloStd": "D60",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003763"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265184",
+      "descModelo": "CA1161P1K2L2A80",
+      "descModeloStd": "CA1161P1K2L2A80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196043",
+      "descModelo": "CA1024VL",
+      "descModeloStd": "CA1024V",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010102"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271285",
+      "descModelo": "IA6413A22",
+      "descModeloStd": "IA6413A22",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232607",
+      "descModelo": "TJ7103UE4S",
+      "descModeloStd": "TJ7103UE4S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010058"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269530",
+      "descModelo": "CA6420A45",
+      "descModeloStd": "CA6420A45 VERSION ACTIS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002674"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334658",
+      "descModelo": "CA3310P25K15L3T4E5A80",
+      "descModeloStd": "CA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009101"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRACTOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 33,
+    "keyClaseVeh": "tractor",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334547",
+      "descModelo": "J7",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009026"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331824",
+      "descModelo": "CA3300P2K2L1T4EA80",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007415"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270711",
+      "descModelo": "PMCA3256",
+      "descModeloStd": "PMCA3256",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003222"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325006",
+      "descModelo": "V77 1.3 COMMERCIAL 80\t\t\t\t\t",
+      "descModeloStd": "V77",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005224"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRACTOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 33,
+    "keyClaseVeh": "tractor",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333565",
+      "descModelo": "CA4250P25K2T1E5A80",
+      "descModeloStd": "CA4250P25K2T1E5A80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008397"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0202280",
+      "descModelo": "CA5023XXY",
+      "descModeloStd": "CA5023XXY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001877"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177331",
+      "descModelo": "CA1041K2L",
+      "descModeloStd": "CA1041K2L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010863"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192637",
+      "descModelo": "CALE 1.5",
+      "descModeloStd": "CALE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002034"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328731",
+      "descModelo": "MAMUT XL DOBLE 1.5 BARANDA",
+      "descModeloStd": "MAMUT XL DOBLE 1.5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328025",
+      "descModelo": "T80 MAMUT XL CABINA\t\t\t\t\t",
+      "descModeloStd": "T80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006186"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332901",
+      "descModelo": "CA3250P25K15L3T1E5A80",
+      "descModeloStd": "CA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008013"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273545",
+      "descModelo": "V80 MULTI",
+      "descModeloStd": "V80L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269804",
+      "descModelo": "CA5013XXYA5",
+      "descModeloStd": "CA5013XXYA5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269288",
+      "descModelo": "CA6371",
+      "descModeloStd": "CA6371",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002490"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273538",
+      "descModelo": "CA1083P40K2L5EA84",
+      "descModeloStd": "CA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004386"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333228",
+      "descModelo": "TIGER VR",
+      "descModeloStd": "TIGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008197"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRACTOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 33,
+    "keyClaseVeh": "tractor",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334551",
+      "descModelo": "JH6",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009029"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324268",
+      "descModelo": "SIRIUS 1.5",
+      "descModeloStd": "SIRIUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004995"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331370",
+      "descModelo": "CA1027VA1 C",
+      "descModeloStd": "CA1027VA1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333038",
+      "descModelo": "CA3256P2K2T1A80 R",
+      "descModeloStd": "CA3256P2K2T1A80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265268",
+      "descModelo": "CA6414A12",
+      "descModeloStd": "CA6414A12",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010427"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269997",
+      "descModelo": "V77 1.1",
+      "descModeloStd": "V77",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324271",
+      "descModelo": "VIDA 1.3",
+      "descModeloStd": "VIDA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004997"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328815",
+      "descModelo": "CA6371AH",
+      "descModeloStd": "CA6371AH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267392",
+      "descModelo": " CA3256P2K15T1NA80",
+      "descModeloStd": "CA3256P2K15T1NA80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324526",
+      "descModelo": " MAMUT XL CARGO PANEL",
+      "descModeloStd": " MAMUT XL CARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009638"
+    }
+  }
+]

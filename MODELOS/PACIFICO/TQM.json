@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0224156",
+      "descModelo": "TQM200-RM01",
+      "descModeloStd": "TQM200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005781"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0282680",
+      "descModelo": "TQM150-SM03",
+      "descModeloStd": "TQM150-SM03",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005781"
+    }
+  }
+]

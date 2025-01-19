@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323648",
+      "descModelo": "L3-VEH.AUT",
+      "descModeloStd": "L3-VEH.AUT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004886"
+    }
+  }
+]

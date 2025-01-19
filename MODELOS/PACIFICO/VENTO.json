@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327052",
+      "descModelo": "WORKMAN 150 MOTO",
+      "descModeloStd": "WORKMAN 150",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005587"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0291546",
+      "descModelo": "PHANTOM R4I",
+      "descModeloStd": "PHANTOM R4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005587"
+    }
+  }
+]

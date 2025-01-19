@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "PLATAFORMA",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 27,
+    "keyTipoVeh": "platform",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219562",
+      "descModelo": "SR CT PD 04 60 CAMA BAJA",
+      "descModeloStd": "SR CT PD 04 60 CAMA BAJA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000520"
+    }
+  }
+]

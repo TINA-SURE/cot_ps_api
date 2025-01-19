@@ -1,0 +1,218 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333198",
+      "descModelo": "F J64110S",
+      "descModeloStd": "FJ64110S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009688"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219816",
+      "descModelo": "STJ6400A",
+      "descModeloStd": "STJ6400A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009688"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "14",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0198226",
+      "descModelo": "JOURWAY",
+      "descModeloStd": "JOURWAY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009688"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "14",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324927",
+      "descModelo": "JOURWAY OC",
+      "descModeloStd": "JOURWAY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009688"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271467",
+      "descModelo": "EXOR 1.2",
+      "descModeloStd": "EXOR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009688"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328131",
+      "descModelo": "EXOR BARANDA",
+      "descModeloStd": "EX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009688"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263349",
+      "descModelo": "EXOR 2.5",
+      "descModeloStd": "EXOR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009688"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328407",
+      "descModelo": "BJ1065PPU62",
+      "descModeloStd": "BJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009688"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0197226",
+      "descModelo": "FVR32ML X3T1 7RS86",
+      "descModeloStd": "FVR32ML ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010453"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331073",
+      "descModelo": "SY1020DB3AJ PICKUP",
+      "descModeloStd": "SY1020DB3AJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009688"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CHASIS",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 25,
+    "keyTipoVeh": "chassis",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187985",
+      "descModelo": "EXOR",
+      "descModeloStd": "EXOR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010779"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326728",
+      "descModelo": "EXOR CP",
+      "descModeloStd": "EXOR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009688"
+    }
+  }
+]

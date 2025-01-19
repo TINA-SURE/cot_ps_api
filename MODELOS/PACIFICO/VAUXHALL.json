@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0215921",
+      "descModelo": "HAD VIVA",
+      "descModeloStd": "HAD VIVA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004623"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0215910",
+      "descModelo": "FBD VICTOR",
+      "descModeloStd": "FBD VICTOR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004623"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321172",
+      "descModelo": "DE LUXE",
+      "descModeloStd": "DE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004623"
+    }
+  }
+]

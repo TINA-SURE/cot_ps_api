@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320905",
+      "descModelo": "UNIMOG416",
+      "descModeloStd": "UNIMOG416",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009675"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267476",
+      "descModelo": "CONVERTIBLE",
+      "descModeloStd": "CONVERTIBLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009675"
+    }
+  }
+]

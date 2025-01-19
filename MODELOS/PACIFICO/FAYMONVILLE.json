@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271031",
+      "descModelo": "G-MODUL-SL-6",
+      "descModeloStd": "G-MODUL-SL-6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003403"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333382",
+      "descModelo": "ESTANDAR",
+      "descModeloStd": "Estandar",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008302"
+    }
+  }
+]

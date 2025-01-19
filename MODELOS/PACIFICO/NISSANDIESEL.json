@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222399",
+      "descModelo": "CONDOR 5",
+      "descModeloStd": "CONDOR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003811"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327410",
+      "descModelo": "CONDOR 5",
+      "descModeloStd": "CONDOR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005933"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222503",
+      "descModelo": "CONDOR 7",
+      "descModeloStd": "CONDOR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003811"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327758",
+      "descModelo": "CONDOR 5 4.6 TM",
+      "descModeloStd": "CONDOR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003811"
+    }
+  }
+]

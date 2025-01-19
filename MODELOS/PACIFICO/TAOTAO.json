@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333435",
+      "descModelo": "RTM 250D",
+      "descModeloStd": "RTM 250D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008341"
+    }
+  }
+]

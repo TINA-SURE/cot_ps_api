@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228783",
+      "descModelo": "ADVANTAGE 4X2",
+      "descModeloStd": "ADVANTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194373",
+      "descModelo": "ADVANTAGE 4X4",
+      "descModeloStd": "ADVANTAGE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327257",
+      "descModelo": "ADVANTAGE 4X2 CPA",
+      "descModeloStd": "ADVANTAGE 4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001614"
+    }
+  }
+]

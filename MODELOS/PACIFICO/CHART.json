@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330665",
+      "descModelo": "CTZ9431GDY",
+      "descModeloStd": "CTZ9431GDY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007031"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222948",
+      "descModelo": "AVENGER XXI",
+      "descModeloStd": "AVENGER XXI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006675"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221627",
+      "descModelo": "PC200ZH-D",
+      "descModeloStd": "PC200ZH-D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006675"
+    }
+  }
+]

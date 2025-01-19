@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332881",
+      "descModelo": "\tMNP-CAS7220-J5S",
+      "descModeloStd": "\tMNP-CAS7220-J5S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004380"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273657",
+      "descModelo": "CXM110B",
+      "descModeloStd": "CXM110B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004380"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273533",
+      "descModelo": "LY100-S 1.2",
+      "descModeloStd": "LY100-S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004380"
+    }
+  }
+]

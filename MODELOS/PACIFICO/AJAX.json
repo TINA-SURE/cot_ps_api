@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323225",
+      "descModelo": "CH40REF-A",
+      "descModeloStd": "CH40REF-A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004798"
+    }
+  }
+]

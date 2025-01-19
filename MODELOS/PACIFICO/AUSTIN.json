@@ -1,0 +1,218 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266956",
+      "descModelo": "MINI COOPER",
+      "descModeloStd": "MINI COOPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009673"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265732",
+      "descModelo": "MINI 850",
+      "descModeloStd": "MINI 850",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009673"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268747",
+      "descModelo": "HEALEY",
+      "descModeloStd": "HEALEY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009673"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320210",
+      "descModelo": "HEALEY",
+      "descModeloStd": "HEALEY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004553"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330847",
+      "descModelo": "HEALY 3000",
+      "descModeloStd": "HEALY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009673"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331721",
+      "descModelo": "A35",
+      "descModeloStd": "A35",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009673"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264547",
+      "descModelo": "METRO 1300-S",
+      "descModeloStd": "METRO 1300-S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009673"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268739",
+      "descModelo": "MINI",
+      "descModeloStd": "MINI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009673"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264517",
+      "descModelo": "1800",
+      "descModeloStd": "1800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009673"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270712",
+      "descModelo": "METRO 1.3",
+      "descModeloStd": "METRO 1.3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003224"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321144",
+      "descModelo": "MINI 850 SEDAN",
+      "descModeloStd": "MINI 850",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009673"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "3",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266961",
+      "descModelo": "SPORT SPRITE",
+      "descModeloStd": "SPORT SPRITE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009673"
+    }
+  }
+]

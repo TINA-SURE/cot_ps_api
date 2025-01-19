@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272732",
+      "descModelo": "TANKER 2016",
+      "descModeloStd": "TANKER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004106"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334121",
+      "descModelo": "TANK GLP",
+      "descModeloStd": "TANK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008731"
+    }
+  }
+]

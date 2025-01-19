@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324073",
+      "descModelo": "AP 250 -R AUTO",
+      "descModeloStd": "AP ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004959"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324072",
+      "descModelo": "AP 250 -R SD",
+      "descModeloStd": "AP 250 -R",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004959"
+    }
+  }
+]

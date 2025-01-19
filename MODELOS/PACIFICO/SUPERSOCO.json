@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L9",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333545",
+      "descModelo": "CPX",
+      "descModeloStd": "CPX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008385"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330429",
+      "descModelo": "TC MOTOCICLETA",
+      "descModeloStd": "TC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006748"
+    }
+  }
+]

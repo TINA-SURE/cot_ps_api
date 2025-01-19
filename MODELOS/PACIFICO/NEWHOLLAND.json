@@ -1,0 +1,236 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332714",
+      "descModelo": "NEW HOLL",
+      "descModeloStd": "NEW HOLL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001391"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267458",
+      "descModelo": "L185",
+      "descModeloStd": "L185",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001391"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332018",
+      "descModelo": "L223",
+      "descModeloStd": "L2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007519"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330533",
+      "descModelo": "F 215",
+      "descModeloStd": "F 215",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001391"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRACTOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 33,
+    "keyClaseVeh": "tractor",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332468",
+      "descModelo": "TD95D",
+      "descModeloStd": "TD95D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007787"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328443",
+      "descModelo": "L223",
+      "descModeloStd": "L2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001391"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CARGADOR FRONTAL",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 35,
+    "keyClaseVeh": "frontLoader",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334728",
+      "descModelo": "W190",
+      "descModeloStd": "W190",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001391"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320018",
+      "descModelo": "B110",
+      "descModeloStd": "B110",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001391"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272087",
+      "descModelo": "TD85F",
+      "descModeloStd": "TD85F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001391"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COMPACTADOR",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 154,
+    "keyTipoVeh": "compact",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334329",
+      "descModelo": "310 SL",
+      "descModeloStd": "310 SL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001391"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334204",
+      "descModelo": "L-223",
+      "descModeloStd": "L-223",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007519"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325967",
+      "descModelo": "B95",
+      "descModeloStd": "B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001391"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323831",
+      "descModelo": "B95.4M",
+      "descModeloStd": "B95.4M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001391"
+    }
+  }
+]

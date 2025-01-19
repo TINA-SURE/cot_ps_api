@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326137",
+      "descModelo": "BOLIGER",
+      "descModeloStd": "BOLIGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005540"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327063",
+      "descModelo": "BOLIGER SD",
+      "descModeloStd": "BOLIGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005791"
+    }
+  }
+]

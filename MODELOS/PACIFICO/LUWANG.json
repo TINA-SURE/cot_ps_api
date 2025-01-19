@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322460",
+      "descModelo": "ZD3314",
+      "descModeloStd": "ZD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004800"
+    }
+  }
+]

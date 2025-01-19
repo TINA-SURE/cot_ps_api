@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268201",
+      "descModelo": "MODASA MA 8.5TCA",
+      "descModeloStd": "MODASA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001772"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271582",
+      "descModelo": "BJ1044PPU52",
+      "descModeloStd": "BJ1044PPU52",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003673"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326732",
+      "descModelo": "BJ1044PPU53 CC",
+      "descModeloStd": "BJ1044PPU53",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003673"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321166",
+      "descModelo": "BJ1044PPU53",
+      "descModeloStd": "BJ1044PPU53",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003673"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323164",
+      "descModelo": "BJ1065PPU62",
+      "descModeloStd": "BJ1065PPU62",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003673"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324950",
+      "descModelo": "BJ1040P1S31",
+      "descModeloStd": "BJ1040P1S31",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003673"
+    }
+  }
+]

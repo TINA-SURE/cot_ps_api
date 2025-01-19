@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268878",
+      "descModelo": "SRV-300M",
+      "descModeloStd": "SRV-300M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002130"
+    }
+  }
+]

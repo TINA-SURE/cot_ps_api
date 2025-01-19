@@ -1,0 +1,1352 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194783",
+      "descModelo": "H01-121",
+      "descModeloStd": "H01-121",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002597"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0230054",
+      "descModelo": "CONVEY 5.3T TD CHASIS CABINA",
+      "descModeloStd": "CONVEY 5.3T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "14",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0254189",
+      "descModelo": "YUNBA 2.8 TD JX6504D-1",
+      "descModeloStd": "YUNBA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326437",
+      "descModelo": "LANDWIND X6 2.4 4X4 JX6476B",
+      "descModeloStd": "LANDWIND X6 2.4 4X4 JX6476B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268923",
+      "descModelo": "CARRYING 2.0T",
+      "descModeloStd": "CARRYING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002172"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195202",
+      "descModelo": "NKR LWB",
+      "descModeloStd": "NKR LWB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010890"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196260",
+      "descModelo": "N900 CARGO 11 TDI CHASIS CABINA",
+      "descModeloStd": "N900",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271377",
+      "descModelo": "CONVEY 4.3T TD CHASIS",
+      "descModeloStd": "CONVEY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003572"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265847",
+      "descModelo": "NHR 2.8L",
+      "descModeloStd": "NHR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193103",
+      "descModelo": "CARRYING 4.0T TD CON TOLVA",
+      "descModeloStd": "CARRYING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003813"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333602",
+      "descModelo": "TOURING CARGO",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008415"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321237",
+      "descModelo": "CITY 2.0DC",
+      "descModeloStd": "CITY 2.0DC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325282",
+      "descModelo": "NEWCARRYING 4.0T WCBSTD",
+      "descModeloStd": "CARRYING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005295"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192044",
+      "descModelo": "BOOMDAY JX1023DSJ",
+      "descModeloStd": "BOOMDAY JX1023DSJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223673",
+      "descModelo": "BOARDING 2.8 TD 4X2",
+      "descModeloStd": "BOARDING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002100"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "17",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330946",
+      "descModelo": "YUMBA 2.8 MICROBUS",
+      "descModeloStd": "YUMBA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190486",
+      "descModelo": "CARRYING SWB",
+      "descModeloStd": "CARRYING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334928",
+      "descModelo": "GRAND AVENUE AT",
+      "descModeloStd": "BD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009237"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271409",
+      "descModelo": "CONVEY6 - OT",
+      "descModeloStd": "CONVEY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003584"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "18",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335119",
+      "descModelo": "TOURING",
+      "descModeloStd": "TOURING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009328"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189895",
+      "descModelo": "NKR LWB",
+      "descModeloStd": "NKR LWB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L8",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "14",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0237238",
+      "descModelo": "YUMBA 2.8",
+      "descModeloStd": "YUMBA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001023"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328527",
+      "descModelo": "NHR 2.8L BARANDA",
+      "descModeloStd": "NHR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0175866",
+      "descModelo": "NKR LWB 2.8 TD CS 4T",
+      "descModeloStd": "NKR LWB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323465",
+      "descModelo": "VIGUS",
+      "descModeloStd": "VIGUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005202"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0250504",
+      "descModelo": "YUMBA 2.8 TD JX6504D",
+      "descModeloStd": "YUMBA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334988",
+      "descModelo": "NEW VIGUS",
+      "descModeloStd": "VIGUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009257"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273740",
+      "descModelo": "N350",
+      "descModeloStd": "N350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004443"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334715",
+      "descModelo": "M400 BARANDA",
+      "descModeloStd": "BD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009138"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0177084",
+      "descModelo": "YUNBA",
+      "descModeloStd": "YUNBA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005202"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329125",
+      "descModelo": "CONQUER CAMION",
+      "descModeloStd": "CONQUER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233083",
+      "descModelo": "BOARDING 2.8 TD",
+      "descModeloStd": "BOARDING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002100"
+    }
+  },
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "15",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328658",
+      "descModelo": "N520",
+      "descModeloStd": "N520",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006370"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269639",
+      "descModelo": "CARRYING  3.5T  TD DC",
+      "descModeloStd": "CARRYING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002753"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0170727",
+      "descModelo": "BD 2.8 DC 4X4 JX1023",
+      "descModeloStd": "BD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002735"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330562",
+      "descModelo": "N900 CARGO 11 TDI BARANDA",
+      "descModeloStd": "N900 CARGO 11 TDI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189722",
+      "descModelo": "CARRYING 2.0T D",
+      "descModeloStd": "CARRYING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328712",
+      "descModelo": "CARRYING\t PK",
+      "descModeloStd": "CARRYING\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267026",
+      "descModelo": "BOOMDAY JX1023DSL",
+      "descModeloStd": "BOOMDAY JX1023DSL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "18",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333603",
+      "descModelo": "TOURING PASAJEROS",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008414"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222536",
+      "descModelo": "CARRYING 3.2T TD CON TOLVA",
+      "descModeloStd": "CARRYING 3.2T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002100"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273183",
+      "descModelo": "YUMBA 2.8 L",
+      "descModeloStd": "YUMBA 2.8 L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334498",
+      "descModelo": "GRAN AVENUE",
+      "descModeloStd": "GRAN AVENUE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327437",
+      "descModelo": "NKR CB",
+      "descModeloStd": "NKR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326781",
+      "descModelo": "CARRYDIG",
+      "descModeloStd": "CARRYDIG",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005722"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269592",
+      "descModelo": "CONVEY 4",
+      "descModeloStd": "CONVEY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002729"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223686",
+      "descModelo": "CONVEY 4.3T TD CON TOLVA",
+      "descModeloStd": "CONVEY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002100"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0204850",
+      "descModelo": "NHR SWB 2.8 TD",
+      "descModeloStd": "NHR SWB 2.8 TD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000963"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269759",
+      "descModelo": "CITY",
+      "descModeloStd": "CITY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263686",
+      "descModelo": "CITY  2.0",
+      "descModeloStd": "CITY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270004",
+      "descModelo": "S350",
+      "descModeloStd": "S350",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269621",
+      "descModelo": "NEW CARRYING DUOCB 3.5",
+      "descModeloStd": "CARRYING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002746"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334500",
+      "descModelo": "VIGPRO",
+      "descModeloStd": "VIGPRO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333245",
+      "descModelo": "N520 PANEL",
+      "descModeloStd": "N520",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006370"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178181",
+      "descModelo": "NKR 2.8 TD CSJX1043DL2",
+      "descModeloStd": "NKR 2.8 TD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0225224",
+      "descModelo": "CITY 2.0 TD",
+      "descModeloStd": "CITY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0319994",
+      "descModelo": "NHRSWB2.8TD X4",
+      "descModeloStd": "NHRSWB2.8TD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331160",
+      "descModelo": "N900 11T TD CABINA EXTENDIDA",
+      "descModeloStd": "N900",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324766",
+      "descModelo": "CARRYING 3.2T TD CON TOLVA\t\t\t\t\t",
+      "descModeloStd": "CARRYING 3.2T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005151"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334642",
+      "descModelo": "GRAND AVENUE",
+      "descModeloStd": "GRAN AVENUE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009092"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269516",
+      "descModelo": "CITY 2.0T DC CON TOLVA",
+      "descModeloStd": "CITY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002668"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326786",
+      "descModelo": "CONVEY 5.3",
+      "descModeloStd": "CONVEY 5.3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005724"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271997",
+      "descModelo": "CARRYING 4TN CON TOLVA",
+      "descModeloStd": "CARRYING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003863"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333288",
+      "descModelo": "CITY 2.0T D CHASIS CABINA",
+      "descModeloStd": "CITY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008239"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334501",
+      "descModelo": "VIG1",
+      "descModeloStd": "VIG1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266180",
+      "descModelo": "CITY 2.0",
+      "descModeloStd": "CITY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001562"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334297",
+      "descModelo": "N900 CITY 11T TD CABINA EXT",
+      "descModeloStd": "N900",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008844"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325328",
+      "descModelo": "YUNBA 2.8 TD PANEL VAN",
+      "descModeloStd": "YUNBA 2.8 TD PANEL VAN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267890",
+      "descModelo": "NKR 2.8 TDCS",
+      "descModeloStd": "NKR 2.8 TDCS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001631"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178145",
+      "descModelo": "NHRSWB2.8TD",
+      "descModeloStd": "NHRSWB2.8TD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010889"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265115",
+      "descModelo": "CARRYING",
+      "descModeloStd": "CARRYING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010363"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271408",
+      "descModelo": "N900 CITY 10T TD CABINA SIMPLE",
+      "descModeloStd": "N900",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003583"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269607",
+      "descModelo": "CARRYNG 4.0T TD DC",
+      "descModeloStd": "CARRYING",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002737"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323554",
+      "descModelo": "BD 2.8L DC 4X4 JX10230SE",
+      "descModeloStd": "BD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009655"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324536",
+      "descModelo": "CONQUER\t\t\t\t\t",
+      "descModeloStd": "CONQUER\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005074"
+    }
+  }
+]

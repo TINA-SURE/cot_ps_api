@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "11",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270094",
+      "descModelo": "EQ6400LS",
+      "descModeloStd": "EQ6400LS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002971"
+    }
+  }
+]

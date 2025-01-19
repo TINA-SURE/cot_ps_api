@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CASA RODANTE",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 60,
+    "keyClaseVeh": "mobileHome",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331043",
+      "descModelo": "MLT 580 4X4",
+      "descModeloStd": "MLT ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007011"
+    }
+  }
+]

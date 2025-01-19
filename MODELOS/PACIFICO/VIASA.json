@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333666",
+      "descModelo": "JEEP CR",
+      "descModeloStd": "JEEP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005447"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326406",
+      "descModelo": "HUCJ3B SD",
+      "descModeloStd": "HUCJ3B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005447"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325804",
+      "descModelo": "HUC J3B",
+      "descModeloStd": "HUC J3B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005447"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326013",
+      "descModelo": "HUCJ3B",
+      "descModeloStd": "HUCJ3B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005447"
+    }
+  }
+]

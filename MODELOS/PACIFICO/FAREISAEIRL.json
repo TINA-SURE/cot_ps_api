@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "GRANELERO",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 206,
+    "keyTipoVeh": "grainer",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329000",
+      "descModelo": "GANZO",
+      "descModeloStd": "GANZO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006468"
+    }
+  }
+]

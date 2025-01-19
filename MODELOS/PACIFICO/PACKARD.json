@@ -1,0 +1,92 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "7",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323674",
+      "descModelo": "S/MOD C",
+      "descModeloStd": "s/mod",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010018"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CONVERTIBLE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 129,
+    "keyTipoVeh": "convertible",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328852",
+      "descModelo": "5-26",
+      "descModeloStd": "5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010018"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "6",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0170998",
+      "descModelo": "CLIPEER",
+      "descModeloStd": "CLIPEER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010018"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "7",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264570",
+      "descModelo": "S/MOD",
+      "descModeloStd": "S/MOD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010018"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AA",
+      "descModelo": "740 LIMOSIN",
+      "descModeloStd": "740",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010018"
+    }
+  }
+]

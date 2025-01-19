@@ -1,0 +1,164 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269455",
+      "descModelo": "AM 808-A",
+      "descModeloStd": "AM 808-A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168571",
+      "descModelo": "COMBI AH-815",
+      "descModeloStd": "COMBI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000080"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223371",
+      "descModelo": "COMBI AM-815",
+      "descModeloStd": "COMBI AM-815",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323942",
+      "descModelo": "COMBI CAMION",
+      "descModeloStd": "COMBI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323130",
+      "descModelo": "TOWNER CUACH STD",
+      "descModeloStd": "TOWNER CUACH STD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "18",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322884",
+      "descModelo": "TOPIC",
+      "descModeloStd": "TOPIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323906",
+      "descModelo": "HI TOPIC AM-715 RURAL",
+      "descModeloStd": "HI TOPIC AM-715",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327763",
+      "descModelo": "HI TOPIC AM-715 PICK UP",
+      "descModeloStd": "HI TOPIC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0174222",
+      "descModelo": "TOWNER VAN DLX",
+      "descModeloStd": "TOWNER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009725"
+    }
+  }
+]

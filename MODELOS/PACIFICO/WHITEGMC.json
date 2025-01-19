@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328451",
+      "descModelo": "WHL64T",
+      "descModeloStd": "WHL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006307"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187368",
+      "descModelo": "WIM64T",
+      "descModeloStd": "WIM64T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011071"
+    }
+  }
+]

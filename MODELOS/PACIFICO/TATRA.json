@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231298",
+      "descModelo": "T815-231R25/340",
+      "descModeloStd": "T815-231R25/340",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001306"
+    }
+  }
+]

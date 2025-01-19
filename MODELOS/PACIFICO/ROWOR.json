@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195664",
+      "descModelo": "BJ3108DEPHD-S",
+      "descModeloStd": "BJ3108DEPHD-S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011033"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267506",
+      "descModelo": "6J3258DLPJ815",
+      "descModeloStd": "6J3258DLPJ815",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001411"
+    }
+  }
+]

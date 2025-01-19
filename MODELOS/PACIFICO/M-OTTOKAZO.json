@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331090",
+      "descModelo": "MK-150-A1 M",
+      "descModeloStd": "MK-150-A1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006732"
+    }
+  }
+]

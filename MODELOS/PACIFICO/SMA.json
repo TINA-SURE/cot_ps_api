@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233057",
+      "descModelo": "C61 SEDAN 1.6",
+      "descModeloStd": "C61",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001815"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233056",
+      "descModelo": "C32 1.3 SEDAN",
+      "descModeloStd": "C32",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001814"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233058",
+      "descModelo": "R80 HD 1.8",
+      "descModeloStd": "R80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001816"
+    }
+  }
+]

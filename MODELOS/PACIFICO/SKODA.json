@@ -1,0 +1,362 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266916",
+      "descModelo": "OCTAVIA SEDAN A5 AMBIENTE EXTREME 1.8",
+      "descModeloStd": "OCTAVIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009652"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323707",
+      "descModelo": "ROOMSTER PRAKTIK",
+      "descModeloStd": "ROOMSTER PRAKTIK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009652"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270765",
+      "descModelo": "N300 1.5 MT WORK",
+      "descModeloStd": "N300 1.5 MT WORK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003257"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0223469",
+      "descModelo": "FABIAA05",
+      "descModeloStd": "FABIAA05",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009652"
+    }
+  },
+  {
+    "tipoRie": "L1B",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0175969",
+      "descModelo": "OCTAVIA 1.8",
+      "descModeloStd": "OCTAVIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000839"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233076",
+      "descModelo": "OCTAVIA SEDAN 1.8",
+      "descModeloStd": "OCTAVIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002011"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0194355",
+      "descModelo": "FABIA",
+      "descModeloStd": "FABIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005663"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233072",
+      "descModelo": "FABIA HB 1.6",
+      "descModeloStd": "FABIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002007"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233075",
+      "descModelo": "OCTAVIA SW 1.6",
+      "descModeloStd": "OCTAVIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002010"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233071",
+      "descModelo": "FABIA HB 1.2",
+      "descModeloStd": "FABIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002006"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265113",
+      "descModelo": "CFN168751",
+      "descModeloStd": "CFN168751",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009652"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233077",
+      "descModelo": "OCTAVIA SW 1.8",
+      "descModeloStd": "OCTAVIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002012"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233074",
+      "descModelo": "OCTAVIA SEDAN 1.6",
+      "descModeloStd": "OCTAVIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002009"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233078",
+      "descModelo": "OCTAVIA SEDAN RS 2.0",
+      "descModeloStd": "OCTAVIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002013"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332779",
+      "descModelo": "OCTAVIA",
+      "descModeloStd": "OCTAVIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007950"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "STATION WAGON",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 3,
+    "keyTipoVeh": "stationWagon",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233073",
+      "descModelo": "FABIA SW 1.6",
+      "descModeloStd": "FABIA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002008"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233079",
+      "descModelo": "SUPERB 1.8T",
+      "descModeloStd": "SUPERB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002014"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270737",
+      "descModelo": "FABIA A OS",
+      "descModeloStd": "FABIA A OS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003238"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233081",
+      "descModelo": "YETI 1.8 TSI",
+      "descModeloStd": "YETI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002016"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233080",
+      "descModelo": "SUPERB 3.6 FSI",
+      "descModeloStd": "SUPERB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002015"
+    }
+  }
+]

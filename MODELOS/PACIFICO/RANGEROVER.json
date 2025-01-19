@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231667",
+      "descModelo": "EVOQUE",
+      "descModeloStd": "RURAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006187"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320499",
+      "descModelo": "RURAL (4X4)",
+      "descModeloStd": "RURAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004603"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326711",
+      "descModelo": "LHD RURAL",
+      "descModeloStd": "LHD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004603"
+    }
+  }
+]

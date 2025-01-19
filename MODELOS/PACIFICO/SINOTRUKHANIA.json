@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0220522",
+      "descModelo": "ZZ4255S3245V",
+      "descModeloStd": " ZZ4255S3245V",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005207"
+    }
+  }
+]

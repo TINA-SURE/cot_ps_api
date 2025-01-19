@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "PLATAFORMA",
+    "claseVeh": "REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 27,
+    "keyTipoVeh": "platform",
+    "idClaseVeh": 6,
+    "keyClaseVeh": "trailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327812",
+      "descModelo": "FORZUDO",
+      "descModeloStd": "FORZUDO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006122"
+    }
+  }
+]

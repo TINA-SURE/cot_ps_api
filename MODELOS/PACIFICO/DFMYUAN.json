@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178324",
+      "descModelo": "EQ5021XXYF",
+      "descModeloStd": "EQ5021XXYF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000962"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "1",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0182249",
+      "descModelo": "EQ1020TF",
+      "descModeloStd": "EQ1020TF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000962"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267115",
+      "descModelo": "F5W730",
+      "descModeloStd": "F5W730",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000962"
+    }
+  }
+]

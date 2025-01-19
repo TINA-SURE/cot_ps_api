@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228489",
+      "descModelo": "BJ1021PHD41",
+      "descModeloStd": "BJ1021PHD41",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009694"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330350",
+      "descModelo": "SIN MODELO",
+      "descModeloStd": "SIN MODELO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004989"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324253",
+      "descModelo": " QM125-7A MOTO",
+      "descModeloStd": "QM125-7A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004989"
+    }
+  }
+]

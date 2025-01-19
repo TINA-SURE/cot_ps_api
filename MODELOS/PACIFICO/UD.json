@@ -1,0 +1,92 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328885",
+      "descModelo": "CRONER MKE CAMION",
+      "descModeloStd": "CRONER MKE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006185"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333333",
+      "descModelo": "CRONER PKE CISTERNA",
+      "descModeloStd": "CRONER PKE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006185"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334557",
+      "descModelo": "CRONER",
+      "descModeloStd": "CRONER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006185"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335128",
+      "descModelo": "CRONER PKE CC",
+      "descModeloStd": "CRONER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006185"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA COMBUSTIBLES",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 153,
+    "keyTipoVeh": "combustibleCistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333332",
+      "descModelo": "CRONER PKE C",
+      "descModeloStd": "CRONER PKE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006185"
+    }
+  }
+]

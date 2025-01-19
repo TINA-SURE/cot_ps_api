@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273262",
+      "descModelo": "CELERIO",
+      "descModeloStd": "CELERIO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004304"
+    }
+  }
+]

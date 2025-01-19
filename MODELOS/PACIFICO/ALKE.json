@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "PLATAFORMA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 27,
+    "keyTipoVeh": "platform",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331095",
+      "descModelo": "ATX340EH",
+      "descModeloStd": "ATX340EH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007037"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331089",
+      "descModelo": "ATX340EH",
+      "descModeloStd": "ATX340EH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007034"
+    }
+  }
+]

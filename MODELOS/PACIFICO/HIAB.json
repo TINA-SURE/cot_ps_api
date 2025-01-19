@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334248",
+      "descModelo": "X HIPRO 858 E 10",
+      "descModeloStd": "X HIPRO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008811"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327471",
+      "descModelo": "XS8",
+      "descModeloStd": "XS8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005956"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329591",
+      "descModelo": "X-HIPRO 362EP-5",
+      "descModeloStd": "X-HIPRO ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006670"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333305",
+      "descModelo": "X HIPRO 1058 E 10",
+      "descModeloStd": "X HIPRO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008252"
+    }
+  }
+]

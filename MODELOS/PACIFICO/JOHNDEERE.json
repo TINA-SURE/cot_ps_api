@@ -1,0 +1,434 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "EXCAVADORA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 42,
+    "keyClaseVeh": "excavator",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334738",
+      "descModelo": "310SL E",
+      "descModeloStd": "310 SL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324468",
+      "descModelo": "TRACTOR",
+      "descModeloStd": "TRACTOR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRACTOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 33,
+    "keyClaseVeh": "tractor",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0018087",
+      "descModelo": "7710",
+      "descModeloStd": "7710",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324489",
+      "descModelo": "6165J\t\t\t\t\t CM",
+      "descModeloStd": "6165J\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331526",
+      "descModelo": "6706",
+      "descModeloStd": "6706",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329195",
+      "descModelo": "5715",
+      "descModeloStd": "5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326694",
+      "descModelo": "310D",
+      "descModeloStd": "3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTO NIVELADORA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 36,
+    "keyClaseVeh": "grader",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334645",
+      "descModelo": "670G",
+      "descModeloStd": "670G",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0018082",
+      "descModelo": "7210",
+      "descModeloStd": "7210",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264905",
+      "descModelo": "510D",
+      "descModeloStd": "510",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010158"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229613",
+      "descModelo": "640G",
+      "descModeloStd": "640G",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001098"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328751",
+      "descModelo": "510-D",
+      "descModeloStd": "510",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329194",
+      "descModelo": "8100 C",
+      "descModeloStd": "8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270565",
+      "descModelo": "640G-III TC",
+      "descModeloStd": "640G-III TC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003163"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328845",
+      "descModelo": "644 K",
+      "descModeloStd": "644",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331527",
+      "descModelo": "444K",
+      "descModeloStd": "444K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324488",
+      "descModelo": "82656R",
+      "descModeloStd": "82656R",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326729",
+      "descModelo": "310D T",
+      "descModeloStd": "310D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334035",
+      "descModelo": "444 DT/CAB.",
+      "descModeloStd": "444 DT/CAB.",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334340",
+      "descModelo": "310 SL",
+      "descModeloStd": "310 SL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268693",
+      "descModelo": "310SL",
+      "descModeloStd": "310SL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002024"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CARGADOR FRONTAL",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 35,
+    "keyClaseVeh": "frontLoader",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335116",
+      "descModelo": "444 DT/CAB",
+      "descModeloStd": "444",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332936",
+      "descModelo": "510D CC",
+      "descModeloStd": "510D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265238",
+      "descModelo": "300D",
+      "descModeloStd": "300D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009830"
+    }
+  }
+]

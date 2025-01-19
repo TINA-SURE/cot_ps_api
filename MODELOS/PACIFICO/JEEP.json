@@ -1,0 +1,2720 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0175909",
+      "descModelo": "WAGONEER",
+      "descModeloStd": "WAGONEER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003732"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0186286",
+      "descModelo": "GRAND CHEROKEE SRT",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006293"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233144",
+      "descModelo": "WRANGLER 3.8",
+      "descModeloStd": "WRANGLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000742"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0000123",
+      "descModelo": "WRANGLER SPORT 4.0 AUT.",
+      "descModeloStd": "WRANGLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000730"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BI",
+      "descModelo": "GRAND CHEROKEE 4.0 (184 HP)",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000718"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323749",
+      "descModelo": "COMPASS LONGITUDE",
+      "descModeloStd": "COMPASS LONGITUDE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004960"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331895",
+      "descModelo": "WRANGLER SAHARA",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007459"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0005184",
+      "descModelo": "GRAND CHEROKEE LAREDO",
+      "descModeloStd": "GRAND CHEROKEE LAREDO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002283"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333720",
+      "descModelo": "WRANGLER SAHARA PICK UP",
+      "descModeloStd": "WRANGLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323872",
+      "descModelo": "WRANGLER 3.8 V. AMERICANA",
+      "descModeloStd": "WRANGLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004931"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193670",
+      "descModelo": "GRAND CHEROKEE LIMITED HEMI 6.1",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001898"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270354",
+      "descModelo": "PATRIOT LIMITED 2.4L 4X4 AT -SUV",
+      "descModeloStd": "PATRIOT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003189"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188573",
+      "descModelo": "COMMANDER LIMITED 4.7 V8",
+      "descModeloStd": "COMMANDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000741"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323747",
+      "descModelo": "CIELO BX",
+      "descModeloStd": "CIELO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233142",
+      "descModelo": "GRAND CHEROKEE LIMITED 5.7 HEMI",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000737"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263785",
+      "descModelo": "CHEROKEE LONGITUDE",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003926"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0013197",
+      "descModelo": "GRAND CHEROKEE LIMITED 4X4",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010605"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233212",
+      "descModelo": "COMPASS 2.4 4X2",
+      "descModeloStd": "COMPASS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000745"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233211",
+      "descModelo": "CHEROKEE 3.7  (2008)",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000744"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BD",
+      "descModelo": "CHEROKEE 2.5",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000713"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0176670",
+      "descModelo": "NEW CHEROKEE SPORT",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003330"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0000122",
+      "descModelo": "CHEROKEE LIMITED 2.8 TDI",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000729"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0028708",
+      "descModelo": "CHEROKEE SPORT 4WD",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002659"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196233",
+      "descModelo": "COMPASS LIMITED",
+      "descModeloStd": "COMPASS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001937"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267446",
+      "descModelo": "CHEROKEE LONGITUDE 4X4",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001385"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267728",
+      "descModelo": "LONGITUDE",
+      "descModeloStd": "LONGITUDE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001542"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323684",
+      "descModelo": "EUROLIMITED RURAL",
+      "descModeloStd": "EUROLIMITED",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333346",
+      "descModelo": "COMMANDER OVERLAND",
+      "descModeloStd": "COMMANDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334573",
+      "descModelo": "GLADIATOR RUBICON",
+      "descModeloStd": "GLADIATOR RUBICON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009043"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BL",
+      "descModelo": "GRAND CHEROKEE 5.2",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000721"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BJ",
+      "descModelo": "GRAND CHEROKEE 4.0 (198 HP)",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000719"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233140",
+      "descModelo": "CHEROKEE SPORT (LIBERTY) 2.5 TDI",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000728"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327509",
+      "descModelo": "Q3 2.0 TFSI\t\t\t\t\t",
+      "descModeloStd": "Q3 2,0 TFSI\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005988"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323721",
+      "descModelo": "1300",
+      "descModeloStd": "1300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270520",
+      "descModelo": "PATRIOT SPORT",
+      "descModeloStd": "PATRIOT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006277"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326086",
+      "descModelo": "COMANCHE UP",
+      "descModeloStd": "COMANCHE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AI",
+      "descModelo": "CJ-5",
+      "descModeloStd": "CJ-5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AV",
+      "descModelo": "WAGONEER LIMITED",
+      "descModeloStd": "WAGONEER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327835",
+      "descModelo": "WAGONER UP",
+      "descModeloStd": "WAGONER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324378",
+      "descModelo": "COMANCHE PICK UP",
+      "descModeloStd": "COMANCHE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193668",
+      "descModelo": "GRAND CHEROKEE LIMITED 3.6",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001896"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233134",
+      "descModelo": "GRAND CHEROKEE 4.7 LIMITED",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000720"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266965",
+      "descModelo": "CHEROKEE SPORT 4X2 2.4L AT",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262139",
+      "descModelo": "COMPASS 2.0 4X2",
+      "descModeloStd": "COMPASS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001682"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0015098",
+      "descModelo": "GRAND CHEROKEE LAREDO 3.7",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000735"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331762",
+      "descModelo": "WRANGLER YJ RURAL",
+      "descModeloStd": "WRANGLER YJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0204743",
+      "descModelo": "WRANGLER UNLIMITED RUBICON",
+      "descModeloStd": "WRANGLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001358"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233216",
+      "descModelo": "CHEROKEE SPORT 3.7 ",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002170"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193667",
+      "descModelo": "GRAND CHEROKEE LAREDO 3.6",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001895"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0014927",
+      "descModelo": "GRAND CHEROKEE LIMITED 2.7 TDI",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000731"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0247426",
+      "descModelo": "LIMITED 4X4",
+      "descModeloStd": "LIMITED 4X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002937"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187586",
+      "descModelo": "COMPASS 4X4",
+      "descModeloStd": "COMPASS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010423"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "14",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329534",
+      "descModelo": "YUMBA 2.8",
+      "descModeloStd": "YUMBA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AB",
+      "descModelo": "CHEROKEE",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001383"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271159",
+      "descModelo": "LIBERTY V AMERICANA",
+      "descModeloStd": "LIBERTY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003466"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270251",
+      "descModelo": "COMPAS LIMITED 4 X 4",
+      "descModeloStd": "COMPASS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003044"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188572",
+      "descModelo": "PATRIOT",
+      "descModeloStd": "PATRIOT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000739"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267675",
+      "descModelo": "COMPASS LIMITED 4X4 2.4L A/T",
+      "descModeloStd": "COMPASS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001509"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233137",
+      "descModelo": "WRANGLER 4.0",
+      "descModeloStd": "WRANGLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000725"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188571",
+      "descModelo": "COMMANDER",
+      "descModeloStd": "COMMANDER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000738"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321122",
+      "descModelo": "WRANGLER SPORT SED",
+      "descModeloStd": "WRANGLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273438",
+      "descModelo": "COMPAS LIMITED",
+      "descModeloStd": "COMPASS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004354"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231900",
+      "descModelo": "CHEROKEE LIMITED 3.7  (2011)",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002171"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332261",
+      "descModelo": "J8 R",
+      "descModeloStd": "J8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233217",
+      "descModelo": "GRAND CHEROKEE OVERLAND 5.7 ",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002172"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233139",
+      "descModelo": "CHEROKEE SPORT (LIBERTY) 2.4 16V",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000726"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326094",
+      "descModelo": "CHEROKEE UP",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "3",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328792",
+      "descModelo": "J8",
+      "descModeloStd": "J8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271179",
+      "descModelo": "PASSENGER",
+      "descModeloStd": "PASSENGER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233135",
+      "descModelo": "WRANGLER 2.5",
+      "descModeloStd": "WRANGLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000723"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000XY",
+      "descModelo": "RENEGADE",
+      "descModeloStd": "RENEGADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003498"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265128",
+      "descModelo": "GRAND CHEROKEE V.AMERICANA",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010370"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0001201",
+      "descModelo": "CHEROKEE LIMITED 3.7",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000734"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265868",
+      "descModelo": "CHEROKEE TRAILHAWK",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002282"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272074",
+      "descModelo": "COMPASS SPORT 2.0",
+      "descModeloStd": "COMPASS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003891"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BF",
+      "descModelo": "CHEROKEE 4.0",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000716"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233213",
+      "descModelo": "PATRIOT 2.4 4X4",
+      "descModeloStd": "PATRIOT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000746"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320031",
+      "descModelo": "UNIVERSAL RURAL",
+      "descModeloStd": "UNIVERSAL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0243655",
+      "descModelo": "YJ-JL775",
+      "descModeloStd": "YJ-JL775",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AQ",
+      "descModelo": "LAREDO",
+      "descModeloStd": "LAREDO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268922",
+      "descModelo": "COMPASS 4X2",
+      "descModeloStd": "COMPASS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002171"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325212",
+      "descModelo": "RENEGADE SPORT",
+      "descModeloStd": "RENEGADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005269"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0184041",
+      "descModelo": "COMPASS SPORT",
+      "descModeloStd": "COMPASS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010625"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266615",
+      "descModelo": "GRAND CHEROKEE SRT 8",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A3",
+      "descModelo": "CHEROKEE LONGITUDE 2.4L FWD",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001894"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233143",
+      "descModelo": "WRANGLER RUBICON 3.8 V6",
+      "descModeloStd": "WRANGLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000740"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0185063",
+      "descModelo": "CHEROKEE 3.7",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327130",
+      "descModelo": "CHEROKEE LAREDO AS",
+      "descModeloStd": "CHEROKEE LAREDO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323111",
+      "descModelo": "M-YJ",
+      "descModeloStd": "M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325004",
+      "descModelo": "GRAND CHEROKEE TRACKHAWK 6.2L",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005220"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0179636",
+      "descModelo": "GRAND CHEROKEE SRT8",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004928"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325886",
+      "descModelo": "GRAND CHEROKEE SRT8 6.4L A/T",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005475"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231899",
+      "descModelo": "CHEROKEE SPORT (LIBERTY) 3.7 V6",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000727"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0052216",
+      "descModelo": "COMPASS",
+      "descModeloStd": "COMPASS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002845"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324106",
+      "descModelo": "HVJB",
+      "descModeloStd": "HVJB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0169899",
+      "descModelo": "LIBERTY",
+      "descModeloStd": "LIBERTY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009421"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273942",
+      "descModelo": "J-10",
+      "descModeloStd": "J-10",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004482"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320501",
+      "descModelo": "CANDF",
+      "descModeloStd": "CANDF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270252",
+      "descModelo": "COMPASS LIMITED 4 X 4",
+      "descModeloStd": "COMPASS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003045"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334681",
+      "descModelo": "RUBICON",
+      "descModeloStd": "RUBICON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233215",
+      "descModelo": "WRANGLER 3.6",
+      "descModeloStd": "WRANGLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000002050"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328807",
+      "descModelo": "COMPASS SPORT 4X2 2.0 L\t\t\t\t\t",
+      "descModeloStd": "COMPASS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006414"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268696",
+      "descModelo": "CHEROKEE OVERLAND",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002074"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326636",
+      "descModelo": "GRAND CHEROKEE 5.7L V8",
+      "descModeloStd": "GRAND CHEROKEE 5.7L V8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327550",
+      "descModelo": "A1 1.4",
+      "descModeloStd": "A1 1.4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006007"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A5",
+      "descModelo": "GRAND CHEROKEE OVERLAND",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000732"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270345",
+      "descModelo": "RENEGADE LONGITUDE",
+      "descModeloStd": "RENEGADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003622"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0015297",
+      "descModelo": "GRAND CHEROKEE LIMITED 5.7",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003890"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266618",
+      "descModelo": "CHEROKEE LIMITED 2.5",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000905"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CF",
+      "descModelo": "GRAND WAGONEER",
+      "descModeloStd": "GRAND WAGONEER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263963",
+      "descModelo": "MYJ",
+      "descModeloStd": "MYJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000713"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233141",
+      "descModelo": "COMPASS 2.4",
+      "descModeloStd": "COMPASS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000736"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331982",
+      "descModelo": "GRAND CHEROKEE LAREDO",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007495"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273450",
+      "descModelo": "VIASA HUCJ 3B 1.2",
+      "descModeloStd": "VIASA HUCJ 3B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AE",
+      "descModelo": "CHEROKEE LIMITED",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001225"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332453",
+      "descModelo": "HUCJ3B RURAL",
+      "descModeloStd": "HUCJ3B",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0181587",
+      "descModelo": "GRAND CHEROKEE LIMITED",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001761"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0017226",
+      "descModelo": "GRAND CHEROKEE",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002512"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323280",
+      "descModelo": "EAGLE RURAL",
+      "descModeloStd": "EAGLE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266530",
+      "descModelo": "GRAND CHEROKEE OVERLAND 4X4 3.6L",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000789"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269865",
+      "descModelo": "RENEGADE LONGITUDE / B1JM74",
+      "descModeloStd": "RENEGADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002846"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267404",
+      "descModelo": "CHEROLEE CLASSIC",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001369"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328947",
+      "descModelo": "J8 CR",
+      "descModeloStd": "J8",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268240",
+      "descModelo": "CHEROKEE LONGITUDE 2.4L 4X2",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001808"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233210",
+      "descModelo": "WRANGLER RUBICON UNLIMITED 3.8",
+      "descModeloStd": "WRANGLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000743"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264106",
+      "descModelo": "COMPASS 2.4 VERSION AMERICANA",
+      "descModeloStd": "COMPASS ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000020003"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178231",
+      "descModelo": "WRANGLER UNLIMITED 4X4",
+      "descModeloStd": "WRANGLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001938"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326244",
+      "descModelo": "J-10 UP",
+      "descModeloStd": "J-10",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331906",
+      "descModelo": "RENEGATE",
+      "descModeloStd": "RENEGADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007465"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328198",
+      "descModelo": "S3",
+      "descModeloStd": "SRBF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006231"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265131",
+      "descModelo": "LIBERTY V.AMERICANA",
+      "descModeloStd": "LIBERTY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010371"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AG",
+      "descModelo": "CHEROKEE SPORT",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003998"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0193669",
+      "descModelo": "GRAND CHEROKEE LIMITED HEMI 5.7",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000001897"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269657",
+      "descModelo": "GRAND CHEROKEE LAREDO 4X4 3.6L A/T",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002759"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274138",
+      "descModelo": "CHEROKEE V.AMERICANA",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004515"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0013480",
+      "descModelo": "CHEROKEE SPORT 2.8 TDI",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000733"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326595",
+      "descModelo": "SPORT 4WD",
+      "descModeloStd": "SPORT 4WD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005673"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330954",
+      "descModelo": "GLADIATOR",
+      "descModeloStd": "GLADIATOR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006959"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0181759",
+      "descModelo": "DFA1102GZ5AD6",
+      "descModeloStd": "DFA1102GZ5AD6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004260"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267093",
+      "descModelo": "PATRIOT V. AMERICANA",
+      "descModeloStd": "PATRIOT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001193"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219534",
+      "descModelo": "PATRIOT LIMITED",
+      "descModeloStd": "PATRIOT",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001175"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331005",
+      "descModelo": "GLADIATOR RUBICON",
+      "descModeloStd": "GLADIATOR RUBICON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0233214",
+      "descModelo": "GRAND CHEROKEE LIMITED 3.7",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000000747"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0173550",
+      "descModelo": "WRANGLER RUBICON",
+      "descModeloStd": "WRANGLER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005766"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329498",
+      "descModelo": "COMPASS A",
+      "descModeloStd": "COMPASS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323260",
+      "descModelo": "RENEGADE SPORT",
+      "descModeloStd": "RENEGADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326183",
+      "descModelo": "PIONER RURAL",
+      "descModeloStd": "PIONER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269229",
+      "descModelo": "GRAND CHEROKEE LAREDO 4X2 3.6L AT",
+      "descModeloStd": "GRAND CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002446"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323583",
+      "descModelo": "COMANDO SEDAN",
+      "descModeloStd": "COMANDO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0041296",
+      "descModelo": "CHEROKEE",
+      "descModeloStd": "CHEROKEE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001383"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323455",
+      "descModelo": "RENEGADE RURAL",
+      "descModeloStd": "RENEGADE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009614"
+    }
+  }
+]

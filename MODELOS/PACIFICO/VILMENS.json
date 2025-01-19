@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332527",
+      "descModelo": "VILLANO TC",
+      "descModeloStd": "VILLANO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007828"
+    }
+  }
+]

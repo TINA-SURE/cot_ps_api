@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325965",
+      "descModelo": "DS4",
+      "descModeloStd": "DS4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005500"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "HATCHBACK",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 34,
+    "keyTipoVeh": "hatchback",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325488",
+      "descModelo": "DS3",
+      "descModeloStd": "DS3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006359"
+    }
+  }
+]

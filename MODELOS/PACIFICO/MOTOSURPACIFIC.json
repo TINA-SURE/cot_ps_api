@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331741",
+      "descModelo": "MSP 125 TRIMOTO",
+      "descModeloStd": "MSP 125",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006750"
+    }
+  }
+]

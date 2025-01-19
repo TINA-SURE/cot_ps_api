@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268842",
+      "descModelo": "B100",
+      "descModeloStd": "B100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002103"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "MICROBUS",
+    "claseVeh": "MICROBUS",
+    "numPue": "2",
+    "idTipoVeh": 101,
+    "keyTipoVeh": "microbus",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329219",
+      "descModelo": "KINGO D17 AC",
+      "descModeloStd": "KINGO ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006545"
+    }
+  },
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320510",
+      "descModelo": "BAW",
+      "descModeloStd": "BAW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004600"
+    }
+  }
+]

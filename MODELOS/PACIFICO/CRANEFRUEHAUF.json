@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265509",
+      "descModelo": "SK30F2E",
+      "descModeloStd": "SK30F2E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004236"
+    }
+  }
+]

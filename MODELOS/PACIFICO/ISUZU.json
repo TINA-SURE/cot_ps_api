@@ -1,0 +1,5060 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273312",
+      "descModelo": "NKR 1.2",
+      "descModeloStd": "NKR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270406",
+      "descModelo": "NPR75L-KL5VAYN 1.2",
+      "descModeloStd": "NPR75L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333314",
+      "descModelo": "JNPR452OPAZ.N1 - NPR",
+      "descModeloStd": "JNPR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008257"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274015",
+      "descModelo": "P-NKR57 EVN",
+      "descModeloStd": "P-NKR57",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269056",
+      "descModelo": "6HK1-494533",
+      "descModeloStd": "6HK1-494533",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002264"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228782",
+      "descModelo": "NQR",
+      "descModeloStd": "NQR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323438",
+      "descModelo": "NPR75L-KL5VAYPEN",
+      "descModeloStd": "NPR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0249115",
+      "descModelo": "STARTECH",
+      "descModeloStd": "STARTECH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229058",
+      "descModelo": "S/M",
+      "descModeloStd": "S/M",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324594",
+      "descModelo": "ELF 250 C",
+      "descModeloStd": "ELF 250",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326800",
+      "descModelo": "FTR34SL-PDPEN RE",
+      "descModeloStd": "FTR34SL-PDPEN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "QUILLA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 29,
+    "keyTipoVeh": "keel",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332482",
+      "descModelo": "NLR55L - EE1AY",
+      "descModeloStd": "NLR55L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328313",
+      "descModelo": "NMR85L-HH5AYPE CF",
+      "descModeloStd": "NMR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269514",
+      "descModelo": "NPS75L-HJ5VAYPEN",
+      "descModeloStd": "NPS75L-HJ5VAYPEN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002665"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330701",
+      "descModelo": "P-FRR12DD  B",
+      "descModeloStd": "P-FRR12DD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325264",
+      "descModelo": "ZWD PICK",
+      "descModeloStd": "ZWD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010267"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0287191",
+      "descModelo": "P-NPR57LN",
+      "descModeloStd": "P-NPR57LN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273101",
+      "descModelo": " NPR65P-02 1.2",
+      "descModeloStd": "NPR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AD",
+      "descModelo": "FARGO",
+      "descModeloStd": "FARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0238233",
+      "descModelo": "TRUCK",
+      "descModeloStd": "TRUCK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320306",
+      "descModelo": "NLR55L-EE1AY CAM",
+      "descModeloStd": "NLR55L-EE1AY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0192302",
+      "descModelo": "NLR55L-EE1AY",
+      "descModeloStd": "NLR55L-EE1AY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010267"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000WR",
+      "descModelo": "ELF-250",
+      "descModeloStd": "ELF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331702",
+      "descModelo": "NPR85L-HH5AYPE",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007347"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320650",
+      "descModelo": "FTR34SL",
+      "descModeloStd": "FTR34SL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327808",
+      "descModelo": "TROOPER SUV",
+      "descModeloStd": "TROOPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327387",
+      "descModelo": "NMR85LHH5AYPE CB",
+      "descModeloStd": "NMR85LHH5AYPE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266590",
+      "descModelo": "NPS75L",
+      "descModeloStd": "NPS75L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BOMBA HORMIGONERA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 197,
+    "keyTipoVeh": "concreteMixerBomb",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330942",
+      "descModelo": "CYZ 51Q",
+      "descModeloStd": "CYZ ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006953"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AS",
+      "descModelo": "RODEO",
+      "descModeloStd": "RODEO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331154",
+      "descModelo": "TRUCK P FRR11LA",
+      "descModeloStd": "TRUCK P FRR11LA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270975",
+      "descModelo": "NKR5511 54X4",
+      "descModeloStd": "NKR5511",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BOMBA HORMIGONERA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 197,
+    "keyTipoVeh": "concreteMixerBomb",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334238",
+      "descModelo": "CYZ 51Q BH",
+      "descModeloStd": "CYZ 51Q",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0235533",
+      "descModelo": "QL1090TMARY",
+      "descModeloStd": "QL1090TMARY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333372",
+      "descModelo": "12KLTMH787SLB",
+      "descModeloStd": "12KLTMH787SLB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267782",
+      "descModelo": "REWARD 500 - EURO III",
+      "descModeloStd": "REWARD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001565"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219271",
+      "descModelo": "NLR55L-EE1AY",
+      "descModeloStd": "NLR55L-EE1AY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333060",
+      "descModelo": "CHANGER-WFR12F-12 PN",
+      "descModeloStd": "CHANGER-WFR12F-12",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "HOSPITAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "11",
+    "idTipoVeh": 210,
+    "keyTipoVeh": "hospital",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095808",
+      "descModelo": "BL36",
+      "descModeloStd": "BL36",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323932",
+      "descModelo": "NPR-NA3 PICK UP",
+      "descModeloStd": "NPR-NA3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333034",
+      "descModelo": "NLR  3TON/NLR85L",
+      "descModeloStd": "NLR 3TON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008082"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0195372",
+      "descModelo": "FORWARD 800",
+      "descModeloStd": "FORWARD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010261"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324191",
+      "descModelo": "NPR 4 TON",
+      "descModeloStd": "NPR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004986"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324192",
+      "descModelo": "FTR 10 TON",
+      "descModeloStd": "FTR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004987"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322922",
+      "descModelo": "FSR113NL",
+      "descModeloStd": "FSR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191288",
+      "descModelo": "FVR34UL-QDEDS",
+      "descModeloStd": "FVR34UL-QDEDS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003125"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333093",
+      "descModelo": "NLR 3TON/NLR85L-EE1AYPE E4",
+      "descModeloStd": "NLR55L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008106"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330394",
+      "descModelo": "EXZ51KLX3T17S36 CAMION",
+      "descModeloStd": "EX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266159",
+      "descModelo": "FVR34UL-QDPES",
+      "descModeloStd": "FVR34UL-QDPES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011048"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330467",
+      "descModelo": "FVR13HLX17 CAMION",
+      "descModeloStd": "FVR13HLX17",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265209",
+      "descModelo": "FSR 11 F-02",
+      "descModeloStd": "FSR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330832",
+      "descModelo": "NQR90L-MQ5VAYPEN",
+      "descModeloStd": "NQR90L-MQ5VAYPEN-K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006902"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273126",
+      "descModelo": " FORWARD INTER L200",
+      "descModeloStd": " FORWARD INTER L200",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325390",
+      "descModelo": "UBS13FLK RURAL",
+      "descModeloStd": "UBS13FLK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330958",
+      "descModelo": "JAAN1R90MM7100030",
+      "descModeloStd": "JAAN1R90MM7100030",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006962"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334270",
+      "descModelo": "FTR34UL-PDPEN R",
+      "descModeloStd": "FTR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190289",
+      "descModelo": "FRR90SL-MAS",
+      "descModeloStd": "FRR90SL-MAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002536"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330691",
+      "descModelo": "FVR 13 TON - EURO IV",
+      "descModeloStd": "FVR ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006814"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0318776",
+      "descModelo": "P-FSR12FA",
+      "descModeloStd": "P-FSR12FA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267041",
+      "descModelo": "NPS75LHJ5VAYN",
+      "descModeloStd": "NPS75LHJ5VAYN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001184"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324288",
+      "descModelo": "JAACL41L PICK",
+      "descModeloStd": "JAACL41L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330634",
+      "descModelo": "TRUK\t\t\t\t\t",
+      "descModeloStd": "TRUCK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006784"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "FURGON ISOTERMICO",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 33,
+    "keyTipoVeh": "isothermalVan",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00&77",
+      "descModelo": "NQRL90L",
+      "descModeloStd": " NPR65P-02",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "1",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320801",
+      "descModelo": "TFS6SFAH/JE",
+      "descModeloStd": "TFS6SFAH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273899",
+      "descModelo": "K-SGR450",
+      "descModeloStd": "K-",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333950",
+      "descModelo": "FRR. MAS",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008630"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335108",
+      "descModelo": "JFTR678OPPA.S1 - FTR",
+      "descModeloStd": "JFRR452OPO8 H1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009323"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188837",
+      "descModelo": "HFC1134KR1",
+      "descModeloStd": "HFC1134KR1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002704"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268237",
+      "descModelo": "HFC1030K",
+      "descModeloStd": "HFC1030K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001804"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0225988",
+      "descModelo": "4X2",
+      "descModeloStd": "4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002740"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327204",
+      "descModelo": "R-400 DT EURO 4 2018",
+      "descModeloStd": "R",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332393",
+      "descModelo": "JNPR452OPA4 NPR",
+      "descModeloStd": "JNPR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007751"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335156",
+      "descModelo": "JNLR430OPA3.S1 - NLR",
+      "descModeloStd": "JNPR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009349"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0022384",
+      "descModelo": "MU",
+      "descModeloStd": "MU",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324109",
+      "descModelo": "FRR90SL-MAS CISTERNA",
+      "descModeloStd": "FRR90SL-MAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272426",
+      "descModelo": "NPR75LHLSVAYPEN",
+      "descModeloStd": "NPR75LHLSVAYPEN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0313939",
+      "descModelo": "N-WFR53FVH",
+      "descModeloStd": "N-WFR53FVH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "FURGON ISOTERMICO",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 33,
+    "keyTipoVeh": "isothermalVan",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332429",
+      "descModelo": "FTR34SL-PDPEN FI",
+      "descModeloStd": "FTR34SL-PDPEN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273308",
+      "descModelo": "REWARD 500 4X2",
+      "descModeloStd": "REWARD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004314"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327769",
+      "descModelo": "500",
+      "descModeloStd": "500",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PLATAFORMA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 27,
+    "keyTipoVeh": "platform",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325638",
+      "descModelo": "FVZ34UL-TDPES C PL",
+      "descModeloStd": "FVZ34UL-TDPES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264286",
+      "descModelo": "FTR34SLPDPEN",
+      "descModeloStd": "FTR34SLPDPEN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010173"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271944",
+      "descModelo": "JALFVR347F7000904",
+      "descModeloStd": "JALFVR347F7000904",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327436",
+      "descModelo": "FVR CM",
+      "descModeloStd": "FVR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320879",
+      "descModelo": "FVZ34UL TDPES",
+      "descModeloStd": "FVZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333979",
+      "descModelo": "NQR90L-MQ5VAYPEN F PICK",
+      "descModeloStd": "NQR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189310",
+      "descModelo": "LF1025",
+      "descModeloStd": "LF1025",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000724"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273842",
+      "descModelo": "K-SDR450T",
+      "descModeloStd": "K-SDR450T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0319509",
+      "descModelo": "KB-26",
+      "descModeloStd": "KB-26",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326214",
+      "descModelo": "AMIGO CMTA",
+      "descModeloStd": "AMIGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "31",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328318",
+      "descModelo": "NPR75L-KL5VBYN OMNIBUS",
+      "descModeloStd": "NPR75L-KL5VBYN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328095",
+      "descModelo": "FV234UL-TDPES B",
+      "descModeloStd": "FV234UL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324708",
+      "descModelo": "FORWARD 1300/FVR34UL-QDPES-A6\t\t\t\t\t",
+      "descModeloStd": "FORWARD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005120"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326661",
+      "descModelo": "NLPR-NA\t\t\t\t\t",
+      "descModeloStd": "NLPR-NA\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005683"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328168",
+      "descModelo": "UBS-13-FLK",
+      "descModeloStd": "UBS-13-FLK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320032",
+      "descModelo": "PFRR11L",
+      "descModeloStd": "PFRR11L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270960",
+      "descModelo": "FORWARD 800 - EURO III",
+      "descModeloStd": "FORWARD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003345"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0187906",
+      "descModelo": "LF7132",
+      "descModeloStd": "LF7132",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004684"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268754",
+      "descModelo": "FVZ34SL TDS",
+      "descModeloStd": "FVZ34SL-TDS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327242",
+      "descModelo": "FASTER RODEO UP",
+      "descModeloStd": "FASTER RODEO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189757",
+      "descModelo": "NPR75LKL5VAYN",
+      "descModeloStd": "NPR75LKL5VAYN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010021"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265210",
+      "descModelo": "4HF1-2",
+      "descModeloStd": "4HF1-2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004483"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329233",
+      "descModelo": "FRR90SL-MAPES C",
+      "descModeloStd": "FRR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0170583",
+      "descModelo": "FARGO PANEL",
+      "descModeloStd": "FARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324509",
+      "descModelo": "NPS/75L-HJ5VAYPE",
+      "descModeloStd": "NPS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329082",
+      "descModelo": "RODEO SUV",
+      "descModeloStd": "RODEO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324324",
+      "descModelo": "EX\t\t\t\t\t",
+      "descModeloStd": "EX\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005032"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326291",
+      "descModelo": "23T2FBAD SD",
+      "descModeloStd": "23T2FBAD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332698",
+      "descModelo": "K-SGR450 B",
+      "descModeloStd": "K-SGR450",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS URBANO",
+    "numPue": "11",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 75,
+    "keyClaseVeh": "omniBusUrbano",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265211",
+      "descModelo": "BL36",
+      "descModeloStd": "BL36",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323931",
+      "descModelo": "JAACL PICK UP",
+      "descModeloStd": "JAACL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273923",
+      "descModelo": "NPS75I-HJ5VAYN",
+      "descModeloStd": "NPS75I-HJ5VAYN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004477"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BJ",
+      "descModelo": "IMARK",
+      "descModeloStd": "IMARK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "31",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333820",
+      "descModelo": "NPR75L-KL5VBYN MNIBUS",
+      "descModeloStd": "NPR75L-KL5VBYN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271247",
+      "descModelo": "NLR 3 TON - EURO IV",
+      "descModeloStd": "NLR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003518"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324695",
+      "descModelo": "V340",
+      "descModeloStd": "V340",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265512",
+      "descModelo": "NPR-11",
+      "descModeloStd": "NPR-11",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324370",
+      "descModelo": "NPR75LKL5VAYN CC",
+      "descModeloStd": "NPR75LKL5VAYN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322952",
+      "descModelo": "NPR59P",
+      "descModeloStd": "NPR59P",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320778",
+      "descModelo": "TFS54H08",
+      "descModeloStd": "TFS54H08",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325856",
+      "descModelo": "FORWARD 1300 EURO  III G",
+      "descModeloStd": "FORWARD 1300 EURO  III",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "QUILLA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 29,
+    "keyTipoVeh": "keel",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332457",
+      "descModelo": "FVR34UL-QDPES Q",
+      "descModeloStd": "FVR34UL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334515",
+      "descModelo": "ELF 250",
+      "descModeloStd": "ELF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009013"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0058667",
+      "descModelo": "TROPPER",
+      "descModeloStd": "TROPPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BC",
+      "descModelo": "FTS12",
+      "descModeloStd": "FTS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0221298",
+      "descModelo": "FVZ34UL-TDPES",
+      "descModeloStd": "FVZ34UL-TDPES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265276",
+      "descModelo": "FORWARD 1800",
+      "descModeloStd": "FORWARD 1800",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010429"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0250922",
+      "descModelo": "KB20",
+      "descModeloStd": "KB20",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334962",
+      "descModelo": "FRR90SL-MAPES CISTERNA",
+      "descModeloStd": "FRR90SL-MAPES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321167",
+      "descModelo": "TXD50",
+      "descModeloStd": "TXD50",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270637",
+      "descModelo": "REWARD 500-EURO II",
+      "descModeloStd": "REWARD 500-EURO II",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003178"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323237",
+      "descModelo": "4X2 PICK UP",
+      "descModeloStd": "4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330490",
+      "descModelo": "FVR 34UL-QDPES C",
+      "descModeloStd": "FVR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0230352",
+      "descModelo": "FSR32LL-X4N3T16S3",
+      "descModeloStd": "FSR32LL-X4N3T16S3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002658"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323122",
+      "descModelo": "SBR372BIN",
+      "descModeloStd": "SBR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272055",
+      "descModelo": "TFB 7CF 1.2",
+      "descModeloStd": "TFB 7CF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266577",
+      "descModelo": "FRR12H",
+      "descModeloStd": "FRR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320531",
+      "descModelo": "FVR34UL-QDEDS BARANDA",
+      "descModeloStd": "FVR34UL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274068",
+      "descModelo": "PUP",
+      "descModeloStd": "PUP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323832",
+      "descModelo": "NLR55L-EE1AY PICK",
+      "descModeloStd": "NLR55L-EE1AY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267017",
+      "descModelo": "FORWARD 1000-EURO III",
+      "descModeloStd": "FORWARD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001156"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266748",
+      "descModelo": "FRR90 SL-MAS",
+      "descModeloStd": "FRR90 SL-MAS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001005"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0335056",
+      "descModelo": "NQR90L-MQ5VAYPEN L",
+      "descModeloStd": "NQR90L-",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320868",
+      "descModelo": "FVZ34UL-TDPES REMOL",
+      "descModeloStd": "FVZ34UL-TDPES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "PLATAFORMA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 27,
+    "keyTipoVeh": "platform",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229855",
+      "descModelo": "FV234UL-TDPES",
+      "descModeloStd": "FV234UL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010265"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320121",
+      "descModelo": "P-NKR58EKA",
+      "descModeloStd": "P-NKR58EKA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000CD",
+      "descModelo": "FTR",
+      "descModeloStd": "BR116",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273572",
+      "descModelo": "FORWARD INTERCOOLER L-230",
+      "descModeloStd": "FORWARD INTERCOOLER L-230",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273872",
+      "descModelo": "FSR33FLX1653",
+      "descModeloStd": "FSR33FLX1653",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196619",
+      "descModelo": "NMR55LHH5AY",
+      "descModeloStd": "NMR55LHH5AY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000683"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271313",
+      "descModelo": "FRR90SL",
+      "descModeloStd": "FRR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003549"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334345",
+      "descModelo": "NPR 4 TON EURO IV",
+      "descModeloStd": "NPR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008872"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270978",
+      "descModelo": "REWARD 400DT - EURO III",
+      "descModeloStd": "REWARD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003355"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272393",
+      "descModelo": "D-100",
+      "descModeloStd": "D-100.",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331600",
+      "descModelo": "FTR",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007294"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320933",
+      "descModelo": "NPR",
+      "descModeloStd": "N",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0275504",
+      "descModelo": "TD-50-LC",
+      "descModeloStd": "TD-50-LC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "16",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0095797",
+      "descModelo": "FARGO",
+      "descModeloStd": "FARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004961"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0008674",
+      "descModelo": "BELLET",
+      "descModeloStd": "BELLET",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0315528",
+      "descModelo": "KS-22-LY",
+      "descModeloStd": "KS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0180715",
+      "descModelo": "TROOPER",
+      "descModeloStd": "TROOPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323236",
+      "descModelo": "4X2",
+      "descModeloStd": "4X2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196601",
+      "descModelo": "RODEO",
+      "descModeloStd": "RODEO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190533",
+      "descModelo": "FVZ34SL-TDS",
+      "descModeloStd": "FVZ34SL-TDS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011039"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327275",
+      "descModelo": "NPS75L CC",
+      "descModeloStd": "NPS75L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323532",
+      "descModelo": "TFB7SC P",
+      "descModeloStd": "TFB7SC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333445",
+      "descModelo": "JNPS452OPA4 P1 NPS",
+      "descModeloStd": "JNPR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008346"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269147",
+      "descModelo": "FORWARD 1000 - EURO III",
+      "descModeloStd": "FORWARD 1000 - EURO III",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002363"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0007529",
+      "descModelo": "STYLUS",
+      "descModeloStd": "STYLUS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267783",
+      "descModelo": "NPR4 TON EURO III",
+      "descModeloStd": "NPR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001566"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273321",
+      "descModelo": "TP80 1.2",
+      "descModeloStd": "TP80",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191834",
+      "descModelo": "NPS75L-HJ5VAYN",
+      "descModeloStd": "NPS75L-HJ5VAYN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271241",
+      "descModelo": "FTR34UL-PDPEN",
+      "descModeloStd": "FTR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003507"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0189688",
+      "descModelo": "NPR75L-KL5VAYN",
+      "descModeloStd": "NPR75L-KL5VAYN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001860"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0010649",
+      "descModelo": "NPR TURBO",
+      "descModeloStd": "NPR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001514"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331363",
+      "descModelo": "FRR",
+      "descModeloStd": "FRR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0008889",
+      "descModelo": "T-D",
+      "descModeloStd": "T-D",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229608",
+      "descModelo": "NMR85L-HH5AYPE",
+      "descModeloStd": "NMR85L-HH5AYPE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330171",
+      "descModelo": "NPR CAMION",
+      "descModeloStd": "NPR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331315",
+      "descModelo": "NQR 6.5 TON",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007141"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229162",
+      "descModelo": "NLPR-NA",
+      "descModeloStd": "NLPR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326793",
+      "descModelo": "NPR75L RE",
+      "descModeloStd": "NPR75L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328031",
+      "descModelo": "Q16 CAMION",
+      "descModeloStd": "Q16",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329353",
+      "descModelo": "NPR75LKL5VAYN\t\t\t\t\t",
+      "descModeloStd": "NPR75LKL5VAYN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006606"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000B5",
+      "descModelo": "ELF 150",
+      "descModeloStd": "ELF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272975",
+      "descModelo": "CPX 1.2",
+      "descModeloStd": "CPX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323283",
+      "descModelo": "W-WFRG2FV",
+      "descModeloStd": "W-WFRG2FV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321099",
+      "descModelo": "4HS12 CAMION",
+      "descModeloStd": "4HS12",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331252",
+      "descModelo": "EXZ51KLX3T17S36 C",
+      "descModeloStd": "EXZ51KLX3T17S36",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272989",
+      "descModelo": "FVR34UL-QDEDS 1.3",
+      "descModeloStd": "FVR34UL-QDEDS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267223",
+      "descModelo": "FVR34UL-QDPES REMOLCADOR",
+      "descModeloStd": "FVR34UL-QDPES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009593"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0226777",
+      "descModelo": "FORWARDL 230",
+      "descModeloStd": "FORWARDL 230",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0246248",
+      "descModelo": "D-100",
+      "descModeloStd": "D-100",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "FURGON ISOTERMICO",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 33,
+    "keyTipoVeh": "isothermalVan",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328236",
+      "descModelo": "NPR75LKL5VAYNPEN FI",
+      "descModeloStd": "NPR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333586",
+      "descModelo": "JFVR678OPPD.N1 – FVR",
+      "descModeloStd": "JFVR678OPPD.N1 – FVR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008402"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273085",
+      "descModelo": "FTR 34S",
+      "descModeloStd": "FTR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004253"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A7",
+      "descModelo": "LUV",
+      "descModeloStd": "LUV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001183"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331385",
+      "descModelo": "JALFRR90NM7000227",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007180"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273459",
+      "descModelo": "P KT26-ELF",
+      "descModeloStd": "P KT26-ELF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272018",
+      "descModelo": "IMPULSE 1.2",
+      "descModeloStd": "IMPULSE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334587",
+      "descModelo": "NPR75L-HL5VAYPEN B",
+      "descModeloStd": "NPR75L-HL5VAYPEN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0064216",
+      "descModelo": "ASKA",
+      "descModeloStd": "ASKA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264338",
+      "descModelo": "NMR55L HH5AY",
+      "descModeloStd": "NMR55L HH5AY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0040276",
+      "descModelo": "CL11",
+      "descModeloStd": "CL11",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270349",
+      "descModelo": "FVR32ML X3T17RS86",
+      "descModeloStd": "FVR32ML X3T17RS86",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003086"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269708",
+      "descModelo": "FTR34SL-PDPEN 1.2",
+      "descModeloStd": "FTR34SL-PDPEN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269463",
+      "descModelo": "NLR85LEE1AYPE",
+      "descModeloStd": "NLR85LEE1AYPE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002623"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191146",
+      "descModelo": "CUSTON VAN",
+      "descModeloStd": "CUSTON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332958",
+      "descModelo": "FRR CABINA CON LITERA -EURO IV",
+      "descModeloStd": "FRR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008034"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "4",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0025505",
+      "descModelo": "WIZARD",
+      "descModeloStd": "WIZARD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009364"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325241",
+      "descModelo": "NPR75L-KL5VAYPEN\t\t\t\t\t",
+      "descModeloStd": "NPR75L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005280"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323593",
+      "descModelo": "FARGO RURAL",
+      "descModeloStd": "FARGO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334300",
+      "descModelo": "JNPR452OPA5.R1 - NPR 5TON",
+      "descModeloStd": "JNPR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008845"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330370",
+      "descModelo": "NLPR-NA CAMION",
+      "descModeloStd": "NLPR-NA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264852",
+      "descModelo": "NMR85L-HH5AYPE",
+      "descModeloStd": "NMR85L-HH5AYPE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002764"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325862",
+      "descModelo": " I-MARK",
+      "descModeloStd": " I-MARK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0287132",
+      "descModelo": "EXR21C",
+      "descModeloStd": "EXR21C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271700",
+      "descModelo": "FVR13HLX17",
+      "descModeloStd": "FVR13HLX17",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AZ",
+      "descModelo": "TFB7SC",
+      "descModeloStd": "TFB7SC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006210"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0243343",
+      "descModelo": "SPACAB",
+      "descModeloStd": "SPACAB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273569",
+      "descModelo": "FORWARD 1300/FVR34UL-QDEDS",
+      "descModeloStd": "FORWARD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004401"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AU",
+      "descModelo": "TROOPER",
+      "descModeloStd": "TROOPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006366"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273596",
+      "descModelo": "FORWARD 1300 - EURO III",
+      "descModeloStd": "FORWARD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004407"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320974",
+      "descModelo": "FRR90SL-MAS V",
+      "descModeloStd": "FRR90",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270278",
+      "descModelo": "FORWARD 2000 - EURO III",
+      "descModeloStd": "FORWARD 2000 - EURO III",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003057"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323984",
+      "descModelo": "TRR90SL",
+      "descModeloStd": "TRR90SL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003549"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273061",
+      "descModelo": "TDH",
+      "descModeloStd": "TDH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0171800",
+      "descModelo": "GEMINI 1500 C/C",
+      "descModeloStd": "GEMINI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326453",
+      "descModelo": "NPR 82",
+      "descModeloStd": "NPR 82",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005649"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271385",
+      "descModelo": "NQR 1.2",
+      "descModeloStd": "NQR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329030",
+      "descModelo": "REWARD 300 VOL",
+      "descModeloStd": "REWARD 300",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329029",
+      "descModelo": "NPR4 TON EURO III VOL",
+      "descModeloStd": "NPR4 TON EURO III",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272824",
+      "descModelo": "EQ3252HT7",
+      "descModeloStd": "EQ3252HT7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0011755",
+      "descModelo": "NPR-NA",
+      "descModeloStd": "NPR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332695",
+      "descModelo": "FRR",
+      "descModeloStd": "FRR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007901"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323183",
+      "descModelo": "FVR34UL - QDPES CAMION",
+      "descModeloStd": "FVR34UL - QDPES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0322896",
+      "descModelo": "K-FS22ELF",
+      "descModeloStd": "K-FS22ELF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323023",
+      "descModelo": "FTR 10TON EUROIV",
+      "descModeloStd": "FTR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004756"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272421",
+      "descModelo": "NPR-HD",
+      "descModeloStd": "NPR-HD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267222",
+      "descModelo": "FTR34SL-PDN",
+      "descModeloStd": "FTR34SL-PDN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003754"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271826",
+      "descModelo": "ZWD 1.2",
+      "descModeloStd": "ZWD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321394",
+      "descModelo": "HFC1030K CAMION",
+      "descModeloStd": "HFC1030K",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329521",
+      "descModelo": "NQR BARANDA",
+      "descModeloStd": "NQR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0296919",
+      "descModelo": "FORWARD JUSTON",
+      "descModeloStd": "FORWARD JUSTON",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323182",
+      "descModelo": "FVR34UL - QDPES",
+      "descModeloStd": "FVR34UL - QDPES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325665",
+      "descModelo": "HOMBRE UP",
+      "descModeloStd": "HOMBRE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270403",
+      "descModelo": " NPR75L-KL5VAYN",
+      "descModeloStd": " NPR75L-KL5VAYN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326103",
+      "descModelo": "FORWARD/195",
+      "descModeloStd": "FORWARD/195",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P4",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0168475",
+      "descModelo": "K-BE-22",
+      "descModeloStd": "K-BE-22",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000711"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328045",
+      "descModelo": "FVZ34ULTDPES\t CC",
+      "descModeloStd": "FVZ34ULTDPES\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333286",
+      "descModelo": "NPS75L-HJ5VAYN",
+      "descModeloStd": "NPS75L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008238"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BD",
+      "descModelo": "CXZ",
+      "descModeloStd": "CXZ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000A1",
+      "descModelo": "V275",
+      "descModeloStd": "V275",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004045"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "PLATAFORMA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 27,
+    "keyTipoVeh": "platform",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327996",
+      "descModelo": "NPR 5 TON - EURO IV\t\t\t\t\t",
+      "descModeloStd": "NPR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006176"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PLATAFORMA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 27,
+    "keyTipoVeh": "platform",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324820",
+      "descModelo": "FVZ34SL-TDS CP",
+      "descModeloStd": "FVZ34SL-TDS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "21",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320968",
+      "descModelo": "BEZZL",
+      "descModeloStd": "BEZZL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332926",
+      "descModelo": "JFVR678OPPD.P1 - FVR",
+      "descModeloStd": "FVR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008023"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000BX",
+      "descModelo": "PF60K",
+      "descModeloStd": "PF",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320779",
+      "descModelo": "TFS6SFAH",
+      "descModeloStd": "TFS6SFAH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0043296",
+      "descModelo": "TFR16H-12",
+      "descModeloStd": "TFR16H-12",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329214",
+      "descModelo": "FRR90SL-MAPES BARANDA",
+      "descModeloStd": "FRR90SL-MAPES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272395",
+      "descModelo": "D-100 1.1",
+      "descModeloStd": "D-100 1.1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272523",
+      "descModelo": "TRACCION DOBLE 4X4",
+      "descModeloStd": "TRACCION DOBLE 4X4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320132",
+      "descModelo": "TLG-22",
+      "descModeloStd": "TLG-22",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0219831",
+      "descModelo": "J3",
+      "descModeloStd": "J3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003874"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269943",
+      "descModelo": "TROOPER CAMIONETA RURAL",
+      "descModeloStd": "TROOPER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "29",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332583",
+      "descModelo": "COASTER",
+      "descModeloStd": "COASTER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329604",
+      "descModelo": "TURBO NPR",
+      "descModeloStd": "TURBO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329028",
+      "descModelo": "REWARD CB",
+      "descModeloStd": "REWARD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328002",
+      "descModelo": "FVZ34ULTDPES CAMION",
+      "descModeloStd": "FVZ34ULTDPES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325779",
+      "descModelo": "FVZ34UL TDPES BARANDA",
+      "descModeloStd": "FVZ34UL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266655",
+      "descModelo": "NLR85L - EE1AYPE",
+      "descModeloStd": "NLR85L - EE1AYPE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329252",
+      "descModelo": "NQR6 TON",
+      "descModeloStd": "NQR",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006558"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325689",
+      "descModelo": "JFRR452OPO8 H1",
+      "descModeloStd": "JALFVR347F7000904",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005419"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329415",
+      "descModelo": "FV234UL-TDPES CM",
+      "descModeloStd": "FV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228175",
+      "descModelo": "MARK",
+      "descModeloStd": "MARK",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326942",
+      "descModelo": "2000 UP",
+      "descModeloStd": "2000",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333817",
+      "descModelo": "NPS 4 TON - EURO IV",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008546"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266330",
+      "descModelo": "NLR85-EE1AYPE",
+      "descModeloStd": "NLR85-EE1AYPE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000683"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229856",
+      "descModelo": "FVZ34ULTDPES",
+      "descModeloStd": "FVZ34ULTDPES",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010266"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "6",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0002803",
+      "descModelo": "BIGHORN",
+      "descModeloStd": "BIGHORN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009666"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228896",
+      "descModelo": "ZZ3253",
+      "descModeloStd": "ZZ3253",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009803"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0190911",
+      "descModelo": "Z21253N3841F",
+      "descModeloStd": "Z21253N3841F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000124"
+    }
+  }
+]

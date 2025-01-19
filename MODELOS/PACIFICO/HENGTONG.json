@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "OMNIBUS",
+    "numPue": "43",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333185",
+      "descModelo": "CKZ6998N5",
+      "descModeloStd": "CKZ6998N5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009797"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "OMNIBUS",
+    "claseVeh": "OMNIBUS",
+    "numPue": "44",
+    "idTipoVeh": 108,
+    "keyTipoVeh": "omnibus",
+    "idClaseVeh": 25,
+    "keyClaseVeh": "omnibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0229774",
+      "descModelo": "CKZ6127N3",
+      "descModeloStd": "CKZ6127N3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000117"
+    }
+  }
+]

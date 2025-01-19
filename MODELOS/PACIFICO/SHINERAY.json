@@ -1,0 +1,722 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326865",
+      "descModelo": "XY125-10 M",
+      "descModeloStd": "XY125-10",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321044",
+      "descModelo": "X30",
+      "descModeloStd": "X30",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004679"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328975",
+      "descModelo": "750LI RURAL",
+      "descModeloStd": "750LI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272159",
+      "descModelo": "XY110IV",
+      "descModeloStd": "XY110IV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324528",
+      "descModelo": "SY6420 ANDINA\t\t\t\t\t MULTI",
+      "descModeloStd": "SY6420 ANDINA\t\t\t\t\t",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334576",
+      "descModelo": "G05",
+      "descModeloStd": "SY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009045"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MINIBUS",
+    "numPue": "8",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 31,
+    "keyClaseVeh": "minibus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332084",
+      "descModelo": "X2",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007555"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0250754",
+      "descModelo": "SY6390A5SBW",
+      "descModeloStd": "SY6390A5SBW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003059"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324138",
+      "descModelo": "SY1020 RINO RURAL",
+      "descModeloStd": "SY1020 RINO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326462",
+      "descModelo": "XY200GY-6",
+      "descModeloStd": "XY200GY-6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268773",
+      "descModelo": " SY6420 ANDINA",
+      "descModeloStd": " SY6420 ANDINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "1",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232882",
+      "descModelo": "SY1020-C",
+      "descModeloStd": "SY1020-C",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000040"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266855",
+      "descModelo": "SY1020 RINO",
+      "descModeloStd": "SY1020 RINO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000001001057"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325704",
+      "descModelo": "750LI",
+      "descModeloStd": "750LI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324005",
+      "descModelo": "SY1020 PICK UP",
+      "descModeloStd": "SY1020",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263586",
+      "descModelo": "SY6420",
+      "descModeloStd": "SY6420",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222729",
+      "descModelo": "XY200GY",
+      "descModeloStd": "XY200GY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323447",
+      "descModelo": "750LI",
+      "descModeloStd": "750LI",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334326",
+      "descModelo": "MPV 750",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008864"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0276182",
+      "descModelo": "ANDINA",
+      "descModeloStd": "ANDINA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334790",
+      "descModelo": "T-50",
+      "descModeloStd": "T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009174"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0295435",
+      "descModelo": "SY5020",
+      "descModeloStd": "SY5020",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320324",
+      "descModelo": "SY6390A5SBW RURAL",
+      "descModeloStd": "SY6390A5SBW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328643",
+      "descModelo": "X30 RURAL",
+      "descModeloStd": "X30",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273763",
+      "descModelo": "SY5020-X",
+      "descModeloStd": "SY5020-X",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004452"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268898",
+      "descModelo": "SY6420 ANDINA",
+      "descModeloStd": "SY6420",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002148"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323152",
+      "descModelo": "DLCG12",
+      "descModeloStd": "DLCG12",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004788"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0210615",
+      "descModelo": "TRAKKER 720 T42T",
+      "descModeloStd": "TRAKKER",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010789"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329472",
+      "descModelo": "XY 250",
+      "descModeloStd": "XY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MICROBUS",
+    "numPue": "11",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334766",
+      "descModelo": "X30L MC",
+      "descModeloStd": "X30L",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327347",
+      "descModelo": "T52",
+      "descModeloStd": "T",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328224",
+      "descModelo": "T32",
+      "descModeloStd": "T32",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327867",
+      "descModelo": "X30 PANEL",
+      "descModeloStd": "X30",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004679"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0268896",
+      "descModelo": "SY6390 CHAVIN",
+      "descModeloStd": "SY6390 CHAVIN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002147"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271097",
+      "descModelo": "XY200G-6",
+      "descModeloStd": "XY200G-6",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326170",
+      "descModelo": "X30 MULTI",
+      "descModeloStd": "X30",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327012",
+      "descModelo": "SY6390A5SBW SUV",
+      "descModeloStd": "SY6390A5SBW",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326167",
+      "descModelo": "X30",
+      "descModeloStd": "X30",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004679"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265346",
+      "descModelo": "SY6370 CHAVIN",
+      "descModeloStd": "SY6370 CHAVIN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009893"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "11",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332766",
+      "descModelo": "X30L",
+      "descModeloStd": "X30",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007942"
+    }
+  }
+]

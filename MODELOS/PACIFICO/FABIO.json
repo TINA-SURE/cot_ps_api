@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329523",
+      "descModelo": "SGF-150",
+      "descModeloStd": "SGF TRIMOTO PASAJEROS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006649"
+    }
+  }
+]

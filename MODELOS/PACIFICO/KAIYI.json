@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333095",
+      "descModelo": "X3",
+      "descModeloStd": "X3 FULL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008108"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333303",
+      "descModelo": "X3 FULL",
+      "descModeloStd": "X3 FULL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008249"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324500",
+      "descModelo": "BPO 12-27K\t\t\t\t\t",
+      "descModeloStd": "BPO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005065"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324499",
+      "descModelo": "BPO 16-27Z\t\t\t\t\t",
+      "descModeloStd": "BPO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005064"
+    }
+  }
+]

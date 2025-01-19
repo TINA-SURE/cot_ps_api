@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333389",
+      "descModelo": "2000 HRGSL 4 60TXT",
+      "descModeloStd": "2000 hrgsl 4 60txt",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008309"
+    }
+  }
+]

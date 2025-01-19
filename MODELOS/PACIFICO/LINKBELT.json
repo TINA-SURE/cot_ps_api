@@ -1,0 +1,74 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0172807",
+      "descModelo": "HTC-830",
+      "descModeloStd": "HTC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009847"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "GRUA",
+    "claseVeh": "GRUA",
+    "numPue": "5",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 28,
+    "keyClaseVeh": "tow",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232698",
+      "descModelo": "HSP-25",
+      "descModeloStd": "HSP-25",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000156"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334411",
+      "descModelo": "LS 718",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008941"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267625",
+      "descModelo": "HTC",
+      "descModeloStd": "HTC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009847"
+    }
+  }
+]

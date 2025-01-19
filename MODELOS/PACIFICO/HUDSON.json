@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "7",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0000225",
+      "descModelo": "SUPER SIX",
+      "descModeloStd": "SUPER SIX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010813"
+    }
+  }
+]

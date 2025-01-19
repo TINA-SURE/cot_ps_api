@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267916",
+      "descModelo": "MIXKRET 4",
+      "descModeloStd": "MIXKRET 4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001642"
+    }
+  }
+]

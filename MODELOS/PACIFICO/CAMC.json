@@ -1,0 +1,812 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BOMBA HORMIGONERA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 197,
+    "keyTipoVeh": "concreteMixerBomb",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332646",
+      "descModelo": "HN5250P35C6M4GJB",
+      "descModeloStd": "HN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007875"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320519",
+      "descModelo": "HN5250P34C6M3GJB",
+      "descModeloStd": "HN5250P34C6M3GJB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0179917",
+      "descModelo": "HN4250G37CLM3 6X4",
+      "descModeloStd": "HN5250P35C6M3GJB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324337",
+      "descModelo": "HN3310P37C3M3 CM",
+      "descModeloStd": "HN3310P37C3M3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0181138",
+      "descModelo": "HN3220P37DLM",
+      "descModeloStd": "HN3220P37DLM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000093"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331615",
+      "descModelo": "HN1250P38E8M3J CISTERNA",
+      "descModeloStd": "HN1250P38E8M3J",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188386",
+      "descModelo": "V-375 HN3 230 P38D1M3",
+      "descModeloStd": "V-375 HN3 230 P38D1M3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000097"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332057",
+      "descModelo": "HN1310HB35CLM5J",
+      "descModeloStd": "HN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007546"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324328",
+      "descModelo": "HN3310P37C3M3",
+      "descModeloStd": "HN3310P37C3M3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273748",
+      "descModelo": "M-336GNV",
+      "descModeloStd": "M-336GNV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004446"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BOMBA HORMIGONERA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 197,
+    "keyTipoVeh": "concreteMixerBomb",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325097",
+      "descModelo": " HN5250P35C6M3GJB MEZCLADOR",
+      "descModeloStd": "HN5250P35C6M3GJB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000096"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0191492",
+      "descModelo": "HN3250P35C6M 3",
+      "descModeloStd": "HN3250P35C6M 3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000095"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264226",
+      "descModelo": "HN4250NGB38C8M4",
+      "descModeloStd": "HN4250NGB38C8M4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004591"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0180006",
+      "descModelo": "HN3250P35C6M3",
+      "descModeloStd": "HN3250P35C6M3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000095"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325012",
+      "descModelo": "M-336GNV GRUA",
+      "descModeloStd": "M-336GNV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331194",
+      "descModelo": "HN3250B35D4M5 VOL",
+      "descModeloStd": "HN3250B35D4M5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0183257",
+      "descModelo": "HN5250P35C6M3GJB",
+      "descModeloStd": "HN5250P35C6M3GJB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004942"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0324226",
+      "descModelo": "HN1250P38E8M3J G",
+      "descModeloStd": "HN1250P38E8M3J",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270714",
+      "descModelo": "AH5256GJB7",
+      "descModeloStd": "AH5256GJB7",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003209"
+    }
+  },
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323380",
+      "descModelo": "HN4250NGB38C9M5",
+      "descModeloStd": "HN4250NGB38C9M5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004831"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334158",
+      "descModelo": "HN3250B35D4M5",
+      "descModeloStd": "HN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "000013014452.5"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325021",
+      "descModelo": "HN5250P35C6M3GJB VOLQUETE",
+      "descModeloStd": "HN5250P35C6M3GJB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273753",
+      "descModelo": "HN3310P37C3M3 1.2",
+      "descModeloStd": "HN3310P37C3M3 1.2",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0188108",
+      "descModelo": "HN1250P38E8M3J",
+      "descModeloStd": "HN1250P38E8M3J",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000092"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320999",
+      "descModelo": "HN125P38E8M3JBN3",
+      "descModeloStd": "HN125P38E8M3JBN3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004674"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329358",
+      "descModelo": "HN3230P38D1M3 B",
+      "descModeloStd": "HN3230P38D1M3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330804",
+      "descModelo": "LZ5N2DD33KB008226",
+      "descModeloStd": "LZ5N2DD33KB008226",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006882"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329078",
+      "descModelo": "HN5250P34C6M3GJB\t\t\t\t\t",
+      "descModeloStd": "HN5250P34C6M3GJB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006502"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270046",
+      "descModelo": "M- 340",
+      "descModeloStd": "M- 340",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002935"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265101",
+      "descModelo": "HN5250P35C6M3GJ B",
+      "descModeloStd": "HN5250P35C6M3GJB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 59,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273949",
+      "descModelo": "HN3252A34D1M4",
+      "descModeloStd": "HN3252A34D1M4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004830"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0183943",
+      "descModelo": "HN3230P38D1M3",
+      "descModeloStd": "HN3230P38D1M3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003449"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0263257",
+      "descModelo": "HN322OP37DLM/2008",
+      "descModeloStd": "HN322OP37DLM/2008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "BOMBA HORMIGONERA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 197,
+    "keyTipoVeh": "concreteMixerBomb",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331520",
+      "descModelo": "HW5250P34C6M3",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007255"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272277",
+      "descModelo": "HN3220P37DLM/2008",
+      "descModeloStd": "HN3220P37DLM/2008",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "GRUA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 30,
+    "keyTipoVeh": "tow",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328381",
+      "descModelo": "HN5250P34C6M3GJB GRUA",
+      "descModeloStd": "HN5250P34C6M3GJB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273150",
+      "descModelo": "HN3310P37C3M3",
+      "descModeloStd": "HN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004274"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330741",
+      "descModelo": "M-350GNV C",
+      "descModeloStd": "M-350GNV",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334170",
+      "descModelo": "HN4250NGX38C9M5",
+      "descModeloStd": "HN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008767"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BOMBA HORMIGONERA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 197,
+    "keyTipoVeh": "concreteMixerBomb",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331894",
+      "descModelo": "HN1300HB35B7M5J",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007458"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0264368",
+      "descModelo": "HN3230P38D1M 3",
+      "descModeloStd": "HN3230P38D1M3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000094"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PLATAFORMA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 27,
+    "keyTipoVeh": "platform",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265508",
+      "descModelo": "HN1250P38E8M3J",
+      "descModeloStd": "HN1250P38E8M3J",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330916",
+      "descModelo": "HN CAMION",
+      "descModeloStd": "HN",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0267674",
+      "descModelo": "BJ3108DEPHD-S",
+      "descModeloStd": "BJ3108DEPHD-S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001508"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PLATAFORMA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 27,
+    "keyTipoVeh": "platform",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265752",
+      "descModelo": "HN1250P38E8M3 J",
+      "descModeloStd": "HN1250P38E8M3J",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009739"
+    }
+  }
+]

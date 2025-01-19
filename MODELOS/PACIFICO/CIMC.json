@@ -1,0 +1,146 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328263",
+      "descModelo": "FTBG-3-1 SEMI",
+      "descModeloStd": "FTBG-3-1",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003986"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CAMION",
+    "claseVeh": "CISTERNA",
+    "numPue": "0",
+    "idTipoVeh": 163,
+    "keyTipoVeh": "truck",
+    "idClaseVeh": 45,
+    "keyClaseVeh": "cistern",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0228527",
+      "descModelo": "ZJV5160GSSSD",
+      "descModeloStd": "ZJV5160GSSSD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000426"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232072",
+      "descModelo": "ZJV5251GJYSD",
+      "descModeloStd": "ZJV5251GJYSD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000101"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231705",
+      "descModelo": "ZJV9401TD",
+      "descModeloStd": "ZJV9401TD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003986"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334722",
+      "descModelo": "ZJV9401GFLTH",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009144"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265366",
+      "descModelo": "ZJV5251 GJYSD",
+      "descModeloStd": "ZJV5251GJYSD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010616"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327681",
+      "descModelo": "ZJV5160GJYSD\t\t\t\t\t",
+      "descModeloStd": "ZJ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006083"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "VOLQUETE",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 9,
+    "keyTipoVeh": "dumpTruck",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0265117",
+      "descModelo": "ZJV3255SX38",
+      "descModeloStd": "ZJV3255SX38",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000100"
+    }
+  }
+]

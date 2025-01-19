@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L4",
+    "tipoVeh": "PLATAFORMA",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 27,
+    "keyTipoVeh": "platform",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0232548",
+      "descModelo": "BAMALBFB 13SWO1",
+      "descModeloStd": "BAMALBFB ",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009284"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269002",
+      "descModelo": "S3PBR-SB",
+      "descModeloStd": "S3PBR-SB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10474"
+    }
+  }
+]

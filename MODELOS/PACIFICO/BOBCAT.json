@@ -1,0 +1,92 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334582",
+      "descModelo": "B730",
+      "descModeloStd": "B730",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006530"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "RETROEXCAVADORA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 41,
+    "keyClaseVeh": "backhoe",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331488",
+      "descModelo": "B730R",
+      "descModeloStd": "B730R",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006530"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334583",
+      "descModelo": "5-630",
+      "descModeloStd": "5-630",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006530"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332929",
+      "descModelo": "S-185 CC",
+      "descModeloStd": "S-185",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006530"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "1",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332914",
+      "descModelo": "S-185 CM",
+      "descModeloStd": "S-185",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006530"
+    }
+  }
+]

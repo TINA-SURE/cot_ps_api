@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328118",
+      "descModelo": "FG75A CC",
+      "descModeloStd": "FG75A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001501"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTO NIVELADORA",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 36,
+    "keyClaseVeh": "grader",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0006312",
+      "descModelo": "FG75A",
+      "descModeloStd": "F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010001501"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326218",
+      "descModelo": "HJ300ZH-A",
+      "descModeloStd": "HJ300ZH-A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005484"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329622",
+      "descModelo": "HJ250ZH-A",
+      "descModeloStd": "HJ250ZH-A",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005484"
+    }
+  }
+]

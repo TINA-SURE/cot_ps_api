@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L5",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "2",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334141",
+      "descModelo": "E6",
+      "descModeloStd": "E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008747"
+    }
+  }
+]

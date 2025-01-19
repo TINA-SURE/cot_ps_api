@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269472",
+      "descModelo": "KENBO S3",
+      "descModeloStd": "KENBO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002629"
+    }
+  }
+]

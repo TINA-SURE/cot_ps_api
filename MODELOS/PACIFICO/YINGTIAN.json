@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328789",
+      "descModelo": "OU100-4A",
+      "descModeloStd": "OU",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006411"
+    }
+  }
+]

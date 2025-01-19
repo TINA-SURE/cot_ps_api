@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "P5",
+    "tipoVeh": "MICROBUS",
+    "claseVeh": "MICROBUS",
+    "numPue": "14",
+    "idTipoVeh": 101,
+    "keyTipoVeh": "microbus",
+    "idClaseVeh": 27,
+    "keyClaseVeh": "microbus",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334744",
+      "descModelo": "SC6480PQ6B1",
+      "descModeloStd": "SC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009154"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0234766",
+      "descModelo": "SC1040KD",
+      "descModeloStd": "SC1040KD",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000792"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0222381",
+      "descModelo": "SC1023KD",
+      "descModeloStd": "SC",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010000792"
+    }
+  }
+]

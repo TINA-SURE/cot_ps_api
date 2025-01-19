@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272135",
+      "descModelo": "VM 6X2 R",
+      "descModeloStd": "VM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003912"
+    }
+  }
+]

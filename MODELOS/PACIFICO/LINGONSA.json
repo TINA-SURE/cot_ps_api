@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO PASAJEROS",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 78,
+    "keyClaseVeh": "trimotoPassenger",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331361",
+      "descModelo": "LASAC-00001-06-PE",
+      "descModeloStd": "LASAC-00001-06-PE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007169"
+    }
+  }
+]

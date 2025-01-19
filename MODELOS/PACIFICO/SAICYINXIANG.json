@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SUV",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 103,
+    "keyTipoVeh": "suv",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269101",
+      "descModelo": "KEMBO S3",
+      "descModeloStd": "KEMBO",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002331"
+    }
+  }
+]

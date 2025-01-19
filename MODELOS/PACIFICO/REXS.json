@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328181",
+      "descModelo": "A1 A21Q1B02",
+      "descModeloStd": "A1 A21Q1B02",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006219"
+    }
+  }
+]

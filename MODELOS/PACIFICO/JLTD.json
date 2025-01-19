@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROZA",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 24,
+    "keyTipoVeh": "carriage",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0231898",
+      "descModelo": "SEMIRROQUERA",
+      "descModeloStd": "SEMIRROQUERA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000518"
+    }
+  }
+]

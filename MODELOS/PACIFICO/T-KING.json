@@ -1,0 +1,524 @@
+[
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334654",
+      "descModelo": "ZB1020ADC3V",
+      "descModeloStd": "ZB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010009099"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321012",
+      "descModelo": "ZB1041L0C5S.",
+      "descModeloStd": "ZB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011000"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0330877",
+      "descModelo": "ZB1080JDE3F",
+      "descModeloStd": "ZB1080JDE3F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006917"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271838",
+      "descModelo": "ZB1041LDC5S 1.2",
+      "descModeloStd": "ZB1041LDC5S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011000"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326287",
+      "descModelo": "ZB5020XXYBDC3F",
+      "descModeloStd": "ZB5020XXYBDC3F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005595"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0329577",
+      "descModelo": "ZB1020BSC3F",
+      "descModeloStd": "ZB1020BSC3F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006456"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328878",
+      "descModelo": "ZB1023ADB3F\t\t\t\t\t",
+      "descModeloStd": "ZB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006440"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321110",
+      "descModelo": "ZB1020BDC3F",
+      "descModeloStd": "ZB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006358"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "6",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326727",
+      "descModelo": "ZB1041L0C5S CC",
+      "descModeloStd": "ZB1041L0C5S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011000"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269133",
+      "descModelo": "ZB1040LDDS",
+      "descModeloStd": "ZB1040LDDS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10002356"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273927",
+      "descModelo": "ZB3047 JDD",
+      "descModeloStd": "ZB3047",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011000"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270075",
+      "descModelo": "ZB5040XXYLDC5F",
+      "descModeloStd": "ZB5040XXYLDC5F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002949"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328714",
+      "descModelo": "ZB1040KDD6F\t\t\t\t\t",
+      "descModeloStd": "ZB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003058"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "1",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270283",
+      "descModelo": "ZB1041JDD6F",
+      "descModeloStd": "ZB1040KDD6F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003058"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0274001",
+      "descModelo": "ZB10",
+      "descModeloStd": "ZB11",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011000"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0326447",
+      "descModelo": "ZB5041XXYLDC5S",
+      "descModeloStd": "ZB5041XXYLDC5S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005650"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321270",
+      "descModelo": "ZB1040LDC5F",
+      "descModeloStd": "ZB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011000"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333241",
+      "descModelo": "ZB1022BSC3V",
+      "descModeloStd": "ZB1022BSC3V",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011000"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266581",
+      "descModelo": "ZB1040JDD6F",
+      "descModeloStd": "ZB1040JDD6F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005448"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "5",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327335",
+      "descModelo": "ZB1023ASB3F",
+      "descModeloStd": "ZB1023ASB3F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010005892"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323933",
+      "descModelo": "ZB1023ADB3F",
+      "descModeloStd": "ZB1023ADB3F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011000"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "null",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272625",
+      "descModelo": "ZB1021ADC3F",
+      "descModeloStd": "ZB1021ADC3F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004086"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0321210",
+      "descModelo": "ZB1050TP15",
+      "descModeloStd": "ZB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011000"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327849",
+      "descModelo": "ZB3072TPJ",
+      "descModeloStd": "ZB",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006129"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0270426",
+      "descModelo": "ZB1041LDC5S",
+      "descModeloStd": "ZB1041LDC5S",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003130"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320255",
+      "descModelo": "ZB1022BDBS",
+      "descModeloStd": "ZB1022BDBS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011000"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271837",
+      "descModelo": "ZB1041L0C5S",
+      "descModeloStd": "ZB10",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011000"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331279",
+      "descModelo": "ZB1040LDC5F",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007120"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "3",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0320161",
+      "descModelo": "ZB1041LDC5",
+      "descModeloStd": "ZB1041LDC5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011000"
+    }
+  }
+]

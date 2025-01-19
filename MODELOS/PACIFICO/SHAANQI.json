@@ -1,0 +1,164 @@
+[
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331023",
+      "descModelo": "SX4254UR294",
+      "descModeloStd": "SX4254UR294",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007002"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331031",
+      "descModelo": "SX4254UR294 REMOLCADOR",
+      "descModeloStd": "SX4254UR294",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006999"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331020",
+      "descModelo": "ZLQ5252GJY",
+      "descModeloStd": "ZLQ5252GJY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006999"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331030",
+      "descModelo": "SX3254BS384",
+      "descModeloStd": "SX3254BS384",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006999"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331029",
+      "descModelo": "SX3315HR326 CAMION",
+      "descModeloStd": "SX3315HR326",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006999"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331028",
+      "descModelo": "SX1255UM434 CAMION",
+      "descModeloStd": "SX1255UM434",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006999"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331021",
+      "descModelo": "SX1255UM434",
+      "descModeloStd": "SX1255UM434",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007000"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331022",
+      "descModelo": "SX3315HR326",
+      "descModeloStd": "SX3315HR326",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007001"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "CAMION",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331027",
+      "descModelo": "ZLQ5252GJY CISTERNA",
+      "descModeloStd": "ZLQ5252GJY",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010006999"
+    }
+  }
+]

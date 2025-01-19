@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "REMOLQUE",
+    "numPue": "3",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 6,
+    "keyClaseVeh": "trailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333237",
+      "descModelo": "VIJP",
+      "descModeloStd": "VIJP",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008206"
+    }
+  }
+]

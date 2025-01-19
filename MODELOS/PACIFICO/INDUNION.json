@@ -1,0 +1,110 @@
+[
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271899",
+      "descModelo": "SEM PLA 30-07",
+      "descModeloStd": "SEM",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003808"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0262048",
+      "descModelo": "IU-SEM-CB-35-06",
+      "descModeloStd": "IU-SEM-CB-35-06",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010844"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0266064",
+      "descModelo": "IU-SEM-PLA 30 07",
+      "descModeloStd": "IU-SEM-PLA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000011015"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "1",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0333736",
+      "descModelo": "IU-SEM9000-05",
+      "descModeloStd": null,
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010008500"
+    }
+  },
+  {
+    "tipoRie": "P1",
+    "tipoVeh": "CISTERNA",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "null",
+    "idTipoVeh": 18,
+    "keyTipoVeh": "cistern",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0323972",
+      "descModelo": "IUSEM900006-3-3",
+      "descModeloStd": "IUSEM900006-3-3",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004947"
+    }
+  },
+  {
+    "tipoRie": "P3",
+    "tipoVeh": "TANQUE INFLAMABLE",
+    "claseVeh": "SEMI-REMOLQUE",
+    "numPue": "0",
+    "idTipoVeh": 8,
+    "keyTipoVeh": "inflammableTank",
+    "idClaseVeh": 5,
+    "keyClaseVeh": "semiTrailer",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0181406",
+      "descModelo": "IUSEM90000533",
+      "descModeloStd": "IUSEM90000533",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "10000502"
+    }
+  }
+]

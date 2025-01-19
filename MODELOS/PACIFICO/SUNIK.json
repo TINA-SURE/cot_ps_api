@@ -1,0 +1,56 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271471",
+      "descModelo": "SU250ZH 1.2",
+      "descModeloStd": "SU (TRI CARGA)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PICK UP",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 5,
+    "keyTipoVeh": "pickup",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271473",
+      "descModelo": "SU250ZH",
+      "descModeloStd": "SU",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003609"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "TRIMOTO CARGA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 77,
+    "keyClaseVeh": "trimotoCargo",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327968",
+      "descModelo": "SU (TRI CARGA)",
+      "descModeloStd": "SU (TRI CARGA)",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003609"
+    }
+  }
+]

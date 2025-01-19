@@ -1,0 +1,20 @@
+[
+  {
+    "tipoRie": "P2",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "REMOLCADOR",
+    "numPue": "3",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 9,
+    "keyClaseVeh": "tug",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271556",
+      "descModelo": "F-12",
+      "descModeloStd": "F-12",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003657"
+    }
+  }
+]

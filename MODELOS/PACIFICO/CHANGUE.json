@@ -1,0 +1,110 @@
+[
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0332230",
+      "descModelo": "CH7152AB22 SD",
+      "descModeloStd": "CH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010007654"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "BARANDA",
+    "claseVeh": "CAMION",
+    "numPue": "2",
+    "idTipoVeh": 26,
+    "keyTipoVeh": "rail",
+    "idClaseVeh": 3,
+    "keyClaseVeh": "truck",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0271666",
+      "descModelo": "CH1021DG21",
+      "descModeloStd": "CH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003723"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "1",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0269985",
+      "descModelo": "CH6391C4",
+      "descModeloStd": "CH6391C4",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002905"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "PANEL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 6,
+    "keyTipoVeh": "panel",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0327786",
+      "descModelo": "CH6390E PANEL",
+      "descModeloStd": "CH6390E",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010002905"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "MULTIPROPOSITO",
+    "claseVeh": "CAMIONETA",
+    "numPue": "8",
+    "idTipoVeh": 110,
+    "keyTipoVeh": "multipurpose",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0273331",
+      "descModelo": "CH6390E",
+      "descModeloStd": "CH6390",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003723"
+    }
+  },
+  {
+    "tipoRie": "L3",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272697",
+      "descModelo": "CH7151AB22",
+      "descModeloStd": "CH",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004105"
+    }
+  }
+]

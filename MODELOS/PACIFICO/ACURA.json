@@ -1,0 +1,254 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AB",
+      "descModelo": "LEGEND",
+      "descModeloStd": "STAKE",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009671"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "7",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AF",
+      "descModelo": "MDX",
+      "descModeloStd": "MDX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009671"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "4",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196636",
+      "descModelo": "RSX",
+      "descModeloStd": "RSX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009671"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0331668",
+      "descModelo": "INTEGRA S",
+      "descModeloStd": "INTEGRA",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009671"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0258757",
+      "descModelo": "E53",
+      "descModeloStd": "E53",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009671"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "2",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0061436",
+      "descModelo": "INTEGRA (AMERICANA)",
+      "descModeloStd": "INTEGRA LS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009671"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AG",
+      "descModelo": "INTEGRA LS",
+      "descModeloStd": "INTEGRA LS",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009671"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0328711",
+      "descModelo": "ZDX A",
+      "descModeloStd": "ZDX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009671"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0272493",
+      "descModelo": "MDX V.AMERICANA",
+      "descModeloStd": "MDX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010003997"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0334980",
+      "descModelo": "RDX",
+      "descModeloStd": "RDX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009671"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "null",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0196638",
+      "descModelo": "TL",
+      "descModeloStd": "TL",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000009671"
+    }
+  },
+  {
+    "tipoRie": "L1A",
+    "tipoVeh": "SEDAN",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 1,
+    "keyTipoVeh": "sedan",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "00000AE",
+      "descModelo": "3.5 RL PREMIUM",
+      "descModeloStd": "3.5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010184"
+    }
+  },
+  {
+    "tipoRie": "L10",
+    "tipoVeh": "COUPE",
+    "claseVeh": "AUTOMOVIL",
+    "numPue": "5",
+    "idTipoVeh": 2,
+    "keyTipoVeh": "coupe",
+    "idClaseVeh": 1,
+    "keyClaseVeh": "automovile",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0178423",
+      "descModelo": "LEGEND V.  AMERICANA",
+      "descModeloStd": "LEGEND",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000000010112"
+    }
+  },
+  {
+    "tipoRie": "LX",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "5",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0255398",
+      "descModelo": "ZDX",
+      "descModeloStd": "ZDX",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004699"
+    }
+  }
+]

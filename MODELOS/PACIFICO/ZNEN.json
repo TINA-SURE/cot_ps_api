@@ -1,0 +1,38 @@
+[
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "CARROCERIA DE METAL",
+    "claseVeh": "MOTOCICLETA",
+    "numPue": "null",
+    "idTipoVeh": 12,
+    "keyTipoVeh": "metalicBody",
+    "idClaseVeh": 8,
+    "keyClaseVeh": "motorcycle",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0298185",
+      "descModelo": "ZN150T-E5",
+      "descModeloStd": "ZN150T-E5",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004934"
+    }
+  },
+  {
+    "tipoRie": "L6",
+    "tipoVeh": "RURAL",
+    "claseVeh": "CAMIONETA",
+    "numPue": "null",
+    "idTipoVeh": 4,
+    "keyTipoVeh": "rural",
+    "idClaseVeh": 2,
+    "keyClaseVeh": "van",
+    "tipoTransmision": null,
+    "modelo": {
+      "codModelo": "0325414",
+      "descModelo": "CA6460P6F",
+      "descModeloStd": "CA6460P6F",
+      "descCategoriaMtc": null,
+      "codModeloAPESEG": "00000010004934"
+    }
+  }
+]
